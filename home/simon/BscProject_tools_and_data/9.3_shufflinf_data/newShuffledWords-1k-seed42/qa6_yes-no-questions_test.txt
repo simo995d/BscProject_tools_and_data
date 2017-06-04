@@ -1,0 +1,3050 @@
+1 Mary there got milk the.
+2 John moved the bedroom to.
+3 John kitchen in the  Is?	no	2
+4 the milk discarded Mary.
+5 the to garden John went.
+6 John the  kitchen Is in?	no	5
+7 moved the to bedroom Daniel.
+8 the to garden Daniel went.
+9 Is in garden the  John?	yes	5
+10 travelled the bathroom to Daniel.
+11 the to travelled Sandra bedroom.
+12  bathroom Daniel in the Is?	yes	10
+13 took the there Mary football.
+14 the milk there Sandra grabbed.
+15 bedroom the Is Daniel in ?	no	10
+1 kitchen Daniel went to back the.
+2 apple grabbed there the Mary.
+3 Daniel the Is  in office?	no	1
+4 Daniel the to office journeyed.
+5 John back office the went to.
+6 the  Is Daniel hallway in?	no	4
+7 Mary the apple left.
+8 went to the Daniel hallway.
+9 hallway Is in Daniel the ?	yes	8
+10 went to hallway the John.
+11 Daniel picked the there up milk.
+12 John in the  Is kitchen?	no	10
+13 grabbed there John football the.
+14 there got the Mary apple.
+15  Daniel hallway Is in the?	yes	8
+1 moved hallway the to John.
+2 went to the Sandra bedroom.
+3 hallway  John in the Is?	yes	1
+4 garden the to travelled Sandra.
+5 John football the got there.
+6 in bedroom  Is the John?	no	1
+7 to Daniel bedroom back went the.
+8 the Mary bathroom moved to.
+9 the garden Is Sandra  in?	yes	4
+10 Mary to went kitchen the.
+11 Sandra hallway went to the.
+12  Mary the in kitchen Is?	yes	10
+13 kitchen the to Sandra travelled.
+14 dropped football the John.
+15 kitchen in  the Is Mary?	yes	10
+1 to John journeyed the hallway.
+2 apple the got John there.
+3  Is John in the hallway?	yes	1
+4 the to Daniel hallway journeyed.
+5 Daniel to the went kitchen back.
+6 Is  the in John hallway?	yes	1
+7 down put John apple the.
+8 to went the back Daniel garden.
+9  in kitchen Is Daniel the?	no	8
+10 bedroom John the travelled to.
+11 to journeyed the bedroom Sandra.
+12 the in John  Is bathroom?	no	10
+13 the Sandra to bathroom travelled.
+14 to the John office went.
+15  bedroom Daniel in the Is?	no	8
+1 Daniel grabbed there the apple.
+2 bedroom travelled to Mary the.
+3  Mary bedroom in Is the?	yes	2
+4 milk there got the Sandra.
+5 moved to Daniel the hallway.
+6 Is kitchen Mary the in ?	no	2
+7 moved bathroom Daniel to the.
+8 took the there football Mary.
+9 Daniel in Is bathroom  the?	yes	7
+10 discarded apple Daniel the.
+11 Sandra hallway to the journeyed.
+12 Is  Sandra the bedroom in?	no	11
+13 dropped the Sandra milk.
+14 hallway went John back to the.
+15 bedroom in Is the John ?	no	14
+1 Daniel the apple grabbed there.
+2 John to office journeyed the.
+3  John in the office Is?	yes	2
+4 to bathroom journeyed Mary the.
+5 back the went Mary garden to.
+6 Mary Is in  the garden?	yes	5
+7 discarded apple the Daniel.
+8 moved the to Sandra bedroom.
+9  in Is John the office?	yes	2
+10 the journeyed John to kitchen.
+11 there got the Sandra apple.
+12 in  office John Is the?	no	10
+13 dropped the apple Sandra.
+14 to Mary the hallway moved.
+15 in the hallway Is Mary ?	yes	14
+1 there Daniel grabbed the apple.
+2 the went John to garden.
+3 Is  the garden in John?	yes	2
+4 picked the up Sandra milk there.
+5 the to went back hallway Mary.
+6  bathroom the John Is in?	no	2
+7 there milk put the Sandra down.
+8 the to garden Sandra moved.
+9  bedroom Sandra the Is in?	no	8
+10 John the bedroom went to.
+11 to the Sandra moved bathroom.
+12 bedroom  in Sandra Is the?	no	11
+13 garden to the moved Sandra.
+14 moved to bathroom Sandra the.
+15 garden  Sandra the Is in?	no	14
+1 apple the John took there.
+2 went to back Mary the bathroom.
+3 in the kitchen Mary Is ?	no	2
+4 John apple left the.
+5 to garden the went Sandra.
+6 the garden  Sandra in Is?	yes	5
+7 Mary to bedroom the went back.
+8 to journeyed the garden Mary.
+9 in garden the Is  Mary?	yes	8
+10 there John the apple picked up.
+11 to the travelled John bathroom.
+12  Is Mary garden the in?	yes	8
+13 football there got the John.
+14 the Mary kitchen to journeyed.
+15 Mary office  the Is in?	no	14
+1 went back kitchen the John to.
+2 there got football the Mary.
+3 in the  John Is kitchen?	yes	1
+4 apple up Sandra there the picked.
+5 Sandra bedroom to travelled the.
+6  John Is the hallway in?	no	1
+7 Daniel bathroom travelled the to.
+8 apple dropped there the Sandra.
+9 in the kitchen Sandra Is ?	no	5
+10 office to John moved the.
+11 went Mary to the garden.
+12 Is the bathroom Mary in ?	no	11
+13 moved Mary to the office.
+14 went bathroom the to back Sandra.
+15 the  office Mary Is in?	yes	13
+1 Daniel the bathroom back to went.
+2 to office journeyed Daniel the.
+3 office Is in the  Daniel?	yes	2
+4 hallway to the journeyed Daniel.
+5 the there milk Mary took.
+6 in  Daniel the Is hallway?	yes	4
+7 to Mary the kitchen went.
+8 discarded milk the Mary.
+9 Is the in Mary bathroom ?	no	7
+10 football there picked up Mary the.
+11 the there Mary milk took.
+12 in the Mary  Is kitchen?	yes	7
+13 Daniel kitchen the to went.
+14 John to travelled kitchen the.
+15 John Is in kitchen  the?	yes	14
+1 Mary kitchen to the journeyed.
+2 the football picked there up Daniel.
+3 Is in Mary the  kitchen?	yes	1
+4 up there apple the John picked.
+5 there the discarded John apple.
+6 in Mary kitchen  Is the?	yes	1
+7 there John the up apple picked.
+8 journeyed to Daniel kitchen the.
+9 the Daniel in kitchen  Is?	yes	8
+10 the football put Daniel down.
+11 the moved Mary garden to.
+12 Is garden  the in Mary?	yes	11
+13 Sandra back kitchen to the went.
+14 to Daniel the moved office.
+15 the kitchen Sandra in  Is?	yes	13
+1 to office John the travelled.
+2 there the up picked football Daniel.
+3 the in John Is bathroom ?	no	1
+4 there grabbed John apple the.
+5 bathroom went Mary the to.
+6 Is the in bedroom Mary ?	no	5
+7 up picked the Daniel milk there.
+8 the Daniel football discarded.
+9 the Mary  Is in bathroom?	yes	5
+10 back to the went office Mary.
+11 there the Daniel football took.
+12 Is bedroom  Mary in the?	no	10
+13 went to back the garden Mary.
+14 dropped the John apple.
+15 in the Is Mary office ?	no	13
+1 office the to John went.
+2 picked up Daniel football the there.
+3 Is in John garden the ?	no	1
+4 Daniel office the moved to.
+5 to Sandra the moved office.
+6 Is bedroom Daniel the  in?	no	4
+7 Daniel discarded football the there.
+8 the to kitchen Sandra moved.
+9 Sandra Is  the in office?	no	8
+10 kitchen journeyed to the Mary.
+11 picked up there football John the.
+12 in office Mary Is  the?	no	10
+13 the football John discarded.
+14 John the moved to kitchen.
+15 in  kitchen Is the Mary?	yes	10
+1 Sandra journeyed kitchen the to.
+2 John to the kitchen travelled.
+3 in John the  kitchen Is?	yes	2
+4 up the picked there football Daniel.
+5 Sandra the went garden to.
+6 the kitchen in Is John ?	yes	2
+7 journeyed John office the to.
+8 the picked there Daniel milk up.
+9 Is Sandra  garden the in?	yes	5
+10 journeyed to the hallway John.
+11 the there John apple got.
+12 the kitchen Sandra Is in ?	no	5
+13 garden travelled to the Daniel.
+14 to the bathroom John journeyed.
+15 garden the  in Is John?	no	14
+1 went the bathroom to Sandra.
+2 the got milk Mary there.
+3 the  bedroom in Sandra Is?	no	1
+4 Mary the went bathroom to.
+5 bedroom back to went the Mary.
+6 in bedroom  Is Mary the?	yes	5
+7 moved to Sandra the bedroom.
+8 journeyed the hallway Daniel to.
+9 the  in Is Sandra bathroom?	no	7
+10 to Mary garden journeyed the.
+11 the Daniel back to garden went.
+12 in Mary garden the Is ?	yes	10
+13 to bedroom travelled the John.
+14 the Mary dropped milk.
+15 Is in John  the garden?	no	13
+1 the garden journeyed to Mary.
+2 to bathroom Daniel the travelled.
+3 bathroom in the Is Daniel ?	yes	2
+4 the moved bedroom to John.
+5 back the bedroom Mary to went.
+6 in bedroom Mary Is  the?	yes	5
+7 got John the there apple.
+8 apple discarded John the.
+9 bedroom Is  in John the?	yes	4
+10 John took there the apple.
+11 moved office the to Sandra.
+12 bathroom Is the  Mary in?	no	5
+13 to the John office moved.
+14 the John travelled to bathroom.
+15 in the Is office  Sandra?	yes	11
+1 the office travelled Sandra to.
+2 grabbed Daniel football the there.
+3 Is office  the Sandra in?	yes	1
+4 moved the Daniel garden to.
+5 Daniel moved to the bathroom.
+6  in the bedroom Is Sandra?	no	1
+7 to John bedroom went the.
+8 Sandra the milk grabbed there.
+9 Daniel  in bathroom Is the?	yes	5
+10 hallway the went to John.
+11 Mary hallway to the went.
+12 Mary the  hallway Is in?	yes	11
+13 to bathroom Sandra travelled the.
+14 milk put Sandra the down.
+15  John in bedroom the Is?	no	10
+1 the office John to travelled.
+2 back to went the kitchen Daniel.
+3 the bathroom in John Is ?	no	1
+4 the there milk got Daniel.
+5 office went Sandra the to.
+6 Sandra Is  the in office?	yes	5
+7 Sandra hallway travelled the to.
+8 to bathroom went John the.
+9  Is Sandra the kitchen in?	no	7
+10 Mary bathroom travelled the to.
+11 took the there football Mary.
+12 Is Sandra hallway the in ?	yes	7
+13 football Mary left the.
+14 bedroom went the Daniel to.
+15  in Is the Mary bathroom?	yes	10
+1 picked apple there Mary the up.
+2 went to bathroom Mary the.
+3 bathroom  in the Is Mary?	yes	2
+4 bathroom to Sandra went the.
+5 grabbed there Sandra football the.
+6  Is the kitchen in Mary?	no	2
+7 the bedroom went back Sandra to.
+8 kitchen the back to Mary went.
+9  in the Mary office Is?	no	8
+10 office went Sandra the to back.
+11 football Sandra left the.
+12 Mary Is in  the bathroom?	no	8
+13 football Daniel got the there.
+14 went Sandra the back to bedroom.
+15 kitchen Is the in  Mary?	yes	8
+1 bedroom moved Daniel to the.
+2 moved Mary to hallway the.
+3 in bedroom Is Mary  the?	no	2
+4 journeyed garden the John to.
+5 to the back bathroom Mary went.
+6 in  hallway Mary Is the?	no	5
+7 John to the hallway journeyed.
+8 bedroom the moved to John.
+9 John the Is in  bedroom?	yes	8
+10 kitchen moved the to Sandra.
+11 kitchen the went Daniel to.
+12 in Is the kitchen  Daniel?	yes	11
+13 there Sandra milk took the.
+14 journeyed to bathroom John the.
+15 the in Daniel garden Is ?	no	11
+1 the took there apple John.
+2 to John went bathroom the.
+3 John in the Is  hallway?	no	2
+4 John moved office the to.
+5 the picked milk Mary up there.
+6 John Is hallway the in ?	no	4
+7 the dropped apple there John.
+8 up the football Mary there picked.
+9 bathroom  in John Is the?	no	4
+10 John the got there apple.
+11 to hallway the John journeyed.
+12 in Is bathroom the John ?	no	11
+13 the left John apple.
+14 took John there apple the.
+15 bedroom the Is in  John?	no	11
+1 bathroom Mary to the went.
+2 football Daniel the there took.
+3 in the Mary kitchen Is ?	no	1
+4 bedroom the moved to John.
+5 the to journeyed John kitchen.
+6 the in hallway John  Is?	no	5
+7 there John the took milk.
+8 John went to the bedroom.
+9 John  in the kitchen Is?	no	8
+10 Sandra hallway to the went.
+11 the Daniel down football put there.
+12  in bathroom Sandra Is the?	no	10
+13 to John back went the kitchen.
+14 Sandra office to moved the.
+15 hallway John  the Is in?	no	13
+1 Daniel travelled to bathroom the.
+2 the bedroom went Mary to back.
+3 office in the Is  Daniel?	no	1
+4 Mary to the travelled bathroom.
+5 Daniel to kitchen the journeyed.
+6 in Is bedroom Daniel the ?	no	5
+7 took apple the Mary there.
+8 to the John travelled office.
+9 in the Daniel  Is kitchen?	yes	5
+10 garden Mary the to moved.
+11 office back went to Sandra the.
+12 kitchen in  Is the Daniel?	yes	5
+13 journeyed to bedroom the Sandra.
+14 to went John hallway the.
+15 John hallway the  in Is?	yes	14
+1 the hallway Daniel travelled to.
+2 there football Mary got the.
+3 Is  the office in Daniel?	no	1
+4 football dropped Mary the.
+5 football the there grabbed Mary.
+6 in Is Daniel the hallway ?	yes	1
+7 bedroom Sandra journeyed to the.
+8 Mary left football there the.
+9 Is bedroom the in  Sandra?	yes	7
+10 there Sandra got apple the.
+11 milk the Sandra grabbed there.
+12  in bedroom Sandra Is the?	yes	7
+13 bathroom travelled the Mary to.
+14 to Daniel the travelled kitchen.
+15 the bathroom  Daniel in Is?	no	14
+1 kitchen the to John went.
+2 to journeyed Sandra the bedroom.
+3  office Is John in the?	no	1
+4 kitchen the to Sandra journeyed.
+5 went Daniel back the to office.
+6 the in kitchen  Is John?	yes	1
+7 there John the football picked up.
+8 discarded football the John.
+9 the Is  in office Daniel?	yes	5
+10 got the football Sandra there.
+11 football Sandra dropped the.
+12 Daniel the in Is bedroom ?	no	5
+13 apple grabbed there Mary the.
+14 football John the there got.
+15 John to hallway travelled the.
+16 went garden to back Sandra the.
+17 the Sandra  garden Is in?	yes	16
+1 went the kitchen Sandra to.
+2 there Daniel got milk the.
+3 Is in Sandra  garden the?	no	1
+4 moved bedroom to the John.
+5 to John travelled the hallway.
+6 hallway  in the Is Sandra?	no	1
+7 bedroom journeyed Mary to the.
+8 garden Mary the went to back.
+9  Is the hallway in Mary?	no	8
+10 went garden to the Sandra.
+11 down the Daniel milk put.
+12 kitchen the in  Is John?	no	5
+13 there milk took Sandra the.
+14 there the took John apple.
+15  in the hallway Mary Is?	no	8
+1 the Sandra to bedroom moved.
+2 the bathroom to Sandra moved.
+3 the Sandra Is garden  in?	no	2
+4 to Daniel the bathroom travelled.
+5 kitchen Mary the travelled to.
+6 Daniel  bathroom the Is in?	yes	4
+7 Mary milk picked up there the.
+8 travelled Sandra to the kitchen.
+9 the Sandra  in Is bedroom?	no	8
+10 to went the John back garden.
+11 discarded milk the Mary.
+12 the garden Is John in ?	yes	10
+13 the to office travelled Sandra.
+14 picked apple up there the John.
+15 the Is hallway John in ?	no	10
+1 went to John back the hallway.
+2 up there football picked Sandra the.
+3  office in the Is John?	no	1
+4 kitchen to the Mary moved.
+5 the Daniel there grabbed apple.
+6 the John bathroom in Is ?	no	1
+7 football left Sandra the.
+8 there Sandra grabbed the football.
+9 the  Mary Is office in?	no	4
+10 bedroom John to the moved.
+11 apple there the Daniel discarded.
+12 John hallway  Is in the?	no	10
+13 the Daniel grabbed there apple.
+14 went bedroom to Mary the back.
+15 kitchen the Mary  Is in?	no	14
+1 Mary there grabbed the apple.
+2 to the garden travelled Daniel.
+3 Daniel  kitchen Is in the?	no	2
+4 milk the there grabbed Daniel.
+5 Daniel milk discarded the.
+6 in Is the Daniel  garden?	yes	2
+7 the there Mary dropped apple.
+8 to hallway John went the.
+9 Daniel in bedroom the Is ?	no	2
+10 picked the up there John apple.
+11 John office the to moved.
+12 Is the bathroom John in ?	no	11
+13 to travelled office the Sandra.
+14 left apple John the.
+15  the John in Is office?	yes	11
+1 John journeyed to the bathroom.
+2 the to John journeyed kitchen.
+3 kitchen  in Is the John?	yes	2
+4 the office to Mary went.
+5 went bedroom Daniel to the.
+6 John hallway the  Is in?	no	2
+7 journeyed garden the Mary to.
+8 hallway the journeyed Mary to.
+9 the in hallway Mary Is ?	yes	8
+10 the office Sandra moved to.
+11 back hallway to John the went.
+12 bedroom the Mary Is  in?	no	8
+13 the Sandra grabbed there football.
+14 the John to bathroom travelled.
+15 in the  John Is kitchen?	no	14
+1 bathroom travelled Sandra to the.
+2 Daniel the back to office went.
+3 the Sandra in bathroom Is ?	yes	1
+4 office Sandra to journeyed the.
+5 the to garden moved Sandra.
+6 Is in the garden Sandra ?	yes	5
+7 Mary the grabbed there milk.
+8 grabbed Mary the football there.
+9 hallway Is Sandra  in the?	no	5
+10 to the hallway Daniel travelled.
+11 the down Mary milk put.
+12 Is  Daniel the in hallway?	yes	10
+13 to Daniel bathroom moved the.
+14 bathroom went the John to.
+15 in the Is  Daniel garden?	no	13
+1 went to John the kitchen.
+2 the hallway to moved John.
+3  in Is bedroom the John?	no	2
+4 garden to the went Daniel back.
+5 Sandra hallway the travelled to.
+6  garden Is John the in?	no	2
+7 garden went Mary to the.
+8 went John to the office.
+9 the Is in Sandra  bedroom?	no	5
+10 the bedroom back went Daniel to.
+11 travelled to Sandra the kitchen.
+12 Is in Mary bathroom  the?	no	7
+13 to went the hallway Sandra.
+14 kitchen to the Mary moved.
+15 Sandra the  Is kitchen in?	no	13
+1 moved Daniel to kitchen the.
+2 Daniel the travelled office to.
+3  Is the office Daniel in?	yes	2
+4 bedroom the Mary journeyed to.
+5 Daniel to the journeyed kitchen.
+6 the bedroom in Mary  Is?	yes	4
+7 the to John went office.
+8 Daniel milk got there the.
+9 the in  kitchen Is Daniel?	yes	5
+10 discarded Daniel milk the.
+11 there Sandra the grabbed football.
+12 the office in John Is ?	yes	7
+13 bedroom John the to moved.
+14 Sandra dropped the football.
+15  bedroom the in John Is?	yes	13
+1 moved garden Sandra to the.
+2 the to garden went Mary.
+3 in the Mary bathroom Is ?	no	2
+4 the Sandra journeyed to bedroom.
+5 Mary there grabbed the apple.
+6 the Mary in  garden Is?	yes	2
+7 the apple down put Mary.
+8 bathroom the to Mary journeyed.
+9 Is Mary hallway the in ?	no	8
+10 the Sandra to went kitchen.
+11 to journeyed the Daniel hallway.
+12 kitchen  in Sandra Is the?	yes	10
+13 garden moved the Mary to.
+14 back the Mary went bedroom to.
+15 in Daniel Is hallway  the?	yes	11
+1 got there John apple the.
+2 the football there took Daniel.
+3 the put down Daniel football.
+4 the to hallway went John back.
+5 in hallway the Is  John?	yes	4
+6 Sandra garden to went the back.
+7 the bathroom John went to.
+8 in the Is John kitchen ?	no	7
+9 the bathroom Mary to journeyed.
+10 the moved John office to.
+11 the  in kitchen John Is?	no	10
+12 the went to back kitchen Mary.
+13 apple the John left.
+14 Is hallway the  in John?	no	10
+15 to the bedroom travelled Daniel.
+16 Sandra the office moved to.
+17  Is office the in Daniel?	no	15
+1 Sandra the bedroom journeyed to.
+2 back went kitchen to Sandra the.
+3 the  kitchen Sandra Is in?	yes	2
+4 bedroom to the travelled Mary.
+5 kitchen John the to went.
+6 kitchen  Is the Sandra in?	yes	2
+7 journeyed to John the office.
+8 bathroom the to travelled Sandra.
+9 John Is in the  kitchen?	no	7
+10 the bathroom Mary to went.
+11 office the Mary moved to.
+12 in Is garden the  Sandra?	no	8
+13 Daniel bedroom to travelled the.
+14 Sandra back the went to office.
+15 Daniel in the  Is kitchen?	no	13
+1 there grabbed the John apple.
+2 bedroom moved to the Daniel.
+3 Is bedroom Daniel the in ?	yes	2
+4 John to bedroom travelled the.
+5 got the football Daniel there.
+6 in John the bedroom Is ?	yes	4
+7 office went John to back the.
+8 down apple John put the.
+9 the in Is  office John?	yes	7
+10 football the Daniel left.
+11 up apple John there the picked.
+12 office the in  Is John?	yes	7
+13 the picked Daniel there football up.
+14 to Mary the bedroom went.
+15  garden in Mary the Is?	no	14
+1 the garden moved Daniel to.
+2 the to journeyed bedroom Mary.
+3 the  Daniel in Is garden?	yes	1
+4 the John travelled garden to.
+5 Mary to the kitchen journeyed.
+6  in kitchen Is Mary the?	yes	5
+7 the John to bedroom travelled.
+8 moved Daniel to the kitchen.
+9 the kitchen Is in Daniel ?	yes	8
+10 journeyed hallway Mary to the.
+11 bathroom the to journeyed John.
+12 the in John Is bathroom ?	yes	11
+13 apple there grabbed the Mary.
+14 Daniel went the to bathroom.
+15 garden the Daniel Is in ?	no	14
+1 garden the Sandra went to.
+2 apple the Mary got there.
+3  in garden the Is Sandra?	yes	1
+4 the bedroom to travelled Sandra.
+5 to hallway travelled the Mary.
+6 garden the in  Is Sandra?	no	4
+7 the John hallway journeyed to.
+8 Mary garden went to the.
+9 Is Sandra  the bedroom in?	yes	4
+10 the to Mary office journeyed.
+11 Sandra moved the hallway to.
+12  Mary Is in office the?	yes	10
+13 the up picked milk Mary there.
+14 the milk down put Mary.
+15 Is Mary office the  in?	yes	10
+1 the travelled John kitchen to.
+2 the Daniel there milk got.
+3 John the in kitchen Is ?	yes	1
+4 Daniel went office to back the.
+5 Daniel milk left the there.
+6 in the Is Daniel office ?	yes	4
+7 there Daniel milk got the.
+8 Daniel left the milk.
+9 the Is  Daniel hallway in?	no	4
+10 went back hallway to Mary the.
+11 Sandra to back bathroom the went.
+12 in the kitchen Mary Is ?	no	10
+13 went office to John the.
+14 Daniel milk grabbed the there.
+15 John in Is  office the?	yes	13
+1 the there Mary milk grabbed.
+2 football the Sandra took there.
+3 grabbed Daniel apple there the.
+4 John the went bathroom to.
+5 John in the bathroom  Is?	yes	4
+6 discarded milk the Mary.
+7 Mary there picked up milk the.
+8 bathroom the Is in John ?	yes	4
+9 down football there Sandra the put.
+10 milk Mary down the put.
+11  the garden in John Is?	no	4
+12 travelled to office Sandra the.
+13 bedroom to travelled Mary the.
+14 bedroom the  in Is Sandra?	no	12
+15 to the John back kitchen went.
+16 John to hallway journeyed the.
+17 Is in the garden  John?	no	16
+1 Sandra garden journeyed the to.
+2 the Mary got milk there.
+3 garden in the Sandra Is ?	yes	1
+4 the Sandra to travelled office.
+5 John to the went office.
+6  the in Sandra Is office?	yes	4
+7 Sandra to travelled the kitchen.
+8 Sandra bathroom to the went.
+9 in Sandra Is  the office?	no	8
+10 Daniel the bedroom went to.
+11 dropped milk Mary the.
+12  Daniel Is bedroom the in?	yes	10
+13 football John the there took.
+14 there the got milk Daniel.
+15 Is the Daniel in  bedroom?	yes	10
+1 office went the to Daniel.
+2 back the went garden to Sandra.
+3 garden the Sandra Is in ?	yes	2
+4 apple there Mary grabbed the.
+5 milk grabbed the there Daniel.
+6 garden in Daniel the  Is?	no	1
+7 went to back garden Daniel the.
+8 to the moved office John.
+9 Is  the John in bathroom?	no	8
+10 the hallway journeyed to John.
+11 the Mary put apple down.
+12  Is the in John garden?	no	10
+13 Daniel journeyed the office to.
+14 went Sandra to bathroom the.
+15 kitchen  John the in Is?	no	10
+1 to moved the bedroom Daniel.
+2 to travelled John garden the.
+3 the  in Daniel Is bathroom?	no	1
+4 the Mary went to hallway.
+5 up Mary there the football picked.
+6 the hallway in Mary  Is?	yes	4
+7 Mary football dropped the.
+8 the to went bedroom John back.
+9 kitchen in the  Is John?	no	8
+10 to journeyed kitchen the Mary.
+11 the Mary got there apple.
+12 Mary  Is the office in?	no	10
+13 dropped apple there the Mary.
+14 Daniel the office travelled to.
+15 the  kitchen Is Mary in?	yes	10
+1 kitchen Mary to the travelled.
+2 kitchen to Sandra the journeyed.
+3 Mary  Is kitchen the in?	yes	1
+4 Daniel hallway journeyed to the.
+5 the Daniel there got football.
+6 Is in hallway the Mary ?	no	1
+7 to journeyed John bedroom the.
+8 to journeyed the bedroom Daniel.
+9 Is the  in Daniel hallway?	no	8
+10 the there Sandra apple took.
+11 hallway Daniel the travelled to.
+12 Daniel hallway Is  in the?	yes	11
+13 down apple the put Sandra.
+14 Mary to bedroom went back the.
+15 Daniel hallway in Is the ?	yes	11
+1 Mary milk picked the up there.
+2 garden to John journeyed the.
+3 garden  in the Is John?	yes	2
+4 Mary down the put milk.
+5 the grabbed there football Sandra.
+6  in John the garden Is?	yes	2
+7 John the journeyed to bathroom.
+8 grabbed apple John there the.
+9 the bedroom John Is  in?	no	7
+10 Sandra the discarded football.
+11 travelled the to Mary bedroom.
+12 John the in  bathroom Is?	yes	7
+13 there grabbed football Sandra the.
+14 back to went the kitchen Sandra.
+15 hallway Mary Is  in the?	no	11
+1 Daniel moved the to hallway.
+2 picked Sandra apple up the there.
+3 the in  Is office Daniel?	no	1
+4 garden to the Daniel travelled.
+5 back went Daniel the to kitchen.
+6 Is the Daniel  kitchen in?	yes	5
+7 to hallway back went the Mary.
+8 office Sandra moved to the.
+9 Sandra  Is bathroom the in?	no	8
+10 picked there Daniel the up football.
+11 Daniel put football down the.
+12 the  kitchen Is in Daniel?	yes	5
+13 left the apple Sandra.
+14 Sandra to the hallway travelled.
+15 Sandra hallway  Is the in?	yes	14
+1 Sandra back the kitchen to went.
+2 there the John football grabbed.
+3 the kitchen in Is  Sandra?	yes	1
+4 John office the went to back.
+5 garden back Sandra to went the.
+6 in Sandra kitchen the  Is?	no	5
+7 went the kitchen John to.
+8 Mary went to back bathroom the.
+9 in bathroom John  Is the?	no	7
+10 John discarded the football.
+11 Mary to journeyed bedroom the.
+12 the Sandra  Is kitchen in?	no	5
+13 Mary the there got apple.
+14 went bathroom the Daniel to.
+15  in bathroom the Mary Is?	no	11
+1 to travelled bathroom the Sandra.
+2 the travelled kitchen Sandra to.
+3 the in Is hallway  Sandra?	no	2
+4 to moved Sandra garden the.
+5 there apple the got Sandra.
+6 the  hallway Sandra Is in?	no	4
+7 hallway travelled the Daniel to.
+8 the Sandra to moved kitchen.
+9 Is in Sandra the  kitchen?	yes	8
+10 the went John to garden.
+11 office the Daniel to travelled.
+12 Daniel the Is  in bathroom?	no	11
+13 garden to the Sandra went.
+14 the discarded Sandra apple.
+15 Daniel  bedroom in the Is?	no	11
+1 apple there Daniel grabbed the.
+2 to hallway journeyed John the.
+3 the John  in Is hallway?	yes	2
+4 journeyed John to kitchen the.
+5 travelled Sandra to the bathroom.
+6 bathroom Sandra in Is  the?	yes	5
+7 the there John took football.
+8 Sandra journeyed the office to.
+9 Is in Sandra  the office?	yes	8
+10 Sandra the travelled to hallway.
+11 football left the John.
+12 garden Sandra  the in Is?	no	10
+13 travelled to Sandra the bedroom.
+14 Daniel the apple discarded.
+15 Sandra the in Is bedroom ?	yes	13
+1 the apple Mary there got.
+2 the to John office moved.
+3 in office  Is John the?	yes	2
+4 Mary to travelled garden the.
+5 the discarded apple Mary.
+6  the office John in Is?	yes	2
+7 Mary apple there the took.
+8 travelled to the bedroom Mary.
+9 the Mary Is bathroom in ?	no	8
+10 travelled to Mary hallway the.
+11 John there football the grabbed.
+12 Mary  hallway the Is in?	yes	10
+13 there John put down the football.
+14 apple the Mary left.
+15 the  hallway in Is Mary?	yes	10
+1 to Sandra the moved bathroom.
+2 the garden to Daniel went.
+3 garden in  Is Daniel the?	yes	2
+4 Sandra to journeyed the office.
+5 back bathroom Mary went the to.
+6 Sandra office Is in  the?	yes	4
+7 picked Mary there up apple the.
+8 grabbed Daniel the football there.
+9  bathroom in the Is Mary?	yes	5
+10 journeyed to Mary the office.
+11 put the football Daniel down.
+12 the  in garden Mary Is?	no	10
+13 football grabbed the there John.
+14 the moved John to bathroom.
+15 John Is  in bathroom the?	yes	14
+1 travelled Sandra to bathroom the.
+2 the football John got there.
+3 garden Sandra in the Is ?	no	1
+4 moved bathroom the Daniel to.
+5 travelled the to Daniel hallway.
+6  Sandra in bathroom the Is?	yes	1
+7 to hallway the went Sandra.
+8 dropped football the John.
+9 Is  Daniel in hallway the?	yes	5
+10 there grabbed the Daniel milk.
+11 Sandra the office to went.
+12 in the  Is Sandra bedroom?	no	11
+13 down the put Daniel there milk.
+14 moved Sandra to the kitchen.
+15 bedroom Sandra in Is the ?	no	14
+1 to Sandra went the back kitchen.
+2 kitchen John to moved the.
+3 Is the kitchen  in John?	yes	2
+4 the to Mary back went office.
+5 garden to moved the Sandra.
+6  John Is garden the in?	no	2
+7 John moved the to office.
+8 travelled Daniel hallway to the.
+9 Daniel in kitchen Is the ?	no	8
+10 John to bedroom journeyed the.
+11 back to went Mary the bedroom.
+12  in Sandra Is garden the?	yes	5
+13 the John hallway journeyed to.
+14 the went bedroom to John.
+15  the in John hallway Is?	no	14
+1 the to garden Mary journeyed.
+2 went bathroom to Daniel the.
+3 the in bathroom Is Daniel ?	yes	2
+4 Mary hallway travelled the to.
+5 office to Mary went the.
+6 the in Is Mary hallway ?	no	5
+7 football Mary took the there.
+8 went to the John bedroom.
+9 Mary the bedroom Is in ?	no	5
+10 to hallway journeyed Mary the.
+11 hallway moved Sandra to the.
+12 hallway in Mary  Is the?	yes	10
+13 the Daniel there apple took.
+14 to back bedroom went Mary the.
+15 in bedroom  the Sandra Is?	no	11
+1 football John the got there.
+2 bathroom Daniel the went to.
+3 the Is Daniel in bathroom ?	yes	2
+4 there took Daniel apple the.
+5 went Sandra the to bathroom.
+6 Sandra  bathroom Is in the?	yes	5
+7 apple Daniel there left the.
+8 to Daniel bedroom journeyed the.
+9 bathroom Is  the Sandra in?	yes	5
+10 the moved garden Sandra to.
+11 to the travelled Daniel garden.
+12 Is Sandra  bathroom in the?	no	10
+13 put John the down football.
+14 the to bathroom Daniel journeyed.
+15 hallway Is in  the Sandra?	no	10
+1 the Sandra garden moved to.
+2 Sandra went bedroom back to the.
+3 bedroom Sandra Is  the in?	yes	2
+4 travelled John the kitchen to.
+5 John the moved bedroom to.
+6 Sandra  in Is kitchen the?	no	2
+7 Daniel picked the there apple up.
+8 the bathroom Mary went to.
+9 Is in  bedroom John the?	yes	5
+10 dropped the apple Daniel.
+11 Daniel moved the to hallway.
+12 bedroom Is  in John the?	yes	5
+13 to the back John kitchen went.
+14 to office the John moved.
+15  John the in office Is?	yes	14
+1 Daniel went to the office.
+2 Sandra to travelled the hallway.
+3 the  office Is Daniel in?	yes	1
+4 to Mary kitchen the went.
+5 the hallway John to journeyed.
+6 in Is the Daniel hallway ?	no	1
+7 John there got the football.
+8 the John football discarded.
+9 the in office Mary  Is?	no	4
+10 the garden Mary to travelled.
+11 the there football John took.
+12 in the  Is hallway John?	yes	5
+13 went to John office the.
+14 the went kitchen Sandra to.
+15 the  hallway Mary Is in?	no	10
+1 journeyed the to bathroom Daniel.
+2 football the Daniel grabbed there.
+3 Is bathroom Daniel in  the?	yes	1
+4 Daniel the grabbed milk there.
+5 Sandra went the to hallway.
+6  the office in Sandra Is?	no	5
+7 there Sandra the up apple picked.
+8 left apple the Sandra.
+9 Is hallway in  the Sandra?	yes	5
+10 kitchen Daniel the went to.
+11 moved Mary kitchen the to.
+12 in  Mary Is the office?	no	11
+13 Daniel the milk dropped.
+14 the left football Daniel.
+15 bedroom  the Is Mary in?	no	11
+1 Sandra travelled to the bedroom.
+2 the garden to Sandra journeyed.
+3 Is office the in Sandra ?	no	2
+4 to the John went bedroom.
+5 moved Mary bathroom the to.
+6 Sandra garden  in Is the?	yes	2
+7 the milk there Daniel got.
+8 the to bedroom moved Mary.
+9 Is Mary in bathroom  the?	no	8
+10 bedroom journeyed the to Sandra.
+11 the to John moved kitchen.
+12 garden Sandra Is  the in?	no	10
+13 bedroom John the to travelled.
+14 there picked the Mary football up.
+15 in Sandra  Is the bedroom?	yes	10
+1 the to moved bedroom John.
+2 Mary picked up there the apple.
+3 in bedroom the John  Is?	yes	1
+4 went bedroom Sandra the back to.
+5 hallway Sandra to the moved.
+6  in John the Is office?	no	1
+7 dropped the apple there Mary.
+8 to the Sandra garden travelled.
+9 Is Sandra in  garden the?	yes	8
+10 moved John the bathroom to.
+11 Daniel travelled to the hallway.
+12  the Daniel Is hallway in?	yes	11
+13 Sandra bathroom the travelled to.
+14 the picked apple there up Mary.
+15 Is in the  kitchen Sandra?	no	13
+1 Daniel took there the milk.
+2 the Daniel milk dropped.
+3 Mary the hallway travelled to.
+4 went the back John bedroom to.
+5 Is  John bedroom the in?	yes	4
+6 to went office the back John.
+7 garden to Daniel journeyed the.
+8 in the Daniel bedroom Is ?	no	7
+9 travelled office to Mary the.
+10 bedroom John to the moved.
+11  the Is John bedroom in?	yes	10
+12 there Daniel apple the took.
+13 to the back office went Daniel.
+14 Daniel  Is the garden in?	no	13
+15 bathroom Mary to the moved.
+16 got Daniel milk the there.
+17 in  Is garden the Daniel?	no	13
+1 bathroom to Mary journeyed the.
+2 went the Sandra to hallway.
+3  hallway Sandra the Is in?	yes	2
+4 Mary the hallway journeyed to.
+5 office to Mary the journeyed.
+6 Is hallway Mary  the in?	no	5
+7 Daniel the football took there.
+8 the to moved kitchen Sandra.
+9 kitchen  the in Is Sandra?	yes	8
+10 hallway John the went to back.
+11 bedroom John to went the.
+12 in Is bathroom  the Mary?	no	5
+13 John hallway went to back the.
+14 football the left Daniel.
+15 in hallway  the John Is?	yes	13
+1 journeyed the to garden Sandra.
+2 the John up picked milk there.
+3 the in hallway Is Sandra ?	no	1
+4 milk put there John the down.
+5 the hallway to Mary went.
+6  Sandra Is in the garden?	yes	1
+7 to Daniel bedroom journeyed the.
+8 football the up picked there Sandra.
+9 Is  the bedroom in Mary?	no	5
+10 got John milk the there.
+11 to John travelled hallway the.
+12 in  Daniel Is the kitchen?	no	7
+13 travelled bathroom Sandra to the.
+14 to bedroom travelled John the.
+15  Is in Sandra bathroom the?	yes	13
+1 kitchen went the to John.
+2 hallway the travelled Sandra to.
+3 the  Sandra Is hallway in?	yes	2
+4 the to bedroom went John.
+5 bedroom Sandra travelled to the.
+6 Sandra  Is in the hallway?	no	5
+7 moved the Mary to office.
+8 to travelled Sandra the hallway.
+9 bedroom Is the Mary  in?	no	7
+10 football grabbed there the Mary.
+11 to journeyed the bedroom Daniel.
+12 hallway the in Sandra  Is?	yes	8
+13 bathroom the to John travelled.
+14 hallway the travelled John to.
+15 Sandra in the  garden Is?	no	8
+1 Daniel to bathroom travelled the.
+2 kitchen John to the went.
+3 office John Is in  the?	no	2
+4 there the John got apple.
+5 John moved the bedroom to.
+6 the Is in hallway  John?	no	5
+7 the to John office journeyed.
+8 to office the travelled Daniel.
+9 in bathroom John  the Is?	no	7
+10 Mary bathroom to the moved.
+11 John discarded the apple.
+12 Is kitchen  in the Mary?	no	10
+13 journeyed kitchen to Mary the.
+14 the to kitchen John moved.
+15  Is in the bathroom John?	no	14
+1 to John the back kitchen went.
+2 garden John to the moved.
+3  in garden John the Is?	yes	2
+4 went Sandra office the to back.
+5 there milk took Mary the.
+6 Is Sandra in the hallway ?	no	4
+7 there discarded Mary the milk.
+8 Mary office the went to.
+9 Is the Sandra office  in?	yes	4
+10 the back Daniel garden to went.
+11 football there Daniel the took.
+12 the Mary in Is  office?	yes	8
+13 Daniel there down the football put.
+14 travelled the Daniel to hallway.
+15 in the  Daniel hallway Is?	yes	14
+1 John kitchen went to the.
+2 travelled bedroom Daniel to the.
+3  Is in kitchen John the?	yes	1
+4 John the to travelled hallway.
+5 the journeyed garden to Mary.
+6 bedroom John the in Is ?	no	4
+7 Daniel the kitchen went to.
+8 Daniel the went back to hallway.
+9 Is Daniel the in  kitchen?	no	8
+10 went the Sandra back garden to.
+11 the John garden back to went.
+12 Is in Daniel the hallway ?	yes	8
+13 Mary the office went to.
+14 kitchen journeyed the to John.
+15 the office in  Is Sandra?	no	10
+1 office went the to Sandra.
+2 went back to Mary the bedroom.
+3 in hallway the Is  Sandra?	no	1
+4 bathroom travelled to Daniel the.
+5 hallway to John went the.
+6 Mary the bedroom in  Is?	yes	2
+7 moved Daniel the garden to.
+8 bathroom to the Sandra moved.
+9  Mary the in bathroom Is?	no	2
+10 office Daniel to moved the.
+11 picked up the Mary there apple.
+12 in  Daniel Is kitchen the?	no	10
+13 John the there took milk.
+14 John to garden moved the.
+15  John garden the Is in?	yes	14
+1 there milk grabbed the Mary.
+2 garden moved to the John.
+3 bedroom John Is the in ?	no	2
+4 took the Sandra apple there.
+5 to went the hallway Sandra.
+6 John the Is  bedroom in?	no	2
+7 to hallway back the Daniel went.
+8 the to journeyed bedroom John.
+9 garden in Is John the ?	no	8
+10 up Mary there football picked the.
+11 garden the went to Mary.
+12 in  Daniel bedroom the Is?	no	7
+13 to John the garden travelled.
+14 Mary to journeyed the bedroom.
+15 John hallway in the Is ?	no	13
+1 the John moved to bedroom.
+2 John went the to bathroom.
+3 John Is in the  bathroom?	yes	2
+4 the Daniel to travelled bathroom.
+5 the apple picked John there up.
+6 in bathroom the  Daniel Is?	yes	4
+7 football took there Sandra the.
+8 John garden to went back the.
+9 Is garden  the John in?	yes	8
+10 John apple dropped the.
+11 football the Sandra discarded.
+12 the  John in garden Is?	yes	8
+13 the John to bedroom travelled.
+14 the hallway to went John.
+15 Is  John bedroom in the?	no	14
+1 took Daniel apple there the.
+2 the went Mary office to.
+3 kitchen in the Is  Mary?	no	2
+4 picked football there the Sandra up.
+5 bedroom travelled to the Sandra.
+6 the Sandra bedroom Is  in?	yes	5
+7 the garden to Sandra went.
+8 discarded Sandra the football there.
+9 garden  Sandra Is in the?	yes	7
+10 went office the to Sandra back.
+11 football there the grabbed John.
+12 the Sandra bedroom Is  in?	no	10
+13 office Daniel the moved to.
+14 travelled bathroom to the Mary.
+15 Mary in the bathroom  Is?	yes	14
+1 the apple Daniel grabbed there.
+2 went to the Mary office back.
+3  in Is the office Mary?	yes	2
+4 Daniel the apple dropped.
+5 John journeyed to office the.
+6 Mary the Is  in bedroom?	no	2
+7 bathroom Daniel back the went to.
+8 the Mary journeyed to garden.
+9 Is the in bedroom  John?	no	5
+10 journeyed to Daniel office the.
+11 to travelled bathroom Sandra the.
+12 Is the Daniel in  office?	yes	10
+13 hallway back the Sandra went to.
+14 back to went Sandra office the.
+15 Mary the Is  garden in?	yes	8
+1 Mary bedroom went the to.
+2 milk grabbed Sandra the there.
+3 Is the bathroom in  Mary?	no	1
+4 Sandra the to journeyed bedroom.
+5 Sandra the milk dropped.
+6  Sandra the hallway in Is?	no	4
+7 to Daniel went the back office.
+8 went John the kitchen to.
+9 office Daniel Is in the ?	yes	7
+10 journeyed Daniel the to kitchen.
+11 went the Mary bathroom to back.
+12  hallway John the Is in?	no	8
+13 there Sandra picked milk up the.
+14 Sandra the left milk.
+15  bedroom the in Mary Is?	no	11
+1 Daniel up the picked there apple.
+2 the Daniel garden travelled to.
+3 Daniel Is  bedroom in the?	no	2
+4 hallway to Mary the travelled.
+5 the apple dropped Daniel.
+6 Daniel the Is in  kitchen?	no	2
+7 there the milk picked up Mary.
+8 grabbed apple there Daniel the.
+9  garden in the Is Daniel?	yes	2
+10 Daniel apple dropped the.
+11 apple the there took Daniel.
+12 the bathroom Daniel to went.
+13 to kitchen journeyed Daniel the.
+14 in  the hallway Daniel Is?	no	13
+15 journeyed Daniel the to hallway.
+16 discarded the milk Mary.
+17 Daniel Is in the  garden?	no	15
+1 hallway Mary travelled to the.
+2 the got there apple Daniel.
+3 in Is bathroom Mary  the?	no	1
+4 bathroom to Daniel the journeyed.
+5 moved kitchen Mary the to.
+6  Is kitchen the Mary in?	yes	5
+7 the Daniel to travelled hallway.
+8 the dropped Daniel apple.
+9 bedroom in the Mary  Is?	no	5
+10 John the moved to garden.
+11 garden travelled Daniel the to.
+12 Mary  Is in the garden?	no	5
+13 Daniel went to bedroom the back.
+14 took the there football Daniel.
+15 John the in  Is garden?	yes	10
+1 moved Sandra the to garden.
+2 there Sandra the got milk.
+3 the  Sandra in garden Is?	yes	1
+4 the bedroom Sandra to went.
+5 to Mary journeyed the garden.
+6 Sandra  the in Is bedroom?	yes	4
+7 went office the to John back.
+8 the went Daniel back office to.
+9 in Is John the  bedroom?	no	7
+10 moved to Daniel hallway the.
+11 Daniel went bathroom the to.
+12 the bathroom in Daniel Is ?	yes	11
+13 the football there Daniel took.
+14 down Sandra milk put the.
+15 Daniel hallway the in Is ?	no	11
+1 the apple up there picked Sandra.
+2 the took there football John.
+3 apple Sandra the put down.
+4 the John football dropped.
+5 there the milk got Mary.
+6 Daniel the kitchen went to.
+7  Daniel Is in the bedroom?	no	6
+8 the John hallway to moved.
+9 milk Mary there discarded the.
+10  the hallway John Is in?	yes	8
+11 Mary there picked the up milk.
+12 the travelled Daniel hallway to.
+13 Is Daniel bathroom in  the?	no	12
+14 the got Sandra there apple.
+15 there Sandra apple the discarded.
+16 the Daniel Is hallway in ?	yes	12
+17 Sandra the kitchen went back to.
+18 football got the there Sandra.
+19 kitchen in Is  the Sandra?	yes	17
+1 the to went office Daniel.
+2 to Daniel the kitchen travelled.
+3 in Daniel  the bathroom Is?	no	2
+4 John there milk the took.
+5 the to Mary hallway went.
+6 in Mary Is the  garden?	no	5
+7 the back to went garden John.
+8 to the garden Sandra went.
+9 office the  Is in Sandra?	no	8
+10 the travelled Daniel to hallway.
+11 bedroom the John to journeyed.
+12 office in Is  John the?	no	11
+13 to office the travelled Mary.
+14 John went the office to.
+15 Is  kitchen in the John?	no	14
+1 bathroom the journeyed to John.
+2 Daniel football the picked there up.
+3 in Is kitchen the  John?	no	1
+4 to hallway the Sandra went.
+5 moved the Mary kitchen to.
+6 the Mary  in hallway Is?	no	5
+7 Daniel went the to hallway.
+8 the football Daniel down put.
+9 Sandra  Is in the hallway?	yes	4
+10 the Sandra moved to office.
+11 travelled Mary bedroom to the.
+12  bedroom Mary the in Is?	yes	11
+13 football the Daniel grabbed there.
+14 football left Daniel the.
+15 the Sandra in Is  office?	yes	10
+1 apple Mary picked up there the.
+2 to kitchen Mary moved the.
+3 Is in kitchen the  Mary?	yes	2
+4 office the went Sandra to.
+5 travelled to the Mary garden.
+6 Is in garden  the Mary?	yes	5
+7 travelled the to Mary hallway.
+8 discarded Mary the apple.
+9 in  hallway the Mary Is?	yes	7
+10 Mary the there took apple.
+11 apple left Mary the.
+12 the Mary Is hallway  in?	yes	7
+13 the kitchen travelled Mary to.
+14 hallway Mary to travelled the.
+15 bathroom Mary Is  the in?	no	14
+1 John went to office the.
+2 back the went to garden John.
+3 in  John the garden Is?	yes	2
+4 Daniel office the travelled to.
+5 football the there grabbed Daniel.
+6 John the garden in Is ?	yes	2
+7 Sandra grabbed milk there the.
+8 hallway to went Mary back the.
+9 hallway  Is the Mary in?	yes	8
+10 the football Daniel dropped.
+11 the to Mary garden journeyed.
+12 the bedroom Mary in  Is?	no	11
+13 grabbed football Daniel the there.
+14 down the milk Sandra there put.
+15 Mary  the in Is office?	no	11
+1 Daniel up football the picked there.
+2 Daniel left football the.
+3 Mary apple got the there.
+4 office Daniel to the moved.
+5 Daniel in  office the Is?	yes	4
+6 kitchen to went Mary the.
+7 back Sandra to the bathroom went.
+8 Mary Is in the  kitchen?	yes	6
+9 the left Mary apple.
+10 Sandra there milk got the.
+11 in  Is Daniel the bedroom?	no	4
+12 kitchen John to the journeyed.
+13 Sandra to moved the hallway.
+14 Is Sandra garden  in the?	no	13
+15 Mary the to garden moved.
+16 Daniel kitchen the went to.
+17 the  kitchen in Is John?	yes	12
+1 Mary bedroom moved to the.
+2 Daniel picked there the up milk.
+3 garden in Is Mary the ?	no	1
+4 John the to hallway went.
+5 the to bathroom Mary travelled.
+6 the  bedroom in John Is?	no	4
+7 the down milk Daniel put.
+8 bathroom Sandra travelled to the.
+9 Sandra the in Is  bathroom?	yes	8
+10 the to travelled John office.
+11 to Sandra went the bedroom.
+12 Mary the Is in garden ?	no	5
+13 garden moved the Sandra to.
+14 to moved office the Daniel.
+15 garden Is  the Sandra in?	yes	13
+1 John hallway travelled to the.
+2 travelled garden the to John.
+3 Is John garden  in the?	yes	2
+4 to moved John the kitchen.
+5 Daniel there apple the grabbed.
+6 the bedroom  John in Is?	no	4
+7 the bathroom to John moved.
+8 there the down Daniel put apple.
+9 Is in John the bathroom ?	yes	7
+10 John the went to office.
+11 to the went bedroom Daniel.
+12 the Is hallway John  in?	no	10
+13 to the travelled John hallway.
+14 John took football the there.
+15 the Is John in hallway ?	yes	13
+1 Mary office the went to.
+2 Daniel to journeyed hallway the.
+3 bedroom  Is in the Daniel?	no	2
+4 the Mary to bedroom went.
+5 to went Sandra the garden.
+6 the  in Is office Mary?	no	4
+7 football took there Sandra the.
+8 to Mary journeyed bathroom the.
+9 office Mary in Is the ?	no	8
+10 to bedroom Mary went the.
+11 hallway John the moved to.
+12  Sandra in the Is garden?	yes	5
+13 there the football down put Sandra.
+14 Sandra there up the picked football.
+15 the John office Is  in?	no	11
+1 the Mary to journeyed kitchen.
+2 the hallway Daniel moved to.
+3 in bedroom Is the  Daniel?	no	2
+4 bathroom to the moved Mary.
+5 picked Sandra there up milk the.
+6 bathroom in the  Is Daniel?	no	2
+7 Sandra put down the milk.
+8 the to office went Daniel back.
+9 Daniel Is  office in the?	yes	8
+10 Mary went office the to.
+11 moved garden the to Sandra.
+12 in  the garden Sandra Is?	yes	11
+13 to travelled the kitchen John.
+14 the Sandra got football there.
+15  garden Is in Daniel the?	no	8
+1 the to Mary moved office.
+2 the took Sandra there apple.
+3  Is office Mary in the?	yes	1
+4 hallway to the went John.
+5 Sandra the left apple.
+6 office in Mary  Is the?	yes	1
+7 to Daniel garden went the.
+8 there got Mary apple the.
+9 the in Daniel Is garden ?	yes	7
+10 the to bedroom went back Sandra.
+11 went back to garden the Mary.
+12 Is bedroom Sandra the in ?	yes	10
+13 left apple the Mary.
+14 the travelled Sandra to kitchen.
+15 Is kitchen in  the Sandra?	yes	14
+1 to John back went office the.
+2 to back bathroom went John the.
+3 John  in the bathroom Is?	yes	2
+4 the to John hallway moved.
+5 Daniel moved garden the to.
+6 Daniel Is  the office in?	no	5
+7 the to moved Mary hallway.
+8 football there up the John picked.
+9 Is the garden Daniel  in?	yes	5
+10 to bedroom travelled the Daniel.
+11 moved to the John kitchen.
+12 Is Daniel in the  office?	no	10
+13 to the kitchen Daniel journeyed.
+14 to moved the bathroom Daniel.
+15 the  bathroom Is in Daniel?	yes	14
+1 to Mary the moved hallway.
+2 up picked Mary there the football.
+3 Is  the bathroom Mary in?	no	1
+4 Daniel bedroom to journeyed the.
+5 to moved the bathroom Daniel.
+6 Is the garden in  Daniel?	no	5
+7 the football left Mary.
+8 to the bedroom John travelled.
+9 Daniel the hallway Is  in?	no	5
+10 up milk the there John picked.
+11 the to travelled Sandra hallway.
+12 John Is the in  bathroom?	no	8
+13 went back hallway Daniel to the.
+14 the there Daniel got football.
+15 the John in kitchen Is ?	no	8
+1 went to back the Sandra hallway.
+2 there Sandra the grabbed apple.
+3 hallway Is Sandra in  the?	yes	1
+4 bathroom Sandra went the to.
+5 bedroom back went Mary the to.
+6 in  Sandra the Is office?	no	4
+7 moved the Sandra office to.
+8 apple dropped there Sandra the.
+9  Mary bedroom Is in the?	yes	5
+10 to Sandra garden the travelled.
+11 the Sandra took there milk.
+12 the office Is  Sandra in?	no	10
+13 milk the dropped Sandra.
+14 Daniel went the to office.
+15  Is the Sandra kitchen in?	no	10
+1 John to kitchen the journeyed.
+2 the to Sandra hallway back went.
+3  in bedroom John Is the?	no	1
+4 the Mary kitchen to journeyed.
+5 Sandra moved bedroom the to.
+6 Is the Sandra bedroom  in?	yes	5
+7 office John to the went.
+8 Sandra bathroom the to went back.
+9  Is garden Sandra the in?	no	8
+10 the office travelled to Sandra.
+11 to the Sandra travelled bedroom.
+12 John in the bedroom  Is?	no	7
+13 office to the Mary went.
+14 Daniel office to the moved.
+15 in the Is Mary office ?	yes	13
+1 the back to John garden went.
+2 the Sandra office to travelled.
+3 John in  kitchen Is the?	no	1
+4 went bathroom John to the.
+5 the Daniel to back went bathroom.
+6 in Is Sandra garden the ?	no	2
+7 moved the Mary hallway to.
+8 garden went the back to Sandra.
+9 Is  Daniel bathroom the in?	yes	5
+10 garden the Mary journeyed to.
+11 bedroom to the journeyed Sandra.
+12 Is in  Sandra the hallway?	no	11
+13 the kitchen to travelled Sandra.
+14 hallway to Daniel travelled the.
+15 Is  kitchen Sandra the in?	yes	13
+1 Sandra the to office journeyed.
+2 football Sandra the grabbed there.
+3  Sandra Is the office in?	yes	1
+4 there apple up Sandra the picked.
+5 there milk got the John.
+6 in the  Sandra office Is?	yes	1
+7 milk John dropped the.
+8 Sandra apple the discarded.
+9 garden Mary to went the.
+10 the went bathroom Sandra to.
+11 in Is bathroom the Sandra ?	yes	10
+12 went to the Daniel bathroom back.
+13 there up milk picked the John.
+14 Sandra Is in hallway  the?	no	10
+15 hallway Daniel the went to.
+16 John back went to bedroom the.
+17  John bedroom Is in the?	yes	16
+1 the travelled to bathroom Daniel.
+2 Daniel back the went garden to.
+3 the in Is bathroom Daniel ?	no	2
+4 went the office to Daniel back.
+5 the garden went to Daniel.
+6  the bedroom in Is Daniel?	no	5
+7 John to bathroom journeyed the.
+8 Daniel took milk there the.
+9 Is bathroom the in John ?	yes	7
+10 journeyed to Mary kitchen the.
+11 Mary moved bathroom to the.
+12 in  bathroom Mary the Is?	yes	11
+13 back to Mary went the garden.
+14 dropped the milk Daniel.
+15 Mary Is  the in garden?	yes	13
+1 Sandra to office moved the.
+2 the journeyed garden to Daniel.
+3 the  in Sandra office Is?	yes	1
+4 journeyed Sandra to the bathroom.
+5 the kitchen travelled Sandra to.
+6 Daniel garden the in  Is?	yes	2
+7 office the Daniel to went.
+8 Daniel grabbed there the football.
+9 Is bathroom  in Daniel the?	no	7
+10 Mary to the office journeyed.
+11 to Daniel bathroom back the went.
+12 in the  Daniel Is office?	no	11
+13 the Daniel put down football there.
+14 to the went Mary bedroom.
+15 Mary  the in hallway Is?	no	14
+1 the Sandra bedroom journeyed to.
+2 John bedroom went the to.
+3 bedroom in the John Is ?	yes	2
+4 the Sandra football there took.
+5 the Daniel to garden moved.
+6  the hallway in Is Sandra?	no	1
+7 went hallway to the Sandra.
+8 Sandra the went back to garden.
+9 Is  the John in garden?	no	2
+10 football the discarded Sandra.
+11 up the Daniel there apple picked.
+12 Daniel bedroom Is in  the?	no	5
+13 garden the travelled to John.
+14 journeyed John kitchen the to.
+15 garden in  the Is John?	no	14
+1 the Sandra milk there grabbed.
+2 kitchen to Daniel journeyed the.
+3 the Is Daniel  in kitchen?	yes	2
+4 there Daniel up the football picked.
+5 to Mary went office the.
+6 the in Mary office  Is?	yes	5
+7 to went John bedroom the.
+8 went garden the to Daniel.
+9 the  Is garden Daniel in?	yes	8
+10 office went Sandra back to the.
+11 journeyed bedroom to Mary the.
+12 office the John in Is ?	no	7
+13 John to travelled the hallway.
+14 the left Sandra milk.
+15 Is the garden  Daniel in?	yes	8
+1 John travelled to the bathroom.
+2 John the kitchen moved to.
+3 John the in  Is kitchen?	yes	2
+4 grabbed the John there apple.
+5 went the to back John hallway.
+6 John  the in office Is?	no	5
+7 went to Mary the back hallway.
+8 the John travelled bathroom to.
+9 in  the Is John bathroom?	yes	8
+10 the to Daniel moved office.
+11 the to went Mary office.
+12 the Mary office in Is ?	yes	11
+13 to kitchen the Sandra moved.
+14 Sandra back the to bedroom went.
+15  Is in the Daniel office?	yes	10
+1 to Sandra moved the bedroom.
+2 journeyed to kitchen the Daniel.
+3  bathroom in the Daniel Is?	no	2
+4 the football took there Daniel.
+5 journeyed kitchen the Sandra to.
+6 Sandra  Is the in kitchen?	yes	5
+7 Daniel left the there football.
+8 back the to garden Daniel went.
+9 in Is  garden Daniel the?	yes	8
+10 the Mary to went garden.
+11 Daniel the picked there up apple.
+12 in Mary Is  garden the?	yes	10
+13 Sandra travelled to bedroom the.
+14 to travelled Mary bedroom the.
+15 the in Is  office Mary?	no	14
+1 the to office travelled Sandra.
+2 football the there Mary got.
+3 in Sandra Is the hallway ?	no	1
+4 kitchen to moved Mary the.
+5 John to went the kitchen.
+6 in the kitchen  Mary Is?	yes	4
+7 Mary football dropped the.
+8 Mary to back the went office.
+9 Is office the Mary  in?	yes	8
+10 moved bedroom to John the.
+11 took Daniel apple the there.
+12 in  the Mary office Is?	yes	8
+13 Sandra kitchen travelled the to.
+14 Sandra the football got there.
+15  Sandra kitchen Is in the?	yes	13
+1 the took apple Sandra there.
+2 moved to bedroom Sandra the.
+3 Sandra  the Is in bedroom?	yes	2
+4 moved to garden the Daniel.
+5 moved to Sandra the kitchen.
+6 Is in  Sandra the office?	no	5
+7 Sandra grabbed the there football.
+8 John to back hallway the went.
+9  kitchen the Sandra Is in?	yes	5
+10 the to bedroom Daniel back went.
+11 Sandra apple the left.
+12 in hallway the  John Is?	yes	8
+13 there milk picked the up Daniel.
+14 Daniel journeyed the bathroom to.
+15 bathroom the  in Is Daniel?	yes	14
+1 Daniel picked milk the there up.
+2 the garden Sandra went to.
+3 the Is Sandra in kitchen ?	no	2
+4 office to Mary moved the.
+5 the garden Daniel to moved.
+6 Is bathroom in the Daniel ?	no	5
+7 Mary to back garden went the.
+8 dropped milk the Daniel.
+9 bedroom  Is in Mary the?	no	7
+10 milk the Daniel there grabbed.
+11 the Mary bathroom journeyed to.
+12 in  Mary bathroom the Is?	yes	11
+13 to the hallway went Mary.
+14 there picked Mary up football the.
+15 Is in the Mary bedroom ?	no	13
+1 to Sandra the journeyed bathroom.
+2 the got there milk Sandra.
+3 bathroom the  in Sandra Is?	yes	1
+4 kitchen the to Daniel travelled.
+5 travelled to office the Sandra.
+6 the Is Daniel  in bedroom?	no	4
+7 journeyed office the Daniel to.
+8 bathroom Sandra moved the to.
+9 in Sandra  the Is bathroom?	yes	8
+10 Daniel there grabbed apple the.
+11 down put milk there Sandra the.
+12 Is  Sandra in the bathroom?	yes	8
+13 Mary to went the office.
+14 the Daniel apple discarded.
+15 Is Sandra office the  in?	no	8
+1 up picked John the there apple.
+2 there grabbed Mary the football.
+3 the Daniel to journeyed bathroom.
+4 the down Mary put football.
+5 Is in  kitchen Daniel the?	no	3
+6 left John the apple.
+7 Mary there got apple the.
+8 Is in  the Daniel office?	no	3
+9 Mary the there football grabbed.
+10 to John the moved kitchen.
+11 in garden Is John  the?	no	10
+12 hallway to the went Mary back.
+13 to the travelled Sandra garden.
+14 in Sandra garden  the Is?	yes	13
+15 the grabbed Sandra there milk.
+16 the Daniel to went bedroom.
+17 Mary in Is  the garden?	no	12
+1 bathroom Daniel the went to.
+2 Sandra travelled garden to the.
+3 in  Sandra the Is bedroom?	no	2
+4 moved the Sandra to office.
+5 travelled the to office Mary.
+6 Sandra  the Is office in?	yes	4
+7 football the grabbed John there.
+8 the football put John down.
+9 Is hallway Mary in  the?	no	5
+10 the went Sandra to bedroom.
+11 journeyed Sandra to bathroom the.
+12 in  bathroom Sandra the Is?	yes	11
+13 the football there John grabbed.
+14 the travelled Mary to bathroom.
+15 office Sandra  the Is in?	no	11
+1 kitchen Mary to the journeyed.
+2 garden to moved John the.
+3 kitchen Mary in Is the ?	yes	1
+4 Sandra travelled to the hallway.
+5 the there grabbed milk Sandra.
+6 in Mary kitchen  the Is?	yes	1
+7 Sandra milk the dropped.
+8 Mary went to bedroom the.
+9 in Is  Mary bedroom the?	yes	8
+10 Mary to moved kitchen the.
+11 travelled the to Sandra bathroom.
+12  Is the kitchen in Mary?	yes	10
+13 hallway to went back the Mary.
+14 the office Sandra journeyed to.
+15 hallway Is the Mary  in?	yes	13
+1 bedroom the to Mary travelled.
+2 there the apple Mary grabbed.
+3 in  Mary Is bathroom the?	no	1
+4 the moved Mary to kitchen.
+5 Daniel back went to kitchen the.
+6 in Is  Mary kitchen the?	yes	4
+7 Daniel the bathroom went to.
+8 back to went office the Sandra.
+9 in Is  the Daniel office?	no	7
+10 the to Sandra hallway moved.
+11 the to Daniel office went back.
+12 in  office the Daniel Is?	yes	11
+13 Sandra the picked there up milk.
+14 Mary the hallway went back to.
+15  hallway Is in Mary the?	yes	14
+1 office the Daniel went to.
+2 John to garden the moved.
+3  the Daniel in Is hallway?	no	1
+4 kitchen back to went John the.
+5 Daniel moved garden the to.
+6 John in Is the kitchen ?	yes	4
+7 kitchen to Mary went the.
+8 to bedroom Daniel went the.
+9 kitchen John the Is in ?	yes	4
+10 hallway to went back the John.
+11 the garden travelled to Sandra.
+12 Is the in  John hallway?	yes	10
+13 to bedroom travelled Sandra the.
+14 the to moved Daniel kitchen.
+15 Sandra bedroom Is the in ?	yes	13
+1 grabbed the there Daniel milk.
+2 garden the journeyed Sandra to.
+3 Sandra Is bedroom the  in?	no	2
+4 apple picked there up Daniel the.
+5 milk Daniel discarded the.
+6  Is in kitchen Sandra the?	no	2
+7 to office the Sandra journeyed.
+8 apple dropped the Daniel.
+9 the in Is office  Sandra?	yes	7
+10 to Sandra bedroom the went.
+11 Daniel up apple picked the there.
+12 Sandra  the bedroom Is in?	yes	10
+13 office moved the Sandra to.
+14 picked up the football there Daniel.
+15 the Sandra Is office  in?	yes	13
+1 the moved kitchen to Daniel.
+2 the to went Daniel bedroom back.
+3 Daniel Is  bedroom the in?	yes	2
+4 to garden Mary the went back.
+5 picked there up football the Mary.
+6 the  Daniel in Is garden?	no	2
+7 Mary there grabbed apple the.
+8 travelled to Sandra kitchen the.
+9 kitchen the in  Is Sandra?	yes	8
+10 the milk there Sandra took.
+11 Mary moved hallway to the.
+12 Is the hallway Mary in ?	yes	11
+13 bathroom Sandra the went to.
+14 left milk Sandra the.
+15 Mary the Is in  kitchen?	no	11
+1 the bedroom Mary moved to.
+2 the John got apple there.
+3 in Mary bathroom  Is the?	no	1
+4 John discarded apple there the.
+5 the moved bathroom John to.
+6 in the bedroom Is  Mary?	yes	1
+7 Mary went back the to kitchen.
+8 got the John there milk.
+9 in John  the Is bedroom?	no	5
+10 bedroom went to Mary back the.
+11 the milk discarded John.
+12 the Mary Is in kitchen ?	no	10
+13 John hallway went to the.
+14 to John bathroom moved the.
+15  Is in Mary hallway the?	no	10
+1 travelled Sandra hallway to the.
+2 moved Sandra bathroom the to.
+3 in  the office Is Sandra?	no	2
+4 football the grabbed there John.
+5 apple the got Mary there.
+6 in the Sandra  office Is?	no	2
+7 the office John back to went.
+8 to the office went Daniel.
+9 Is the John bedroom in ?	no	7
+10 to bedroom John the moved.
+11 discarded football John the.
+12 John the Is in  office?	no	10
+13 apple the discarded Mary.
+14 went the back to John garden.
+15 in garden Is  the John?	yes	14
+1 up picked the Mary milk there.
+2 kitchen travelled the to Mary.
+3 in kitchen  Is Mary the?	yes	2
+4 office went the to Mary.
+5 to Daniel the journeyed kitchen.
+6 Is in  the Mary hallway?	no	4
+7 the office moved Sandra to.
+8 milk put Mary there down the.
+9 in the Mary Is office ?	yes	4
+10 moved to Sandra bathroom the.
+11 apple there Sandra grabbed the.
+12 hallway the  Sandra in Is?	no	10
+13 Sandra the garden went to.
+14 the milk grabbed Mary there.
+15  the bathroom Sandra Is in?	no	13
+1 got the there Mary apple.
+2 journeyed the Daniel to kitchen.
+3 bathroom the in  Is Daniel?	no	2
+4 to garden Mary the journeyed.
+5 journeyed the Mary bedroom to.
+6 bedroom  Is the Mary in?	yes	5
+7 Daniel picked the up football there.
+8 to Mary the hallway went.
+9 Is Daniel  the in garden?	no	2
+10 went the Mary to bedroom.
+11 Mary to journeyed bathroom the.
+12 in office the  Mary Is?	no	11
+13 garden the Daniel travelled to.
+14 the went to kitchen back John.
+15 garden the  Is John in?	no	14
+1 went to office the Sandra.
+2 took there the apple Mary.
+3 the  Is Sandra in office?	yes	1
+4 discarded the apple Mary.
+5 bathroom to the Mary journeyed.
+6 in  the Is bathroom Sandra?	no	1
+7 to travelled bedroom Sandra the.
+8 Sandra apple the there grabbed.
+9 Is in the  bathroom Mary?	yes	5
+10 the John to hallway moved.
+11 John the to journeyed bathroom.
+12 in  John the Is hallway?	no	11
+13 to bathroom went the Sandra.
+14 the hallway travelled John to.
+15 Is John the kitchen  in?	no	14
+1 the journeyed John to bathroom.
+2 went Mary office to the.
+3 in kitchen  John Is the?	no	1
+4 Mary to the kitchen moved.
+5 hallway to Sandra moved the.
+6 bedroom  in Mary Is the?	no	4
+7 there the John got apple.
+8 John there got football the.
+9 hallway Is the  in Mary?	no	4
+10 Mary there up picked milk the.
+11 Sandra to garden journeyed the.
+12 Sandra garden  the Is in?	yes	11
+13 bedroom Sandra travelled to the.
+14 garden John to the travelled.
+15 bedroom the  in Is Sandra?	yes	13
+1 the John there milk took.
+2 discarded the John milk.
+3 the went to Sandra bedroom.
+4 football picked there John the up.
+5 the bedroom  in Sandra Is?	yes	3
+6 the to garden Sandra journeyed.
+7 back the went bathroom John to.
+8 office the Is Sandra  in?	no	6
+9 hallway to went the Mary.
+10 dropped football John there the.
+11 in Sandra the office Is ?	no	6
+12 moved to John kitchen the.
+13 office journeyed Mary to the.
+14 the  bathroom Is in John?	no	12
+15 the went bedroom Mary to.
+16 bedroom the journeyed to John.
+17 John the Is bedroom in ?	yes	16
+1 Sandra hallway to the moved.
+2 there football John grabbed the.
+3 hallway Is the  Sandra in?	yes	1
+4 the there milk up Mary picked.
+5 Mary dropped the milk.
+6 in the kitchen Sandra Is ?	no	1
+7 journeyed the to Mary hallway.
+8 Sandra to kitchen went back the.
+9 hallway the  in Is Mary?	yes	7
+10 milk the there took Sandra.
+11 the John bathroom journeyed to.
+12 Sandra  the bathroom Is in?	no	8
+13 to hallway the went Daniel.
+14 Daniel the to bedroom travelled.
+15 Daniel in Is the  office?	no	14
+1 the Mary kitchen travelled to.
+2 Sandra up there the picked apple.
+3 the kitchen  in Is Mary?	yes	1
+4 to Daniel went office back the.
+5 got Mary football there the.
+6 kitchen Is Mary  the in?	yes	1
+7 the Daniel to journeyed hallway.
+8 Sandra garden the journeyed to.
+9 the Is Daniel in  hallway?	yes	7
+10 hallway the moved John to.
+11 garden the Daniel journeyed to.
+12 in hallway  Is John the?	yes	10
+13 travelled to garden Mary the.
+14 football dropped Mary the.
+15 Mary  the in Is kitchen?	no	13
+1 Sandra to journeyed office the.
+2 the moved to Mary kitchen.
+3  in Is the office Sandra?	yes	1
+4 grabbed John football there the.
+5 put down football John the.
+6 the Mary Is bedroom in ?	no	2
+7 journeyed Daniel to the bedroom.
+8 the office Mary to journeyed.
+9 the Mary in  Is office?	yes	8
+10 the went Daniel kitchen to.
+11 the went back Sandra bedroom to.
+12 kitchen the Mary Is in ?	no	8
+13 the to moved bathroom Daniel.
+14 John there the football took.
+15 the in Sandra bedroom  Is?	yes	11
+1 up the picked apple there Sandra.
+2 up there Sandra the milk picked.
+3 back went John the to garden.
+4 bathroom Sandra to journeyed the.
+5 Sandra  the Is in bathroom?	yes	4
+6 to office moved the Sandra.
+7 Sandra milk the left.
+8 Is the Sandra office  in?	yes	6
+9 Mary garden went the to.
+10 there Daniel grabbed milk the.
+11 the Is hallway  Sandra in?	no	6
+12 milk dropped the Daniel.
+13 Mary to travelled the hallway.
+14 hallway  the in Mary Is?	yes	13
+15 journeyed to Sandra garden the.
+16 Sandra the journeyed to bathroom.
+17 hallway  Is Mary the in?	yes	13
+1 travelled the to kitchen John.
+2 Mary milk the there grabbed.
+3 the Is kitchen John  in?	yes	1
+4 went to the Sandra back hallway.
+5 to went bathroom the Daniel back.
+6 in Is hallway  Sandra the?	yes	4
+7 discarded Mary the milk.
+8 the went Daniel to kitchen.
+9 in Daniel the Is bathroom ?	no	8
+10 back the went Sandra kitchen to.
+11 bathroom to Sandra the journeyed.
+12 Daniel in garden Is the ?	no	8
+13 to the John garden went back.
+14 the Sandra to hallway journeyed.
+15 Is the office in Sandra ?	no	14
+1 got football Sandra the there.
+2 journeyed to Daniel kitchen the.
+3 Daniel in the garden  Is?	no	2
+4 the hallway to went Mary.
+5 apple took the Mary there.
+6 in Daniel  Is kitchen the?	yes	2
+7 hallway the moved John to.
+8 to John the moved garden.
+9 the in Is kitchen  Daniel?	yes	2
+10 grabbed there John milk the.
+11 bathroom the to moved John.
+12 John bathroom the  in Is?	yes	11
+13 left Mary apple the.
+14 to went John bedroom the.
+15  the Is office in John?	no	14
+1 travelled garden Sandra the to.
+2 travelled to Daniel the garden.
+3 the bedroom in Sandra Is ?	no	1
+4 travelled office to Mary the.
+5 office to John travelled the.
+6 the Mary  Is office in?	yes	4
+7 Mary apple the there grabbed.
+8 to back went the hallway John.
+9 Mary the Is  bedroom in?	no	4
+10 apple the Mary discarded.
+11 grabbed there apple Mary the.
+12 John  the Is hallway in?	yes	8
+13 the moved to hallway Sandra.
+14 travelled to Sandra bedroom the.
+15 Sandra  in bedroom the Is?	yes	14
+1 got the Daniel there milk.
+2 went Daniel bathroom back the to.
+3 bathroom  in the Is Daniel?	yes	2
+4 travelled kitchen John to the.
+5 Sandra travelled to the office.
+6 the in Is  office Sandra?	yes	5
+7 the journeyed garden to Sandra.
+8 to the bedroom went Sandra.
+9 bedroom Is John  in the?	no	4
+10 garden to the John journeyed.
+11 the left milk Daniel.
+12  Sandra in bathroom the Is?	no	8
+13 up there picked milk the Daniel.
+14 hallway journeyed the to Sandra.
+15 the  Is garden in John?	yes	10
+1 to Mary went bathroom the.
+2 to the travelled Sandra office.
+3 in  the bedroom Sandra Is?	no	2
+4 picked the football Sandra there up.
+5 Sandra the football left.
+6 Is in Mary bedroom the ?	no	1
+7 Mary to the went kitchen.
+8 the there football got Sandra.
+9 Mary Is the office  in?	no	7
+10 journeyed Mary the bedroom to.
+11 to moved Sandra the bathroom.
+12 Sandra the Is  in kitchen?	no	11
+13 there football Sandra the discarded.
+14 there Sandra football the grabbed.
+15 in hallway  Is the Mary?	no	10
+1 kitchen John the moved to.
+2 the Mary moved garden to.
+3  John Is kitchen the in?	yes	1
+4 bathroom to moved Daniel the.
+5 to Daniel back went office the.
+6 Is John in  the bedroom?	no	1
+7 Daniel to the bedroom went.
+8 went the to Sandra garden.
+9 Daniel bedroom Is the in ?	yes	7
+10 the office to went Daniel.
+11 got there Daniel apple the.
+12 the Is Daniel in garden ?	no	10
+13 went the back office to John.
+14 Mary the bathroom back went to.
+15 Daniel  the Is in kitchen?	no	10
+1 John the hallway went to.
+2 to the bathroom back Sandra went.
+3  John Is in hallway the?	yes	1
+4 apple took there Sandra the.
+5 the to Daniel bathroom travelled.
+6  John Is hallway the in?	yes	1
+7 to garden journeyed Mary the.
+8 milk there Daniel got the.
+9 in Sandra  hallway the Is?	no	2
+10 the Sandra apple discarded there.
+11 apple there Sandra the grabbed.
+12 in bathroom Daniel  Is the?	yes	5
+13 Sandra the bedroom to journeyed.
+14 went Sandra bathroom the to.
+15  the hallway Is Sandra in?	no	14
+1 moved to the Mary garden.
+2 the to John journeyed bathroom.
+3  garden in Mary the Is?	yes	1
+4 John office to the journeyed.
+5 the grabbed there milk John.
+6  garden the Is in Mary?	yes	1
+7 Daniel kitchen moved to the.
+8 took football the there John.
+9  in Daniel kitchen Is the?	yes	7
+10 Sandra bedroom journeyed the to.
+11 the to John travelled bedroom.
+12 the John  office Is in?	no	11
+13 Daniel garden to back went the.
+14 hallway the journeyed John to.
+15 in  the bedroom Is Daniel?	no	13
+1 garden to travelled John the.
+2 to moved kitchen Daniel the.
+3 the in  Is Daniel kitchen?	yes	2
+4 to office Daniel went the.
+5 apple the Mary there got.
+6 in  Daniel the office Is?	yes	4
+7 journeyed Sandra bedroom to the.
+8 apple there Mary the put down.
+9  bedroom in Sandra Is the?	yes	7
+10 went garden to back Mary the.
+11 bedroom to Daniel the journeyed.
+12 the Mary bedroom  in Is?	no	10
+13 kitchen John moved to the.
+14 journeyed to office Mary the.
+15 the  in John Is kitchen?	yes	13
+1 apple there Sandra picked the up.
+2 the Mary garden journeyed to.
+3 in bedroom the  Is Mary?	no	2
+4 took Sandra there the milk.
+5 Daniel the to travelled garden.
+6 the  garden Is in Daniel?	yes	5
+7 bedroom Mary moved to the.
+8 the to moved Mary kitchen.
+9 the kitchen in Is  Mary?	yes	8
+10 down Sandra there the put milk.
+11 the there Sandra milk took.
+12 the  bedroom in Mary Is?	no	8
+13 Daniel the went to bedroom.
+14 office the Daniel went to.
+15 the bedroom  Daniel in Is?	no	14
+1 back Mary went to bedroom the.
+2 went bathroom back to the Mary.
+3 the Mary kitchen  Is in?	no	2
+4 the Mary to garden journeyed.
+5 Mary up picked there the apple.
+6 Mary in garden Is the ?	yes	4
+7 hallway to journeyed the John.
+8 the to Daniel garden travelled.
+9 the  in Is Mary garden?	yes	4
+10 there the milk Mary got.
+11 the John there took football.
+12 the Is  John in hallway?	yes	7
+13 the to John travelled bedroom.
+14 apple the left Mary.
+15 the Daniel  Is garden in?	yes	8
+1 the bathroom back went to Sandra.
+2 to moved John the garden.
+3  garden John Is the in?	yes	2
+4 Mary travelled to the office.
+5 to Sandra hallway moved the.
+6 John in garden Is the ?	yes	2
+7 kitchen went the John to.
+8 milk took John there the.
+9 Mary  Is the in office?	yes	4
+10 bedroom travelled the John to.
+11 the there football Mary got.
+12  in Is hallway Sandra the?	yes	5
+13 milk dropped John the.
+14 garden the journeyed to Sandra.
+15 John in the kitchen Is ?	no	10
+1 there apple got the Sandra.
+2 moved bathroom the John to.
+3 in  the John bedroom Is?	no	2
+4 back hallway to went Daniel the.
+5 kitchen to moved Sandra the.
+6 in John office Is the ?	no	2
+7 travelled to the bathroom Sandra.
+8 hallway to John went the.
+9 the Is in  office Sandra?	no	7
+10 garden to Sandra went the.
+11 the hallway Mary to journeyed.
+12 kitchen in Sandra  Is the?	no	10
+13 to back John bedroom went the.
+14 back to kitchen went John the.
+15 hallway Mary  Is in the?	yes	11
+1 took the Daniel football there.
+2 Daniel football discarded the.
+3 Daniel picked up there the football.
+4 to Daniel the moved bedroom.
+5 Is Daniel bedroom the  in?	yes	4
+6 there Mary apple got the.
+7 moved bathroom to Sandra the.
+8  the Sandra Is in hallway?	no	7
+9 Daniel football discarded the.
+10 John kitchen the travelled to.
+11 the Sandra in kitchen Is ?	no	7
+12 to the Sandra went kitchen.
+13 football grabbed the Daniel there.
+14 bathroom the Is  Sandra in?	no	12
+15 the to Sandra garden went.
+16 down the Mary put apple.
+17 the Sandra  office in Is?	no	15
+1 grabbed milk the there Daniel.
+2 the went bathroom to back John.
+3 Is John  garden in the?	no	2
+4 kitchen to Mary travelled the.
+5 to John the hallway moved.
+6 Is hallway in John the ?	yes	5
+7 the to Mary hallway travelled.
+8 went to bathroom the Daniel.
+9 Is John the  in hallway?	yes	5
+10 up there picked apple the Daniel.
+11 went Daniel bedroom the to.
+12 office in John  Is the?	no	5
+13 went garden John the back to.
+14 dropped the Daniel apple.
+15 in the Is Daniel bathroom ?	no	11
+1 John apple the grabbed there.
+2 went the Mary kitchen back to.
+3 Is  in Mary kitchen the?	yes	2
+4 Mary took milk the there.
+5 apple John dropped the.
+6 Is the in  Mary kitchen?	yes	2
+7 the milk Mary left.
+8 the back to John went office.
+9 in John kitchen the  Is?	no	8
+10 to kitchen the moved Sandra.
+11 office moved Mary the to.
+12 the Sandra Is  garden in?	no	10
+13 Mary kitchen travelled to the.
+14 Sandra milk there up picked the.
+15 Is  the kitchen in Sandra?	yes	10
+1 apple the John got there.
+2 milk there the Mary got.
+3 left apple John the.
+4 to kitchen the Daniel journeyed.
+5 office Is in  Daniel the?	no	4
+6 to the bathroom Daniel moved.
+7 the milk Mary left.
+8 the Is  office in Daniel?	no	6
+9 moved bathroom Sandra to the.
+10 to moved the Mary office.
+11  Is in bedroom Sandra the?	no	9
+12 to John the kitchen journeyed.
+13 travelled hallway Sandra to the.
+14 Sandra  Is hallway the in?	yes	13
+15 to bathroom John the travelled.
+16 moved garden the to John.
+17  Mary the office Is in?	yes	10
+1 to Daniel office journeyed the.
+2 to office Sandra the back went.
+3 in the Daniel garden Is ?	no	1
+4 John bathroom to moved the.
+5 office the to John moved.
+6 in Is office  the Sandra?	yes	2
+7 the grabbed there football Sandra.
+8 the garden back to went Mary.
+9 Mary bathroom the  Is in?	no	8
+10 down the Sandra football there put.
+11 the Sandra went back to bedroom.
+12 Is bedroom John the in ?	no	5
+13 kitchen Mary to the back went.
+14 apple the there got Mary.
+15 the  hallway Mary in Is?	no	13
+1 the moved to Daniel bathroom.
+2 moved office John to the.
+3 bathroom  the Daniel Is in?	yes	1
+4 Daniel hallway moved the to.
+5 Sandra there the football got.
+6 John Is kitchen  the in?	no	2
+7 to travelled hallway the John.
+8 to the journeyed John bedroom.
+9 bedroom the John Is  in?	yes	8
+10 football the Sandra dropped.
+11 Daniel the went to kitchen.
+12  Is John bathroom the in?	no	8
+13 got the apple there Daniel.
+14 the hallway went back Daniel to.
+15 the in  bedroom Is Daniel?	no	14
+1 John to journeyed bedroom the.
+2 took the there apple Mary.
+3 Is John in hallway the ?	no	1
+4 put down Mary there the apple.
+5 went back the hallway to Mary.
+6  garden in the Mary Is?	no	5
+7 the to bathroom Sandra travelled.
+8 the kitchen Daniel moved to.
+9 kitchen in Daniel Is  the?	yes	8
+10 back to went garden Sandra the.
+11 Mary bathroom the to journeyed.
+12 Is bathroom Sandra the in ?	no	10
+13 Daniel to office the travelled.
+14 Daniel journeyed to kitchen the.
+15 kitchen  in Is the Daniel?	yes	14
+1 the office John moved to.
+2 Daniel to garden the journeyed.
+3 in John  Is office the?	yes	1
+4 milk picked there the John up.
+5 football took Sandra there the.
+6 the Is in office John ?	yes	1
+7 the to went Mary back kitchen.
+8 to the bedroom Daniel journeyed.
+9 Is Daniel in  the bedroom?	yes	8
+10 John left the milk.
+11 Mary the bathroom journeyed to.
+12 bathroom Mary  Is the in?	yes	11
+13 moved bedroom the Mary to.
+14 back to office the went Daniel.
+15  Is office in Daniel the?	yes	14
+1 went bathroom to back the John.
+2 kitchen John travelled the to.
+3 in John office the Is ?	no	2
+4 Mary journeyed to the garden.
+5 the travelled garden Sandra to.
+6 garden in Is Sandra  the?	yes	5
+7 the grabbed Mary there apple.
+8 back bathroom to went Sandra the.
+9 garden Sandra the Is  in?	no	8
+10 apple Mary dropped the.
+11 journeyed to the kitchen Sandra.
+12 kitchen Sandra  in Is the?	yes	11
+13 Mary there got the apple.
+14 Sandra back went the bathroom to.
+15 bathroom in Is  the Sandra?	yes	14
+1 journeyed garden the Daniel to.
+2 to travelled the Daniel office.
+3 the Is in office Daniel ?	yes	2
+4 journeyed John garden the to.
+5 journeyed to Mary the garden.
+6 in  the John Is office?	no	4
+7 to John office went the.
+8 the milk Mary there got.
+9  in office Is John the?	yes	7
+10 to the travelled kitchen Sandra.
+11 the Mary football up there picked.
+12 hallway Is Sandra in  the?	no	10
+13 back kitchen Daniel went the to.
+14 football Mary dropped the.
+15 Sandra  the kitchen Is in?	yes	10
+1 office Daniel to travelled the.
+2 to bathroom travelled Daniel the.
+3  the Is Daniel in bathroom?	yes	2
+4 garden Daniel the travelled to.
+5 Sandra to travelled kitchen the.
+6 Sandra in  the kitchen Is?	yes	5
+7 Mary kitchen to went the back.
+8 travelled to the garden Sandra.
+9 garden the  Is Daniel in?	yes	4
+10 football there Sandra up the picked.
+11 the to bathroom journeyed Daniel.
+12  Is bathroom Daniel in the?	yes	11
+13 journeyed John the office to.
+14 to Daniel the garden moved.
+15 the garden  in Daniel Is?	yes	14
+1 Sandra grabbed the there football.
+2 John hallway to the journeyed.
+3 Is the in John  hallway?	yes	2
+4 hallway the moved to Daniel.
+5 to the moved kitchen Mary.
+6 Is hallway Daniel the in ?	yes	4
+7 picked up there Mary the apple.
+8 went John the back garden to.
+9  the Is garden in John?	yes	8
+10 Sandra to journeyed the hallway.
+11 back the went bedroom to Daniel.
+12 in Is the  Mary bedroom?	no	5
+13 back the went Mary to bathroom.
+14 the football Sandra discarded.
+15 in the Is hallway Sandra ?	yes	10
+1 to John moved the kitchen.
+2 the went Mary to office.
+3 the Mary Is  in kitchen?	no	2
+4 moved office Sandra the to.
+5 garden moved Daniel the to.
+6  the Is Sandra in office?	yes	4
+7 football the Daniel there took.
+8 the journeyed garden to Mary.
+9 in the Mary kitchen  Is?	no	8
+10 office journeyed the to Daniel.
+11 Mary the to travelled kitchen.
+12 hallway Mary Is in the ?	no	11
+13 to went back Sandra bathroom the.
+14 bedroom to went the Daniel back.
+15 the in Is Daniel office ?	no	14
+1 back to John bathroom went the.
+2 John hallway to travelled the.
+3 kitchen John  Is the in?	no	2
+4 Daniel garden to moved the.
+5 to hallway Daniel the moved.
+6  bathroom Is Daniel the in?	no	5
+7 to travelled office the Sandra.
+8 to the moved bedroom Sandra.
+9 in the  bedroom Daniel Is?	no	5
+10 office John journeyed to the.
+11 to the journeyed bathroom Daniel.
+12 in kitchen  the Daniel Is?	no	11
+13 Daniel the went to bedroom.
+14 to Daniel kitchen moved the.
+15 in the Sandra bedroom Is ?	yes	8
+1 the grabbed apple Sandra there.
+2 the journeyed bathroom Mary to.
+3  the garden Mary in Is?	no	2
+4 bedroom Sandra the travelled to.
+5 to Daniel travelled office the.
+6 the bathroom Sandra  Is in?	no	4
+7 to the back Daniel went kitchen.
+8 back went office the to Sandra.
+9 Is the in  kitchen Daniel?	yes	7
+10 garden to travelled John the.
+11 the Sandra journeyed bedroom to.
+12 Is the in  Daniel bedroom?	no	7
+13 Sandra the discarded apple.
+14 the there John milk took.
+15  John in garden the Is?	yes	10
+1 Mary there the milk grabbed.
+2 Mary discarded milk the.
+3 took the there milk Mary.
+4 the milk Mary put down.
+5 kitchen the to Mary moved.
+6 bedroom the travelled to Mary.
+7  Is bedroom in Mary the?	yes	6
+8 the moved Daniel to office.
+9 the to Sandra journeyed bedroom.
+10 bedroom Mary  in Is the?	yes	6
+11 the milk picked Daniel up there.
+12 Sandra travelled garden the to.
+13 garden Is the Sandra in ?	yes	12
+14 Daniel down put milk the.
+15 John moved to the bathroom.
+16  the in John bedroom Is?	no	15
+17 journeyed to hallway the John.
+18 Daniel there took the milk.
+19 Sandra the Is garden in ?	yes	12
+1 milk there John the got.
+2 the travelled John to hallway.
+3 hallway  Is the in John?	yes	2
+4 the milk John down put.
+5 bedroom Daniel the to went.
+6 Is the  office John in?	no	2
+7 the got Daniel there apple.
+8 Sandra got the there milk.
+9 in Is  the hallway John?	yes	2
+10 went to the Daniel kitchen.
+11 back Daniel bathroom the to went.
+12 Daniel the  kitchen in Is?	no	11
+13 there dropped Daniel apple the.
+14 there apple Daniel the got.
+15 in the Daniel kitchen Is ?	no	11
+1 went the office John to.
+2 there grabbed Sandra the football.
+3 office John  the in Is?	yes	1
+4 the journeyed kitchen Mary to.
+5 the to Daniel moved kitchen.
+6 Mary  the in kitchen Is?	yes	4
+7 bathroom Daniel the to travelled.
+8 Sandra discarded the football.
+9 the in  Daniel Is kitchen?	no	7
+10 John the journeyed to hallway.
+11 Sandra up football the picked there.
+12 kitchen the in  Is Daniel?	no	7
+13 bedroom went to Daniel the.
+14 took Daniel apple there the.
+15 Is  the hallway in John?	yes	10
+1 to journeyed the Sandra bathroom.
+2 moved the kitchen to John.
+3 in John hallway Is  the?	no	2
+4 Mary there took milk the.
+5 bathroom travelled Daniel the to.
+6  the Is in Sandra bedroom?	no	1
+7 the Daniel moved hallway to.
+8 Mary the put down milk.
+9 Daniel Is office the  in?	no	7
+10 the hallway to John went.
+11 up there Mary milk picked the.
+12 Is the hallway  John in?	yes	10
+13 took apple there the Daniel.
+14 the milk left Mary.
+15  Is hallway in the John?	yes	10
+1 Mary bedroom the journeyed to.
+2 the to went hallway Daniel.
+3  the Is garden in Mary?	no	1
+4 Mary bathroom to the moved.
+5 to went John office the back.
+6 garden the John Is in ?	no	5
+7 to travelled bedroom Daniel the.
+8 to John travelled bathroom the.
+9 Is  Mary in the bedroom?	no	4
+10 to travelled hallway the Daniel.
+11 bedroom travelled the Daniel to.
+12 Daniel bedroom Is in  the?	yes	11
+13 the back went to bedroom Mary.
+14 Mary to moved garden the.
+15 Mary in Is  garden the?	yes	14
+1 the garden Mary to travelled.
+2 the Sandra to journeyed hallway.
+3 the bathroom Sandra in Is ?	no	2
+4 journeyed the Daniel garden to.
+5 moved to the garden John.
+6 John Is in  the bedroom?	no	5
+7 the Mary office to journeyed.
+8 there grabbed Sandra the milk.
+9 the in Mary garden  Is?	no	7
+10 the journeyed to bathroom Sandra.
+11 Sandra to journeyed kitchen the.
+12 in Is  the Sandra office?	no	11
+13 the Mary bathroom to travelled.
+14 Sandra the journeyed office to.
+15 the office Sandra Is  in?	yes	14
+1 office to the moved John.
+2 Mary back to the went hallway.
+3 in Mary bathroom the Is ?	no	2
+4 back to went the Daniel bedroom.
+5 there the grabbed milk John.
+6  the Is John in office?	yes	1
+7 the travelled Sandra kitchen to.
+8 the milk discarded John.
+9 Is hallway Mary the in ?	yes	2
+10 office Mary to the moved.
+11 there John milk up picked the.
+12 Is in the Sandra  kitchen?	yes	7
+13 John bedroom to travelled the.
+14 to journeyed Mary bedroom the.
+15 Is John  kitchen in the?	no	13
+1 hallway Sandra the back to went.
+2 the Sandra journeyed to bedroom.
+3 the Is bedroom Sandra in ?	yes	2
+4 travelled to Daniel bedroom the.
+5 journeyed the John to office.
+6 in Is bedroom the Daniel ?	yes	4
+7 back bathroom the to John went.
+8 to Sandra journeyed kitchen the.
+9 Is bathroom the John  in?	yes	7
+10 John the to kitchen moved.
+11 Sandra football grabbed there the.
+12 in garden  the John Is?	no	10
+13 there John the picked up milk.
+14 went hallway the back to John.
+15 in the Is John office ?	no	14
+1 got the football Daniel there.
+2 there grabbed the apple Sandra.
+3 journeyed bathroom to the Daniel.
+4 apple dropped the Sandra.
+5 Is Daniel in the hallway ?	no	3
+6 football discarded Daniel the there.
+7 there football got the Mary.
+8 bathroom the  in Is Daniel?	yes	3
+9 to Mary moved kitchen the.
+10 bathroom to the travelled Sandra.
+11 the in Is Mary  hallway?	no	9
+12 travelled John to the kitchen.
+13 bathroom the back went to Mary.
+14 Is  John the in garden?	no	12
+15 Mary to the garden back went.
+16 went office to John the.
+17 in John the  Is kitchen?	no	16
+1 moved Daniel the bedroom to.
+2 grabbed the Daniel football there.
+3 bedroom Is Daniel in the ?	yes	1
+4 Mary the hallway travelled to.
+5 went bedroom Mary to the.
+6 in the  Mary Is bedroom?	yes	5
+7 Sandra up picked there the apple.
+8 moved garden the Daniel to.
+9 in garden Mary  the Is?	no	5
+10 the apple Sandra down put.
+11 took Sandra there apple the.
+12  the in garden Daniel Is?	yes	8
+13 down the apple Sandra put.
+14 John hallway to the went.
+15 Is Daniel office in the ?	no	8
+1 journeyed John the bedroom to.
+2 apple Daniel took the there.
+3 John in Is  bedroom the?	yes	1
+4 football the there got Daniel.
+5 the Mary journeyed bathroom to.
+6 in Is  bedroom the John?	yes	1
+7 to the went kitchen Mary.
+8 to the hallway travelled Sandra.
+9  in Is Sandra the hallway?	yes	8
+10 bathroom John to journeyed the.
+11 went Sandra kitchen back the to.
+12 the kitchen Mary in  Is?	yes	7
+13 down put there Daniel apple the.
+14 went to the office John.
+15 John garden in Is  the?	no	14
+1 to kitchen the moved Daniel.
+2 journeyed to Sandra the bathroom.
+3 Sandra Is the  bedroom in?	no	2
+4 to Sandra journeyed office the.
+5 garden the Mary to went.
+6 the garden  Sandra Is in?	no	4
+7 the John to bedroom back went.
+8 the garden John travelled to.
+9 in Is Sandra the office ?	yes	4
+10 got milk there the John.
+11 the office to Daniel travelled.
+12 office the  Is John in?	no	8
+13 the Sandra travelled hallway to.
+14 to office John went the.
+15  in John Is bathroom the?	no	14
+1 the travelled to Daniel bedroom.
+2 travelled Sandra garden the to.
+3 the  garden Sandra in Is?	yes	2
+4 picked the Daniel there up milk.
+5 bedroom the journeyed Sandra to.
+6  Is in the Daniel bedroom?	yes	1
+7 Daniel got apple the there.
+8 the back went bedroom to John.
+9 Sandra  bedroom Is the in?	yes	5
+10 Daniel left the apple.
+11 to back the went garden Daniel.
+12 the bedroom John in  Is?	yes	8
+13 travelled the to Sandra bathroom.
+14 moved John bathroom to the.
+15 Sandra Is in bathroom  the?	yes	13
+1 up Sandra apple the picked there.
+2 the to went back Daniel office.
+3 in the  Is Daniel garden?	no	2
+4 Sandra the apple left.
+5 the hallway went John to.
+6 the Daniel in office Is ?	yes	2
+7 the garden to Sandra journeyed.
+8 office the travelled Sandra to.
+9 office  Daniel in the Is?	yes	2
+10 the there Daniel milk grabbed.
+11 to the Daniel hallway went.
+12 Is John in  the hallway?	yes	5
+13 John travelled to garden the.
+14 John the took football there.
+15  garden the Is John in?	yes	13
+1 back garden to went Mary the.
+2 the Daniel journeyed hallway to.
+3 in office Mary the  Is?	no	1
+4 Mary to the bathroom went.
+5 the Daniel to went bathroom back.
+6 Is  Daniel kitchen the in?	no	5
+7 bathroom Sandra to moved the.
+8 to went bedroom Sandra the.
+9 in Is  bedroom the Daniel?	no	5
+10 Daniel the apple took there.
+11 there Sandra the football got.
+12 the bedroom Sandra Is in ?	yes	8
+13 travelled the to Daniel office.
+14 Sandra grabbed there milk the.
+15 the Sandra  bedroom Is in?	yes	8
+1 hallway to Sandra the journeyed.
+2 there the Daniel milk got.
+3  Is Sandra hallway the in?	yes	1
+4 went garden to the John.
+5 the dropped milk Daniel.
+6 John  in Is the bedroom?	no	4
+7 John to moved the bathroom.
+8 the there took Daniel milk.
+9 in John Is garden  the?	no	7
+10 the went kitchen John to.
+11 the John moved to garden.
+12 Is  John in kitchen the?	no	11
+13 the milk Daniel dropped.
+14 took Sandra there the milk.
+15  the garden John Is in?	yes	11
+1 took Sandra football there the.
+2 the journeyed office Daniel to.
+3 Is the Daniel office  in?	yes	2
+4 to Daniel journeyed bedroom the.
+5 Sandra put football down the.
+6 Is in  Daniel bathroom the?	no	4
+7 garden back Sandra to the went.
+8 milk there Sandra the took.
+9 Sandra in Is garden  the?	yes	7
+10 journeyed garden to the Daniel.
+11 Sandra there milk the dropped.
+12 the  Daniel Is in bathroom?	no	10
+13 hallway travelled to the Sandra.
+14 travelled the John to bedroom.
+15 the Is  bedroom John in?	yes	14
+1 up Sandra milk the picked there.
+2 Daniel apple the got there.
+3 the Sandra milk dropped.
+4 back to went the bedroom John.
+5 hallway in the John Is ?	no	4
+6 the discarded Daniel apple.
+7 bathroom Daniel to went the.
+8 in the kitchen  Daniel Is?	no	7
+9 the took Sandra milk there.
+10 kitchen travelled to Daniel the.
+11 Is the Daniel in hallway ?	no	10
+12 Sandra bathroom to moved the.
+13 to bathroom the went John.
+14 the  bathroom Sandra in Is?	yes	12
+15 Sandra discarded milk the.
+16 milk John got there the.
+17 Is Daniel  in office the?	no	10
+1 the there football Mary grabbed.
+2 Mary milk got there the.
+3 Mary the discarded football.
+4 to Daniel went back the garden.
+5  kitchen the Daniel in Is?	no	4
+6 went to back Sandra the office.
+7 went kitchen the back to Sandra.
+8 Sandra the Is in hallway ?	no	7
+9 milk left Mary the.
+10 hallway the went to back Mary.
+11 garden in the  Is Sandra?	no	7
+12 moved to hallway the John.
+13 the Daniel office journeyed to.
+14 the garden Mary  in Is?	no	10
+15 picked up apple there the Sandra.
+16 bathroom the went to John.
+17 the Is  John kitchen in?	no	16
+1 Mary milk got there the.
+2 hallway the to back went John.
+3 hallway  the Is in John?	yes	2
+4 the journeyed to kitchen Sandra.
+5 there got apple the John.
+6 Sandra  Is in kitchen the?	yes	4
+7 Sandra to moved the hallway.
+8 milk Mary the left.
+9 Sandra garden in the  Is?	no	7
+10 to the bathroom Sandra went.
+11 dropped John the apple.
+12 in bathroom the Is Sandra ?	yes	10
+13 Daniel the to kitchen travelled.
+14 Sandra the kitchen moved to.
+15 in garden Is Sandra  the?	no	14
+1 got Daniel there the milk.
+2 the got apple there Sandra.
+3 garden to Daniel moved the.
+4 kitchen to moved Mary the.
+5 in Mary kitchen Is  the?	yes	4
+6 Sandra to the went back garden.
+7 Daniel travelled the hallway to.
+8 in Mary Is the  kitchen?	yes	4
+9 office to back Mary went the.
+10 the there grabbed football Mary.
+11 garden  the in Sandra Is?	yes	6
+12 moved Sandra to bathroom the.
+13 Mary football the discarded.
+14  the Mary office in Is?	yes	9
+15 went to back Sandra the bedroom.
+16 milk there dropped the Daniel.
+17  garden Is the Sandra in?	no	15
+1 went Mary the to bedroom.
+2 the to bedroom Daniel travelled.
+3 Is Daniel in the kitchen ?	no	2
+4 Mary bathroom to the moved.
+5 the back John hallway to went.
+6 John office the Is  in?	no	5
+7 garden back Sandra to went the.
+8 went Mary office to the.
+9 garden Is in  the Sandra?	yes	7
+10 there apple Mary the got.
+11 Daniel to travelled bathroom the.
+12 garden  Is in Sandra the?	yes	7
+13 the Sandra back to bathroom went.
+14 hallway back to the Daniel went.
+15 Is  bathroom Sandra the in?	yes	13
+1 Mary the took milk there.
+2 hallway went back the to Daniel.
+3 in Daniel garden  Is the?	no	2
+4 the milk down Mary put.
+5 journeyed Mary the to hallway.
+6  in hallway Is Daniel the?	yes	2
+7 travelled the Daniel bathroom to.
+8 bathroom to the went Mary.
+9  the Mary kitchen in Is?	no	8
+10 Sandra there milk the got.
+11 milk the Sandra put down.
+12 bathroom  Mary the Is in?	yes	8
+13 to garden Mary moved the.
+14 hallway to journeyed Mary the.
+15  Mary the hallway in Is?	yes	14
+1 to office the John went.
+2 bathroom Sandra went the to.
+3 the Is kitchen in  Sandra?	no	2
+4 the garden travelled to Sandra.
+5 went to Sandra bedroom the.
+6 Is Sandra bedroom in the ?	yes	5
+7 to garden Sandra travelled the.
+8 to the Mary kitchen went.
+9 Sandra Is garden in  the?	yes	7
+10 grabbed there the apple John.
+11 bedroom to the journeyed Daniel.
+12 Is bedroom the  in Sandra?	no	7
+13 picked there the football up John.
+14 milk the there took John.
+15  in the Mary bedroom Is?	no	8
+1 the to Mary kitchen travelled.
+2 went bedroom John to the.
+3 bedroom the  in John Is?	yes	2
+4 to the went Sandra office.
+5 there the football up John picked.
+6  the Sandra Is in office?	yes	4
+7 kitchen travelled Sandra to the.
+8 went the to Sandra back office.
+9 John  the in kitchen Is?	no	2
+10 to journeyed Daniel the garden.
+11 there Daniel the milk up picked.
+12 hallway  Is Sandra in the?	no	8
+13 the travelled Daniel to hallway.
+14 the up picked there apple Daniel.
+15 office in  Is Sandra the?	yes	8
+1 to journeyed the office Mary.
+2 to the moved hallway Daniel.
+3 kitchen Is  Daniel in the?	no	2
+4 Sandra hallway journeyed to the.
+5 went garden to the Sandra.
+6 in  Sandra the kitchen Is?	no	5
+7 Daniel the to moved kitchen.
+8 to Mary journeyed the kitchen.
+9 Is the Sandra  in kitchen?	no	5
+10 the Daniel to travelled bathroom.
+11 up there the football picked Daniel.
+12 in the Is garden Sandra ?	yes	5
+13 the there Sandra took milk.
+14 Sandra the left milk.
+15 the office  in Is Daniel?	no	10
+1 the took milk there Mary.
+2 Sandra the went hallway to.
+3 Is office Sandra  in the?	no	2
+4 back the bathroom went Mary to.
+5 John garden to the went.
+6 the  Is bedroom in John?	no	5
+7 there picked Mary the up football.
+8 hallway travelled Mary to the.
+9 office the Sandra  Is in?	no	2
+10 to Sandra office the moved.
+11 journeyed Sandra the bathroom to.
+12 Is bathroom in John  the?	no	5
+13 moved the John hallway to.
+14 the football Mary down put.
+15 Mary  hallway the Is in?	yes	8
+1 the garden moved Daniel to.
+2 the kitchen went John to.
+3 John in Is  the garden?	no	2
+4 office Daniel moved the to.
+5 went the garden to back Daniel.
+6 the John  in bedroom Is?	no	2
+7 went bathroom Mary to the back.
+8 garden Mary the went back to.
+9 bedroom Is in Daniel  the?	no	5
+10 Sandra the moved to office.
+11 Sandra there got apple the.
+12  in the Daniel bathroom Is?	no	5
+13 Sandra the to bedroom went.
+14 the bathroom Mary to moved.
+15 in  Is the bathroom Mary?	yes	14
+1 football took there John the.
+2 the Mary to garden went.
+3 Mary the  in bathroom Is?	no	2
+4 bedroom Daniel moved to the.
+5 travelled to the kitchen Daniel.
+6 in  Daniel Is bathroom the?	no	5
+7 bedroom to John journeyed the.
+8 to kitchen the moved Sandra.
+9 kitchen in Is the  Sandra?	yes	8
+10 the moved garden John to.
+11 to Mary went kitchen the back.
+12  garden Is the in John?	yes	10
+13 discarded the football John.
+14 back bathroom to Mary went the.
+15 Is in the garden Sandra ?	no	8
+1 bedroom John the to moved.
+2 John moved the to hallway.
+3 in the John Is  kitchen?	no	2
+4 picked up apple the John there.
+5 John back to went the garden.
+6 the in  John Is bathroom?	no	5
+7 the Mary milk up there picked.
+8 bedroom went to Mary the.
+9 the in garden John  Is?	yes	5
+10 to bathroom Daniel the went.
+11 John took football there the.
+12 in  Is Mary bedroom the?	yes	8
+13 travelled Sandra to the hallway.
+14 put the milk down Mary.
+15 bedroom Mary  in Is the?	yes	8
+1 went back the bedroom John to.
+2 Mary travelled the to bathroom.
+3 in Is hallway Mary  the?	no	2
+4 up the apple there picked John.
+5 Sandra the bedroom went to.
+6 Is the  bathroom in Sandra?	no	5
+7 travelled to the John bathroom.
+8 milk took the there Mary.
+9 Is bathroom the  Mary in?	yes	2
+10 John dropped the apple.
+11 the John there grabbed apple.
+12 the in Is John bathroom ?	yes	7
+13 discarded milk the Mary.
+14 went the Mary office to.
+15 Mary in the Is  office?	yes	14
+1 the milk there Sandra up picked.
+2 John apple there took the.
+3 there Sandra took the football.
+4 dropped the John apple.
+5 to travelled kitchen the Daniel.
+6 the picked up apple Daniel there.
+7 Daniel  kitchen the Is in?	yes	5
+8 discarded milk the Sandra.
+9 got the there milk John.
+10 Is in  the Daniel bedroom?	no	5
+11 John to the went bathroom.
+12 down apple the put Daniel.
+13 the  John kitchen Is in?	no	11
+14 there picked the Daniel up apple.
+15 to journeyed the office John.
+16 John the bedroom Is in ?	no	15
+17 the milk left John.
+18 left Sandra football the.
+19 in garden  the Is John?	no	15
+1 the moved office John to.
+2 to bathroom travelled the John.
+3 Is office John  the in?	no	2
+4 to Sandra office went back the.
+5 the to bedroom went Daniel.
+6  the in garden Is Daniel?	no	5
+7 to moved kitchen Mary the.
+8 Sandra kitchen to the moved.
+9 John the hallway in Is ?	no	2
+10 John the bedroom to travelled.
+11 to John travelled kitchen the.
+12 the kitchen  Is in Sandra?	yes	8
+13 Sandra garden journeyed to the.
+14 Sandra the bedroom to moved.
+15 Sandra Is in the bedroom ?	yes	14
+1 John kitchen the to travelled.
+2 Mary the picked there apple up.
+3 John Is the in kitchen ?	yes	1
+4 to Sandra bedroom travelled the.
+5 to bathroom the moved Mary.
+6 Sandra  the in bedroom Is?	yes	4
+7 John moved the to bedroom.
+8 Sandra to back the garden went.
+9 Is the Mary bathroom in ?	yes	5
+10 travelled the kitchen Mary to.
+11 went back the kitchen Sandra to.
+12 Sandra garden Is in  the?	no	11
+13 the garden back went to John.
+14 Sandra hallway to moved the.
+15 kitchen the in John  Is?	no	13
+1 milk got Daniel there the.
+2 Mary the journeyed office to.
+3 in Is office  the Mary?	yes	2
+4 Daniel down milk there put the.
+5 the garden journeyed to Daniel.
+6 in the Daniel  garden Is?	yes	5
+7 back Sandra office to the went.
+8 bathroom went Daniel back the to.
+9 the in Daniel  bathroom Is?	yes	8
+10 journeyed kitchen the Sandra to.
+11 to the garden Mary travelled.
+12 Is bathroom in the Daniel ?	yes	8
+13 the travelled garden to Daniel.
+14 journeyed Sandra the to bathroom.
+15  in Is Daniel office the?	no	13
+1 apple got the there John.
+2 discarded John apple the.
+3 the took there apple Sandra.
+4 bedroom to the moved Mary.
+5 in  Is the Mary office?	no	4
+6 to John the back went bathroom.
+7 John there the took football.
+8 the in Mary Is  bedroom?	yes	4
+9 football the John dropped.
+10 garden John journeyed to the.
+11  in the garden Is John?	yes	10
+12 Mary the journeyed to office.
+13 went to the Daniel hallway.
+14 the garden John Is in ?	yes	10
+15 bathroom to Daniel the moved.
+16 John went kitchen the to.
+17 Mary Is hallway in  the?	no	12
+1 bedroom to Sandra the journeyed.
+2 the picked Daniel up milk there.
+3 in Sandra the  bedroom Is?	yes	1
+4 bathroom travelled the to Mary.
+5 there took the Sandra football.
+6 kitchen Sandra Is the in ?	no	1
+7 put the Sandra football down.
+8 moved the Sandra kitchen to.
+9 bathroom the Is Mary in ?	yes	4
+10 John bathroom the to went back.
+11 to hallway Mary travelled the.
+12 in Is Mary  the office?	no	11
+13 moved John to bedroom the.
+14 Sandra the travelled to garden.
+15 Sandra  Is the garden in?	yes	14
+1 to the office went Mary.
+2 Daniel football picked the up there.
+3 the  in Is office Mary?	yes	1
+4 the went office John to.
+5 went hallway the Mary to.
+6 Mary Is kitchen in the ?	no	5
+7 Mary the travelled to bathroom.
+8 Daniel the back to office went.
+9 Mary kitchen  the Is in?	no	7
+10 to bathroom John moved the.
+11 journeyed to the Sandra bathroom.
+12 Is  bathroom the in Mary?	yes	7
+13 the Daniel left there football.
+14 there the Daniel grabbed football.
+15 garden  in Is Sandra the?	no	11
+1 Daniel there the grabbed milk.
+2 dropped Daniel milk the.
+3 up milk the Daniel picked there.
+4 there the Mary grabbed football.
+5 journeyed bedroom to Daniel the.
+6 kitchen the Daniel journeyed to.
+7 Is the  bedroom in Daniel?	no	6
+8 the left football Mary.
+9 Mary got football the there.
+10 the bathroom Daniel in Is ?	no	6
+11 Mary football down the put.
+12 kitchen moved to the Sandra.
+13  bedroom Is in the Daniel?	no	6
+14 to journeyed hallway the Daniel.
+15 John the office travelled to.
+16 the hallway  in John Is?	no	15
+17 there the apple Daniel grabbed.
+18 hallway went the to Mary back.
+19 John Is  in the office?	yes	15
+1 journeyed to Mary the bathroom.
+2 back to the Daniel went bedroom.
+3 Daniel in the bathroom Is ?	no	2
+4 the there got apple Mary.
+5 Daniel travelled office the to.
+6 Is Daniel in office the ?	yes	5
+7 discarded the apple Mary.
+8 up the picked there Sandra apple.
+9 Daniel Is in the  hallway?	no	5
+10 journeyed to the Sandra office.
+11 Mary office to back the went.
+12 Is office  in the Daniel?	yes	5
+13 the to journeyed John bedroom.
+14 hallway the to travelled Sandra.
+15 Mary  in the Is bedroom?	no	11
+1 to garden Mary the went.
+2 the went Mary bedroom to.
+3 Mary  in bedroom the Is?	yes	2
+4 Sandra went the back garden to.
+5 the grabbed Daniel there milk.
+6 bathroom  the in Is Mary?	no	2
+7 journeyed hallway the Mary to.
+8 to the John kitchen travelled.
+9 the  Is in hallway John?	no	8
+10 back went the John to garden.
+11 the bedroom Sandra to went back.
+12  garden in John Is the?	yes	10
+13 the to Sandra kitchen moved.
+14 down the milk Daniel put.
+15 in Is Sandra kitchen  the?	yes	13
+1 the up picked milk Mary there.
+2 John to hallway the travelled.
+3  in Is the John hallway?	yes	2
+4 the went to bedroom John back.
+5 the John to moved hallway.
+6 Is  bedroom John the in?	no	5
+7 journeyed Sandra the office to.
+8 John office the went to.
+9 the Is Sandra office in ?	yes	7
+10 back to went the Daniel garden.
+11 back kitchen to the Mary went.
+12 Is John office  the in?	yes	8
+13 garden to journeyed the Mary.
+14 went to the Daniel office.
+15 office Daniel in Is  the?	yes	14
+1 journeyed John hallway to the.
+2 travelled the bedroom to Sandra.
+3 Is office  John the in?	no	1
+4 football there the John took.
+5 the office travelled Sandra to.
+6 office  the Is in Sandra?	yes	5
+7 to the Sandra bedroom went.
+8 Daniel kitchen back to the went.
+9 in Is the  Sandra bedroom?	yes	7
+10 the took John apple there.
+11 the milk got Mary there.
+12 bedroom  in the Is Sandra?	yes	7
+13 to travelled bathroom the Daniel.
+14 Mary the dropped milk.
+15 Is Daniel the  in bathroom?	yes	13
+1 the to John travelled kitchen.
+2 grabbed football there the Mary.
+3 Is in John the office ?	no	1
+4 bedroom went the Sandra to.
+5 Sandra there took the apple.
+6 the kitchen John Is in ?	yes	1
+7 the got there Daniel milk.
+8 there the discarded milk Daniel.
+9 the Sandra in  office Is?	no	4
+10 Mary discarded football the.
+11 the bathroom travelled Sandra to.
+12 the Sandra bathroom Is  in?	yes	11
+13 there Mary got the football.
+14 to kitchen went back Sandra the.
+15 Is the in Sandra kitchen ?	yes	14
+1 journeyed garden the to Mary.
+2 to went the office Mary back.
+3 the  in Is Mary office?	yes	2
+4 to kitchen the Daniel travelled.
+5 bathroom the Sandra moved to.
+6  in office the Mary Is?	yes	2
+7 football John grabbed the there.
+8 football the John discarded.
+9 Is office in  Sandra the?	no	5
+10 garden Sandra back went the to.
+11 the moved Daniel office to.
+12 the bathroom Is in Sandra ?	no	10
+13 bedroom Daniel went the to.
+14 John took there football the.
+15 garden  Is in the Sandra?	yes	10
+1 went the John to garden.
+2 went to the John back kitchen.
+3 kitchen the John in Is ?	yes	2
+4 Daniel the went to office.
+5 bathroom to Sandra travelled the.
+6  Is kitchen John the in?	yes	2
+7 up Daniel there apple picked the.
+8 the Daniel apple put down.
+9 office Is Daniel the  in?	yes	4
+10 to the John moved hallway.
+11 moved to office the Sandra.
+12  Is hallway the John in?	yes	10
+13 kitchen moved Sandra the to.
+14 office to the John moved.
+15 bathroom John Is  in the?	no	14
+1 Daniel went the kitchen to.
+2 Mary the to bedroom journeyed.
+3 Is Mary the in hallway ?	no	2
+4 Sandra to the travelled hallway.
+5 John journeyed bathroom to the.
+6 the kitchen Daniel  Is in?	yes	1
+7 to John went back garden the.
+8 garden to back the went Sandra.
+9 kitchen  in the Is Sandra?	no	8
+10 the Sandra travelled bathroom to.
+11 back to went bathroom the John.
+12 Is  the John bathroom in?	yes	11
+13 Sandra there apple got the.
+14 to journeyed office the Mary.
+15 Is in the Sandra garden ?	no	10
+1 Mary to went back the hallway.
+2 Sandra the kitchen travelled to.
+3 kitchen the in Is  Sandra?	yes	2
+4 journeyed the to John garden.
+5 journeyed the Sandra bathroom to.
+6 Is John hallway the in ?	no	4
+7 to moved Daniel garden the.
+8 to hallway went back the Sandra.
+9 garden Daniel the Is in ?	yes	7
+10 the travelled to garden Sandra.
+11 hallway travelled the Daniel to.
+12 in Is  the Sandra bathroom?	no	10
+13 to the John journeyed bedroom.
+14 Mary moved office the to.
+15  the in Mary Is office?	yes	14
+1 moved the to Daniel hallway.
+2 picked the there up Daniel football.
+3  Is in Daniel hallway the?	yes	1
+4 to the travelled Daniel garden.
+5 journeyed the Daniel hallway to.
+6  in kitchen Is the Daniel?	no	5
+7 the to kitchen Daniel went.
+8 to Sandra the office went.
+9 Is  the Sandra in garden?	no	8
+10 the journeyed bathroom Sandra to.
+11 Daniel to moved the bedroom.
+12  the bathroom in Is Sandra?	yes	10
+13 Daniel the football dropped.
+14 there Daniel football the grabbed.
+15 in  Sandra bedroom the Is?	no	10
+1 moved to Mary the kitchen.
+2 travelled the office Mary to.
+3 bedroom in Is the  Mary?	no	2
+4 there up the Daniel milk picked.
+5 the went garden to Sandra.
+6 Sandra Is  in kitchen the?	no	5
+7 apple grabbed the there Sandra.
+8 the dropped Sandra apple.
+9 the  bedroom in Is Mary?	no	2
+10 the dropped Daniel milk.
+11 garden the went Mary to.
+12 garden  the Is in Sandra?	yes	5
+13 the Daniel took milk there.
+14 the there picked Mary apple up.
+15 Is  garden Mary in the?	yes	11

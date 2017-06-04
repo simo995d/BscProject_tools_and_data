@@ -1,0 +1,3352 @@
+1 the to This kitchen morning Mary moved.
+2 to Mary This afternoon the moved cinema.
+3 bedroom Yesterday to went the Bill.
+4 journeyed school Yesterday the to Mary.
+5 was cinema the  before Where Mary?	kitchen	2 1
+6 Fred Yesterday the went cinema back to.
+7 morning the office this to journeyed Bill.
+8 before  the Bill Where office was?	bedroom	7 3
+9 the Mary school this to evening went.
+10 afternoon to kitchen This the journeyed Bill.
+11 before  the office Bill was Where?	bedroom	7 3
+12 yesterday went to the Julie office.
+13 journeyed to Fred the morning office This.
+14 the Mary Where school was  before?	cinema	9 2
+15 This evening to the school journeyed Fred.
+16 journeyed to This the Fred afternoon bedroom.
+17 before Where was  Mary the school?	cinema	9 2
+1 Julie back school the to yesterday went.
+2 journeyed yesterday Fred cinema the to.
+3 school went to back morning the Bill this.
+4 Yesterday bedroom the travelled Bill to.
+5 before was Bill Where  school the?	bedroom	3 4
+6 travelled the Mary this cinema morning to.
+7 Yesterday moved office to the Mary.
+8  cinema the Mary before Where was?	office	6 7
+9 to This park morning Fred the journeyed.
+10 Mary moved This the to kitchen afternoon.
+11  before Mary was cinema Where the?	office	6 7
+12 afternoon to the this moved bedroom Bill.
+13 This travelled to the office morning Julie.
+14  before Where the was office Julie?	school	13 1
+15 kitchen afternoon the to Julie This went.
+16 evening school Mary moved to the This.
+17 was the  office Julie before Where?	school	13 1
+1 Fred travelled to yesterday the kitchen.
+2 to journeyed Julie park yesterday the.
+3 journeyed park to the Mary yesterday.
+4 the cinema morning This journeyed to Mary.
+5 before cinema Mary was Where  the?	park	4 3
+6 to kitchen moved this the Mary evening.
+7 the to Mary office This moved afternoon.
+8 office was Mary Where before the ?	cinema	7 4
+9 morning to the went This Fred bedroom.
+10 bedroom the This went morning Julie to.
+11 was bedroom Julie  the before Where?	park	10 2
+12 Julie the to afternoon travelled kitchen this.
+13 Yesterday to the Bill office journeyed.
+14 Where was bedroom the before  Julie?	park	10 2
+15 Fred travelled to the evening this bedroom.
+16 to moved afternoon this the cinema Fred.
+17 before bedroom  Fred Where was the?	cinema	15 16
+1 cinema the Fred This morning journeyed to.
+2 office went Yesterday Fred to the back.
+3 office Julie to Yesterday the travelled.
+4 travelled This the Julie to morning bedroom.
+5 before the Julie  bedroom Where was?	office	4 3
+6 went the yesterday Mary to park.
+7 the back went Yesterday cinema Bill to.
+8 before was cinema the  Fred Where?	office	1 2
+9 to this the office journeyed Mary afternoon.
+10 this Mary morning the bedroom moved to.
+11 the  was before cinema Fred Where?	office	1 2
+12 journeyed to Fred this office the evening.
+13 travelled to kitchen the this Fred afternoon.
+14 Where before was the  Mary office?	bedroom	9 10
+15 evening Julie moved the This to office.
+16 the this to Julie kitchen afternoon journeyed.
+17 the was kitchen Where before  Julie?	bedroom	16 4
+1 back kitchen this to morning Mary went the.
+2 to school travelled the yesterday Mary.
+3 was  kitchen Where before the Mary?	school	1 2
+4 Yesterday the Fred bedroom to travelled.
+5 the moved park Bill to Yesterday.
+6 Mary before Where was kitchen  the?	school	1 2
+7 back went park Bill afternoon the This to.
+8 morning school the went this Bill to.
+9 was Bill before the  Where park?	school	7 8
+10 evening Bill this office the to travelled.
+11 Mary This to cinema the afternoon journeyed.
+12 was before Bill park the  Where?	school	7 8
+13 evening kitchen Mary the to This journeyed.
+14 the yesterday to went back office Julie.
+15  before the Mary was Where kitchen?	cinema	13 11
+1 the school went yesterday to Fred.
+2 to the journeyed kitchen Julie Yesterday.
+3 Bill the bedroom yesterday went to.
+4 morning This went kitchen the to Bill.
+5 Bill kitchen was the  before Where?	bedroom	4 3
+6 kitchen Fred moved to morning this the.
+7 to moved this Julie office morning the.
+8 office before  the Where was Julie?	kitchen	7 2
+9 to travelled afternoon cinema the This Fred.
+10 went to the afternoon This Bill bedroom.
+11  was the Where before cinema Fred?	kitchen	9 6
+12 to yesterday park the went Mary.
+13 journeyed This bedroom evening the to Fred.
+14 bedroom Fred Where before was  the?	cinema	13 9
+15 Bill this the to school journeyed evening.
+16 morning kitchen Mary moved the to This.
+17 was bedroom Fred Where the  before?	cinema	13 9
+1 the to Mary bedroom travelled yesterday.
+2 to went school yesterday the Bill.
+3 Julie journeyed to Yesterday the kitchen.
+4 this morning travelled the park to Bill.
+5 was park Bill before Where the ?	school	4 2
+6 Bill went afternoon back kitchen the to this.
+7 moved morning Julie to the this bedroom.
+8 park  Bill was Where before the?	school	4 2
+9 journeyed Julie evening This to school the.
+10 journeyed kitchen the This afternoon Julie to.
+11 Where the was  before kitchen Julie?	bedroom	10 7
+12 Bill travelled to the office this evening.
+13 bedroom journeyed yesterday to Fred the.
+14  Bill before Where the kitchen was?	park	6 4
+15 to bedroom the Fred afternoon this travelled.
+16 morning office This Fred travelled to the.
+17 the school  Julie Where before was?	kitchen	9 10
+1 morning the bedroom to travelled This Fred.
+2 to Yesterday Fred park travelled the.
+3 Where was before Fred the  bedroom?	park	1 2
+4 to bedroom This the Fred went evening.
+5 Fred this cinema to afternoon moved the.
+6 was the Fred cinema  Where before?	bedroom	5 1
+7 cinema Julie went morning the This back to.
+8 the journeyed to yesterday Julie school.
+9 was before bedroom Where Fred the ?	cinema	4 5
+10 to yesterday went school Bill the.
+11 the school to journeyed Mary yesterday.
+12 the  was cinema Where before Julie?	school	7 8
+13 journeyed to kitchen the Bill morning this.
+14 Julie went school afternoon back this the to.
+15  school the Julie before was Where?	cinema	14 7
+1 the morning to This kitchen Mary went.
+2 Mary cinema the to travelled Yesterday.
+3 Where the before Mary  kitchen was?	cinema	1 2
+4 Bill the park to travelled yesterday.
+5 office This to back went afternoon the Mary.
+6  was the office Mary Where before?	kitchen	5 1
+7 this the morning bedroom went Bill to.
+8 Yesterday cinema the to Julie went back.
+9 the office was Mary  Where before?	kitchen	5 1
+10 This the to afternoon Bill moved park.
+11 this school to moved Julie the morning.
+12 bedroom Bill Where was  the before?	park	7 4
+13 to went park yesterday Fred the back.
+14 to travelled this park the evening Mary.
+15 before Mary the park was Where ?	office	14 5
+1 the bedroom Yesterday Fred travelled to.
+2 the bedroom yesterday Bill travelled to.
+3 the Julie Yesterday to went cinema.
+4 morning Fred This to the school went.
+5 school Fred before  the was Where?	bedroom	4 1
+6 the moved This to morning Julie bedroom.
+7 this moved Fred office afternoon the to.
+8 Where  the bedroom Julie was before?	cinema	6 3
+9 to yesterday the Mary kitchen travelled.
+10 evening went back to the school Fred This.
+11 school  Fred Where was the before?	office	10 7
+12 this to school moved the afternoon Mary.
+13 this back the Mary went office morning to.
+14 school before Where was  the Mary?	office	12 13
+15 to the this back afternoon park Julie went.
+16 this morning the Bill went school to.
+17  was park Where Julie the before?	bedroom	15 6
+1 back This the morning park to Bill went.
+2 Yesterday to bedroom the Mary went.
+3 morning Mary office moved This the to.
+4 cinema to travelled Bill Yesterday the.
+5 Where before the was office Mary ?	bedroom	3 2
+6 to cinema afternoon journeyed this Mary the.
+7 went Julie the yesterday to office.
+8 before was  the Where office Mary?	bedroom	3 2
+9 travelled school Julie morning this the to.
+10 this to school moved Bill afternoon the.
+11 Where before the  Bill was school?	park	10 1
+12 the moved Mary to This school evening.
+13 moved bedroom the evening to this Bill.
+14 the was  Bill Where before school?	park	10 1
+15 the went to bedroom Julie This afternoon.
+16 went to the Yesterday bedroom Fred.
+17 Bill Where was bedroom before  the?	school	13 10
+1 kitchen This morning Fred journeyed to the.
+2 yesterday travelled cinema to the Julie.
+3 the afternoon went cinema back Fred This to.
+4 office journeyed Fred the to Yesterday.
+5 Where kitchen before  was Fred the?	office	1 4
+6 went to Yesterday the Mary office back.
+7 Yesterday to the Bill park went.
+8 cinema before Where Fred the was ?	kitchen	3 1
+9 This to the kitchen journeyed morning Bill.
+10 Fred to evening this kitchen travelled the.
+11 before  the cinema Fred was Where?	kitchen	3 1
+12 journeyed This afternoon school to Bill the.
+13 Mary cinema this went morning the to.
+14  was school before the Bill Where?	kitchen	12 9
+15 evening This Bill the to travelled kitchen.
+16 moved afternoon Mary the to This kitchen.
+17 the was  Bill school Where before?	kitchen	12 9
+1 office to Bill the yesterday travelled.
+2 school moved morning to Bill the this.
+3 yesterday went to kitchen the Fred back.
+4 yesterday Julie the school journeyed to.
+5 before was  the Where Bill school?	office	2 1
+6 journeyed Bill the This afternoon cinema to.
+7 the Yesterday park journeyed to Mary.
+8 Where cinema Bill was before the ?	school	6 2
+9 this journeyed to the bedroom morning Fred.
+10 the kitchen this back went to Julie morning.
+11 cinema before  was the Where Bill?	school	6 2
+12 travelled afternoon to Fred the this park.
+13 to this travelled evening the bedroom Bill.
+14 bedroom Bill  Where before the was?	cinema	13 6
+15 evening Fred back This to went the office.
+16 Julie afternoon this cinema to went back the.
+17 Bill  the Where before bedroom was?	cinema	13 6
+1 morning cinema the Bill this to journeyed.
+2 Bill the office to yesterday moved.
+3 Where was before cinema Bill  the?	office	1 2
+4 the went yesterday back Fred to bedroom.
+5 park this to Bill travelled the afternoon.
+6 Bill Where the  before was park?	cinema	5 1
+7 journeyed school the Fred morning This to.
+8 went cinema this the to evening Bill.
+9 Fred school before  the was Where?	bedroom	7 4
+10 This office morning Mary the moved to.
+11 Yesterday Mary the to moved bedroom.
+12 Bill Where  was the before cinema?	park	8 5
+13 Fred travelled the to afternoon This bedroom.
+14 afternoon to school the this Mary journeyed.
+15 before Fred school Where was the ?	bedroom	7 4
+1 the Bill went Yesterday to school.
+2 to the Mary morning journeyed kitchen this.
+3 yesterday to Fred the went school.
+4 the to went Mary office Yesterday.
+5 the  was Mary kitchen before Where?	office	2 4
+6 went bedroom to afternoon the This Mary back.
+7 This to Fred morning the journeyed cinema.
+8 before Mary kitchen Where  the was?	office	2 4
+9 park This Mary to the went evening.
+10 journeyed Julie bedroom yesterday to the.
+11 Mary park  before the Where was?	bedroom	9 6
+12 school afternoon to Fred this back the went.
+13 to morning bedroom this journeyed Bill the.
+14  the Where was Fred school before?	cinema	12 7
+15 went morning to Julie the school This.
+16 to Bill kitchen afternoon This the journeyed.
+17 Bill was bedroom Where the before ?	school	13 1
+1 Mary moved bedroom Yesterday to the.
+2 moved the Julie office to this morning.
+3 the back yesterday Fred kitchen to went.
+4 office journeyed the This morning to Bill.
+5 school Bill to back went the yesterday.
+6 yesterday Julie to went cinema the.
+7 Where  the before was Bill office?	school	4 5
+8 morning the to Fred travelled school This.
+9 bedroom afternoon to moved the This Julie.
+10 the before Where  office was Julie?	cinema	2 6
+11 morning back Mary to kitchen the went this.
+12 went the to Bill This cinema afternoon back.
+13  cinema was the before Where Bill?	office	12 4
+14 cinema Fred journeyed the This afternoon to.
+15 went evening the This park Julie to.
+16 Where cinema Bill was the before ?	office	12 4
+17 afternoon the park This Mary to went.
+18 evening the journeyed park Fred to this.
+19 the was Fred before Where park ?	cinema	18 14
+1 moved this the to Fred park morning.
+2 Fred the Yesterday to back kitchen went.
+3 before the  was Fred park Where?	kitchen	1 2
+4 Bill Yesterday office to the moved.
+5 yesterday journeyed Julie to the school.
+6 before  was the Where Fred park?	kitchen	1 2
+7 Fred back park the this to evening went.
+8 office afternoon Fred went to the This.
+9 was Where  the office Fred before?	park	8 1
+10 moved bedroom this morning to Bill the.
+11 morning This office to went the Julie.
+12  the before Where park was Fred?	office	7 8
+13 to journeyed Julie afternoon park the this.
+14 yesterday to travelled cinema Mary the.
+15 was before the Where  Bill bedroom?	office	10 4
+1 school the yesterday travelled Julie to.
+2 This park the went morning Bill to.
+3 the back bedroom went yesterday to Mary.
+4 Yesterday to the school Bill travelled.
+5 was the park before  Bill Where?	school	2 4
+6 Bill cinema to the went afternoon This.
+7 school to the yesterday Fred journeyed.
+8 Where before was  park Bill the?	school	2 4
+9 to evening Bill moved park This the.
+10 Fred to went kitchen back morning the this.
+11  Bill the before Where park was?	cinema	9 6
+12 morning office to journeyed this the Julie.
+13 afternoon this the Fred to back went bedroom.
+14 park Where before the Bill  was?	cinema	9 6
+15 evening to Julie the travelled cinema this.
+16 this to bedroom the Julie journeyed afternoon.
+17 Fred bedroom before Where  the was?	kitchen	13 10
+1 bedroom the Mary journeyed yesterday to.
+2 to travelled Bill yesterday the office.
+3 This went morning Mary to the cinema.
+4 Yesterday cinema the journeyed Fred to.
+5 Where  the cinema Mary was before?	bedroom	3 1
+6 to yesterday journeyed Julie the kitchen.
+7 Mary the this travelled office to afternoon.
+8  the before Where was Mary office?	cinema	7 3
+9 the to Mary this moved bedroom evening.
+10 the morning Fred park to this travelled.
+11 Where bedroom the before Mary  was?	office	9 7
+12 afternoon the to cinema Fred This moved.
+13 to this office Julie morning the back went.
+14 Where bedroom was  Mary the before?	office	9 7
+15 travelled Julie the school to evening this.
+16 afternoon bedroom Julie travelled to this the.
+17  Mary Where bedroom the before was?	office	9 7
+1 park back the to This went afternoon Mary.
+2 office morning to the Mary This moved.
+3 Julie the journeyed bedroom Yesterday to.
+4 Mary school travelled to Yesterday the.
+5 Mary park was the before  Where?	office	1 2
+6 to the went this morning back park Bill.
+7 school yesterday Bill to journeyed the.
+8 before Where the was  park Mary?	office	1 2
+9 journeyed the This afternoon to Bill cinema.
+10 Julie office the morning to went This.
+11 office  Julie before the was Where?	bedroom	10 3
+12 to the This Julie park moved afternoon.
+13 the Fred yesterday moved to office.
+14 the before  was Where park Bill?	school	6 7
+15 bedroom went This the to Bill evening.
+16 cinema This to the morning journeyed Fred.
+17 before cinema Bill was the Where ?	park	9 6
+1 moved the Bill This to park morning.
+2 This travelled to Mary bedroom morning the.
+3 the travelled Bill to cinema yesterday.
+4 office Yesterday moved to the Mary.
+5  was before bedroom Mary Where the?	office	2 4
+6 the to cinema travelled evening This Bill.
+7 went Bill to the kitchen This afternoon.
+8 was the bedroom Mary Where before ?	office	2 4
+9 Yesterday went the school Julie to.
+10 this back afternoon cinema Mary went to the.
+11  the cinema Bill was Where before?	kitchen	6 7
+12 morning the back This Julie bedroom went to.
+13 travelled the office yesterday Fred to.
+14 before cinema was Where  the Mary?	bedroom	10 2
+15 this to park Julie evening the travelled.
+16 This Julie to afternoon cinema the moved.
+17 Where was park  before Julie the?	cinema	15 16
+1 the Bill this morning office went to.
+2 went yesterday the back to Bill cinema.
+3 office the Where before  was Bill?	cinema	1 2
+4 Fred moved the to bedroom Yesterday.
+5 went Bill this school the afternoon to.
+6  before school was Bill the Where?	office	5 1
+7 back kitchen to morning Julie went This the.
+8 office the yesterday Julie to went.
+9 the Where office before Bill  was?	cinema	1 2
+10 evening Julie travelled This to the cinema.
+11 afternoon This office travelled Julie the to.
+12 cinema  the was Julie Where before?	office	10 11
+13 school went to Mary the Yesterday.
+14 Bill the evening bedroom to This travelled.
+15 kitchen  was Julie before Where the?	office	7 8
+1 the went bedroom to Bill Yesterday.
+2 moved cinema the Yesterday to Fred.
+3 to the school Mary travelled yesterday.
+4 office morning Mary moved the This to.
+5 before the was Where office Mary ?	school	4 3
+6 Bill to went This the back afternoon bedroom.
+7 office moved to This Bill morning the.
+8  Bill bedroom before the Where was?	office	6 7
+9 this to the kitchen Julie morning travelled.
+10 office to Julie yesterday the travelled.
+11 before the was Bill Where  office?	bedroom	7 1
+12 morning the This went Fred to school back.
+13 cinema back evening to went Bill the this.
+14 was Julie the kitchen before Where ?	office	9 10
+15 journeyed to the afternoon office this Julie.
+16 this Fred park the to travelled afternoon.
+17 school Fred was  the Where before?	cinema	12 2
+1 the this journeyed Fred school to morning.
+2 park the to This moved Bill morning.
+3 Bill went to the school yesterday.
+4 Fred journeyed cinema to Yesterday the.
+5 was Bill Where  before park the?	school	2 3
+6 bedroom Bill moved the to This afternoon.
+7 went Mary the yesterday back to school.
+8 Bill bedroom the before was  Where?	park	6 2
+9 to this afternoon the bedroom Fred back went.
+10 This the office morning to went Mary.
+11 bedroom before Fred the  Where was?	school	9 1
+12 evening school moved this to the Fred.
+13 Bill to school the this went evening.
+14 Where school Bill was  the before?	bedroom	13 6
+15 Mary school evening to This the went.
+16 this travelled park Mary the to afternoon.
+17 Fred before  was Where bedroom the?	school	9 1
+1 Yesterday to the office journeyed Bill.
+2 the to went yesterday office Fred.
+3 the Mary to cinema Yesterday went.
+4 morning back to the went bedroom This Fred.
+5 was Where the  before bedroom Fred?	office	4 2
+6 Julie back to the went bedroom yesterday.
+7 went this park morning Bill the to.
+8 the before  Where was Bill park?	office	7 1
+9 Bill the went cinema to This evening back.
+10 back went kitchen afternoon Bill this to the.
+11  before was park Where the Bill?	office	7 1
+12 to travelled Mary afternoon this the bedroom.
+13 kitchen to journeyed this the Mary morning.
+14 Mary bedroom was  Where the before?	kitchen	12 13
+15 morning kitchen This Julie went the back to.
+16 this cinema evening to Mary travelled the.
+17 bedroom the Where  was before Mary?	kitchen	12 13
+1 Mary to Yesterday the travelled cinema.
+2 morning to Fred bedroom This went back the.
+3 Yesterday Julie school to the went.
+4 Fred went yesterday to the office.
+5 bedroom Where before  was Fred the?	office	2 4
+6 to went morning This the cinema Julie.
+7 to the Bill Yesterday school moved.
+8 was before  Julie cinema Where the?	school	6 3
+9 evening travelled the Fred school to This.
+10 Fred park to went This afternoon the.
+11 was  the before school Fred Where?	park	9 10
+12 to the went park Julie this afternoon.
+13 This to Bill cinema the went morning.
+14 school  was Where the Fred before?	park	9 10
+15 park Bill this the back evening went to.
+16 the bedroom went to afternoon this back Bill.
+17 was Where  park Bill the before?	bedroom	15 16
+1 the Julie this afternoon travelled office to.
+2 Julie This to the moved morning school.
+3 Mary went the back Yesterday cinema to.
+4 cinema Julie Yesterday journeyed to the.
+5 Where school was Julie  before the?	cinema	2 4
+6 this moved the to Julie bedroom evening.
+7 cinema Fred the Yesterday went to back.
+8 Julie before was  Where bedroom the?	office	6 1
+9 park This to Bill morning moved the.
+10 journeyed the school to yesterday Bill.
+11 bedroom Julie was  the Where before?	office	6 1
+12 the this office to journeyed morning Fred.
+13 to This Bill the afternoon went office back.
+14 Fred was  Where office before the?	cinema	12 7
+15 the went kitchen to Bill evening this.
+16 school journeyed Fred afternoon this the to.
+17 Where  office before was the Fred?	cinema	12 7
+1 went Julie bedroom back to the Yesterday.
+2 to the park morning travelled Bill This.
+3 Bill Yesterday the office to went.
+4 to Yesterday went the bedroom Mary.
+5  the park Bill was before Where?	office	2 3
+6 cinema to this Julie the morning travelled.
+7 office travelled to this the morning Mary.
+8 Mary was Where the office before ?	bedroom	7 4
+9 This park afternoon the to Mary travelled.
+10 This to went Bill the school afternoon.
+11  Where before the park Bill was?	office	2 3
+12 office the afternoon went Julie This to.
+13 evening this Mary to cinema the went back.
+14 the  Julie before Where was office?	cinema	12 6
+15 bedroom back Yesterday to Fred went the.
+16 school this journeyed evening to Julie the.
+17 Where before  the Mary was park?	office	9 7
+1 afternoon Julie This bedroom the to went.
+2 Julie to moved the cinema This morning.
+3 the journeyed to yesterday Fred bedroom.
+4 travelled kitchen yesterday the Julie to.
+5  the Where Julie cinema was before?	kitchen	2 4
+6 this office morning the journeyed Mary to.
+7 yesterday Mary travelled to bedroom the.
+8  Mary office Where before was the?	bedroom	6 7
+9 Bill travelled Yesterday bedroom to the.
+10 This kitchen Julie evening the went back to.
+11  before was Julie the Where bedroom?	cinema	1 2
+12 to kitchen the morning journeyed Fred this.
+13 the Mary kitchen This afternoon went to.
+14 kitchen the was  Fred before Where?	bedroom	12 3
+15 This to evening the moved bedroom Mary.
+16 the Bill cinema went to back morning this.
+17 kitchen  was the Mary before Where?	office	13 6
+1 cinema moved yesterday the to Julie.
+2 journeyed This morning kitchen to the Bill.
+3 Yesterday back Fred to the went office.
+4 travelled to yesterday bedroom the Bill.
+5  kitchen Bill was before Where the?	bedroom	2 4
+6 school journeyed Mary to the morning this.
+7 to Mary the park travelled Yesterday.
+8  before the Where Bill was kitchen?	bedroom	2 4
+9 office travelled morning Julie the This to.
+10 to This Bill afternoon the office went back.
+11 was Julie office Where the before ?	cinema	9 1
+12 kitchen back this evening to Bill went the.
+13 went cinema morning to this Fred the.
+14 Mary  school before the Where was?	park	6 7
+15 this the office Mary to went evening.
+16 Mary back afternoon went kitchen the to this.
+17  before Where was Mary office the?	kitchen	15 16
+1 cinema this morning Bill moved the to.
+2 Bill went to the yesterday office.
+3 before Where cinema the  was Bill?	office	1 2
+4 cinema the Mary yesterday journeyed to.
+5 the park journeyed this Bill afternoon to.
+6 the  Where was cinema before Bill?	office	1 2
+7 Julie went Yesterday the park to back.
+8 Fred moved the Yesterday to cinema.
+9  park before was Where Bill the?	cinema	5 1
+10 the Julie to journeyed school morning this.
+11 this travelled the Fred office morning to.
+12 Where office the before Fred  was?	cinema	11 8
+13 to Julie the office this moved afternoon.
+14 to Mary journeyed This morning kitchen the.
+15 the before office Julie Where was ?	school	13 10
+1 to park travelled Yesterday the Fred.
+2 office to the moved This Fred morning.
+3 to Julie bedroom morning the This journeyed.
+4 cinema to Yesterday moved Julie the.
+5 Julie before  was bedroom the Where?	cinema	3 4
+6 Mary moved yesterday the school to.
+7 bedroom afternoon the Fred went this to back.
+8 Where bedroom before Julie  was the?	cinema	3 4
+9 to journeyed Mary this afternoon bedroom the.
+10 morning This the Mary to park journeyed.
+11 Where was  the park Mary before?	school	10 6
+12 Mary evening This the journeyed to office.
+13 school the to went this afternoon back Julie.
+14 Where was park before Mary  the?	school	10 6
+15 school to Yesterday Bill travelled the.
+16 journeyed Fred cinema evening to this the.
+17 Mary the was  before office Where?	bedroom	12 9
+1 went this morning to the Fred park.
+2 went Yesterday to office back the Fred.
+3 was Fred the  before Where park?	office	1 2
+4 the office to Julie moved morning This.
+5 Yesterday moved Julie to kitchen the.
+6 the before  Where Fred was park?	office	1 2
+7 Fred afternoon cinema went to this the.
+8 Mary Yesterday the to cinema went.
+9 was Fred park before  Where the?	office	1 2
+10 the afternoon this kitchen Julie to travelled.
+11 the this school went to evening back Fred.
+12 kitchen Where Julie before was the ?	office	10 4
+13 Bill yesterday the office to went.
+14 went to bedroom Mary morning This back the.
+15 Julie before the was  Where kitchen?	office	10 4
+1 went Fred kitchen the this to morning.
+2 Julie bedroom to the journeyed yesterday.
+3 Bill to back office Yesterday the went.
+4 the This to cinema went Fred afternoon.
+5 cinema Fred the to Yesterday travelled.
+6 to the travelled bedroom Mary Yesterday.
+7 kitchen the was before Fred Where ?	cinema	1 5
+8 the to Julie This travelled kitchen morning.
+9 evening travelled the school to this Fred.
+10 the was before Where kitchen Fred ?	cinema	1 5
+11 This the morning to Mary travelled cinema.
+12 kitchen the This Bill travelled morning to.
+13 the was Where Mary before cinema ?	bedroom	11 6
+14 afternoon back went office the to Bill This.
+15 school to this Mary back afternoon went the.
+16 the Bill  office Where before was?	kitchen	14 12
+17 evening journeyed to this the Mary cinema.
+18 back This to evening the went kitchen Bill.
+19 Mary  before Where was school the?	cinema	15 11
+1 park Fred to journeyed This the morning.
+2 the yesterday went bedroom Julie to.
+3 to Yesterday Fred school travelled the.
+4 Bill office the yesterday to journeyed.
+5 Fred before the Where park  was?	school	1 3
+6 This Fred afternoon went to bedroom the.
+7 moved park Bill the morning this to.
+8 the before  park Fred was Where?	school	1 3
+9 This Fred to the office evening moved.
+10 park Mary yesterday moved to the.
+11 office before  Fred Where was the?	bedroom	9 6
+12 Mary This went school to the afternoon.
+13 to kitchen back morning Mary this the went.
+14 before Mary the kitchen Where was ?	park	13 10
+15 travelled This morning the Julie to kitchen.
+16 afternoon this to Bill the office went.
+17 before office the was Fred  Where?	bedroom	9 6
+1 went This the back Fred afternoon to bedroom.
+2 yesterday went Julie kitchen the to.
+3 the Yesterday to Fred went kitchen.
+4 Yesterday cinema Mary moved to the.
+5 to Yesterday Bill the office travelled.
+6 morning the office This went back to Fred.
+7 the Where  before Fred office was?	kitchen	6 3
+8 school to evening moved Fred the this.
+9 Bill bedroom to this the journeyed morning.
+10 Fred bedroom was  before the Where?	office	1 6
+11 evening went the bedroom back This Bill to.
+12 the This afternoon cinema to travelled Bill.
+13 before cinema  Where was the Bill?	bedroom	12 9
+14 morning This the to travelled Julie bedroom.
+15 This Mary the morning bedroom to travelled.
+16 bedroom was  before Where Julie the?	kitchen	14 2
+17 the school evening Julie went to this.
+18 to went afternoon cinema the Julie this.
+19 before Where the was bedroom  Julie?	kitchen	14 2
+1 Fred morning This travelled the park to.
+2 Julie cinema the to back yesterday went.
+3 afternoon This the cinema to moved Fred.
+4 cinema Yesterday to Fred the moved.
+5 Fred  the Where park was before?	cinema	1 4
+6 this the Mary to park morning went.
+7 back went school Mary the Yesterday to.
+8 park  the was Mary before Where?	school	6 7
+9 went morning this Julie the back to kitchen.
+10 to went the school afternoon Mary this.
+11 the Where kitchen was  Julie before?	cinema	9 2
+12 went Yesterday Bill back school to the.
+13 This the Julie to afternoon cinema moved.
+14 before Where school was  the Mary?	park	10 6
+15 the to travelled this Mary evening cinema.
+16 this evening the Fred to school travelled.
+17 Where  was the Mary cinema before?	school	15 10
+1 Yesterday moved the to cinema Julie.
+2 kitchen travelled Yesterday the to Bill.
+3 journeyed to yesterday office the Mary.
+4 this to the school moved morning Bill.
+5 Where before the Bill was  school?	kitchen	4 2
+6 to the school morning journeyed this Mary.
+7 the to Bill afternoon this moved cinema.
+8  Where Mary the before was school?	office	6 3
+9 afternoon this went back to Julie park the.
+10 went Julie the This to bedroom morning back.
+11 the Where Bill cinema before  was?	school	7 4
+12 to this Julie the office journeyed evening.
+13 evening Bill to travelled This the school.
+14 bedroom Julie  Where the was before?	cinema	10 1
+15 yesterday to Fred park went the.
+16 afternoon office the this Mary went to.
+17 was  office Where Mary the before?	school	16 6
+1 went back to kitchen the Fred Yesterday.
+2 journeyed to morning this Fred the bedroom.
+3 office the journeyed to Bill yesterday.
+4 Julie the to Yesterday travelled park.
+5  Fred Where was before the bedroom?	kitchen	2 1
+6 went Julie the This back school morning to.
+7 the office Mary Yesterday back to went.
+8 bedroom before Where the  was Fred?	kitchen	2 1
+9 morning Bill the this to school went.
+10 afternoon Julie this park moved to the.
+11 Fred before was bedroom the  Where?	kitchen	2 1
+12 travelled Julie to evening bedroom this the.
+13 the This park Bill to moved afternoon.
+14 Bill Where park before  was the?	school	13 9
+15 the This evening school travelled Fred to.
+16 afternoon this went to the Fred cinema.
+17 before  Julie bedroom the Where was?	park	12 10
+1 went bedroom to yesterday Julie the.
+2 Bill travelled morning cinema to this the.
+3 Bill the went Yesterday school to.
+4 Fred kitchen to went the yesterday.
+5 Where before cinema was Bill the ?	school	2 3
+6 the went bedroom to Bill afternoon back this.
+7 Fred morning went this school back to the.
+8 Bill was before  the Where cinema?	school	2 3
+9 This Fred park afternoon to the back went.
+10 the moved school evening This Bill to.
+11 the Where  before Fred was park?	school	9 7
+12 the moved this evening to office Fred.
+13 moved park the This Julie to morning.
+14  Where the before was office Fred?	park	12 9
+15 to Julie back went office the This afternoon.
+16 to moved bedroom Yesterday the Mary.
+17 Julie Where the office was before ?	park	15 13
+1 This to back went Julie morning office the.
+2 went the Yesterday office to Bill.
+3 moved Yesterday Fred the cinema to.
+4 to Julie Yesterday the moved school.
+5 was before the Julie  office Where?	school	1 4
+6 to went the Mary school Yesterday.
+7 the afternoon to This journeyed park Julie.
+8 office  the Where Julie was before?	school	1 4
+9 to Julie evening moved the bedroom this.
+10 bedroom the journeyed this morning Fred to.
+11  Where the before was bedroom Julie?	park	9 7
+12 to journeyed morning Mary this the bedroom.
+13 to school Fred this afternoon the went.
+14 Where was Fred before the  bedroom?	cinema	10 3
+15 park went this the Bill to morning.
+16 this to Fred evening the bedroom moved.
+17 was Julie  the bedroom before Where?	park	9 7
+1 to the journeyed yesterday Mary kitchen.
+2 the Bill bedroom moved to Yesterday.
+3 morning This the park to Bill travelled.
+4 to park moved Julie the Yesterday.
+5 before the  Where was Bill park?	bedroom	3 2
+6 moved this Mary to the morning park.
+7 journeyed cinema the Yesterday to Fred.
+8 Where the Mary was before  park?	kitchen	6 1
+9 school This the afternoon went Mary to.
+10 Fred office travelled to morning the this.
+11 Where Mary before the was park ?	kitchen	6 1
+12 the school Bill This to went afternoon back.
+13 This journeyed afternoon to Fred the bedroom.
+14 before Fred the  bedroom was Where?	office	13 10
+15 back the kitchen Mary went to evening this.
+16 Bill the journeyed park This evening to.
+17 kitchen was Where Mary before  the?	school	15 9
+1 Fred to went yesterday cinema the.
+2 yesterday Julie cinema back to the went.
+3 kitchen morning went the This to Fred back.
+4 moved park Yesterday Bill the to.
+5  the Fred kitchen was Where before?	cinema	3 1
+6 to went office back the Mary Yesterday.
+7 bedroom the morning Julie this went back to.
+8 the was  Fred Where before kitchen?	cinema	3 1
+9 Bill This kitchen morning to travelled the.
+10 this the to afternoon Fred school went.
+11 Fred school before  Where the was?	kitchen	10 3
+12 to morning Mary travelled This kitchen the.
+13 moved This Bill cinema the to afternoon.
+14 Where before the  kitchen Bill was?	park	9 4
+15 to this Mary kitchen journeyed evening the.
+16 the This moved to Mary cinema afternoon.
+17 Bill the  kitchen was before Where?	park	9 4
+1 yesterday Bill kitchen the journeyed to.
+2 morning moved Fred the This to cinema.
+3 to yesterday travelled Fred bedroom the.
+4 Yesterday back office the to Julie went.
+5 Where before was Fred the cinema ?	bedroom	2 3
+6 cinema went to Julie the morning this.
+7 to yesterday cinema Mary went the.
+8  before Fred cinema was the Where?	bedroom	2 3
+9 afternoon went This to back the park Julie.
+10 afternoon to the Fred this went kitchen.
+11 before  the cinema Where Julie was?	office	6 4
+12 park This Bill morning journeyed the to.
+13 Fred moved This evening to the school.
+14 Where the Fred school was before ?	kitchen	13 10
+15 journeyed to This bedroom Mary the morning.
+16 evening This Julie back went the cinema to.
+17 the was Mary before bedroom  Where?	cinema	15 7
+1 Bill to went school the yesterday.
+2 Fred the went to yesterday office.
+3 Julie to Yesterday the park journeyed.
+4 the to cinema went Fred This morning.
+5 before Where Fred was the  cinema?	office	4 2
+6 cinema Julie went afternoon to the This.
+7 Julie travelled this office to morning the.
+8 Where was cinema  before the Fred?	office	4 2
+9 to journeyed morning cinema This the Bill.
+10 Fred to the journeyed this park afternoon.
+11  cinema was the Where Julie before?	office	6 7
+12 went bedroom evening Julie This to the.
+13 to park the Mary moved yesterday.
+14 Julie cinema the  before Where was?	office	6 7
+15 the went to afternoon back This school Bill.
+16 the This Fred evening to office went back.
+17 before the  Bill cinema was Where?	school	9 1
+1 the travelled to This Julie kitchen morning.
+2 Julie yesterday cinema the to travelled.
+3 was kitchen Where  Julie the before?	cinema	1 2
+4 went the yesterday kitchen Mary to.
+5 to Yesterday Bill kitchen moved the.
+6 the Where  Julie before was kitchen?	cinema	1 2
+7 to Mary morning travelled bedroom this the.
+8 journeyed the bedroom Julie to This afternoon.
+9 Mary the was Where bedroom  before?	kitchen	7 4
+10 the kitchen to This evening Julie travelled.
+11 this went park the afternoon Mary to.
+12 the was  before Where bedroom Mary?	kitchen	7 4
+13 to morning moved Bill bedroom this the.
+14 office Mary went this to the evening.
+15 bedroom  Where Mary before the was?	kitchen	7 4
+1 to went This morning Fred the school.
+2 kitchen Mary Yesterday to the journeyed.
+3 Fred the yesterday to office journeyed.
+4 to went Bill back yesterday the park.
+5 Fred school  was the Where before?	office	1 3
+6 back yesterday went Julie the to school.
+7 to morning journeyed park the Mary This.
+8 before  the Where Mary park was?	kitchen	7 2
+9 went Bill back kitchen this to the morning.
+10 this cinema journeyed Mary to afternoon the.
+11 before the Where  school Fred was?	office	1 3
+12 went Julie to back the morning this bedroom.
+13 the afternoon this Fred back to cinema went.
+14 before the Where Bill  kitchen was?	park	9 4
+15 This journeyed kitchen evening Mary the to.
+16 afternoon the park Bill went to this.
+17 cinema Where was  the Fred before?	school	13 1
+1 back park to Mary Yesterday went the.
+2 office the to Fred Yesterday went.
+3 travelled to This cinema the Julie afternoon.
+4 travelled bedroom This the Julie morning to.
+5 Bill bedroom Yesterday to the travelled.
+6 Julie Yesterday to moved cinema the.
+7  before Julie cinema Where the was?	bedroom	3 4
+8 journeyed school this evening the Julie to.
+9 Mary office to moved morning This the.
+10 cinema  before the was Julie Where?	bedroom	3 4
+11 cinema the Mary evening went This to.
+12 afternoon Mary travelled school to This the.
+13 school Where the before  Mary was?	office	12 9
+14 this moved cinema the afternoon to Bill.
+15 to This the back Bill kitchen went morning.
+16 Where before was  Bill cinema the?	kitchen	14 15
+17 Fred the afternoon park this to moved.
+18 morning went Fred to the cinema back this.
+19 Where before Bill  the was kitchen?	bedroom	15 5
+1 kitchen to travelled the Bill yesterday.
+2 Bill this bedroom the morning to went.
+3 Yesterday moved bedroom Julie to the.
+4 yesterday office went the back to Mary.
+5 Bill bedroom Where was before the ?	kitchen	2 1
+6 Fred journeyed the this morning to bedroom.
+7 journeyed to school yesterday the Fred.
+8 Fred was the  before bedroom Where?	school	6 7
+9 kitchen this travelled Julie the to morning.
+10 Mary journeyed this the to cinema morning.
+11 before bedroom Fred the  Where was?	school	6 7
+12 office evening Bill This to the travelled.
+13 the this went back school Bill to afternoon.
+14 cinema Mary was before Where  the?	office	10 4
+15 travelled the to park this afternoon Mary.
+16 cinema this to the Fred journeyed afternoon.
+17 office before the was Bill  Where?	school	12 13
+1 to the went kitchen Mary morning this.
+2 to yesterday the travelled bedroom Mary.
+3 travelled kitchen the yesterday Bill to.
+4 went Julie back to kitchen yesterday the.
+5 before Where  kitchen Mary was the?	bedroom	1 2
+6 to Fred Yesterday the bedroom moved.
+7 cinema morning to This Bill the journeyed.
+8 was before Bill the cinema  Where?	kitchen	7 3
+9 This to the evening Bill travelled office.
+10 the Bill bedroom afternoon to moved This.
+11 before was  the Bill office Where?	bedroom	9 10
+12 cinema morning back This went Fred the to.
+13 this to travelled the Mary cinema afternoon.
+14  Bill was before bedroom Where the?	cinema	10 7
+15 went morning Julie to the school this.
+16 afternoon moved kitchen This the Fred to.
+17  before Where was the Julie school?	kitchen	15 4
+1 park This morning Mary to the journeyed.
+2 moved Yesterday the school to Mary.
+3 park  Where before Mary the was?	school	1 2
+4 This Fred moved to cinema the morning.
+5 to the yesterday Fred kitchen journeyed.
+6 the  was park before Where Mary?	school	1 2
+7 this evening went Fred school back to the.
+8 Fred afternoon this to the bedroom travelled.
+9 Fred was the before  Where school?	bedroom	7 8
+10 moved cinema Mary to This the evening.
+11 to this Mary afternoon went school the.
+12 the cinema Where was Mary before ?	school	10 11
+13 to morning this Julie park moved the.
+14 journeyed yesterday Julie cinema the to.
+15 Where was Mary  before the cinema?	school	10 11
+1 to went the kitchen morning Mary This.
+2 to office back the yesterday went Mary.
+3 Mary This to went the cinema afternoon.
+4 journeyed office the Fred yesterday to.
+5 Mary before was cinema  Where the?	kitchen	3 1
+6 the went Bill park This to morning back.
+7 yesterday kitchen to the back went Bill.
+8 before the was  Mary Where kitchen?	office	1 2
+9 evening Mary back the this to went park.
+10 to Bill afternoon the this moved kitchen.
+11 Where the before park was Bill ?	kitchen	6 7
+12 office went back yesterday Julie to the.
+13 journeyed evening This to bedroom the Bill.
+14 Bill the Where was before  kitchen?	park	10 6
+15 bedroom this afternoon the moved Julie to.
+16 This cinema travelled to Julie morning the.
+17 before the was bedroom Where  Julie?	cinema	15 16
+1 Julie morning the school to this journeyed.
+2 kitchen the went to Julie yesterday.
+3 was before Where school the Julie ?	kitchen	1 2
+4 journeyed evening Julie to This office the.
+5 cinema travelled afternoon This to the Julie.
+6 the before  office Julie was Where?	cinema	4 5
+7 This the went Mary to morning park.
+8 bedroom Yesterday to the journeyed Mary.
+9  the was Julie before office Where?	cinema	4 5
+10 Mary the went evening back cinema This to.
+11 travelled to Mary This afternoon kitchen the.
+12  Mary before was Where park the?	bedroom	7 8
+13 Fred cinema morning journeyed the This to.
+14 to the school yesterday moved Fred.
+15 before was kitchen Where Mary the ?	park	11 7
+1 Bill to bedroom the Yesterday journeyed.
+2 bedroom Fred the to travelled Yesterday.
+3 Bill park morning This to moved the.
+4 to back Mary the office Yesterday went.
+5 Where  the park Bill before was?	bedroom	3 1
+6 bedroom Mary travelled morning the This to.
+7 to yesterday the went Julie park.
+8 before  Where was the Mary bedroom?	office	6 4
+9 park morning to This moved Fred the.
+10 bedroom the This Julie morning travelled to.
+11 park Where before the was  Bill?	bedroom	3 1
+12 the evening Bill to this moved cinema.
+13 to back went This afternoon the Bill school.
+14 Where was Fred the before park ?	bedroom	9 2
+15 Julie afternoon the to this kitchen travelled.
+16 the to moved afternoon kitchen This Fred.
+17 kitchen  Fred before Where the was?	park	16 9
+1 morning kitchen Julie to the This travelled.
+2 office journeyed to Yesterday the Fred.
+3 kitchen Yesterday travelled the to Bill.
+4 park Mary yesterday the back to went.
+5 went Fred cinema the this back morning to.
+6 cinema Julie went the to yesterday.
+7 Fred Where before the  was cinema?	office	5 2
+8 kitchen went morning the this to Mary back.
+9 to park This moved morning the Bill.
+10 Mary Where  kitchen before was the?	park	8 4
+11 evening the Julie school to went This.
+12 park Julie the afternoon this travelled to.
+13 was the before Mary Where kitchen ?	park	8 4
+14 afternoon Bill the This bedroom journeyed to.
+15 afternoon office the Mary to This moved.
+16 before was Where  office Mary the?	kitchen	15 8
+17 went Fred the park to this evening back.
+18 Fred the afternoon This went office back to.
+19 Fred Where  was park the before?	office	17 18
+1 to Julie back bedroom the yesterday went.
+2 journeyed this to the kitchen morning Julie.
+3 Fred kitchen to yesterday the travelled.
+4 yesterday travelled to Bill the office.
+5 to Julie this the journeyed cinema afternoon.
+6 travelled the Mary Yesterday kitchen to.
+7 kitchen was  before Julie the Where?	bedroom	2 1
+8 park moved morning the Fred this to.
+9 This journeyed morning bedroom to Mary the.
+10 before cinema Julie was  Where the?	kitchen	5 2
+11 office journeyed afternoon the Fred This to.
+12 the bedroom to Julie journeyed This evening.
+13 Where the bedroom before was Mary ?	kitchen	9 6
+14 This cinema travelled to the afternoon Mary.
+15 the morning to This Bill park went.
+16 before  park Fred the Where was?	kitchen	8 3
+17 to this Bill the bedroom went afternoon back.
+18 went cinema to the Fred back This evening.
+19  the before Fred Where was office?	park	11 8
+1 morning Fred back kitchen the this went to.
+2 office to Julie the yesterday travelled.
+3 the Yesterday cinema to Fred travelled.
+4 kitchen the Yesterday journeyed to Mary.
+5 the Fred  kitchen Where was before?	cinema	1 3
+6 the this to afternoon bedroom went Fred.
+7 travelled the cinema Yesterday Bill to.
+8 Fred  bedroom before the was Where?	kitchen	6 1
+9 kitchen morning travelled this to the Bill.
+10 travelled Fred the evening to This kitchen.
+11 kitchen Where  was before the Fred?	bedroom	10 6
+12 school journeyed the to This afternoon Mary.
+13 to the Mary This park back went morning.
+14 Where before kitchen  Bill was the?	cinema	9 7
+15 moved this to the evening park Mary.
+16 This went back school Julie morning to the.
+17 the park  was Where before Mary?	school	15 12
+1 the to travelled school morning Fred This.
+2 the to travelled Fred Yesterday cinema.
+3  the Fred before was school Where?	cinema	1 2
+4 cinema the yesterday moved to Mary.
+5 the journeyed yesterday Julie to park.
+6 was Fred Where  the school before?	cinema	1 2
+7 journeyed morning Mary the This to kitchen.
+8 to bedroom the Yesterday Bill went.
+9 before  was Where kitchen Mary the?	cinema	7 4
+10 journeyed the This Bill morning to cinema.
+11 the cinema morning to this Julie travelled.
+12 the Bill  was cinema Where before?	bedroom	10 8
+13 the to afternoon school This travelled Julie.
+14 Mary the school afternoon This to went.
+15 was the before Julie Where school ?	cinema	13 11
+1 to journeyed morning Julie office the this.
+2 bedroom went the back Julie to Yesterday.
+3 before Julie office  the was Where?	bedroom	1 2
+4 evening Julie the park went back to This.
+5 afternoon back to went the kitchen Julie This.
+6  before Where park Julie was the?	kitchen	4 5
+7 Mary kitchen the journeyed Yesterday to.
+8 to Bill yesterday kitchen travelled the.
+9 Where before kitchen Julie  the was?	office	5 1
+10 back Bill the bedroom afternoon went to this.
+11 cinema to morning went Bill the This.
+12  was before park the Where Julie?	kitchen	4 5
+13 to travelled the school This Mary afternoon.
+14 Mary to morning the this moved park.
+15 was cinema  the Bill before Where?	kitchen	11 8
+1 Yesterday school the to journeyed Julie.
+2 journeyed Fred office the Yesterday to.
+3 to school Mary the moved yesterday.
+4 morning the This travelled Julie to kitchen.
+5 kitchen Where before Julie  was the?	school	4 1
+6 park back went the afternoon This to Julie.
+7 journeyed to bedroom this Mary the morning.
+8 before  kitchen was Where Julie the?	school	4 1
+9 moved this morning Bill the bedroom to.
+10 to Bill kitchen yesterday the went.
+11  Bill bedroom the Where was before?	kitchen	9 10
+12 went school Mary to This the afternoon.
+13 the morning school this travelled Fred to.
+14 before was school Mary the Where ?	bedroom	12 7
+15 went Bill afternoon office the back This to.
+16 Julie This to office evening journeyed the.
+17 was before Where the Bill bedroom ?	kitchen	9 10
+1 went Mary school yesterday to back the.
+2 This Mary the morning moved office to.
+3 travelled the Bill This school morning to.
+4 the office to went back Yesterday Bill.
+5 before Mary office was Where the ?	school	2 1
+6 kitchen moved This Fred to the morning.
+7 the moved Fred office yesterday to.
+8 Where the was Mary office  before?	school	2 1
+9 Julie journeyed Yesterday the cinema to.
+10 the Mary to kitchen went back this afternoon.
+11 Where before kitchen Mary  the was?	office	10 2
+12 the Fred to afternoon back this cinema went.
+13 park afternoon the this Bill to moved.
+14 cinema before was Where  the Fred?	kitchen	12 6
+15 this afternoon journeyed Julie to the cinema.
+16 morning went to Julie park the this.
+17 the Bill Where park before  was?	school	13 3
+1 moved Bill morning This to the cinema.
+2 yesterday to Bill the went school.
+3 was the Bill Where cinema before ?	school	1 2
+4 kitchen Yesterday to moved the Mary.
+5 journeyed Bill to afternoon This kitchen the.
+6 the was Where before cinema Bill ?	school	1 2
+7 cinema Yesterday moved to Fred the.
+8 Julie kitchen to yesterday the journeyed.
+9 the Where Bill was before kitchen ?	cinema	5 1
+10 office Mary the morning to this moved.
+11 the morning to Fred went park This.
+12 before Mary office the Where  was?	kitchen	10 4
+13 kitchen went to Fred afternoon this the.
+14 office went Bill back the this evening to.
+15 the Where before was Bill office ?	kitchen	14 5
+1 morning journeyed the school this Fred to.
+2 bedroom to Mary the went yesterday.
+3 to the moved kitchen yesterday Bill.
+4 park to the Fred journeyed yesterday.
+5 school was Fred  before Where the?	park	1 4
+6 yesterday kitchen Julie to the moved.
+7 afternoon This back to the Fred bedroom went.
+8 school was Where  before the Fred?	park	1 4
+9 to Julie park back the morning This went.
+10 the cinema morning to Mary travelled This.
+11 Where  Mary cinema was before the?	bedroom	10 2
+12 to Bill morning the went back This cinema.
+13 the this Mary to kitchen journeyed afternoon.
+14  Where was park Julie before the?	kitchen	9 6
+15 afternoon park Bill to back went the This.
+16 to evening Fred this the park journeyed.
+17  Where before park Julie was the?	kitchen	9 6
+1 This went the back morning Mary to kitchen.
+2 the yesterday to park Mary went.
+3 kitchen the  was before Where Mary?	park	1 2
+4 the This Bill to kitchen morning travelled.
+5 office to the moved yesterday Bill.
+6 the was before Bill kitchen  Where?	office	4 5
+7 travelled the yesterday bedroom to Julie.
+8 the to Fred travelled school Yesterday.
+9 was Bill before kitchen Where  the?	office	4 5
+10 to Fred kitchen went morning the back This.
+11 to afternoon went Bill the this park.
+12  Where Fred before the kitchen was?	school	10 8
+13 the Julie to office went morning This.
+14 to afternoon journeyed Mary office the This.
+15 before office the  was Julie Where?	bedroom	13 7
+1 kitchen to the This morning Julie travelled.
+2 school to the this moved Julie afternoon.
+3 yesterday the went park to Bill.
+4 Yesterday journeyed to the Julie office.
+5 kitchen Julie was the  before Where?	office	1 4
+6 Mary went to cinema back This morning the.
+7 went kitchen Mary back to yesterday the.
+8 was Julie before  kitchen Where the?	office	1 4
+9 this Bill morning to the went back office.
+10 park went yesterday the to Fred.
+11 was Where office Bill  before the?	park	9 3
+12 the moved to evening Bill this bedroom.
+13 to back the Bill afternoon went this cinema.
+14  office Bill Where the was before?	park	9 3
+15 morning kitchen to journeyed Fred the this.
+16 travelled this the Julie park to evening.
+17 the before was cinema Bill Where ?	office	13 9
+1 this the Bill travelled school morning to.
+2 went to kitchen yesterday Fred the.
+3 Bill to moved park yesterday the.
+4 travelled yesterday Mary the to cinema.
+5 Where school  was the Bill before?	park	1 3
+6 this to office went afternoon the Fred.
+7 morning went cinema the Fred This to.
+8 office Fred the was Where  before?	cinema	6 7
+9 the Bill evening journeyed office to this.
+10 the to This afternoon cinema moved Bill.
+11 Where Bill cinema was the  before?	school	10 1
+12 the to Julie yesterday kitchen moved.
+13 Mary to school went morning back This the.
+14 was Where cinema  before the Bill?	school	10 1
+15 moved the to cinema afternoon this Julie.
+16 school this the went morning to Julie.
+17 before was Where school Mary the ?	cinema	13 4
+1 bedroom moved to Bill the yesterday.
+2 Yesterday Fred to the bedroom moved.
+3 travelled to the yesterday Mary kitchen.
+4 morning Bill to travelled this the park.
+5 Bill the Where  before park was?	bedroom	4 1
+6 Fred journeyed cinema to This morning the.
+7 the Mary this morning moved to cinema.
+8 was park the Where  before Bill?	bedroom	4 1
+9 Fred the evening travelled to park this.
+10 school afternoon Fred this moved to the.
+11 was Where before  Fred school the?	cinema	10 6
+12 afternoon Mary the went this to office back.
+13 went the bedroom yesterday to Julie.
+14  cinema was Fred Where before the?	bedroom	6 2
+15 park went this to Bill the evening.
+16 Bill This afternoon office to the went.
+17 Where park before Fred  was the?	school	9 10
+1 Yesterday the school travelled Julie to.
+2 the Yesterday to back Mary went cinema.
+3 This morning to travelled Julie kitchen the.
+4 yesterday back Bill the went to cinema.
+5  before Julie kitchen was the Where?	school	3 1
+6 Mary went this to bedroom the morning.
+7 this bedroom back Julie afternoon went to the.
+8 Mary  Where the bedroom before was?	cinema	6 2
+9 Julie back evening This the went to office.
+10 This to kitchen Bill travelled morning the.
+11  before Where Julie bedroom was the?	kitchen	7 3
+12 this travelled Mary the kitchen afternoon to.
+13 This travelled the afternoon Bill to school.
+14 the Bill kitchen  before was Where?	cinema	10 4
+15 evening to this the went office Mary.
+16 Bill to the this park travelled evening.
+17 before school  the was Where Bill?	kitchen	13 10
+1 Fred office journeyed the to this morning.
+2 the park to Yesterday Fred back went.
+3 was Fred the Where before  office?	park	1 2
+4 to yesterday bedroom journeyed Julie the.
+5 the bedroom Bill to travelled Yesterday.
+6 the office before was  Where Fred?	park	1 2
+7 went the afternoon Julie kitchen this to.
+8 morning the Julie went back to cinema This.
+9 before  the was Fred office Where?	park	1 2
+10 evening This to went bedroom the Julie.
+11 Bill kitchen the This to morning went.
+12 kitchen was  Julie before the Where?	cinema	7 8
+13 to travelled school the Yesterday Mary.
+14 Bill afternoon This went the to cinema.
+15  was Bill the Where cinema before?	kitchen	14 11
+1 went back the Bill Yesterday bedroom to.
+2 the went bedroom to Julie Yesterday.
+3 journeyed bedroom Mary morning the this to.
+4 the Mary to kitchen moved yesterday.
+5 Mary Where the bedroom before  was?	kitchen	3 4
+6 This went kitchen Mary back the afternoon to.
+7 the morning Julie journeyed cinema this to.
+8 Where was before  Julie cinema the?	bedroom	7 2
+9 school moved to This Bill the morning.
+10 moved Julie to afternoon this school the.
+11 Julie the cinema Where  was before?	bedroom	7 2
+12 the moved This Mary to cinema evening.
+13 kitchen the yesterday Fred to travelled.
+14 the before  was kitchen Where Mary?	bedroom	6 3
+15 Bill back This afternoon to park went the.
+16 Julie cinema the this moved to evening.
+17  cinema Julie was Where the before?	school	16 10
+1 the bedroom to travelled morning Bill This.
+2 Bill yesterday park the moved to.
+3 went back cinema yesterday Julie to the.
+4 yesterday Fred cinema the travelled to.
+5 Bill before bedroom Where the was ?	park	1 2
+6 travelled morning Mary the this bedroom to.
+7 Yesterday the went school Mary to.
+8 Where Bill bedroom  the before was?	park	1 2
+9 to morning This school the Julie travelled.
+10 the park this Bill afternoon moved to.
+11 before was the school Julie  Where?	cinema	9 3
+12 this Julie bedroom back went the to afternoon.
+13 the this journeyed office Mary afternoon to.
+14 the school Julie was  before Where?	cinema	9 3
+15 to Bill cinema journeyed evening this the.
+16 Mary went the This evening cinema to.
+17 Where  before the Mary was office?	bedroom	13 6
+1 Yesterday cinema the journeyed Bill to.
+2 afternoon Mary to office this the went.
+3 yesterday went Mary to the kitchen.
+4 bedroom to went the Mary back morning This.
+5 Where Mary  before the was bedroom?	kitchen	4 3
+6 the bedroom Julie yesterday to moved.
+7 Fred office yesterday back to went the.
+8 the before was Where  Mary bedroom?	kitchen	4 3
+9 went office Julie This the to morning.
+10 the to bedroom Bill This journeyed morning.
+11  the office Where Julie was before?	bedroom	9 6
+12 travelled cinema Fred afternoon to the This.
+13 This morning the to Fred school went.
+14 Bill the before was  Where bedroom?	cinema	10 1
+15 moved park the to Bill afternoon this.
+16 This evening Mary cinema travelled to the.
+17 was Mary the cinema  Where before?	office	16 2
+1 the to Bill cinema morning moved This.
+2 the went Bill office back to Yesterday.
+3 cinema Bill before the Where was ?	office	1 2
+4 to Bill This journeyed cinema the evening.
+5 park afternoon the to moved Bill This.
+6  the was before Bill park Where?	cinema	5 1
+7 office Mary the to Yesterday journeyed.
+8 to travelled the Fred yesterday office.
+9 before  Where the Bill park was?	cinema	5 1
+10 morning school the to Fred this moved.
+11 Mary to journeyed the morning park this.
+12 before Where Mary  was park the?	office	11 7
+13 afternoon This to kitchen Mary the moved.
+14 the yesterday cinema moved Julie to.
+15  was before Mary the park Where?	office	11 7
+1 Mary went back park this the to morning.
+2 Mary Yesterday to moved the cinema.
+3 Where was park before the Mary ?	cinema	1 2
+4 went yesterday office to the Bill.
+5 Julie kitchen yesterday the moved to.
+6 park Where before the  was Mary?	cinema	1 2
+7 Yesterday travelled Fred park to the.
+8 the afternoon this went school to Mary.
+9 school the Mary before was  Where?	park	8 1
+10 Fred cinema This the went to afternoon.
+11 Fred to the school this journeyed morning.
+12 before the Where  Fred school was?	park	11 7
+13 This went Mary evening to the office.
+14 the park Fred back to went evening this.
+15 Fred was before the  cinema Where?	school	10 11
+1 the travelled to This morning school Fred.
+2 the to Bill Yesterday kitchen moved.
+3 went afternoon Fred This to park the.
+4 yesterday moved the park to Fred.
+5 park the Where  before was Fred?	school	3 1
+6 morning office the This Bill travelled to.
+7 Mary to went the Yesterday bedroom.
+8 Fred  was Where before park the?	school	3 1
+9 to the this Fred office went evening.
+10 went to Julie the yesterday park.
+11 Where was office before Bill the ?	kitchen	6 2
+12 the to This journeyed Mary office morning.
+13 afternoon to Bill the travelled school This.
+14 before Where  was office Bill the?	kitchen	6 2
+15 This the school to went morning Julie.
+16 to office the went evening Bill this.
+17  school before Where the was Bill?	office	13 6
+1 yesterday Fred the went to back park.
+2 the This Mary morning journeyed to park.
+3 to Mary yesterday cinema the journeyed.
+4 kitchen the yesterday back to went Julie.
+5 before was Where  the park Mary?	cinema	2 3
+6 the Julie morning journeyed office this to.
+7 the to Mary afternoon moved This office.
+8 the before was office  Where Julie?	kitchen	6 4
+9 the travelled Mary to school this evening.
+10 morning Fred school travelled to the This.
+11 was Mary  Where before the office?	park	7 2
+12 the went back This Julie to afternoon bedroom.
+13 bedroom to went This Fred back afternoon the.
+14 before was the bedroom  Julie Where?	office	12 6
+15 to school this evening Julie the went back.
+16 the to Fred this travelled school evening.
+17 Where Julie before school the was ?	bedroom	15 12
+1 the to Fred went bedroom yesterday.
+2 bedroom to morning Bill journeyed this the.
+3 yesterday Bill to the moved kitchen.
+4 the to journeyed Mary school yesterday.
+5 bedroom the  Where was Bill before?	kitchen	2 3
+6 Mary morning this journeyed the to office.
+7 morning the to Fred kitchen went This.
+8  Mary the was Where office before?	school	6 4
+9 the to Julie office yesterday travelled.
+10 to travelled afternoon This the Mary school.
+11  Fred kitchen was before Where the?	bedroom	7 1
+12 to bedroom This Julie journeyed morning the.
+13 evening went to back kitchen Mary This the.
+14 Mary school Where was before  the?	office	10 6
+15 the This evening office travelled Julie to.
+16 Julie this the cinema to journeyed afternoon.
+17 Julie cinema was the before Where ?	bedroom	16 12
+1 went cinema the yesterday to Mary.
+2 the Julie cinema to Yesterday went.
+3 travelled Mary office the to morning This.
+4 to park travelled Bill the Yesterday.
+5 was Mary  before office Where the?	cinema	3 1
+6 to Julie This went the park morning.
+7 morning the bedroom this went to Bill.
+8 Where the was  before park Julie?	cinema	6 2
+9 Julie the to This kitchen back evening went.
+10 to moved the afternoon Julie this school.
+11 before Where was the park Julie ?	cinema	6 2
+12 went park yesterday the to Fred.
+13 to the afternoon This park moved Bill.
+14  school Julie the was Where before?	park	10 6
+15 bedroom afternoon to this the travelled Mary.
+16 Bill evening bedroom This to travelled the.
+17 the Bill before  Where park was?	bedroom	13 7
+1 the travelled Yesterday school to Mary.
+2 this travelled morning the Mary to kitchen.
+3 Mary this the to afternoon office went.
+4 the cinema yesterday Bill to travelled.
+5 was before Mary Where the office ?	kitchen	3 2
+6 Mary school the to evening this moved.
+7 yesterday the park journeyed Julie to.
+8 school Mary was  before the Where?	office	6 3
+9 Fred yesterday to travelled the cinema.
+10 cinema this the back to went Julie morning.
+11  Mary Where the before was school?	office	6 3
+12 Julie journeyed this afternoon school the to.
+13 went this the Fred morning to office back.
+14 before school was  Where Mary the?	office	6 3
+15 went back afternoon to the cinema Fred This.
+16 went to the Julie back office evening This.
+17  was cinema the Where before Fred?	office	15 13
+1 Mary the to cinema Yesterday went.
+2 Fred the kitchen morning to This travelled.
+3 yesterday school to the journeyed Julie.
+4 went to the bedroom yesterday Fred.
+5 before the Fred kitchen was  Where?	bedroom	2 4
+6 to evening This travelled the office Fred.
+7 journeyed park This to the afternoon Fred.
+8 the Where was office Fred  before?	park	6 7
+9 this moved Julie the afternoon park to.
+10 went this the cinema to morning Julie.
+11 park Where before Julie the was ?	cinema	9 10
+12 Julie this to the cinema evening went.
+13 the school journeyed this to morning Mary.
+14 cinema  before the Julie Where was?	park	12 9
+15 Mary this the cinema evening to moved.
+16 office This to Mary afternoon moved the.
+17  school before Mary the was Where?	cinema	13 1
+1 the travelled this school Bill to morning.
+2 Fred to travelled the bedroom Yesterday.
+3 the back Bill to went kitchen Yesterday.
+4 the went Yesterday to Mary bedroom.
+5  Where before the Bill school was?	kitchen	1 3
+6 kitchen to afternoon Bill went the This.
+7 This morning Fred the to journeyed kitchen.
+8 the Where  Bill was school before?	kitchen	1 3
+9 back morning the went this Mary to office.
+10 Fred to the cinema moved This afternoon.
+11 cinema  Where before the Fred was?	kitchen	10 7
+12 park to evening This back went the Fred.
+13 to the school This Bill went evening.
+14  before cinema was Fred Where the?	kitchen	10 7
+15 afternoon to Mary cinema journeyed this the.
+16 the went kitchen Julie yesterday to.
+17  Where was the before office Mary?	bedroom	9 4
+1 back This Julie the went to morning bedroom.
+2 Yesterday office went Julie back the to.
+3 went cinema to Yesterday Fred the.
+4 went Bill yesterday to office the.
+5 before was bedroom  the Where Julie?	office	1 2
+6 afternoon the to went Julie kitchen this.
+7 This went to the morning bedroom Bill.
+8 the was before bedroom Julie  Where?	office	1 2
+9 moved park to Fred This morning the.
+10 went this the afternoon cinema to back Bill.
+11 before park  was the Fred Where?	cinema	9 3
+12 the to travelled school Fred This afternoon.
+13 went to this the bedroom Bill evening.
+14 before Fred school Where  the was?	park	12 9
+15 yesterday park back Mary the went to.
+16 moved evening school the Julie to this.
+17 Fred before Where the school  was?	park	12 9
+1 morning this journeyed Fred the school to.
+2 the Mary Yesterday went back to park.
+3 the moved cinema to Fred yesterday.
+4 yesterday Julie park the to travelled.
+5 the was school  before Where Fred?	cinema	1 3
+6 This the afternoon cinema Fred went to.
+7 to the went Bill yesterday park.
+8 before the  Fred was Where cinema?	school	6 1
+9 the journeyed this morning kitchen to Julie.
+10 Mary morning the to went This back bedroom.
+11 cinema  Fred the Where was before?	school	6 1
+12 Bill morning the cinema This to moved.
+13 park afternoon to this moved the Mary.
+14 was Where before kitchen Julie the ?	park	9 4
+15 Julie park afternoon this to the moved.
+16 travelled cinema This the evening to Mary.
+17 the  kitchen was Where Julie before?	park	9 4
+1 to This office morning the Mary went.
+2 moved Mary the kitchen to yesterday.
+3 was Where office the before Mary ?	kitchen	1 2
+4 morning office to journeyed the this Bill.
+5 Bill yesterday the to cinema travelled.
+6 was the  Mary office before Where?	kitchen	1 2
+7 cinema to This evening moved Bill the.
+8 Bill kitchen afternoon back the this went to.
+9 was the Bill before Where  cinema?	kitchen	7 8
+10 afternoon park the this Mary travelled to.
+11 school Fred to the journeyed yesterday.
+12 Where was  before cinema the Bill?	kitchen	7 8
+13 the park to yesterday travelled Julie.
+14 evening kitchen the This to Mary moved.
+15 kitchen Mary  Where before the was?	park	14 10
+1 Mary the to cinema went Yesterday.
+2 morning bedroom the Julie to journeyed This.
+3 the Julie afternoon school to This moved.
+4 back office went the yesterday Julie to.
+5 the Julie was before bedroom  Where?	office	2 4
+6 back went office to Julie the evening This.
+7 went back the bedroom this morning Mary to.
+8 was Julie office before  Where the?	school	6 3
+9 moved afternoon cinema This the Mary to.
+10 the Bill cinema journeyed to yesterday.
+11 before was bedroom the Where  Mary?	cinema	7 1
+12 Bill to journeyed this the morning park.
+13 Yesterday the bedroom moved Fred to.
+14  the park Where before was Bill?	cinema	12 10
+15 morning the to school journeyed This Fred.
+16 office afternoon this Bill moved the to.
+17 Mary  Where was before the cinema?	bedroom	9 7
+1 Fred to yesterday journeyed school the.
+2 the this office Fred to travelled morning.
+3 back went Yesterday the cinema to Bill.
+4 Yesterday journeyed Mary school the to.
+5 office before  the Fred was Where?	school	2 1
+6 to travelled office the Julie Yesterday.
+7 this journeyed morning cinema the Mary to.
+8 cinema the  before Where was Mary?	school	7 4
+9 back morning went This Julie the kitchen to.
+10 moved the Bill This morning to park.
+11 the  before was Bill park Where?	cinema	10 3
+12 to travelled the Mary afternoon this bedroom.
+13 This Julie afternoon to moved school the.
+14  school was the Where Julie before?	kitchen	13 9
+15 this afternoon cinema back to Fred went the.
+16 to Mary travelled evening the office This.
+17 Where Fred cinema was  the before?	office	15 2
+1 Mary park back morning this to the went.
+2 Mary the travelled Yesterday to bedroom.
+3 the to Fred travelled school yesterday.
+4 cinema Julie to Yesterday the journeyed.
+5 before Where was park Mary  the?	bedroom	1 2
+6 morning to the school Julie went this.
+7 back to This afternoon Mary cinema the went.
+8 park Mary the before  was Where?	bedroom	1 2
+9 evening to this park journeyed Mary the.
+10 Yesterday school journeyed the to Bill.
+11 Mary before the Where was park ?	cinema	9 7
+12 this morning Fred the to office journeyed.
+13 the morning kitchen to went This back Bill.
+14 Mary before the was Where park ?	cinema	9 7
+15 the office went afternoon to This Bill.
+16 to school afternoon the back went This Fred.
+17 office Where the was before Fred ?	school	12 3
+1 journeyed to this morning bedroom Julie the.
+2 Julie the kitchen to journeyed Yesterday.
+3 Julie the before Where was bedroom ?	kitchen	1 2
+4 went kitchen yesterday back to Mary the.
+5 the Bill cinema travelled yesterday to.
+6 was bedroom the Where before Julie ?	kitchen	1 2
+7 went the this to Mary morning bedroom.
+8 to moved Julie park this afternoon the.
+9  Where the bedroom before Mary was?	kitchen	7 4
+10 bedroom to Fred journeyed the yesterday.
+11 Mary the to park moved This afternoon.
+12 Where before the park  Julie was?	bedroom	8 1
+13 evening the went this Mary to cinema.
+14 morning this office to went Bill the back.
+15 Mary cinema was the  Where before?	park	13 11
+1 morning the This bedroom moved to Fred.
+2 moved the Yesterday Mary to bedroom.
+3 school Bill travelled Yesterday the to.
+4 Yesterday the moved Fred school to.
+5 Fred  bedroom Where was the before?	school	1 4
+6 the morning school Mary journeyed to This.
+7 to Bill bedroom This the morning journeyed.
+8 Bill the before bedroom Where  was?	school	7 3
+9 Fred evening park this back went the to.
+10 the moved Fred afternoon kitchen to this.
+11 kitchen was the Where Fred before ?	bedroom	10 1
+12 Yesterday the to travelled Julie school.
+13 This Mary went back afternoon the park to.
+14 before Fred Where was the  kitchen?	bedroom	10 1
+15 the to Julie journeyed afternoon office this.
+16 morning to Julie the this moved cinema.
+17 was  Where before the park Fred?	kitchen	9 10
+1 went office to the back Bill Yesterday.
+2 the school morning to this Mary journeyed.
+3 the went to Julie yesterday kitchen.
+4 the to Mary went yesterday park.
+5  the before Where school was Mary?	park	2 4
+6 went the cinema Bill morning This to.
+7 Julie to bedroom this went the morning.
+8 the Where bedroom  before was Julie?	kitchen	7 3
+9 the Mary to back this kitchen afternoon went.
+10 this the Julie went afternoon school to back.
+11 Where before kitchen  the was Mary?	school	9 2
+12 to Bill This moved afternoon the office.
+13 yesterday back the went cinema to Fred.
+14  the before Mary Where kitchen was?	school	9 2
+15 to This the evening kitchen Julie travelled.
+16 moved evening Bill this school to the.
+17 was Where  school before the Bill?	office	16 12
+1 school This Julie to back the went morning.
+2 journeyed yesterday Mary the to park.
+3 Yesterday Bill office to the journeyed.
+4 journeyed cinema Yesterday to the Julie.
+5  Where Julie was the before school?	cinema	1 4
+6 to went yesterday kitchen Fred the.
+7 to Julie this the went afternoon office back.
+8 Julie the  was office before Where?	school	7 1
+9 Fred travelled this the morning school to.
+10 Julie This to kitchen the evening journeyed.
+11 was Where  the Julie kitchen before?	office	10 7
+12 went This Mary kitchen to morning the.
+13 Bill went cinema this morning to the.
+14 Where school before the Fred was ?	kitchen	9 6
+15 Bill went this office the to back afternoon.
+16 this park to Mary moved the afternoon.
+17 was the  before Bill office Where?	cinema	15 13
+1 Julie to bedroom Yesterday went the.
+2 the to journeyed office Bill Yesterday.
+3 to went the morning This back kitchen Mary.
+4 Yesterday Mary moved school the to.
+5  before the Where was Mary kitchen?	school	3 4
+6 Fred travelled yesterday the cinema to.
+7 Julie moved to morning school This the.
+8 before Where the kitchen was Mary ?	school	3 4
+9 Fred the to school this went morning.
+10 travelled this park to afternoon Julie the.
+11 was before Julie park  Where the?	school	10 7
+12 Mary back This to afternoon office the went.
+13 the office This journeyed to Fred afternoon.
+14 the Where before was  park Julie?	school	10 7
+15 evening this went kitchen to the Mary.
+16 Julie back the This went to office evening.
+17 Fred Where before the  was office?	school	13 9
+1 the to journeyed Julie park yesterday.
+2 the Julie morning moved office to This.
+3 the office to morning journeyed Bill this.
+4 the went Yesterday back to Bill bedroom.
+5 office the before  Julie was Where?	park	2 1
+6 morning bedroom This went the to Fred.
+7 Fred school Yesterday moved to the.
+8 Julie was before the  Where office?	park	2 1
+9 journeyed bedroom This afternoon to the Julie.
+10 This Bill to the afternoon kitchen moved.
+11 Where before office the  Bill was?	bedroom	3 4
+12 to evening This Bill went the office.
+13 the yesterday Mary travelled office to.
+14 before the  Where Bill was office?	kitchen	12 10
+15 Fred journeyed to afternoon park the this.
+16 back park evening to went the Julie this.
+17 the  Julie Where bedroom before was?	office	9 2
+1 morning This kitchen to Bill journeyed the.
+2 Bill bedroom the went Yesterday to.
+3 Where the was before kitchen Bill ?	bedroom	1 2
+4 the to Julie park back yesterday went.
+5 kitchen moved the to Mary yesterday.
+6  Bill was before the kitchen Where?	bedroom	1 2
+7 office the morning to journeyed Mary this.
+8 yesterday Fred travelled cinema the to.
+9 the kitchen before Bill was  Where?	bedroom	1 2
+10 afternoon the Bill This to travelled school.
+11 This morning moved to kitchen Julie the.
+12 Where Mary before office was  the?	kitchen	7 5
+13 to Julie office This the journeyed afternoon.
+14 Mary to this school the afternoon travelled.
+15 before the Where was Mary  school?	office	14 7
+1 Yesterday Bill to bedroom the travelled.
+2 the office travelled to This morning Fred.
+3 went to the cinema Fred yesterday.
+4 the yesterday went office back Mary to.
+5  Fred the Where office was before?	cinema	2 3
+6 kitchen Julie to the This morning moved.
+7 the back to went Yesterday Julie office.
+8 was Julie the  before Where kitchen?	office	6 7
+9 moved afternoon Julie the to park this.
+10 This Fred afternoon to journeyed the park.
+11 before was Where the Fred office ?	cinema	2 3
+12 back Mary this went kitchen morning the to.
+13 this to Fred evening cinema travelled the.
+14  Where park was the Julie before?	kitchen	9 6
+15 went bedroom This the afternoon Mary to.
+16 travelled this Julie office the evening to.
+17 the park before  Julie Where was?	kitchen	9 6
+1 cinema the Mary to travelled yesterday.
+2 Mary morning to went back the this bedroom.
+3 went back yesterday Fred to cinema the.
+4 the Julie Yesterday to office journeyed.
+5 before Mary the bedroom  was Where?	cinema	2 1
+6 to back the Bill went Yesterday office.
+7 Fred This the to morning bedroom travelled.
+8 before  Mary Where bedroom the was?	cinema	2 1
+9 morning Julie cinema to the This moved.
+10 This bedroom the journeyed to morning Bill.
+11 was before Where the Julie  cinema?	office	9 4
+12 the travelled this park evening to Julie.
+13 to travelled this afternoon Julie kitchen the.
+14  Julie Where was the park before?	kitchen	12 13
+15 this cinema travelled Mary to the afternoon.
+16 afternoon the park went Fred This to.
+17 before Julie Where the was  kitchen?	cinema	13 9
+1 went morning This bedroom back the Fred to.
+2 yesterday Mary park to journeyed the.
+3 the Yesterday moved Bill kitchen to.
+4 Fred to kitchen yesterday went the back.
+5 the Where bedroom Fred was before ?	kitchen	1 4
+6 to journeyed This the afternoon park Fred.
+7 this Bill the moved to morning cinema.
+8  cinema Bill before was Where the?	kitchen	7 3
+9 park Bill the to moved This afternoon.
+10 school Yesterday Julie moved to the.
+11 Bill  before was Where cinema the?	kitchen	7 3
+12 Mary travelled the morning to This kitchen.
+13 to went bedroom evening This the Fred.
+14 before Where bedroom the was  Fred?	park	13 6
+15 This the Mary to afternoon journeyed school.
+16 bedroom to Bill evening went the this.
+17 kitchen Where  the was before Mary?	park	12 2
+1 to this Mary the morning travelled office.
+2 the moved Mary to Yesterday park.
+3 the Julie journeyed yesterday park to.
+4 to the office went morning Julie This.
+5 was Where Julie  office the before?	park	4 3
+6 evening This to the Julie moved office.
+7 to the Julie afternoon kitchen this moved.
+8 was the office Julie Where before ?	kitchen	6 7
+9 Bill park journeyed yesterday the to.
+10 the moved Yesterday Fred office to.
+11 Where before Julie  office the was?	kitchen	6 7
+12 went afternoon This to Mary kitchen the back.
+13 office travelled This morning Bill the to.
+14 Where  was office before the Bill?	park	13 9
+15 park this to Mary evening went the back.
+16 park Bill the afternoon to back This went.
+17 Mary before  was the park Where?	kitchen	15 12
+1 Yesterday Julie the to journeyed park.
+2 the moved bedroom Bill Yesterday to.
+3 to office the yesterday travelled Mary.
+4 morning went This park back to the Mary.
+5 Mary Where before was park the ?	office	4 3
+6 school Fred the moved to yesterday.
+7 bedroom to the Mary this afternoon travelled.
+8 Mary before park  the was Where?	office	4 3
+9 kitchen to went morning Julie the This.
+10 this office Fred the to morning moved.
+11 Mary  before Where was bedroom the?	park	7 4
+12 went park to the Mary This evening.
+13 bedroom This to afternoon Fred journeyed the.
+14 the  before Where Mary was park?	bedroom	12 7
+15 evening the Julie this back went park to.
+16 Julie this to office the afternoon travelled.
+17 park the Where  Julie was before?	office	15 16
+1 back the to cinema went Julie Yesterday.
+2 Mary the bedroom travelled yesterday to.
+3 moved office Bill the This to morning.
+4 school the Bill to yesterday travelled.
+5  Bill was office before the Where?	school	3 4
+6 to travelled Fred the Yesterday school.
+7 journeyed school the Bill to This afternoon.
+8  the before school was Bill Where?	office	7 3
+9 this cinema to evening Bill went the.
+10 Fred This morning travelled park the to.
+11 park the  Where was before Fred?	school	10 6
+12 went Julie the this office afternoon back to.
+13 kitchen the journeyed morning to This Julie.
+14 cinema Where was the Bill  before?	school	9 7
+15 bedroom to went back evening this Julie the.
+16 moved this to kitchen morning Mary the.
+17 Where was before the Julie bedroom ?	office	15 12
+1 yesterday Fred kitchen the to journeyed.
+2 yesterday bedroom the Bill went to.
+3 the park Julie travelled Yesterday to.
+4 travelled morning Fred bedroom to the This.
+5  the bedroom before Where Fred was?	kitchen	4 1
+6 morning bedroom back this the went to Julie.
+7 Bill the this moved to morning park.
+8 before the  Where bedroom Julie was?	park	6 3
+9 bedroom the went Julie evening this to.
+10 to This the cinema Julie moved afternoon.
+11  Where the park before Bill was?	bedroom	7 2
+12 the to moved This kitchen Bill afternoon.
+13 kitchen Fred the to afternoon this journeyed.
+14 was Where the kitchen before Bill ?	park	12 7
+15 Yesterday journeyed to Mary office the.
+16 the evening to Bill journeyed this office.
+17  kitchen Fred was Where before the?	bedroom	13 4
+1 the office back went Julie Yesterday to.
+2 back this to Bill went office the morning.
+3 school went Mary the to Yesterday.
+4 Yesterday to the park went Bill.
+5 the before was office  Bill Where?	park	2 4
+6 Fred travelled office yesterday to the.
+7 Mary moved morning the to kitchen this.
+8  before Where office was the Bill?	park	2 4
+9 afternoon to This cinema journeyed Julie the.
+10 moved to Julie the bedroom This morning.
+11 Where the bedroom was before Julie ?	office	10 1
+12 This journeyed Fred morning the to school.
+13 This Bill afternoon back went to the kitchen.
+14 before Where cinema was Julie  the?	bedroom	9 10
+15 to this afternoon Fred the cinema journeyed.
+16 to the Julie back evening this kitchen went.
+17 cinema the  was Where before Fred?	school	15 12
+1 to journeyed the office Mary morning this.
+2 Julie this journeyed the office morning to.
+3 travelled kitchen yesterday to the Mary.
+4 Julie the Yesterday bedroom travelled to.
+5 the Where Mary office before was ?	kitchen	1 3
+6 Julie park the went this afternoon to.
+7 to the office yesterday journeyed Fred.
+8 was before Where park the  Julie?	office	6 2
+9 This the kitchen to Fred morning moved.
+10 went afternoon Mary this back to cinema the.
+11 the kitchen Where  before was Fred?	office	9 7
+12 this journeyed park the to morning Bill.
+13 to travelled Bill Yesterday the bedroom.
+14 park was Julie before Where  the?	office	6 2
+15 office to Mary moved the This evening.
+16 to the afternoon Fred this school travelled.
+17 Fred Where before school the was ?	kitchen	16 9
+1 to Julie the park this went morning.
+2 cinema to journeyed the Julie yesterday.
+3 was Julie the park before  Where?	cinema	1 2
+4 moved afternoon this bedroom the Julie to.
+5 Fred Yesterday to journeyed park the.
+6 Where was park Julie  before the?	cinema	1 2
+7 kitchen the Bill to Yesterday moved.
+8 office morning the travelled to this Fred.
+9 bedroom Julie was the Where  before?	park	4 1
+10 travelled kitchen to Fred This afternoon the.
+11 office this Julie travelled the evening to.
+12  before Where bedroom Julie was the?	park	4 1
+13 morning this to school Mary the journeyed.
+14 to Yesterday kitchen the moved Mary.
+15 was school  Where the before Mary?	kitchen	13 14
+1 morning went park to the this Bill.
+2 Bill office travelled yesterday the to.
+3 cinema the yesterday Fred went to.
+4 travelled to yesterday Mary park the.
+5 was  Where park before the Bill?	office	1 2
+6 the to yesterday cinema Julie journeyed.
+7 This afternoon the Bill went bedroom to.
+8 bedroom was Where Bill before  the?	park	7 1
+9 Fred journeyed the to afternoon this school.
+10 This Fred to park went the morning.
+11 school Where the  before was Fred?	park	9 10
+12 the evening to cinema Bill travelled This.
+13 the Julie journeyed office to morning this.
+14 Where  cinema before was the Bill?	bedroom	12 7
+15 bedroom This went the back morning to Mary.
+16 the kitchen This Fred journeyed evening to.
+17 was school  Fred before Where the?	park	9 10
+1 morning Bill journeyed to this school the.
+2 park to back went Bill Yesterday the.
+3 Where the Bill was before school ?	park	1 2
+4 went the back Yesterday to cinema Julie.
+5 park yesterday journeyed the Mary to.
+6 was school the Where Bill before ?	park	1 2
+7 moved school the this Julie to afternoon.
+8 bedroom moved to This the Julie morning.
+9 school the Julie before was Where ?	bedroom	7 8
+10 went This Mary to morning the bedroom.
+11 this Julie to office the went evening.
+12 Where the  Julie bedroom before was?	cinema	8 4
+13 afternoon the journeyed This cinema to Mary.
+14 yesterday journeyed the to Fred office.
+15 before the bedroom Where Mary  was?	park	10 5
+1 cinema journeyed to morning the This Julie.
+2 Julie to the office back yesterday went.
+3 the cinema was  before Where Julie?	office	1 2
+4 yesterday Bill moved office to the.
+5 Yesterday the to moved Mary office.
+6 was the before  Where cinema Julie?	office	1 2
+7 This afternoon to back Julie kitchen went the.
+8 Fred travelled Yesterday to kitchen the.
+9 Julie the was Where kitchen before ?	cinema	7 1
+10 bedroom This morning the to moved Fred.
+11 cinema to journeyed Bill morning the This.
+12 Where bedroom was Fred  before the?	kitchen	10 8
+13 cinema travelled to Mary morning the This.
+14 to the this afternoon went kitchen back Fred.
+15 bedroom Where before Fred  was the?	kitchen	10 8
+1 Yesterday to Mary kitchen travelled the.
+2 travelled This Fred morning school to the.
+3 cinema Julie moved to yesterday the.
+4 travelled to yesterday Fred the park.
+5 was Fred school before Where the ?	park	2 4
+6 the park journeyed yesterday Bill to.
+7 journeyed Julie bedroom this the to morning.
+8 school Fred  before Where the was?	park	2 4
+9 back went This the kitchen Julie afternoon to.
+10 Mary morning office the This back to went.
+11 school before the  Fred was Where?	park	2 4
+12 the Mary afternoon this to cinema travelled.
+13 cinema to morning back This Bill the went.
+14 the was before Where Julie  kitchen?	bedroom	9 7
+15 moved Julie to bedroom evening This the.
+16 travelled Mary this office evening to the.
+17 cinema  the Where before was Bill?	park	13 6
+1 morning this the cinema Fred went to.
+2 went to the back Julie park Yesterday.
+3 to yesterday kitchen the travelled Fred.
+4 Yesterday went school the to Bill.
+5 before was Fred Where the cinema ?	kitchen	1 3
+6 back went to Bill bedroom this the afternoon.
+7 journeyed park morning Bill this the to.
+8 the before Fred Where cinema  was?	kitchen	1 3
+9 evening back Fred school went the this to.
+10 the This afternoon Fred moved kitchen to.
+11 Where  the park before was Bill?	school	7 4
+12 This moved kitchen Julie the morning to.
+13 the to Bill cinema back evening This went.
+14 the Where Bill was cinema  before?	bedroom	13 6
+15 to This Julie park travelled the afternoon.
+16 to yesterday office the back Mary went.
+17 was Fred the before Where school ?	kitchen	9 10
+1 went to yesterday the Julie back office.
+2 to This Julie bedroom morning the moved.
+3 Yesterday to the journeyed Bill school.
+4 Fred back the yesterday went office to.
+5  bedroom the Where before Julie was?	office	2 1
+6 the this park morning moved to Fred.
+7 Yesterday went Mary the to kitchen.
+8  before Where bedroom the was Julie?	office	2 1
+9 the this Mary morning went to cinema.
+10 to this went Bill back park morning the.
+11 Fred Where park the was before ?	office	6 4
+12 moved the afternoon this to Julie school.
+13 afternoon This cinema travelled to Fred the.
+14 cinema Where  was the before Fred?	park	13 6
+15 the to this went school Bill afternoon back.
+16 bedroom This went afternoon Mary to the back.
+17  was Bill Where before the school?	park	15 10
+1 the yesterday cinema to moved Bill.
+2 cinema Mary morning to journeyed This the.
+3 this Mary the journeyed to afternoon kitchen.
+4 the Yesterday bedroom Mary to went.
+5 kitchen Where Mary the was before ?	cinema	3 2
+6 to went Julie the yesterday cinema.
+7 Bill morning office the back to went This.
+8 before was Where  the Mary cinema?	bedroom	2 4
+9 school afternoon Bill to the this travelled.
+10 went Fred Yesterday the to cinema.
+11 was  the before Where school Bill?	office	9 7
+12 bedroom the evening Bill this went to.
+13 went this the Julie park morning to.
+14 school before Where was Bill the ?	office	9 7
+15 the kitchen to Fred afternoon this journeyed.
+16 this Fred went the to morning office.
+17 was Where before Fred  the office?	cinema	16 10
+1 office the morning to moved This Bill.
+2 Bill bedroom yesterday journeyed to the.
+3 was the  Where office before Bill?	bedroom	1 2
+4 journeyed Fred kitchen yesterday the to.
+5 afternoon to moved school Bill This the.
+6 Bill the before school Where  was?	office	5 1
+7 to This the moved Fred office morning.
+8 office to Mary the Yesterday journeyed.
+9 Bill before was Where the  school?	office	5 1
+10 the to office This Mary afternoon journeyed.
+11 to this moved Mary the morning cinema.
+12 was  the Mary Where before cinema?	office	11 8
+13 Bill This evening the cinema to journeyed.
+14 the kitchen this to travelled afternoon Fred.
+15 was Where the before cinema Mary ?	office	11 8
+1 to back morning the This Mary went office.
+2 yesterday Fred the bedroom to went.
+3 the This Bill morning park to journeyed.
+4 cinema to Bill the went Yesterday back.
+5 to Yesterday back Mary went park the.
+6 yesterday park went the Julie to back.
+7 office Mary before was  the Where?	park	1 5
+8 afternoon this to school the journeyed Mary.
+9 moved to morning this the cinema Julie.
+10  before was park the Where Bill?	cinema	3 4
+11 the This evening Mary travelled office to.
+12 This to office moved the morning Fred.
+13 the was office  Where Mary before?	school	11 8
+14 the school to went this Julie afternoon.
+15 the Fred afternoon This school travelled to.
+16 Where the was  before office Fred?	bedroom	12 2
+17 bedroom the This evening to Fred travelled.
+18 the travelled to Bill afternoon bedroom this.
+19 before school Fred was the Where ?	office	15 12
+1 Yesterday bedroom the to Bill moved.
+2 cinema to Bill moved morning this the.
+3 kitchen to yesterday Fred travelled the.
+4 Yesterday Mary the kitchen went to back.
+5 the before was Where cinema  Bill?	bedroom	2 1
+6 Julie kitchen the yesterday to went.
+7 morning park back This the to went Mary.
+8 Mary  the Where was park before?	kitchen	7 4
+9 This school Julie afternoon travelled to the.
+10 office morning back Julie went the This to.
+11  was Mary park before Where the?	kitchen	7 4
+12 went Fred back the morning This to park.
+13 back the to Julie kitchen evening This went.
+14 was the Where  Fred park before?	kitchen	12 3
+15 the park went to Bill This afternoon.
+16 the afternoon This went cinema back Fred to.
+17  the before was Julie Where kitchen?	school	13 9
+1 journeyed This school morning to the Bill.
+2 travelled Fred cinema to the yesterday.
+3 the journeyed to Yesterday park Bill.
+4 to the back yesterday cinema Mary went.
+5 school the Bill Where was  before?	park	1 3
+6 the morning office This went to Mary.
+7 travelled school the to Julie Yesterday.
+8 Where was the school before Bill ?	park	1 3
+9 evening back went bedroom the Mary to This.
+10 afternoon Mary this school the back went to.
+11 before office  was the Where Mary?	cinema	6 4
+12 cinema this the morning Julie journeyed to.
+13 the bedroom This travelled afternoon to Bill.
+14 Where  office before Mary was the?	cinema	6 4
+15 afternoon this to back went the Julie park.
+16 journeyed kitchen to this Fred the morning.
+17 bedroom Where was Bill  the before?	school	13 1
+1 Julie travelled to bedroom yesterday the.
+2 This the morning Fred journeyed to school.
+3 to Yesterday journeyed school Mary the.
+4 to travelled park yesterday the Fred.
+5 the before Fred  school was Where?	park	2 4
+6 office afternoon this went to Julie the.
+7 morning Julie cinema the to journeyed This.
+8 office was  Where the before Julie?	cinema	6 7
+9 cinema to the went Julie this evening.
+10 Bill office yesterday went to the back.
+11 cinema before the Julie Where was ?	office	9 6
+12 evening moved the kitchen to Fred this.
+13 to afternoon went Fred cinema back this the.
+14 Fred  before kitchen Where the was?	cinema	12 13
+15 the Bill to this cinema morning went back.
+16 moved the this to Mary park morning.
+17 Where the was kitchen Fred  before?	cinema	12 13
+1 yesterday Fred to bedroom the went back.
+2 Bill to yesterday moved kitchen the.
+3 to the cinema went Julie morning This back.
+4 office Yesterday to Julie the moved.
+5 Julie Where the before  cinema was?	office	3 4
+6 the Mary went yesterday office to.
+7 morning went Bill this school to the back.
+8  cinema was Julie before the Where?	office	3 4
+9 went this to kitchen afternoon back Julie the.
+10 to Fred kitchen back morning the this went.
+11 kitchen Where was Fred the before ?	bedroom	10 1
+12 the went kitchen afternoon This back Bill to.
+13 cinema evening travelled the to Julie This.
+14 kitchen Where was the before  Bill?	school	12 7
+15 afternoon went school the Fred This to.
+16 bedroom morning the journeyed this to Mary.
+17 before cinema Julie Where the was ?	kitchen	13 9
+1 Julie morning the went to park This.
+2 the office went Julie back Yesterday to.
+3 the Where before  Julie was park?	office	1 2
+4 to Mary moved yesterday office the.
+5 Bill the office Yesterday moved to.
+6 the was before Julie park Where ?	office	1 2
+7 went Mary morning to the school this.
+8 bedroom Bill journeyed to the morning this.
+9  school was before Where the Mary?	office	7 4
+10 to Fred This the morning journeyed cinema.
+11 went to school Fred the yesterday.
+12 school Where was  Mary the before?	office	7 4
+13 journeyed park the to this Mary afternoon.
+14 the Julie this went to office afternoon.
+15 school was  before Mary Where the?	office	7 4
+1 to Mary went back yesterday the bedroom.
+2 Bill Yesterday the journeyed office to.
+3 kitchen moved the Yesterday Julie to.
+4 the back morning this went to kitchen Mary.
+5 Where Mary the  before was kitchen?	bedroom	4 1
+6 this travelled the to Mary afternoon school.
+7 travelled Fred cinema to the yesterday.
+8 kitchen Where the before was  Mary?	bedroom	4 1
+9 evening office the went Mary to This.
+10 Fred the went to school this morning.
+11 the Where was before  Mary office?	school	9 6
+12 This to cinema morning Julie the travelled.
+13 Fred journeyed office afternoon This the to.
+14 before Where the was  office Mary?	school	9 6
+15 to bedroom the travelled evening This Julie.
+16 journeyed afternoon to the kitchen Julie This.
+17 office Where  before Mary the was?	school	9 6
+1 the to back kitchen Yesterday Mary went.
+2 Julie to Yesterday the went school.
+3 Julie this to office moved the morning.
+4 bedroom back the Bill went Yesterday to.
+5  Julie the office was Where before?	school	3 2
+6 journeyed Mary this to morning the park.
+7 travelled to the this morning Bill kitchen.
+8  the office Julie before Where was?	school	3 2
+9 back went Fred bedroom yesterday the to.
+10 This the afternoon to Mary school travelled.
+11 park was Mary the  before Where?	kitchen	6 1
+12 the kitchen back to evening This went Mary.
+13 the Fred office to moved this morning.
+14 was park before Where Mary the ?	kitchen	6 1
+15 to evening This park journeyed Fred the.
+16 went cinema the afternoon this to Fred.
+17 Mary the  Where was kitchen before?	school	12 10
+1 went This Bill cinema morning to the.
+2 the bedroom to travelled Yesterday Fred.
+3 to Yesterday Julie bedroom the travelled.
+4 went to Bill the back kitchen Yesterday.
+5 was the Bill before  Where cinema?	kitchen	1 4
+6 This office to travelled the Julie morning.
+7 travelled school the This Fred to morning.
+8 the office was Where before  Julie?	bedroom	6 3
+9 park back this went Bill afternoon to the.
+10 to Fred afternoon travelled the This kitchen.
+11 Where Fred kitchen  before was the?	school	10 7
+12 kitchen Julie travelled the to This afternoon.
+13 the office evening This Bill to travelled.
+14 kitchen Where  the Fred before was?	school	10 7
+15 Julie This bedroom journeyed to the evening.
+16 Mary Yesterday went kitchen to the.
+17 was before bedroom Where Julie  the?	kitchen	15 12
+1 morning to travelled bedroom this Bill the.
+2 the to travelled yesterday Bill school.
+3  the Where before Bill bedroom was?	school	1 2
+4 to Yesterday school moved Mary the.
+5 moved Fred the yesterday to bedroom.
+6  bedroom the before Where was Bill?	school	1 2
+7 went to the Fred cinema morning This.
+8 Mary travelled the park morning this to.
+9 cinema Fred the  before Where was?	bedroom	7 5
+10 Fred the bedroom afternoon went This to.
+11 to afternoon went this the Mary office.
+12 Where before Mary was the  office?	park	11 8
+13 the Bill journeyed This park to afternoon.
+14 moved to Julie yesterday the kitchen.
+15 Bill was the  Where park before?	bedroom	13 1
+1 this morning went kitchen Bill the to.
+2 yesterday Bill to cinema the went.
+3 back Mary office the went to yesterday.
+4 office Fred back to the went Yesterday.
+5 the was kitchen Bill before  Where?	cinema	1 2
+6 back Bill to afternoon the park went this.
+7 Mary the morning this to went school.
+8 before the Bill  Where was kitchen?	cinema	1 2
+9 Bill journeyed to This the cinema evening.
+10 Yesterday school the back Julie to went.
+11 kitchen the Bill Where  was before?	cinema	1 2
+12 afternoon went the Mary back bedroom to this.
+13 This Fred the back morning to went park.
+14 was before  the park Where Fred?	office	13 4
+15 bedroom This travelled morning the to Julie.
+16 to Mary the evening went school this.
+17 Where Bill  the was cinema before?	park	9 6
+1 Julie journeyed the afternoon this cinema to.
+2 to travelled Julie this the park morning.
+3 kitchen travelled yesterday the to Bill.
+4 journeyed cinema the to Julie Yesterday.
+5 Where Julie the was cinema  before?	park	1 2
+6 the Mary school Yesterday went back to.
+7 park the This to Julie moved evening.
+8 cinema Where  before was the Julie?	park	1 2
+9 Bill bedroom journeyed morning to This the.
+10 to the kitchen journeyed This morning Mary.
+11  Mary kitchen before was the Where?	school	10 6
+12 to this the Bill evening school went.
+13 afternoon Bill the journeyed This to office.
+14 Bill before office was the  Where?	bedroom	13 9
+15 office This the went to Mary evening.
+16 Mary went cinema the to afternoon this.
+17 Where  was the before office Bill?	bedroom	13 9
+1 went kitchen this the Mary morning to.
+2 the Mary to Yesterday moved bedroom.
+3 school the went yesterday Julie to.
+4 office afternoon Mary to the travelled this.
+5 yesterday cinema the Bill journeyed to.
+6 Fred to kitchen the travelled Yesterday.
+7 was before the  Mary Where office?	kitchen	4 1
+8 kitchen afternoon this the Julie travelled to.
+9 Julie cinema this went the morning to.
+10 Julie  before kitchen was the Where?	cinema	8 9
+11 moved the park to this Julie evening.
+12 went the morning Fred park back This to.
+13 Where before office  was Mary the?	kitchen	4 1
+14 the school Fred This went to afternoon back.
+15 morning travelled the Bill This to school.
+16 before the was school Bill Where ?	cinema	15 5
+17 cinema the Bill moved afternoon to this.
+18 evening kitchen travelled the to This Fred.
+19 before was school the Where Bill ?	cinema	15 5
+1 morning to Bill travelled office This the.
+2 Bill to the school yesterday journeyed.
+3 before  the Where office was Bill?	school	1 2
+4 yesterday to the journeyed school Mary.
+5 to office Fred yesterday moved the.
+6 was office the before  Bill Where?	school	1 2
+7 the to this moved kitchen morning Mary.
+8 Julie park Yesterday to the went.
+9 was Bill the before office  Where?	school	1 2
+10 this bedroom Fred went the morning to.
+11 to this Bill afternoon the kitchen went.
+12  was before the Fred bedroom Where?	office	10 5
+13 evening park the moved This Bill to.
+14 travelled afternoon kitchen This the Fred to.
+15 before was Where the  kitchen Bill?	office	11 1
+1 morning Bill This went back school to the.
+2 yesterday to went the Bill cinema.
+3 yesterday went bedroom Mary the to.
+4 moved the Yesterday to Fred bedroom.
+5 the Where  was before school Bill?	cinema	1 2
+6 the bedroom Mary to afternoon This travelled.
+7 the office this went to morning Mary.
+8  the Mary Where before was office?	bedroom	7 3
+9 went morning kitchen this to Julie the.
+10 the Yesterday Julie journeyed to park.
+11 before school Where was Bill the ?	cinema	1 2
+12 kitchen to evening went This Mary back the.
+13 Julie went to the afternoon This cinema.
+14 kitchen before  Julie was the Where?	park	9 10
+15 this to afternoon the Bill went back park.
+16 morning went this Fred to the cinema.
+17 was the Where Mary before kitchen ?	bedroom	12 6
+1 travelled to the office This Bill morning.
+2 Bill the back went to school Yesterday.
+3 Where was the Bill  office before?	school	1 2
+4 to this travelled Bill evening the school.
+5 Bill back to afternoon the went This park.
+6 was park the before  Where Bill?	office	5 1
+7 Yesterday moved school to the Julie.
+8 to the moved Fred yesterday cinema.
+9  was before Where Bill the school?	park	4 5
+10 the went back park to morning Fred This.
+11 back office Julie morning the went this to.
+12 Where the was park before  Fred?	cinema	10 8
+13 the back went to afternoon Fred kitchen this.
+14 moved Mary kitchen to Yesterday the.
+15 Where before was Fred  park the?	cinema	10 8
+1 Yesterday Mary cinema the went to.
+2 school Bill the yesterday went back to.
+3 this school the Fred to morning went.
+4 yesterday to went Fred bedroom the.
+5 the Mary office went morning to this.
+6 to the journeyed Yesterday park Julie.
+7 school Where  Fred the was before?	bedroom	3 4
+8 the kitchen went to back Bill morning This.
+9 the to travelled office morning this Julie.
+10 the  Bill before was kitchen Where?	school	8 2
+11 travelled kitchen This the Mary evening to.
+12 went the to afternoon Mary This bedroom.
+13 was  Bill kitchen the Where before?	school	8 2
+14 went this evening bedroom back Fred the to.
+15 afternoon office the journeyed to Fred this.
+16  Where bedroom Mary before the was?	office	12 5
+17 journeyed This the evening Bill cinema to.
+18 Bill journeyed to This the afternoon office.
+19 Bill the  Where was before cinema?	office	17 18
+1 travelled school this the morning Mary to.
+2 the to Mary Yesterday journeyed park.
+3 before  Mary school the Where was?	park	1 2
+4 journeyed This the morning Fred to cinema.
+5 moved kitchen the to yesterday Fred.
+6  the school Mary was before Where?	park	1 2
+7 Bill Yesterday journeyed kitchen to the.
+8 afternoon Fred to school the journeyed this.
+9 before was school Mary the  Where?	park	1 2
+10 bedroom went evening this the Fred to back.
+11 bedroom the This morning to Bill went.
+12 before was Fred Where the  school?	cinema	8 4
+13 Yesterday went the Julie to school.
+14 travelled to afternoon office the Mary This.
+15  bedroom the Fred was Where before?	school	10 8
+1 the went yesterday to back Fred school.
+2 back Yesterday to Bill the cinema went.
+3 to bedroom moved the morning Fred This.
+4 Yesterday park to Julie moved the.
+5 the Fred before was Where  bedroom?	school	3 1
+6 afternoon the this to travelled park Bill.
+7 the office this Bill morning to journeyed.
+8 before the bedroom was Fred  Where?	school	3 1
+9 to this the Bill journeyed office evening.
+10 yesterday Mary kitchen travelled to the.
+11 the Bill Where was  before park?	office	6 7
+12 to kitchen This the afternoon Mary journeyed.
+13 went to morning this Mary back school the.
+14  before was kitchen the Where Mary?	school	12 13
+15 Mary to went this the evening office.
+16 Julie the morning this to moved kitchen.
+17 before Mary kitchen Where the  was?	school	12 13
+1 Fred morning to this the office moved.
+2 Fred Yesterday to went back the park.
+3 to Bill kitchen the journeyed Yesterday.
+4 Mary travelled school Yesterday the to.
+5 before office was Where  the Fred?	park	1 2
+6 office Mary morning this to the journeyed.
+7 the Yesterday office moved Julie to.
+8  Where Fred the before office was?	park	1 2
+9 the to Julie school morning journeyed this.
+10 This went Mary to afternoon bedroom the.
+11 Mary bedroom before the  was Where?	office	10 6
+12 afternoon to Julie back office went This the.
+13 the Bill morning moved to This park.
+14  the Where school was Julie before?	office	9 7
+15 This back evening to the kitchen went Mary.
+16 office went Bill to the afternoon back this.
+17 Bill  park the was Where before?	kitchen	13 3
+1 cinema yesterday to back the Julie went.
+2 the Mary Yesterday moved to kitchen.
+3 went Bill office to the Yesterday.
+4 to the morning park journeyed this Bill.
+5 park was  the Bill before Where?	office	4 3
+6 journeyed to the this Bill school afternoon.
+7 the journeyed kitchen Yesterday Fred to.
+8 Bill Where the  park before was?	office	4 3
+9 Mary the morning This to travelled office.
+10 park evening went back the to Bill This.
+11  the office was before Where Mary?	kitchen	9 2
+12 Fred to this park back morning the went.
+13 the Mary This to moved afternoon kitchen.
+14 before park the  Where Fred was?	kitchen	12 7
+15 this Fred went to the afternoon cinema.
+16 Mary back evening the to This went bedroom.
+17 Where  the before was cinema Fred?	park	15 12
+1 moved Yesterday school Julie to the.
+2 Bill to the cinema went yesterday.
+3 to journeyed the morning park Julie This.
+4 to back office Fred went the Yesterday.
+5  park the Where was before Julie?	school	3 1
+6 school went Yesterday the to Mary.
+7 the morning to travelled Fred this park.
+8 Where Fred the park  was before?	office	7 4
+9 This the kitchen to went morning back Mary.
+10 This bedroom Julie the to moved afternoon.
+11 before  Fred Where the park was?	office	7 4
+12 journeyed This the office Bill afternoon to.
+13 moved morning kitchen Bill to This the.
+14 the was Where Bill before  kitchen?	cinema	13 2
+15 office to the afternoon this journeyed Fred.
+16 to moved the this Julie evening office.
+17 Where Fred office was  before the?	park	15 7
+1 morning school moved Julie This the to.
+2 Bill journeyed Yesterday to cinema the.
+3 Yesterday Julie back the to cinema went.
+4 travelled to park yesterday Mary the.
+5 Where before the was  school Julie?	cinema	1 3
+6 park This Bill went morning to the.
+7 the school morning this to Mary went.
+8  before Where Mary the school was?	park	7 4
+9 back the Mary This afternoon went park to.
+10 this afternoon the Julie moved bedroom to.
+11 before the Where  park Bill was?	cinema	6 2
+12 cinema This Bill the afternoon journeyed to.
+13 this the Mary went evening cinema to.
+14 the  before park Mary was Where?	school	9 7
+15 Fred yesterday to the park moved.
+16 to cinema travelled the Julie evening this.
+17  Mary the was cinema before Where?	park	13 9
+1 journeyed Julie to yesterday cinema the.
+2 travelled bedroom Fred to yesterday the.
+3 cinema travelled to this the morning Fred.
+4 the to morning This kitchen Julie moved.
+5 to office yesterday the Mary travelled.
+6 Yesterday travelled to Bill the office.
+7 Julie before  kitchen was the Where?	cinema	4 1
+8 school morning the Mary travelled to this.
+9 Fred journeyed to This the office afternoon.
+10 Where Mary was the  school before?	office	8 5
+11 office This the Julie travelled afternoon to.
+12 this school back went Fred to the evening.
+13 before Fred the  Where was school?	office	12 9
+14 Mary the office to this journeyed afternoon.
+15 Bill the park to moved morning this.
+16  the before Mary Where was office?	school	14 8
+17 went evening to Julie back this school the.
+18 cinema Mary went This evening the to.
+19  school was before Julie the Where?	office	17 11
+1 yesterday cinema to the Julie moved.
+2 went Bill back yesterday to bedroom the.
+3 the bedroom to Julie morning This journeyed.
+4 Mary to cinema journeyed this the morning.
+5 yesterday to Fred travelled the cinema.
+6 Mary to bedroom yesterday the moved.
+7 Julie  the before bedroom Where was?	cinema	3 1
+8 journeyed morning the Fred this to office.
+9 moved Bill This the office morning to.
+10 office before Fred the Where was ?	cinema	8 5
+11 this Fred afternoon the went to park back.
+12 This to school the travelled Bill afternoon.
+13  before Where was bedroom Julie the?	cinema	3 1
+14 went bedroom back the Bill to this evening.
+15 to journeyed this office afternoon Julie the.
+16 Fred Where the was  park before?	office	11 8
+17 this to afternoon Mary went school the.
+18 school the to Fred went evening This.
+19 Where before Fred the school was ?	park	18 11
+1 to went cinema the yesterday Bill.
+2 bedroom Fred the journeyed to morning This.
+3 went Yesterday Julie to the cinema back.
+4 the Yesterday journeyed office Fred to.
+5 before the  bedroom Where Fred was?	office	2 4
+6 journeyed to the park Yesterday Mary.
+7 morning Bill the This journeyed to park.
+8 bedroom the Fred  Where before was?	office	2 4
+9 back to This the Mary school went morning.
+10 Julie This to kitchen moved the morning.
+11 before Fred Where was  the bedroom?	office	2 4
+12 This the to Julie afternoon went cinema.
+13 Bill this the travelled cinema afternoon to.
+14 school before Mary the  Where was?	park	9 6
+15 This travelled the evening to park Fred.
+16 cinema this the to moved afternoon Fred.
+17  Bill cinema before Where was the?	park	13 7
+1 to Mary the yesterday school travelled.
+2 to Fred This morning kitchen moved the.
+3 bedroom Fred Yesterday the to went.
+4 kitchen morning This Mary the to travelled.
+5 Fred kitchen the before was  Where?	bedroom	2 3
+6 Julie school went the to back Yesterday.
+7 school the this Mary to moved afternoon.
+8 kitchen  before Where the was Fred?	bedroom	2 3
+9 Fred back this the evening went to kitchen.
+10 afternoon Fred this park to the journeyed.
+11 school before the Where was Mary ?	kitchen	7 4
+12 Bill went Yesterday cinema the to.
+13 Julie this went morning the back park to.
+14 Where before park the Julie was ?	school	13 6
+15 Bill to back afternoon This the went cinema.
+16 morning went to the This Bill office.
+17 before Where kitchen was Fred the ?	park	9 10
+1 back school yesterday to the Julie went.
+2 travelled yesterday the Bill to school.
+3 the Mary cinema to Yesterday moved.
+4 to the moved office morning This Bill.
+5 Bill Where before office  the was?	school	4 2
+6 This Mary went the school morning to.
+7 This morning journeyed Julie to office the.
+8 Where Julie office before the was ?	school	7 1
+9 went the back bedroom afternoon Bill This to.
+10 bedroom Julie the This afternoon went back to.
+11 the was before Where  Julie office?	school	7 1
+12 kitchen to this Mary journeyed the evening.
+13 afternoon office Mary moved to this the.
+14 Mary  Where before kitchen was the?	office	12 13
+15 evening to park travelled this Bill the.
+16 the park evening back Julie this to went.
+17 the office  Where Mary was before?	school	13 6
+1 Yesterday Fred the cinema travelled to.
+2 bedroom morning to the this travelled Julie.
+3 the Yesterday Mary to school travelled.
+4 Julie journeyed park Yesterday to the.
+5 Julie Where the bedroom was  before?	park	2 4
+6 back to kitchen morning the This went Fred.
+7 Bill journeyed yesterday bedroom the to.
+8  bedroom Julie was before Where the?	park	2 4
+9 back the evening Julie to park went this.
+10 the This went afternoon Julie kitchen to.
+11 kitchen the  before Where Julie was?	bedroom	10 2
+12 the Mary moved This morning bedroom to.
+13 This the morning went office Bill to.
+14 before kitchen was the  Fred Where?	cinema	6 1
+15 park the travelled This afternoon to Fred.
+16 to the Mary this moved afternoon kitchen.
+17 before Where the  was park Julie?	kitchen	9 10
+1 yesterday moved to park the Julie.
+2 travelled this the to morning Bill school.
+3 went Mary the school to yesterday.
+4 yesterday the moved to Bill kitchen.
+5  school Bill Where before was the?	kitchen	2 4
+6 moved Julie to This morning kitchen the.
+7 to school Yesterday the went back Fred.
+8 Julie was  before the Where kitchen?	park	6 1
+9 This the to kitchen Bill afternoon journeyed.
+10 went this morning Mary office to the back.
+11  was before Where the kitchen Bill?	school	9 2
+12 evening Julie this moved the to cinema.
+13 Julie afternoon journeyed the to park this.
+14 Where Julie was the before cinema ?	park	12 13
+15 the to this Bill evening bedroom journeyed.
+16 to this the morning went Fred office.
+17 before Fred was office the  Where?	school	16 7
+1 this went bedroom Bill the to back morning.
+2 Yesterday Fred office to the went.
+3 went Yesterday Mary bedroom to the.
+4 the kitchen moved Bill to yesterday.
+5  was before Where the bedroom Bill?	kitchen	1 4
+6 morning to back office went Mary the This.
+7 moved Fred the This to kitchen morning.
+8  Fred was before Where the kitchen?	office	7 2
+9 cinema evening Bill the to this travelled.
+10 the office to afternoon journeyed Bill this.
+11 before the  was cinema Where Bill?	office	9 10
+12 Mary to the moved This evening bedroom.
+13 afternoon went school to the Mary this.
+14 Bill cinema was the  before Where?	office	9 10
+15 to evening This cinema Fred moved the.
+16 This afternoon journeyed the Fred to bedroom.
+17 Mary before bedroom was Where  the?	school	12 13
+1 to Yesterday the journeyed park Bill.
+2 to kitchen Fred Yesterday the back went.
+3 Julie morning moved cinema the This to.
+4 Julie office moved to yesterday the.
+5 Where  Julie cinema before was the?	office	3 4
+6 the went to This Fred morning bedroom.
+7 afternoon This back went the Julie bedroom to.
+8 bedroom the Fred Where before was ?	kitchen	6 2
+9 morning the office to went Mary This back.
+10 travelled yesterday bedroom the to Mary.
+11 Julie Where the before  was bedroom?	cinema	7 3
+12 Bill This to went morning school the.
+13 evening the Julie this journeyed to cinema.
+14 Where bedroom  the Fred before was?	kitchen	6 2
+15 bedroom the to travelled Bill afternoon This.
+16 Fred park the afternoon journeyed to this.
+17 cinema was the Julie  Where before?	bedroom	13 7
+1 yesterday journeyed office Bill the to.
+2 morning travelled the to This cinema Mary.
+3 back cinema Yesterday went the to Julie.
+4 yesterday the to Mary travelled park.
+5 cinema was before the  Where Mary?	park	2 4
+6 journeyed school This the Julie to morning.
+7 school afternoon Mary the travelled This to.
+8 the  Where Mary was cinema before?	park	2 4
+9 Mary bedroom This moved evening the to.
+10 afternoon the moved to Julie This kitchen.
+11 school before was the  Julie Where?	cinema	6 3
+12 the park afternoon journeyed to Bill this.
+13 to Bill bedroom This the moved morning.
+14 before  park was the Where Bill?	bedroom	12 13
+15 evening Julie the this cinema to moved.
+16 park to Yesterday went Fred the.
+17 before the Where bedroom was Bill ?	office	13 1
+1 This travelled to kitchen Mary morning the.
+2 went back to park yesterday the Mary.
+3 Bill yesterday the journeyed school to.
+4 to the Yesterday moved Julie park.
+5 Mary was before Where kitchen the ?	park	1 2
+6 school the This moved Bill afternoon to.
+7 to morning This the park Bill travelled.
+8  Where before kitchen was the Mary?	park	1 2
+9 evening to this office Bill the moved.
+10 went the kitchen Fred Yesterday to.
+11 Where was the before park  Bill?	school	7 3
+12 Fred moved the afternoon kitchen to This.
+13 the morning travelled Fred this to school.
+14  kitchen before Fred the Where was?	school	12 13
+15 to This the back school afternoon Julie went.
+16 morning Julie the travelled office to This.
+17 Where kitchen before Fred was  the?	school	12 13
+1 the cinema Fred Yesterday went to.
+2 moved Julie Yesterday kitchen the to.
+3 Bill Yesterday travelled to the kitchen.
+4 moved this the morning to office Bill.
+5 before Bill the was  office Where?	kitchen	4 3
+6 afternoon the went school This Bill to.
+7 the morning Julie journeyed this to bedroom.
+8  the Where before was Bill school?	office	6 4
+9 This Julie journeyed evening to the park.
+10 kitchen to travelled the this Julie afternoon.
+11 Julie the  park Where was before?	kitchen	9 10
+12 Mary went to park the yesterday.
+13 this kitchen back evening to the Bill went.
+14 Julie Where the kitchen  was before?	bedroom	10 7
+15 the cinema to afternoon This journeyed Fred.
+16 the this travelled morning to office Fred.
+17 Where before the was office  Fred?	cinema	16 1
+1 to yesterday the Mary bedroom went.
+2 bedroom Fred to journeyed the Yesterday.
+3 park to went back morning Fred the This.
+4 journeyed to the Bill Yesterday kitchen.
+5 Where was the park Fred  before?	bedroom	3 2
+6 office Bill to travelled morning the This.
+7 Mary This the morning to went park.
+8 before the Bill Where was  office?	kitchen	6 4
+9 kitchen This the afternoon journeyed Fred to.
+10 to Yesterday park journeyed Julie the.
+11 was  office Where before the Bill?	kitchen	6 4
+12 to morning kitchen This the Julie went.
+13 This kitchen afternoon to the journeyed Mary.
+14 Julie before the  was kitchen Where?	park	12 10
+15 moved the to afternoon This bedroom Julie.
+16 evening went This to Fred the park.
+17 the before Julie Where bedroom was ?	kitchen	15 12
+1 Julie yesterday to went bedroom the back.
+2 This to Bill morning office the moved.
+3 Bill to kitchen Yesterday the journeyed.
+4 cinema journeyed to the Mary yesterday.
+5 office the before  Where Bill was?	kitchen	2 3
+6 to the This journeyed bedroom Mary morning.
+7 travelled to Bill kitchen afternoon this the.
+8 before  was Where bedroom Mary the?	cinema	6 4
+9 this the kitchen evening journeyed to Mary.
+10 cinema afternoon this travelled to the Mary.
+11 before Mary was cinema the  Where?	bedroom	10 6
+12 Yesterday Fred the bedroom to went.
+13 this Julie morning to office travelled the.
+14 was cinema  before the Where Mary?	bedroom	10 6
+15 This afternoon journeyed the kitchen Julie to.
+16 Bill the to went school this evening back.
+17 before  Julie was kitchen Where the?	office	15 13
+1 the kitchen to Mary travelled yesterday.
+2 to This the morning travelled cinema Mary.
+3 the afternoon went This park to Mary.
+4 the went cinema to Yesterday Bill back.
+5 was the  Where park Mary before?	cinema	3 2
+6 bedroom Bill morning to this the went.
+7 the school Yesterday travelled Fred to.
+8 was Bill Where  before bedroom the?	cinema	6 4
+9 Fred morning this went the to bedroom.
+10 to yesterday Julie went kitchen the.
+11 before Where the park  Mary was?	cinema	3 2
+12 back cinema to the afternoon This went Fred.
+13 the morning This Julie journeyed office to.
+14 Where  before bedroom Bill was the?	cinema	6 4
+15 evening went to this Mary the cinema.
+16 the kitchen evening to Fred travelled This.
+17 before Mary  cinema Where was the?	park	15 3
+1 Yesterday the office Julie to moved.
+2 morning bedroom moved the Fred This to.
+3 yesterday moved to Bill school the.
+4 back went Fred kitchen to the yesterday.
+5 before the  Where was Fred bedroom?	kitchen	2 4
+6 the went bedroom Yesterday Mary to.
+7 Julie morning to moved the This bedroom.
+8 the Fred was before bedroom Where ?	kitchen	2 4
+9 morning This the went kitchen Bill to.
+10 went the cinema Fred to afternoon this back.
+11 bedroom the Fred was before  Where?	kitchen	2 4
+12 journeyed Julie to school afternoon this the.
+13 the This kitchen journeyed Fred evening to.
+14 kitchen before Where the Fred was ?	cinema	13 10
+15 went back to cinema Mary This the morning.
+16 Julie to This evening the travelled bedroom.
+17 Where before  school the Julie was?	bedroom	12 7
+1 to kitchen the Fred This went morning.
+2 the went bedroom yesterday Fred to.
+3 Fred before Where kitchen was  the?	bedroom	1 2
+4 the Yesterday went Bill cinema to.
+5 office to the moved Julie Yesterday.
+6 was kitchen before Fred the  Where?	bedroom	1 2
+7 park Mary yesterday the to moved.
+8 journeyed bedroom this Julie morning to the.
+9 the before was  bedroom Julie Where?	office	8 5
+10 school this morning to the Bill journeyed.
+11 This morning to cinema the travelled Mary.
+12 the Bill school Where was  before?	cinema	10 4
+13 the Julie to bedroom evening journeyed This.
+14 back cinema the to This Julie afternoon went.
+15 Where before cinema was  the Mary?	park	11 7
+1 journeyed Julie to Yesterday the school.
+2 Fred this the bedroom morning to went.
+3 office to Fred Yesterday back the went.
+4 cinema the Mary yesterday moved to.
+5 was before the  Where bedroom Fred?	office	2 3
+6 this Fred cinema to afternoon travelled the.
+7 Mary this back the to went kitchen morning.
+8  Fred before cinema the Where was?	bedroom	6 2
+9 This Julie to morning the park went.
+10 Yesterday school journeyed the Bill to.
+11 was before Where the Mary  kitchen?	cinema	7 4
+12 This afternoon to the went cinema Julie.
+13 park the This Mary afternoon to journeyed.
+14 Where before was  park Julie the?	school	9 1
+15 park the went to Julie evening This.
+16 moved evening Fred office to this the.
+17 was before Where the  Fred office?	cinema	16 6
+1 to Mary travelled the bedroom yesterday.
+2 cinema yesterday to the Julie moved.
+3 Mary the This morning to travelled kitchen.
+4 went to Bill yesterday cinema the back.
+5  before Mary was the kitchen Where?	bedroom	3 1
+6 This afternoon bedroom moved the to Mary.
+7 journeyed Fred yesterday to bedroom the.
+8 was  kitchen the Where before Mary?	bedroom	3 1
+9 evening park to this Mary journeyed the.
+10 the morning travelled Julie this bedroom to.
+11 park Mary before  the was Where?	bedroom	9 6
+12 to Bill park the journeyed afternoon This.
+13 morning kitchen Bill to this travelled the.
+14 before the Bill  Where was park?	kitchen	12 13
+15 the This to evening park Julie went.
+16 afternoon the kitchen This moved to Julie.
+17 before kitchen the Where was  Julie?	bedroom	16 10
+1 morning back this Mary to the school went.
+2 to the journeyed kitchen Yesterday Julie.
+3 yesterday Mary the bedroom moved to.
+4 Yesterday bedroom to travelled the Fred.
+5  Where before Mary was school the?	bedroom	1 3
+6 went afternoon the to This back Mary bedroom.
+7 park Julie the morning this journeyed to.
+8 bedroom before Where the Mary was ?	school	6 1
+9 evening cinema Mary the this journeyed to.
+10 to Bill Yesterday the office went back.
+11 school the Where Mary was  before?	bedroom	1 3
+12 to moved this office the Julie evening.
+13 travelled this afternoon the to cinema Julie.
+14 before the cinema Where was Julie ?	park	13 7
+15 afternoon the Fred moved This to cinema.
+16 the Fred school this went morning to.
+17 the was Where  before cinema Fred?	school	15 16
+1 Bill cinema to the went yesterday.
+2 went bedroom back morning to the this Bill.
+3 back bedroom Mary the went This to morning.
+4 yesterday to office Fred moved the.
+5 to travelled Yesterday cinema Mary the.
+6 park yesterday Julie to the travelled.
+7 the before was Where  bedroom Bill?	cinema	2 1
+8 went to the afternoon kitchen Bill back this.
+9 to this morning cinema the Julie went.
+10  the before Julie Where cinema was?	park	9 6
+11 moved Mary afternoon the to cinema this.
+12 morning the went cinema this Fred to.
+13 before was the Julie Where  cinema?	park	9 6
+14 this to evening moved the Bill bedroom.
+15 This afternoon the travelled to Julie school.
+16 cinema before Fred was Where the ?	office	12 4
+17 Julie bedroom to moved the evening this.
+18 this Fred to travelled school the afternoon.
+19 Julie before was the Where  bedroom?	school	17 15
+1 Julie the office to back Yesterday went.
+2 to Yesterday went cinema Bill the.
+3 Yesterday moved bedroom to the Fred.
+4 this went park morning to the Fred.
+5 this to went afternoon Fred cinema the.
+6 to the Mary park Yesterday travelled.
+7  was Where park the before Fred?	bedroom	4 3
+8 Bill back went this the morning office to.
+9 Julie to school journeyed morning the This.
+10 before Where Julie was school the ?	office	9 1
+11 park afternoon travelled this to the Julie.
+12 school This Mary went the back morning to.
+13 Julie before school Where was  the?	office	9 1
+14 afternoon Bill the travelled cinema This to.
+15 evening office the Julie to this travelled.
+16  the was park Julie Where before?	school	11 9
+17 to Bill evening the this journeyed kitchen.
+18 moved kitchen the to this Mary afternoon.
+19 before the cinema was Where Bill ?	office	14 8
+1 this to journeyed morning the park Bill.
+2 cinema went yesterday the to back Bill.
+3 Bill  the park Where before was?	cinema	1 2
+4 went Mary cinema back the Yesterday to.
+5 Bill this afternoon the moved to kitchen.
+6 before the  Where kitchen was Bill?	park	5 1
+7 the Fred yesterday went park back to.
+8 the park to evening This went Bill.
+9 before was Where Bill park the ?	kitchen	8 5
+10 cinema Julie journeyed to the yesterday.
+11 park to This morning travelled Mary the.
+12 Where park the before was  Bill?	kitchen	8 5
+13 this afternoon the to kitchen back Julie went.
+14 Julie the to morning This school went.
+15 Mary was before park  the Where?	cinema	11 4
+1 bedroom Yesterday the went Mary to.
+2 moved yesterday cinema the to Bill.
+3 school the this Mary morning went to.
+4 Fred the to cinema Yesterday went.
+5 before  Mary school the was Where?	bedroom	3 1
+6 Mary This journeyed to afternoon the cinema.
+7 school morning This to Fred moved the.
+8  before Where Fred was school the?	cinema	7 4
+9 the This moved office Mary evening to.
+10 morning the Bill to this office back went.
+11 Mary was the Where school before ?	bedroom	3 1
+12 Bill moved to This evening the bedroom.
+13 to went Bill afternoon kitchen the This.
+14 Bill before kitchen  the Where was?	office	13 10
+15 went morning to park Julie this the.
+16 Julie Yesterday the bedroom to moved.
+17 park  was Where before the Julie?	bedroom	15 16
+1 school the travelled Yesterday to Fred.
+2 to cinema went the morning Bill This.
+3 office afternoon this moved Bill to the.
+4 went yesterday to back Bill school the.
+5 the  Bill before Where office was?	cinema	3 2
+6 to went cinema this the back morning Fred.
+7 moved Julie Yesterday to kitchen the.
+8 cinema the Bill was before  Where?	school	2 4
+9 to bedroom afternoon the went this Fred.
+10 to travelled yesterday Mary park the.
+11 was the Fred Where  bedroom before?	cinema	9 6
+12 to morning bedroom journeyed the Julie this.
+13 evening this to kitchen Fred the journeyed.
+14 Where kitchen before Fred the was ?	bedroom	13 9
+15 Mary the went This to morning bedroom.
+16 the travelled evening kitchen Bill this to.
+17 was kitchen Fred Where  before the?	bedroom	13 9
+1 journeyed park the to Julie Yesterday.
+2 the to bedroom Fred yesterday travelled.
+3 this to the morning Bill cinema journeyed.
+4 to Bill yesterday bedroom went the.
+5  Bill before the was cinema Where?	bedroom	3 4
+6 moved to the school afternoon Bill this.
+7 cinema yesterday Mary journeyed the to.
+8 the cinema before Where was Bill ?	bedroom	3 4
+9 to office morning Julie the journeyed this.
+10 went morning cinema the this back Fred to.
+11 Bill  before Where was the cinema?	bedroom	3 4
+12 This to the travelled Bill evening park.
+13 to this went afternoon the Fred kitchen.
+14  Where Bill park before the was?	school	12 6
+15 This the travelled Mary bedroom afternoon to.
+16 morning to this park Mary journeyed the.
+17 was office Where before Julie  the?	park	9 1
+1 Mary to the travelled Yesterday cinema.
+2 this to park Julie travelled morning the.
+3 to went Yesterday the Bill back cinema.
+4 Julie kitchen journeyed the to yesterday.
+5 park was the  before Julie Where?	kitchen	2 4
+6 morning to moved This the bedroom Bill.
+7 the cinema Fred yesterday went to.
+8 bedroom before Where  the was Bill?	cinema	6 3
+9 went Fred office the morning to This.
+10 bedroom morning to the this journeyed Mary.
+11 Where before the Julie  was park?	kitchen	2 4
+12 to kitchen evening this Bill went the.
+13 Bill moved to afternoon office the This.
+14 before Where Bill  kitchen the was?	office	12 13
+15 afternoon travelled this cinema to the Fred.
+16 this to afternoon went office the Mary.
+17 was Where Bill before the office ?	bedroom	13 6
+1 yesterday to cinema the went Mary.
+2 the Bill journeyed to this morning office.
+3 the Bill journeyed school to yesterday.
+4 travelled the Yesterday to Fred kitchen.
+5 was Where the  office before Bill?	school	2 3
+6 this Bill to cinema evening the went.
+7 Bill to the went back this kitchen afternoon.
+8 Where  Bill was the before office?	school	2 3
+9 to morning Julie went the cinema this.
+10 the to back Yesterday went park Julie.
+11 was  Where Julie before the cinema?	park	9 10
+12 Julie moved school afternoon the to this.
+13 moved morning bedroom Fred This to the.
+14 the was Bill cinema  Where before?	kitchen	6 7
+15 morning This kitchen Mary the to journeyed.
+16 afternoon went to kitchen Fred this the.
+17 before bedroom Fred Where the  was?	kitchen	13 4
+1 travelled Julie Yesterday to bedroom the.
+2 back morning to Mary the park This went.
+3 Yesterday to Fred kitchen the moved.
+4 back kitchen went the Yesterday Mary to.
+5 park Where was the before Mary ?	kitchen	2 4
+6 the journeyed Bill bedroom to yesterday.
+7 moved the to This park morning Fred.
+8 Fred  Where was before park the?	kitchen	7 3
+9 office morning to travelled This the Bill.
+10 office travelled this the Mary to afternoon.
+11 Where  the before was park Fred?	kitchen	7 3
+12 This to the Fred kitchen moved afternoon.
+13 travelled the to morning Julie This school.
+14 kitchen Where Fred before was  the?	park	12 7
+15 the Bill went This bedroom to evening.
+16 went this afternoon to the Bill back cinema.
+17 Fred the  before Where kitchen was?	park	12 7
+1 yesterday to the travelled cinema Fred.
+2 the to journeyed morning Julie cinema this.
+3 the yesterday kitchen to travelled Bill.
+4 Julie Yesterday to went back kitchen the.
+5 was cinema Julie before Where  the?	kitchen	2 4
+6 This the Fred to morning school went.
+7 the to This Bill morning moved school.
+8  Bill before the Where school was?	kitchen	7 3
+9 this the to went park evening Bill.
+10 Bill travelled the office afternoon to this.
+11 park the  was Where before Bill?	office	9 10
+12 office Julie to this travelled the evening.
+13 kitchen went afternoon This back the to Julie.
+14 Where park was Bill  before the?	office	9 10
+15 to Mary journeyed the kitchen Yesterday.
+16 went Fred to this cinema the afternoon.
+17  the office Where Julie was before?	kitchen	12 13
+1 to travelled the Mary yesterday school.
+2 went bedroom to the Yesterday Fred back.
+3 travelled to the This cinema Julie morning.
+4 Julie kitchen to the back went Yesterday.
+5 before  Where was cinema the Julie?	kitchen	3 4
+6 park Bill moved the yesterday to.
+7 Fred to travelled the kitchen this morning.
+8 Where before cinema was  Julie the?	kitchen	3 4
+9 to evening school the Fred travelled This.
+10 the cinema to this afternoon went Fred.
+11 before was Fred Where  the kitchen?	bedroom	7 2
+12 Bill went office back to This the afternoon.
+13 Bill journeyed kitchen to This the morning.
+14 was before  Fred Where school the?	cinema	9 10
+15 evening the to cinema travelled Bill This.
+16 this went afternoon the Julie park to.
+17 Bill Where office  before was the?	kitchen	12 13
+1 the this journeyed to Fred school afternoon.
+2 to the Fred travelled yesterday bedroom.
+3 travelled the Bill office to yesterday.
+4 to Fred park travelled this the morning.
+5  the park Where was before Fred?	bedroom	4 2
+6 to Mary bedroom travelled yesterday the.
+7 to yesterday went Julie the cinema back.
+8 Fred  school the Where before was?	park	1 4
+9 evening travelled the to This Fred cinema.
+10 this Mary the park morning moved to.
+11 cinema Where the before was  Fred?	school	9 1
+12 Julie this afternoon travelled to the office.
+13 to journeyed the This morning bedroom Julie.
+14  before park was the Mary Where?	bedroom	10 6
+15 afternoon Mary to went the bedroom This.
+16 This went Bill the to bedroom morning.
+17  the bedroom before was Where Julie?	cinema	13 7
+1 the Fred to office went yesterday.
+2 school Julie this the morning went back to.
+3 bedroom to travelled Julie the Yesterday.
+4 park the Mary to Yesterday journeyed.
+5 Where  Julie before school was the?	bedroom	2 3
+6 this morning Mary school to the journeyed.
+7 office this went the to afternoon Julie.
+8 Where was before the office  Julie?	school	7 2
+9 Fred kitchen the to This morning travelled.
+10 to evening kitchen the went Julie This back.
+11 the was  Where Fred before kitchen?	office	9 1
+12 journeyed to kitchen This evening Mary the.
+13 cinema went afternoon This Mary back to the.
+14 Where  the before was Julie kitchen?	office	10 7
+15 Fred travelled to this office the afternoon.
+16 park yesterday to the travelled Bill.
+17 Where was the  kitchen Fred before?	office	9 1
+1 morning travelled This the Bill to school.
+2 Bill cinema to moved the Yesterday.
+3  school was Bill before Where the?	cinema	1 2
+4 Mary this went morning the to park.
+5 the went back to bedroom Mary Yesterday.
+6 park Mary the  was before Where?	bedroom	4 5
+7 afternoon went to the kitchen this Bill back.
+8 went bedroom This Mary the afternoon to.
+9 before was the Where bedroom Mary ?	park	8 4
+10 cinema evening to journeyed This Bill the.
+11 the Yesterday back to went kitchen Fred.
+12 Where  the Bill before cinema was?	kitchen	10 7
+13 Julie moved the to cinema Yesterday.
+14 this to office travelled evening Mary the.
+15 was before the office Where  Mary?	bedroom	14 8
+1 Julie to this morning moved park the.
+2 Yesterday the to school travelled Bill.
+3 the to school Yesterday Mary moved.
+4 journeyed Fred to the kitchen yesterday.
+5 the morning moved This to Mary kitchen.
+6 kitchen back Yesterday Julie went the to.
+7 before was Where Mary  the kitchen?	school	5 3
+8 went Bill the this office morning back to.
+9 the Mary afternoon to moved this cinema.
+10 cinema Mary the before Where was ?	kitchen	9 5
+11 cinema This Fred to back the went morning.
+12 afternoon Bill this the to journeyed school.
+13 Fred before the cinema was Where ?	kitchen	11 4
+14 This to evening moved the Bill cinema.
+15 bedroom travelled Mary to This the evening.
+16 before Where  bedroom Mary the was?	cinema	15 9
+17 park afternoon the this Fred travelled to.
+18 bedroom afternoon the This Julie to journeyed.
+19 the before cinema was  Bill Where?	school	14 12
+1 Mary the went to school back yesterday.
+2 back the to bedroom this went Mary morning.
+3 the to afternoon journeyed This Mary kitchen.
+4 Fred the to went school yesterday.
+5 Where the bedroom  was before Mary?	school	2 1
+6 went to yesterday Julie kitchen back the.
+7 to this journeyed the Fred morning kitchen.
+8 was before kitchen Mary  Where the?	bedroom	3 2
+9 This journeyed morning to school the Julie.
+10 This afternoon Fred the office went to.
+11 before was  school Where the Julie?	kitchen	9 6
+12 This back evening school to the went Mary.
+13 yesterday bedroom to moved Bill the.
+14 school before the Where  was Julie?	kitchen	9 6
+15 the to office Bill This morning went.
+16 to This the bedroom afternoon went Julie.
+17 Julie was Where school the before ?	kitchen	9 6
+1 Bill the travelled to yesterday cinema.
+2 went school to morning the Julie This.
+3 cinema yesterday Julie journeyed to the.
+4 moved yesterday Mary bedroom to the.
+5 the before was  school Where Julie?	cinema	2 3
+6 Mary to went morning office this the.
+7 to Bill park journeyed morning this the.
+8 office Mary Where  before was the?	bedroom	6 4
+9 this bedroom the moved Bill afternoon to.
+10 Fred went the to park yesterday.
+11 Where the park Bill was  before?	cinema	7 1
+12 went Mary the to afternoon park back this.
+13 the to went cinema this back morning Fred.
+14 the Bill Where  before bedroom was?	park	9 7
+15 Bill park this the travelled to evening.
+16 This the kitchen Mary to evening journeyed.
+17  the Bill was Where before park?	bedroom	15 9
+1 kitchen this the morning travelled to Julie.
+2 travelled the yesterday Julie school to.
+3 was the  Where Julie kitchen before?	school	1 2
+4 the went yesterday cinema Mary back to.
+5 the cinema to afternoon went Julie this.
+6 was Where Julie  the cinema before?	kitchen	5 1
+7 to office the this went Julie back evening.
+8 journeyed Bill school yesterday the to.
+9 before Julie the  was office Where?	cinema	7 5
+10 morning the to Bill went office this.
+11 to park Fred travelled yesterday the.
+12 before office  Where the Julie was?	cinema	7 5
+13 went Bill the bedroom This afternoon to.
+14 Mary This the morning journeyed bedroom to.
+15 before Where  office Bill the was?	school	10 8
+1 this office morning Bill to the went back.
+2 Bill park Yesterday travelled to the.
+3 before  the Bill office Where was?	park	1 2
+4 to went kitchen Yesterday the Julie.
+5 Mary to moved Yesterday the office.
+6  before the Where Bill was office?	park	1 2
+7 the moved school Fred to yesterday.
+8 the morning school Julie moved to This.
+9 Bill office  the was Where before?	park	1 2
+10 the travelled this to Julie afternoon kitchen.
+11 went the morning Fred this back office to.
+12 Where was office the before Fred ?	school	11 7
+13 Mary this morning the bedroom travelled to.
+14 to went Julie this the back school evening.
+15 office the Where before Fred  was?	school	11 7
+1 this office went the Fred to morning.
+2 went yesterday the back to cinema Fred.
+3 before the Fred  was Where office?	cinema	1 2
+4 the office Bill travelled Yesterday to.
+5 this went back cinema Fred to afternoon the.
+6 Where Fred the office  before was?	cinema	1 2
+7 kitchen the to journeyed Bill This morning.
+8 to Fred office travelled this the evening.
+9 Fred the office Where before  was?	cinema	8 5
+10 afternoon to Bill This the office travelled.
+11 kitchen to the Mary yesterday moved.
+12 the before office Where Bill  was?	kitchen	10 7
+13 yesterday the went to Julie park.
+14 This Mary office went the morning to.
+15 office Mary was Where  before the?	kitchen	14 11
+1 bedroom travelled to yesterday Fred the.
+2 yesterday Julie cinema to the went.
+3 morning Bill office back went this to the.
+4 went the to Yesterday park Bill.
+5 the Bill This to park afternoon moved.
+6 the kitchen travelled Mary to Yesterday.
+7 was the before office  Where Bill?	park	3 4
+8 to morning Fred this the went school.
+9 to this kitchen went the Bill evening.
+10 park  was Where before Bill the?	office	5 3
+11 kitchen to journeyed Fred this evening the.
+12 Fred to office the back This went afternoon.
+13 park was the Where before Bill ?	office	5 3
+14 the This school went back Mary to morning.
+15 the this morning Julie to bedroom travelled.
+16  Where before the Fred kitchen was?	office	11 12
+17 to Julie moved This the evening cinema.
+18 kitchen Julie moved to afternoon this the.
+19  was bedroom the Where before Julie?	cinema	15 2
+1 bedroom yesterday Mary to the travelled.
+2 park Julie the This morning to travelled.
+3 moved Yesterday the bedroom to Julie.
+4 park to the Fred Yesterday travelled.
+5 was Julie Where park before the ?	bedroom	2 3
+6 morning went to the Mary This school.
+7 afternoon Julie to office this the went.
+8 office was Julie Where the  before?	park	7 2
+9 back office This the to went Mary afternoon.
+10 bedroom Bill to travelled yesterday the.
+11 was the Where Julie  office before?	park	7 2
+12 cinema This Mary journeyed the evening to.
+13 This the Fred morning went kitchen to.
+14 was before the Where  Fred kitchen?	park	13 4
+15 Julie travelled bedroom to evening the This.
+16 This the office journeyed morning to Bill.
+17 bedroom Where the Julie was before ?	office	15 7
+1 to Yesterday bedroom the went Bill.
+2 Julie travelled yesterday kitchen to the.
+3 morning Julie This to the bedroom travelled.
+4 Mary Yesterday went the back to kitchen.
+5 the  bedroom Julie was Where before?	kitchen	3 2
+6 back the morning went Mary This park to.
+7 the Fred yesterday to journeyed office.
+8 Where before bedroom was the  Julie?	kitchen	3 2
+9 Mary afternoon bedroom This to went the.
+10 journeyed the to This Bill cinema morning.
+11 Where park before  Mary the was?	kitchen	6 4
+12 to Julie went afternoon This school the.
+13 evening this Mary cinema the to travelled.
+14 before Where Bill cinema was  the?	bedroom	10 1
+15 the afternoon went Bill this to park.
+16 Julie this to cinema the evening travelled.
+17  was Where cinema before Mary the?	bedroom	13 9
+1 the Bill this to travelled cinema morning.
+2 Bill yesterday to park travelled the.
+3 the was  before Where Bill cinema?	park	1 2
+4 kitchen Fred journeyed to the Yesterday.
+5 the went school to This afternoon Bill.
+6  Bill was the school before Where?	cinema	5 1
+7 morning office back went Fred the this to.
+8 park Yesterday to the Mary travelled.
+9 Where  before the cinema was Bill?	park	1 2
+10 this Mary morning back went to kitchen the.
+11 went Julie to the park Yesterday back.
+12 was kitchen the Mary  before Where?	park	10 8
+13 bedroom went afternoon Fred to This the.
+14 evening the this to went Bill cinema.
+15 Where Fred bedroom before  the was?	office	13 7
+1 to journeyed morning Mary park this the.
+2 the moved cinema Bill yesterday to.
+3 went this the park morning to Bill.
+4 to school journeyed yesterday Mary the.
+5 was before  Bill the Where park?	cinema	3 2
+6 to journeyed the office morning this Fred.
+7 Fred went back to yesterday park the.
+8  park Where Mary was before the?	school	1 4
+9 Fred the bedroom This went afternoon to.
+10 Bill to went bedroom the This afternoon back.
+11 was  Where office Fred before the?	park	6 7
+12 to the moved Julie school yesterday.
+13 to Bill This the moved evening kitchen.
+14 was Bill bedroom  the before Where?	park	10 3
+15 Mary evening to the travelled kitchen this.
+16 Mary to this office the afternoon travelled.
+17 the bedroom Fred  Where before was?	office	9 6
+1 this journeyed morning to the Mary kitchen.
+2 office moved Mary Yesterday the to.
+3 Mary the  Where was before kitchen?	office	1 2
+4 Mary moved the to afternoon park This.
+5 the Julie Yesterday journeyed to school.
+6 before park was Mary  Where the?	kitchen	4 1
+7 the moved to park yesterday Fred.
+8 evening school this journeyed to Mary the.
+9 the Where  before was Mary park?	kitchen	4 1
+10 afternoon cinema moved Fred to this the.
+11 moved the to Fred this morning bedroom.
+12 Fred bedroom  was Where before the?	park	11 7
+13 this Julie the morning moved cinema to.
+14 this to Fred park moved the evening.
+15  was Fred the before Where park?	cinema	14 10
+1 the to This park morning went Fred.
+2 cinema to went the Fred Yesterday.
+3 Where park was the Fred  before?	cinema	1 2
+4 to the Yesterday school Julie travelled.
+5 the Yesterday Bill journeyed bedroom to.
+6 park was the before Where  Fred?	cinema	1 2
+7 travelled Mary Yesterday bedroom the to.
+8 This morning to the moved kitchen Julie.
+9 Fred before was  Where the park?	cinema	1 2
+10 cinema the to this journeyed Bill morning.
+11 went afternoon the this to Julie bedroom.
+12 Where kitchen was the before  Julie?	school	8 4
+13 went the afternoon bedroom to Fred This.
+14 evening travelled the cinema This Julie to.
+15 Julie before cinema was  Where the?	bedroom	14 11
+1 park to back Bill the this went morning.
+2 to the Fred travelled park Yesterday.
+3 to Yesterday journeyed the Bill kitchen.
+4 bedroom yesterday Mary the to went.
+5 was  park before Bill the Where?	kitchen	1 3
+6 went afternoon the school Bill back This to.
+7 went bedroom the morning to Fred this back.
+8 the Where park was  before Bill?	kitchen	1 3
+9 Fred cinema This the journeyed to afternoon.
+10 the Julie Yesterday bedroom to journeyed.
+11 Where before  was Bill school the?	park	6 1
+12 journeyed the afternoon to kitchen Mary This.
+13 This to park the journeyed Mary morning.
+14 cinema  the was before Where Fred?	bedroom	9 7
+15 to school Fred This the went evening.
+16 to Julie this moved morning the park.
+17 park before  Julie was Where the?	bedroom	16 10
+1 Bill morning the school to travelled This.
+2 the to Fred cinema yesterday went.
+3 Bill to bedroom the journeyed Yesterday.
+4 this went the back to school morning Fred.
+5 before was  school Bill the Where?	bedroom	1 3
+6 bedroom to the travelled Julie yesterday.
+7 school Yesterday moved Mary the to.
+8 Where the school  Bill was before?	bedroom	1 3
+9 evening this the went Fred to cinema back.
+10 travelled afternoon this to the Fred bedroom.
+11 Bill was before Where school the ?	bedroom	1 3
+12 morning the to Julie travelled This school.
+13 afternoon to Bill this kitchen the travelled.
+14 kitchen was Bill before  the Where?	school	13 1
+15 Julie went the afternoon this to back bedroom.
+16 Mary morning to moved This kitchen the.
+17 Where the  was Fred cinema before?	bedroom	9 10
+1 this afternoon travelled office Julie to the.
+2 Julie morning the travelled to This bedroom.
+3 the cinema back yesterday Mary to went.
+4 yesterday kitchen Julie went the to.
+5 bedroom before was Julie  the Where?	kitchen	2 4
+6 to the yesterday back bedroom went Fred.
+7 to kitchen went evening this the Julie.
+8 Where kitchen  the was before Julie?	office	7 1
+9 back the office Yesterday went Bill to.
+10 the Mary kitchen This to morning went.
+11 the before office was Where Julie ?	bedroom	1 2
+12 this the to park afternoon Fred journeyed.
+13 Fred to moved the morning this cinema.
+14 before  kitchen the was Mary Where?	cinema	10 3
+15 afternoon bedroom to this went the Mary.
+16 Fred This office the to evening went.
+17 Where before  bedroom Mary was the?	kitchen	15 10
+1 morning the Julie bedroom to journeyed this.
+2 moved Yesterday Bill to bedroom the.
+3 yesterday school Julie journeyed to the.
+4 yesterday Fred moved park to the.
+5 Julie the bedroom was Where  before?	school	1 3
+6 moved Fred this morning the school to.
+7 Mary to yesterday back bedroom the went.
+8 was Julie the bedroom Where before ?	school	1 3
+9 journeyed to This afternoon Julie cinema the.
+10 the to morning Mary journeyed cinema This.
+11 was bedroom before Julie the Where ?	school	1 3
+12 the travelled to Fred This afternoon park.
+13 to Bill journeyed cinema morning This the.
+14 was Bill  the before cinema Where?	bedroom	13 2
+15 evening the to kitchen this went Julie.
+16 Fred evening to journeyed bedroom the this.
+17 the Fred was  bedroom Where before?	park	16 12
+1 Mary the journeyed to this morning park.
+2 Yesterday Julie bedroom to the moved.
+3 Bill the went school back to yesterday.
+4 to Yesterday office went Mary back the.
+5 was park  before the Where Mary?	office	1 4
+6 the went morning to school Julie This back.
+7 the to cinema went Mary back afternoon This.
+8 before was Julie school  the Where?	bedroom	6 2
+9 moved Yesterday park Fred to the.
+10 went to park the this Mary evening back.
+11 the  Where before school was Julie?	bedroom	6 2
+12 journeyed evening the school to this Julie.
+13 afternoon to This Julie park journeyed the.
+14 school was the  Julie Where before?	park	12 13
+15 to the This travelled bedroom Bill morning.
+16 to Fred morning the bedroom this moved.
+17  before Julie the Where park was?	school	13 6
+1 Yesterday to Bill the journeyed bedroom.
+2 park the to yesterday Mary journeyed.
+3 Fred to the went Yesterday bedroom.
+4 the morning this to went Fred school.
+5 Bill went cinema morning This the to back.
+6 the Julie yesterday to bedroom travelled.
+7 Fred  the was before Where school?	bedroom	4 3
+8 Julie this journeyed to kitchen the morning.
+9 to travelled morning office This the Mary.
+10 was Where Julie before the kitchen ?	bedroom	8 6
+11 school Bill afternoon This the to travelled.
+12 the Julie went to afternoon bedroom this back.
+13 the Julie was Where before  bedroom?	kitchen	12 8
+14 journeyed this the kitchen Bill evening to.
+15 evening Julie kitchen the went to this.
+16 school the before  Where was Bill?	cinema	11 5
+17 bedroom afternoon Mary this to travelled the.
+18 the Fred to office travelled this afternoon.
+19 school  before the was Bill Where?	cinema	11 5
+1 the to This went Bill morning school back.
+2 back Bill the kitchen yesterday went to.
+3 journeyed to bedroom yesterday the Mary.
+4 kitchen Fred the went Yesterday to.
+5 Bill school  the before Where was?	kitchen	1 2
+6 office afternoon this Mary to journeyed the.
+7 this morning Mary moved park to the.
+8 Bill before Where school was the ?	kitchen	1 2
+9 afternoon the this office to moved Bill.
+10 bedroom the went Yesterday Julie to.
+11 park Mary before the  Where was?	bedroom	7 3
+12 went the morning school to Julie This.
+13 the evening this Bill kitchen journeyed to.
+14  the Where office Mary before was?	park	6 7
+15 office to this the evening travelled Julie.
+16 Julie the this cinema to travelled afternoon.
+17 before Bill  the kitchen was Where?	office	13 9
+1 to bedroom Fred the Yesterday went.
+2 Mary the to Yesterday kitchen went.
+3 to the Julie Yesterday office back went.
+4 the kitchen went This Fred morning to.
+5  kitchen Where Fred was the before?	bedroom	4 1
+6 office went the back Yesterday Bill to.
+7 morning park Julie travelled to the This.
+8 before Where kitchen Fred  was the?	bedroom	4 1
+9 Mary bedroom back the to went morning this.
+10 to went the Julie this afternoon office back.
+11 was Mary the before Where bedroom ?	kitchen	9 2
+12 afternoon to moved park Fred the this.
+13 journeyed Mary the This to afternoon kitchen.
+14 the before was  bedroom Mary Where?	kitchen	9 2
+15 Mary this went to evening school the.
+16 office to travelled Fred This evening the.
+17 Where Fred office before  was the?	park	16 12
+1 to office this travelled the morning Julie.
+2 kitchen went the Julie yesterday to.
+3 bedroom the moved to Fred yesterday.
+4 the to kitchen moved Mary yesterday.
+5 Julie the Where office was  before?	kitchen	1 2
+6 evening Julie the cinema to this journeyed.
+7 travelled afternoon school this the to Julie.
+8 Where  the Julie school was before?	office	7 1
+9 went school afternoon the to this Fred.
+10 to this back morning the Fred cinema went.
+11  was Fred Where school the before?	cinema	9 10
+12 Bill to moved yesterday cinema the.
+13 morning to office the this Mary travelled.
+14 Mary the was before office Where ?	kitchen	13 4
+15 Bill kitchen went back morning to this the.
+16 This evening back Fred went the park to.
+17 before Bill Where was  kitchen the?	cinema	15 12
+1 the journeyed to yesterday Julie kitchen.
+2 the Fred This kitchen went to morning.
+3 the yesterday went Bill to cinema.
+4 travelled cinema the yesterday to Fred.
+5 the was before  Where Fred kitchen?	cinema	2 4
+6 travelled Mary school yesterday the to.
+7 the school moved to this Julie morning.
+8 school was Where before Julie the ?	kitchen	7 1
+9 to afternoon the school went this Fred.
+10 bedroom this to afternoon Julie the went.
+11 Julie the was Where  before school?	kitchen	7 1
+12 This to Fred went the evening cinema.
+13 the this bedroom morning moved Bill to.
+14 the  before was bedroom Julie Where?	school	10 7
+15 Bill the office back to afternoon this went.
+16 This office journeyed Mary morning the to.
+17 office Bill the before was  Where?	bedroom	15 13
+1 the morning Julie to This went cinema.
+2 Julie the kitchen to journeyed yesterday.
+3 to cinema Fred yesterday the travelled.
+4 travelled to Bill the office yesterday.
+5 before Julie Where cinema was  the?	kitchen	1 2
+6 the to Mary bedroom This travelled morning.
+7 Mary journeyed cinema to Yesterday the.
+8 before the Where was bedroom Mary ?	cinema	6 7
+9 the this afternoon bedroom to Bill travelled.
+10 the This went to school Bill morning.
+11  was the school Bill Where before?	office	10 4
+12 the Bill went park this to evening.
+13 This Fred morning moved bedroom to the.
+14 Where  before Bill bedroom was the?	school	9 10
+15 Mary the office This moved to afternoon.
+16 office to journeyed afternoon Julie This the.
+17  office before Where the was Julie?	cinema	16 1
+1 travelled school Julie to this morning the.
+2 went Julie the back park yesterday to.
+3 afternoon journeyed Julie cinema this the to.
+4 went school the Yesterday Mary to.
+5  before school the was Julie Where?	park	1 2
+6 bedroom the moved to yesterday Fred.
+7 evening to this office travelled Julie the.
+8 school Where Julie  the was before?	park	1 2
+9 moved bedroom to the Bill yesterday.
+10 Mary journeyed to cinema this morning the.
+11  Mary cinema was the Where before?	school	10 4
+12 Mary to the this travelled afternoon school.
+13 Fred the park to morning went this.
+14 the Mary before was Where cinema ?	school	10 4
+15 kitchen to Fred journeyed this the afternoon.
+16 cinema Mary the This moved evening to.
+17 Where the park Fred  before was?	bedroom	13 6
+1 this to went morning school the Bill.
+2 the Bill went to Yesterday cinema.
+3 Where Bill the school was  before?	cinema	1 2
+4 This afternoon the Bill bedroom to journeyed.
+5 Mary moved to school Yesterday the.
+6 Where before Bill the bedroom was ?	school	4 1
+7 the to morning Mary journeyed bedroom this.
+8 to moved yesterday cinema Fred the.
+9 bedroom Mary the before Where  was?	school	7 5
+10 to went afternoon kitchen Mary the This.
+11 the Bill this to cinema journeyed evening.
+12 kitchen was Where  before the Mary?	bedroom	10 7
+13 park travelled Julie the to this morning.
+14 yesterday the to school went Julie.
+15 Mary before was  bedroom Where the?	school	7 5
+1 morning the cinema travelled Mary to This.
+2 to Mary office back the this afternoon went.
+3 travelled to Yesterday Mary the school.
+4 bedroom the to yesterday Bill back went.
+5 the was before office  Where Mary?	cinema	2 1
+6 to Fred bedroom the moved yesterday.
+7 to This office journeyed the Bill morning.
+8 was Bill office  before Where the?	bedroom	7 4
+9 Fred travelled this office morning to the.
+10 moved Julie to yesterday school the.
+11  the before was Where Fred office?	bedroom	9 6
+12 Fred the This cinema afternoon travelled to.
+13 this to went back afternoon school the Bill.
+14 the was cinema before Fred  Where?	office	12 9
+15 evening the moved this kitchen to Bill.
+16 morning bedroom this to the Julie journeyed.
+17 before  Where Bill the kitchen was?	school	15 13
+1 This the kitchen to moved morning Fred.
+2 Yesterday went to back kitchen the Mary.
+3 yesterday moved the to park Julie.
+4 the moved to cinema yesterday Fred.
+5  before Where was the kitchen Fred?	cinema	1 4
+6 moved yesterday the Bill office to.
+7 to cinema Mary travelled the This morning.
+8 was kitchen the  before Fred Where?	cinema	1 4
+9 morning Julie journeyed the to office this.
+10 went kitchen this to Mary the afternoon.
+11 office before Julie was  Where the?	park	9 3
+12 back went this Fred school the afternoon to.
+13 morning this park Bill the went to.
+14 office Where  before was the Julie?	park	9 3
+15 school Bill journeyed This to afternoon the.
+16 the journeyed cinema afternoon Julie This to.
+17 Where before park was Bill  the?	office	13 6
+1 the Mary Yesterday kitchen to moved.
+2 to Julie morning the this moved kitchen.
+3 to office Yesterday journeyed the Fred.
+4 back yesterday to bedroom went Julie the.
+5 was before Julie Where the kitchen ?	bedroom	2 4
+6 morning this moved bedroom the Mary to.
+7 to park Julie journeyed afternoon This the.
+8 before was  Julie kitchen the Where?	bedroom	2 4
+9 moved office the This to afternoon Fred.
+10 cinema the morning travelled this Fred to.
+11 park Where the  before was Julie?	kitchen	7 2
+12 afternoon Mary cinema back This to went the.
+13 the to This evening Julie bedroom back went.
+14  the was Where bedroom Julie before?	park	13 7
+15 cinema Yesterday the went Bill to.
+16 to This the kitchen travelled evening Mary.
+17 Where  was office before the Fred?	cinema	9 10
+1 to journeyed office morning the this Bill.
+2 this Bill to school the moved afternoon.
+3 park went the Yesterday Julie to.
+4 Bill Yesterday park travelled the to.
+5 before the Bill was  Where office?	park	1 4
+6 This back kitchen went Julie morning to the.
+7 to evening Bill the park travelled This.
+8 Where park before  Bill the was?	school	7 2
+9 went bedroom afternoon Julie to This the.
+10 the journeyed to yesterday Fred park.
+11 Where before bedroom  Julie was the?	kitchen	9 6
+12 Mary yesterday school to journeyed the.
+13 Fred travelled This school to the morning.
+14 the was before  Fred school Where?	park	13 10
+15 went the Fred to afternoon park This.
+16 Mary to park journeyed morning this the.
+17  before Where Mary the was park?	school	16 12
+1 to Julie this morning kitchen the journeyed.
+2 yesterday to school went Julie the back.
+3 yesterday Bill journeyed kitchen to the.
+4 the office journeyed Fred to Yesterday.
+5 Where  was the before kitchen Julie?	school	1 2
+6 went Julie back afternoon park to this the.
+7 back went to Fred This park morning the.
+8  was before Where park the Fred?	office	7 4
+9 went the to Julie this cinema evening.
+10 school the moved this morning to Bill.
+11 before the park Fred  was Where?	office	7 4
+12 yesterday Mary to journeyed kitchen the.
+13 office Fred afternoon to went this the.
+14  was Julie cinema the before Where?	park	9 6
+15 this went to park evening Fred the.
+16 went This morning Mary to the back park.
+17 Where the was  Fred office before?	park	13 7

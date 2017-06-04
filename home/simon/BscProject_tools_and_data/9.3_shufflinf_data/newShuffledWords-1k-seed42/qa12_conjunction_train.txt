@@ -1,0 +1,3000 @@
+1 the Daniel to Mary and travelled bathroom.
+2 and to the office Daniel travelled John.
+3 Where  is Daniel?	office	2
+4 Sandra Daniel the kitchen moved and to.
+5 Sandra to garden and John the moved.
+6 Sandra is  Where?	garden	5
+7 Sandra Mary and the went to bedroom.
+8 to garden and Mary moved the Daniel.
+9 Where Sandra  is?	bedroom	7
+10 Daniel Mary to bathroom and went the.
+11 and Mary garden travelled to Sandra the.
+12 is Daniel  Where?	bathroom	10
+13 to and John hallway travelled Sandra the.
+14 Sandra office and to John back went the.
+15 Where  John is?	office	14
+1 office the and back went Mary Sandra to.
+2 and Daniel went to Sandra bedroom the.
+3  Sandra is Where?	bedroom	2
+4 and hallway Sandra the Mary to travelled.
+5 the John to Mary kitchen went and.
+6 Mary is Where ?	kitchen	5
+7 the John Sandra and garden to journeyed.
+8 travelled John to the and Sandra kitchen.
+9 Where John is ?	kitchen	8
+10 to Daniel garden the and journeyed Sandra.
+11 and Daniel went Mary the to bedroom back.
+12 Where is  Daniel?	bedroom	11
+13 journeyed Daniel the John office and to.
+14 journeyed and kitchen Daniel the Sandra to.
+15 Where  John is?	office	13
+1 Mary Sandra and the office to moved.
+2 and John kitchen travelled the Daniel to.
+3 is Daniel  Where?	kitchen	2
+4 to and hallway Daniel the moved Sandra.
+5 journeyed and Daniel garden Mary the to.
+6 is Where Daniel ?	garden	5
+7 bathroom journeyed Daniel the to and Mary.
+8 to garden and the Mary Daniel moved.
+9 is Mary Where ?	garden	8
+10 John bathroom back the Mary and went to.
+11 Daniel kitchen and went Mary to the.
+12 is  Where Mary?	kitchen	11
+13 the to Sandra and John journeyed bedroom.
+14 to went and the Daniel back Sandra hallway.
+15 Sandra  is Where?	hallway	14
+1 the Mary to moved office Sandra and.
+2 John Daniel hallway and the journeyed to.
+3 Sandra is Where ?	office	1
+4 the to kitchen John went and Daniel.
+5 Daniel hallway and the John to went back.
+6 John  Where is?	hallway	5
+7 Daniel and journeyed the Sandra to garden.
+8 to Mary bathroom Daniel travelled the and.
+9 Sandra is  Where?	garden	7
+10 to moved the kitchen Daniel Sandra and.
+11 Sandra went Mary bedroom the and to back.
+12 is  Where Daniel?	kitchen	10
+13 went Sandra the and Mary garden to.
+14 journeyed Mary and the bedroom John to.
+15  Sandra is Where?	garden	13
+1 the hallway and back Sandra went Daniel to.
+2 to John and the moved office Daniel.
+3 Where Sandra  is?	hallway	1
+4 to John the moved garden and Daniel.
+5 and Daniel Mary the went back to bathroom.
+6  is John Where?	garden	4
+7 Daniel to back the John kitchen and went.
+8 to Daniel Sandra and bathroom went the.
+9  Where is Daniel?	bathroom	8
+10 the and to Sandra Mary garden journeyed.
+11 John the moved Sandra to and hallway.
+12  is Mary Where?	garden	10
+13 went Daniel and back office the Sandra to.
+14 to and bedroom journeyed John the Mary.
+15 is Where  Mary?	bedroom	14
+1 the garden to and moved Mary Sandra.
+2 bedroom John the Sandra to went back and.
+3 Where Mary is ?	garden	1
+4 to the and Daniel moved Sandra office.
+5 Sandra Daniel bedroom to went and the.
+6  Daniel Where is?	bedroom	5
+7 bathroom went Sandra John the and to back.
+8 bathroom Daniel went back Mary the to and.
+9  Where is Sandra?	bathroom	7
+10 the John travelled and garden to Sandra.
+11 John the Mary office travelled to and.
+12  Daniel Where is?	bathroom	8
+13 and Daniel the office to Sandra travelled.
+14 back to Sandra Daniel went and the hallway.
+15 is Where Mary ?	office	11
+1 and Sandra Daniel bathroom went the to.
+2 and garden Sandra John went the to.
+3 John Where  is?	garden	2
+4 John the and back Sandra went kitchen to.
+5 Mary the Daniel and to moved garden.
+6 Where Sandra is ?	kitchen	4
+7 Sandra the to bathroom and journeyed John.
+8 the bedroom to Daniel and John went back.
+9 Where  is John?	bedroom	8
+10 and Mary hallway John journeyed to the.
+11 Daniel to journeyed and office the John.
+12  Daniel is Where?	office	11
+13 the and back went Mary to Sandra garden.
+14 Mary bathroom and to travelled John the.
+15 is Sandra Where ?	garden	13
+1 Sandra bathroom John went to the and back.
+2 the went John office and back to Mary.
+3  is John Where?	office	2
+4 to Mary and hallway went back the Sandra.
+5 bedroom to Mary moved Daniel and the.
+6 is  Where Sandra?	hallway	4
+7 Daniel and journeyed John the bathroom to.
+8 Mary and journeyed the to kitchen John.
+9 is Mary  Where?	kitchen	8
+10 John went back Sandra office to and the.
+11 to and Mary journeyed the office Daniel.
+12 Where Mary  is?	office	11
+13 hallway the went Sandra to and Daniel.
+14 to Sandra Daniel travelled the bathroom and.
+15 is Daniel Where ?	bathroom	14
+1 John to the journeyed and Mary office.
+2 to went Sandra and John the hallway.
+3 Mary is  Where?	office	1
+4 bedroom journeyed the Mary and to Daniel.
+5 bathroom Sandra and to Mary the moved.
+6  Daniel Where is?	bedroom	4
+7 travelled to the Mary John office and.
+8 to Mary went and Sandra bedroom the back.
+9 Mary  is Where?	bedroom	8
+10 Daniel went to Mary hallway and the.
+11 garden travelled John to the Sandra and.
+12 is  Daniel Where?	hallway	10
+13 to office John Sandra moved the and.
+14 John bedroom Mary and went back the to.
+15 Where  John is?	bedroom	14
+1 moved and John Mary bedroom the to.
+2 and went John to Daniel the kitchen.
+3  Where John is?	kitchen	2
+4 went to hallway Sandra the Daniel and.
+5 the journeyed garden to John Daniel and.
+6 Daniel Where is ?	garden	5
+7 the and Sandra John to journeyed kitchen.
+8 to Daniel bathroom and Mary moved the.
+9 Mary  is Where?	bathroom	8
+10 hallway the Mary and Sandra to travelled.
+11 to bathroom the Mary journeyed Sandra and.
+12 Mary is Where ?	bathroom	11
+13 Sandra the to John journeyed and garden.
+14 kitchen the to Sandra Mary and moved.
+15 John Where is ?	garden	13
+1 Mary the bedroom and Daniel moved to.
+2 travelled the to Mary John and kitchen.
+3 Where Daniel  is?	bedroom	1
+4 John went Mary the and hallway to.
+5 went the Mary and bathroom Daniel to.
+6 is Where Mary ?	bathroom	5
+7 journeyed Daniel office the to and Mary.
+8 went Sandra to Daniel kitchen and the.
+9  is Where Sandra?	kitchen	8
+10 Mary to moved and the bedroom John.
+11 Daniel and the back office to went Mary.
+12 Where  is John?	bedroom	10
+13 to the and garden Mary Sandra journeyed.
+14 to and the kitchen John Sandra moved.
+15  Mary Where is?	garden	13
+1 Sandra went and the to kitchen back Daniel.
+2 John to and back hallway went Daniel the.
+3 Daniel is  Where?	hallway	2
+4 Daniel the John to moved and bathroom.
+5 Mary and to Sandra travelled the office.
+6 Daniel  Where is?	bathroom	4
+7 John the to and Mary hallway travelled.
+8 the journeyed to and Mary Sandra garden.
+9 is Where Mary ?	garden	8
+10 Sandra back to the Daniel bedroom went and.
+11 to and went back Daniel kitchen John the.
+12  Where is Mary?	garden	8
+13 the and to journeyed John hallway Sandra.
+14 to Sandra the bathroom journeyed John and.
+15 John Where is ?	bathroom	14
+1 bathroom the Daniel Mary and travelled to.
+2 back the bedroom John to Sandra went and.
+3 Where  is Mary?	bathroom	1
+4 John to Daniel hallway the and moved.
+5 to John the travelled office Daniel and.
+6 Daniel  is Where?	office	5
+7 Sandra to garden Daniel went back the and.
+8 to Mary went the Daniel and office.
+9 Daniel  is Where?	office	8
+10 Daniel journeyed the Mary hallway and to.
+11 the kitchen moved to John and Sandra.
+12 Where is  Sandra?	kitchen	11
+13 and bathroom the moved to Sandra John.
+14 kitchen the moved and Sandra to John.
+15 Where John  is?	kitchen	14
+1 bedroom Daniel back and went John to the.
+2 office and Mary to moved Daniel the.
+3 Daniel is  Where?	office	2
+4 Daniel kitchen and went to the John.
+5 garden and John the travelled Mary to.
+6 is Where Daniel ?	kitchen	4
+7 travelled hallway Mary and John the to.
+8 to and moved Mary John office the.
+9 John is Where ?	office	8
+10 bedroom the went Mary and John to.
+11 Mary and to bathroom Daniel travelled the.
+12 is  Where Daniel?	bathroom	11
+13 the Sandra Mary garden to and travelled.
+14 Mary kitchen and the to travelled John.
+15 Mary  is Where?	kitchen	14
+1 and travelled Mary to the Sandra garden.
+2 John to journeyed and the hallway Daniel.
+3 Where Mary  is?	garden	1
+4 Sandra back bedroom to John and went the.
+5 Mary went office and to the John.
+6  Where is Mary?	office	5
+7 and garden went Daniel the to Mary.
+8 and garden to journeyed Sandra John the.
+9 Where  Mary is?	garden	7
+10 went to Sandra the and John bedroom.
+11 to Daniel and moved the bathroom Sandra.
+12 is  Where Sandra?	bathroom	11
+13 John Mary the to moved and office.
+14 moved to Daniel kitchen the Mary and.
+15  John Where is?	office	13
+1 to the and kitchen moved John Mary.
+2 went bedroom back Daniel and to John the.
+3  John Where is?	bedroom	2
+4 the office John Sandra to journeyed and.
+5 Daniel kitchen the John journeyed and to.
+6 John Where is ?	kitchen	5
+7 John and the bathroom Mary went to.
+8 John the Mary garden and journeyed to.
+9 Where is Daniel ?	kitchen	5
+10 to journeyed Daniel John and the bedroom.
+11 and Daniel bathroom to the travelled Mary.
+12 Where is Mary ?	bathroom	11
+13 went the Sandra kitchen back to and Daniel.
+14 to office Daniel John and the travelled.
+15  is Daniel Where?	office	14
+1 Sandra moved Mary and kitchen to the.
+2 John Daniel back the and went hallway to.
+3 is John Where ?	hallway	2
+4 bedroom Daniel and the John went to.
+5 Sandra Daniel to journeyed bathroom and the.
+6 is Sandra  Where?	bathroom	5
+7 the John Sandra to and moved garden.
+8 and bedroom to the Mary Daniel went back.
+9 is Sandra Where ?	garden	7
+10 Mary the went office Sandra and to.
+11 to Mary bathroom travelled Daniel the and.
+12 Where Mary is ?	bathroom	11
+13 John Sandra and the bedroom journeyed to.
+14 the Mary to back office and John went.
+15 Mary is  Where?	office	14
+1 kitchen Sandra journeyed the Mary to and.
+2 garden the John to and Sandra moved.
+3 is John Where ?	garden	2
+4 the and journeyed Daniel to Sandra kitchen.
+5 Sandra back Daniel to went office and the.
+6 Daniel  is Where?	office	5
+7 John to journeyed and the Daniel bathroom.
+8 to the Daniel garden went John and.
+9 Where is  Daniel?	garden	8
+10 went Mary the back John bathroom to and.
+11 journeyed office and John Mary the to.
+12  Where is Mary?	office	11
+13 Sandra moved the to garden and John.
+14 the and journeyed hallway Daniel Mary to.
+15 Sandra Where is ?	garden	13
+1 Sandra the Daniel went to hallway and.
+2 to Sandra went the and office John.
+3 Sandra Where  is?	office	2
+4 the garden John to Mary and went.
+5 and the to Mary office moved Daniel.
+6 is Where Mary ?	office	5
+7 bedroom to moved Sandra and Mary the.
+8 Sandra bathroom Daniel went to and the.
+9 is Mary  Where?	bedroom	7
+10 the Mary garden moved and to Sandra.
+11 to moved the John Mary and bathroom.
+12 Daniel  Where is?	bathroom	8
+13 and hallway Mary the back went to Daniel.
+14 went back the Sandra and John office to.
+15  is John Where?	office	14
+1 the and garden to moved John Sandra.
+2 John the to kitchen Daniel and journeyed.
+3 is Where  Sandra?	garden	1
+4 back and to hallway Daniel went the John.
+5 to travelled the Mary kitchen and John.
+6 Where John is ?	kitchen	5
+7 Daniel office to the and moved Sandra.
+8 Sandra Mary and to went the hallway.
+9 Where Sandra is ?	hallway	8
+10 bathroom Daniel the and moved John to.
+11 Daniel Mary and kitchen to the went.
+12 Where  John is?	bathroom	10
+13 kitchen Sandra the and John moved to.
+14 to the John back office went and Mary.
+15 is John Where ?	office	14
+1 Mary office and to Daniel went the.
+2 hallway the moved and to Daniel Sandra.
+3  Where is Sandra?	hallway	2
+4 Mary and John journeyed to bathroom the.
+5 Mary Sandra and garden the travelled to.
+6 is  Where Sandra?	garden	5
+7 to travelled the Mary John bedroom and.
+8 kitchen John the to travelled Sandra and.
+9 Sandra Where  is?	kitchen	8
+10 and back Mary kitchen the to Daniel went.
+11 and the Sandra to Mary went office.
+12 is Sandra Where ?	office	11
+13 Daniel Sandra and to journeyed the bedroom.
+14 and moved the to John hallway Daniel.
+15 is  Daniel Where?	hallway	14
+1 to and the office Sandra Daniel moved.
+2 and John Mary went kitchen to the back.
+3 is  Mary Where?	kitchen	2
+4 back and the Mary to went bedroom John.
+5 to and the Mary travelled garden Sandra.
+6 Where is John ?	bedroom	4
+7 the journeyed John to and bathroom Sandra.
+8 John to and the garden travelled Daniel.
+9 Where  is John?	garden	8
+10 Daniel the and kitchen moved Sandra to.
+11 bathroom to John the and back went Daniel.
+12 Where Daniel is ?	bathroom	11
+13 bedroom Sandra the to and John travelled.
+14 to Mary hallway Daniel journeyed and the.
+15 is John  Where?	bedroom	13
+1 Sandra to journeyed Mary the and kitchen.
+2 Daniel the moved and hallway to Mary.
+3 Where  Sandra is?	kitchen	1
+4 and back John bedroom went to the Daniel.
+5 garden Mary moved John to and the.
+6  Where is Daniel?	bedroom	4
+7 Sandra Daniel moved to and hallway the.
+8 travelled bathroom the to Mary and Sandra.
+9 Where is Sandra ?	bathroom	8
+10 John Daniel and kitchen to journeyed the.
+11 Sandra Daniel back went office to the and.
+12  Sandra Where is?	office	11
+13 journeyed and John Sandra the to bathroom.
+14 Mary to and the moved John bedroom.
+15 Where  John is?	bedroom	14
+1 Daniel the Mary office moved and to.
+2 to Sandra Mary and hallway went the.
+3 Mary  Where is?	hallway	2
+4 and Daniel to bathroom John the travelled.
+5 Mary to Sandra journeyed the garden and.
+6 Mary Where  is?	garden	5
+7 John journeyed and garden the Daniel to.
+8 John Mary went back hallway and the to.
+9  is Where John?	hallway	8
+10 bathroom and Sandra the moved to Mary.
+11 office John journeyed and the to Sandra.
+12 John is Where ?	office	11
+13 went to Sandra back and hallway John the.
+14 John kitchen the went Daniel and to.
+15  is Daniel Where?	kitchen	14
+1 John Mary hallway and the to travelled.
+2 bathroom went Daniel to Sandra back the and.
+3 Where Mary  is?	hallway	1
+4 John moved the Mary office and to.
+5 hallway John and Sandra to went the.
+6 is Where Sandra ?	hallway	5
+7 moved the garden Sandra Daniel to and.
+8 John and the bedroom to went Mary.
+9  is Mary Where?	bedroom	8
+10 journeyed to hallway Sandra and the Mary.
+11 and the travelled Mary to bathroom John.
+12 Sandra  is Where?	hallway	10
+13 Sandra to Mary kitchen and went the.
+14 went Daniel the John and to hallway.
+15  Where is Sandra?	kitchen	13
+1 kitchen Mary to went and John back the.
+2 and went Sandra the John back to bathroom.
+3 Where is  John?	bathroom	2
+4 travelled bedroom the Sandra Mary to and.
+5 went to bathroom Sandra and Daniel the.
+6  Sandra Where is?	bathroom	5
+7 to and the garden went Sandra Mary.
+8 and the Sandra hallway to Mary went.
+9 is  Where Daniel?	bathroom	5
+10 to Mary travelled the Daniel and kitchen.
+11 to travelled and Daniel Sandra office the.
+12 Where Sandra is ?	office	11
+13 to moved and John Sandra hallway the.
+14 garden John to moved and Daniel the.
+15 Where is Sandra ?	hallway	13
+1 the travelled Sandra to hallway Mary and.
+2 bedroom the Daniel to moved and Mary.
+3  Sandra is Where?	hallway	1
+4 Mary journeyed Daniel kitchen to the and.
+5 the and Sandra John to journeyed bedroom.
+6 is Daniel  Where?	kitchen	4
+7 Daniel went bathroom to back the Sandra and.
+8 John Daniel office moved the and to.
+9 John is  Where?	office	8
+10 John to bedroom the and Mary journeyed.
+11 travelled Mary bathroom the John and to.
+12  Mary Where is?	bathroom	11
+13 back and the Sandra Daniel went hallway to.
+14 John the travelled garden to Mary and.
+15 Daniel is Where ?	hallway	13
+1 Daniel Mary the moved bedroom to and.
+2 and bedroom to the John Sandra travelled.
+3  Where is Daniel?	bedroom	1
+4 the garden and to Sandra John went.
+5 back and went the Sandra to bathroom Mary.
+6 John Where  is?	garden	4
+7 travelled Daniel the kitchen and to John.
+8 and to Mary John the garden travelled.
+9 Where is  Daniel?	kitchen	7
+10 back John and to office Daniel went the.
+11 moved kitchen and Daniel to Mary the.
+12 Where  Daniel is?	kitchen	11
+13 office Mary Daniel to the journeyed and.
+14 Sandra to and Daniel hallway the travelled.
+15 Mary  is Where?	office	13
+1 the Daniel back bathroom John to went and.
+2 the hallway Sandra moved John to and.
+3 Where is  Sandra?	hallway	2
+4 John bedroom the and to Sandra journeyed.
+5 and Daniel to went office Sandra back the.
+6 is John  Where?	bedroom	4
+7 and kitchen Sandra Daniel moved to the.
+8 the to John bathroom and travelled Daniel.
+9 Sandra is Where ?	kitchen	7
+10 and journeyed to Daniel Sandra bedroom the.
+11 Mary travelled bathroom to and the Daniel.
+12 is Where Daniel ?	bathroom	11
+13 travelled office Mary the to and Sandra.
+14 went to Mary Sandra back and bedroom the.
+15  is Where Sandra?	bedroom	14
+1 the office Daniel Mary to travelled and.
+2 went and to Mary Daniel the garden.
+3 is  Daniel Where?	garden	2
+4 Mary office to and the went Daniel back.
+5 Sandra the and Mary bathroom went to.
+6 Where  is Sandra?	bathroom	5
+7 to the Mary and journeyed Sandra kitchen.
+8 Sandra Mary travelled hallway and the to.
+9 Where  Sandra is?	hallway	8
+10 to journeyed Sandra and Mary office the.
+11 hallway Daniel the and John to journeyed.
+12  Where John is?	hallway	11
+13 went Sandra to bedroom and the Daniel.
+14 and Mary Sandra travelled kitchen the to.
+15  Sandra is Where?	kitchen	14
+1 journeyed Daniel Mary bathroom to the and.
+2 and to moved Daniel Sandra garden the.
+3 Daniel  is Where?	garden	2
+4 Sandra and Daniel office the to went.
+5 to and Daniel Sandra the journeyed garden.
+6 Sandra Where is ?	garden	5
+7 Sandra journeyed and hallway to the Daniel.
+8 bedroom John and to Daniel the moved.
+9 is Daniel  Where?	bedroom	8
+10 to the went back and John Sandra garden.
+11 Daniel garden to journeyed and the Mary.
+12 is  Where John?	garden	10
+13 Daniel to and bathroom John journeyed the.
+14 Sandra bedroom to and the travelled Mary.
+15 Where is Mary ?	bedroom	14
+1 to Daniel John moved the and garden.
+2 back the to Daniel bathroom and went John.
+3 is  Daniel Where?	bathroom	2
+4 Sandra to went the and John back bedroom.
+5 the Daniel to and Mary moved garden.
+6 Where  John is?	bedroom	4
+7 travelled to hallway the John and Sandra.
+8 John journeyed and the to bathroom Sandra.
+9 John Where  is?	bathroom	8
+10 the went and Sandra to back Mary kitchen.
+11 to went the and hallway Sandra John.
+12  John Where is?	hallway	11
+13 John Daniel and the back bedroom to went.
+14 went Sandra the to Daniel and bathroom.
+15 John Where is ?	bedroom	13
+1 and kitchen Mary travelled the John to.
+2 and back the Daniel John garden went to.
+3 Mary Where is ?	kitchen	1
+4 and went to back the John hallway Sandra.
+5 John the kitchen to Daniel and moved.
+6 Where  John is?	kitchen	5
+7 and to the moved John garden Sandra.
+8 to bathroom and Sandra John the journeyed.
+9 Where Sandra  is?	bathroom	8
+10 Sandra the travelled and to John bedroom.
+11 John to and Mary went hallway the back.
+12 Where  Mary is?	hallway	11
+13 kitchen the and to went Mary John.
+14 office and to the went Mary John.
+15 is  Where John?	office	14
+1 Daniel hallway the to and John journeyed.
+2 the and to Daniel Sandra bedroom travelled.
+3 Where John  is?	hallway	1
+4 journeyed Sandra the to office Mary and.
+5 the garden journeyed and Mary Sandra to.
+6 Mary Where  is?	garden	5
+7 bathroom Daniel moved to and Sandra the.
+8 Daniel and to the John journeyed kitchen.
+9 Where  Sandra is?	bathroom	7
+10 John to Daniel and back office went the.
+11 Daniel to bedroom the went Mary and.
+12  is John Where?	office	10
+13 and Mary to kitchen Sandra moved the.
+14 back to the office Daniel Mary and went.
+15  Mary Where is?	office	14
+1 Sandra and to office Daniel went the.
+2 John the and to hallway Sandra journeyed.
+3 is Daniel  Where?	office	1
+4 to moved Daniel Sandra garden and the.
+5 went the and hallway to Mary Daniel.
+6 is Sandra  Where?	garden	4
+7 and Daniel to garden moved the Mary.
+8 kitchen to John the and journeyed Mary.
+9 is Where Mary ?	kitchen	8
+10 Daniel to bedroom Mary the travelled and.
+11 Mary the to travelled and Daniel bathroom.
+12 Where Daniel  is?	bathroom	11
+13 went Sandra to bedroom the and Mary.
+14 moved Sandra garden Daniel to and the.
+15 Sandra Where  is?	garden	14
+1 Daniel Mary the and bathroom to travelled.
+2 to Mary travelled and Daniel bedroom the.
+3 Daniel is Where ?	bedroom	2
+4 John journeyed Sandra the and hallway to.
+5 to office Mary the and went Daniel.
+6 Where  is Mary?	office	5
+7 the bathroom to John moved and Mary.
+8 Daniel and journeyed garden the to Mary.
+9 is Where Daniel ?	garden	8
+10 to and the Daniel moved Mary office.
+11 Mary bedroom the Sandra and to journeyed.
+12  Where Daniel is?	office	10
+13 Daniel the and to garden Sandra journeyed.
+14 moved office the Mary and Daniel to.
+15 is  Sandra Where?	garden	13
+1 Daniel to the and John moved hallway.
+2 Mary hallway and Sandra the to travelled.
+3  Daniel is Where?	hallway	1
+4 Daniel John moved the to and kitchen.
+5 the garden and Daniel to John travelled.
+6  is John Where?	garden	5
+7 Sandra the to bedroom and John moved.
+8 Daniel Sandra and to back went the kitchen.
+9 Sandra  is Where?	kitchen	8
+10 the Sandra John to hallway journeyed and.
+11 went John the to Daniel bedroom and back.
+12 is Where Daniel ?	bedroom	11
+13 back Sandra John and went kitchen to the.
+14 Daniel to travelled bathroom and Sandra the.
+15  Daniel Where is?	bathroom	14
+1 the to Daniel and moved bedroom Sandra.
+2 the to office Mary and Daniel journeyed.
+3  Where Daniel is?	office	2
+4 Daniel and John the moved kitchen to.
+5 journeyed Sandra Mary to bathroom and the.
+6  John Where is?	kitchen	4
+7 travelled office John and to Daniel the.
+8 journeyed John the and Daniel to bedroom.
+9  Where is Daniel?	bedroom	8
+10 and John the bathroom to Daniel journeyed.
+11 Sandra Daniel the and moved to hallway.
+12 is John Where ?	bathroom	10
+13 the travelled Daniel John and garden to.
+14 went Mary kitchen John and the to.
+15 is  Daniel Where?	garden	13
+1 garden and John Daniel to back the went.
+2 hallway to John Mary and went the.
+3  is Where John?	hallway	2
+4 and went Daniel bathroom to the John.
+5 the Daniel John and hallway journeyed to.
+6 is  Where John?	hallway	5
+7 the bathroom Daniel to went Mary and.
+8 went office to Mary the and Daniel.
+9  Mary is Where?	office	8
+10 the bathroom to travelled and Daniel Sandra.
+11 bedroom Mary and to John the travelled.
+12  Daniel is Where?	bathroom	10
+13 to Mary Sandra hallway the moved and.
+14 and journeyed the Mary to Daniel garden.
+15 Daniel  Where is?	garden	14
+1 office Daniel went Sandra and to the.
+2 John hallway the went back Daniel and to.
+3 Where  Sandra is?	office	1
+4 back the and Sandra to went bedroom Mary.
+5 kitchen journeyed the and to Mary Sandra.
+6 is Where  Sandra?	kitchen	5
+7 and Mary John bathroom the to moved.
+8 Mary to John hallway the and travelled.
+9 Where Mary is ?	hallway	8
+10 journeyed to Daniel and garden Mary the.
+11 to and the went kitchen Daniel Mary.
+12 is  Where Mary?	kitchen	11
+13 the Daniel travelled and to bedroom John.
+14 John the bathroom to went and Daniel.
+15 is Where John ?	bathroom	14
+1 to Sandra Mary kitchen moved the and.
+2 and Sandra Daniel to office travelled the.
+3  Daniel is Where?	office	2
+4 to bathroom the moved Sandra John and.
+5 to garden back went and the Daniel Sandra.
+6  Sandra Where is?	garden	5
+7 Daniel the and to John travelled bedroom.
+8 Mary back to and bathroom the went John.
+9 John is  Where?	bathroom	8
+10 office Daniel the went Sandra and to.
+11 to back garden and the went Mary John.
+12  Mary is Where?	garden	11
+13 went Sandra John the to bedroom and.
+14 kitchen moved the Sandra to Mary and.
+15 John  is Where?	bedroom	13
+1 to the Sandra and journeyed kitchen Mary.
+2 the Daniel went to and Mary hallway.
+3 is  Daniel Where?	hallway	2
+4 the John and back went to Mary kitchen.
+5 bedroom to the Daniel and Mary went.
+6 Where Daniel  is?	bedroom	5
+7 and Daniel the to Sandra garden went.
+8 and Daniel to bathroom John went the.
+9 Daniel  Where is?	bathroom	8
+10 the moved Sandra and Daniel to kitchen.
+11 travelled to garden and the John Sandra.
+12  John is Where?	garden	11
+13 and kitchen the John Mary moved to.
+14 office Sandra and the to Daniel went.
+15 Daniel is Where ?	office	14
+1 Daniel to and travelled bathroom Sandra the.
+2 Daniel travelled to Sandra the and office.
+3  Daniel Where is?	office	2
+4 Mary journeyed John to office the and.
+5 to Mary Sandra and moved hallway the.
+6 Daniel  Where is?	office	2
+7 to bathroom the and went John Mary.
+8 to and Daniel Mary moved the bedroom.
+9 John  Where is?	bathroom	7
+10 the Daniel hallway to John and went.
+11 John journeyed garden to the Daniel and.
+12 Mary is  Where?	bedroom	8
+13 Daniel and Sandra bedroom to journeyed the.
+14 went Mary office the and John to back.
+15 Where is  Mary?	office	14
+1 Sandra to Mary hallway and the went.
+2 to went and John bedroom back the Daniel.
+3 is Where John ?	bedroom	2
+4 back went and kitchen to John the Daniel.
+5 to Sandra John went and the office.
+6 John is Where ?	office	5
+7 John and bathroom travelled the to Daniel.
+8 Sandra went the to John and back hallway.
+9 John  Where is?	hallway	8
+10 moved to the garden Mary John and.
+11 went the to John back bedroom Daniel and.
+12 is Where  Mary?	garden	10
+13 and to bathroom Sandra Daniel the went back.
+14 went hallway and Daniel the Mary to.
+15 Sandra  is Where?	bathroom	13
+1 the to Sandra Mary kitchen and went.
+2 the journeyed John bedroom Sandra to and.
+3 John is Where ?	bedroom	2
+4 and Daniel the to moved bathroom Sandra.
+5 Daniel to the Sandra moved and bedroom.
+6 Where  is Sandra?	bedroom	5
+7 Mary to travelled and the Daniel hallway.
+8 Sandra John garden and to travelled the.
+9 Where Sandra  is?	garden	8
+10 Daniel Sandra to bathroom and went the.
+11 the and Sandra Mary to moved kitchen.
+12 Mary is Where ?	kitchen	11
+13 Mary Daniel and the hallway to moved.
+14 garden and moved Mary Daniel to the.
+15 Where  Mary is?	garden	14
+1 travelled Daniel to Mary and bathroom the.
+2 the and to hallway Daniel went Mary.
+3 is Daniel  Where?	hallway	2
+4 Daniel went the Mary kitchen and to.
+5 John to hallway and the Mary journeyed.
+6 Mary  Where is?	hallway	5
+7 bathroom and the to journeyed John Daniel.
+8 Mary to went the garden Daniel back and.
+9  Daniel is Where?	garden	8
+10 to Mary the office Sandra and moved.
+11 John and garden travelled Mary to the.
+12 Where is  Daniel?	garden	8
+13 and the Mary went to bedroom John.
+14 journeyed and the Sandra kitchen to Daniel.
+15  Where is Daniel?	kitchen	14
+1 to Sandra Daniel and the bathroom travelled.
+2 garden to the moved Daniel and Sandra.
+3 is Where Sandra ?	garden	2
+4 travelled the to bathroom Daniel and John.
+5 and John the Sandra to journeyed office.
+6  is Where John?	office	5
+7 Daniel journeyed the and to Sandra garden.
+8 the Sandra John bedroom to journeyed and.
+9  Where is Daniel?	garden	7
+10 and to the journeyed office Sandra Daniel.
+11 moved Daniel and Sandra to the hallway.
+12 is Where  Sandra?	hallway	11
+13 the and to kitchen moved Sandra Mary.
+14 Mary the and John to journeyed bathroom.
+15 Sandra Where  is?	kitchen	13
+1 kitchen to Sandra John and the went back.
+2 travelled bedroom Sandra and to Daniel the.
+3 Sandra  is Where?	bedroom	2
+4 the Daniel back John went garden and to.
+5 to and bathroom travelled the John Mary.
+6 Daniel is  Where?	garden	4
+7 kitchen John journeyed Mary the to and.
+8 Sandra journeyed and office to Mary the.
+9 Where  Mary is?	office	8
+10 John office the and to journeyed Daniel.
+11 and to the moved garden Daniel John.
+12 Daniel  Where is?	garden	11
+13 bedroom the moved Mary to and Sandra.
+14 Mary Sandra to and journeyed office the.
+15 is Where  Sandra?	office	14
+1 went the and to bedroom back Mary Daniel.
+2 the to back and went Sandra bedroom John.
+3 Sandra Where is ?	bedroom	2
+4 Sandra the bathroom moved to John and.
+5 Mary to kitchen the went Daniel and.
+6 Where  Mary is?	kitchen	5
+7 and John moved Daniel office to the.
+8 bedroom Mary went Sandra and to the.
+9 Sandra is  Where?	bedroom	8
+10 John to travelled the Sandra bathroom and.
+11 to back the Sandra John and went kitchen.
+12 is Where  Sandra?	kitchen	11
+13 moved bedroom to and the Daniel John.
+14 John and Daniel to moved bathroom the.
+15 Where  John is?	bathroom	14
+1 the to moved John Daniel and hallway.
+2 to bathroom and Sandra the Daniel journeyed.
+3 is Where Sandra ?	bathroom	2
+4 back bathroom to John Mary the went and.
+5 hallway journeyed Daniel Mary and to the.
+6 Where Mary is ?	hallway	5
+7 Sandra the bedroom to and John journeyed.
+8 John the travelled garden and to Sandra.
+9 Where  Sandra is?	garden	8
+10 the journeyed bathroom to John Daniel and.
+11 the Mary bedroom and to Sandra travelled.
+12 is Where  John?	bathroom	10
+13 moved garden the and to Sandra John.
+14 to the and Daniel Sandra office travelled.
+15 Mary  is Where?	bedroom	11
+1 moved Sandra Mary the to and garden.
+2 to Mary the went John and bedroom.
+3 is Where  Mary?	bedroom	2
+4 to the Sandra went and John hallway.
+5 Mary and the to Daniel kitchen travelled.
+6 Where is Sandra ?	hallway	4
+7 travelled garden the to Daniel and John.
+8 to and went John office the Sandra.
+9 John  Where is?	office	8
+10 to went bathroom and John Sandra the.
+11 went Sandra John to hallway and the.
+12  John Where is?	hallway	11
+13 moved bathroom and to Mary the Sandra.
+14 to journeyed and hallway Sandra the Daniel.
+15  is Where John?	hallway	11
+1 Mary John travelled to bedroom the and.
+2 the and travelled hallway to Mary Sandra.
+3 is Sandra Where ?	hallway	2
+4 the to back Mary kitchen Sandra went and.
+5 Daniel the went John bathroom to back and.
+6 is John  Where?	bathroom	5
+7 the to bedroom Mary moved and John.
+8 the and kitchen Daniel moved to Mary.
+9 Daniel Where is ?	kitchen	8
+10 the Mary journeyed bathroom to and John.
+11 to travelled and Daniel hallway the John.
+12  is Where Mary?	bathroom	10
+13 moved the bedroom to Mary and Daniel.
+14 Daniel and garden John to moved the.
+15 Where Daniel is ?	garden	14
+1 and Daniel to travelled the John hallway.
+2 to Sandra the office back and Mary went.
+3 Sandra  Where is?	office	2
+4 and journeyed the to bathroom John Mary.
+5 office the to and John went Mary.
+6 is Where  John?	office	5
+7 kitchen the went back to Daniel and John.
+8 the moved John garden and to Sandra.
+9 John  Where is?	garden	8
+10 Mary Sandra to journeyed kitchen the and.
+11 and travelled office the Mary Sandra to.
+12 Where Sandra  is?	office	11
+13 bedroom Mary John journeyed to and the.
+14 the hallway to travelled John Mary and.
+15 is  Mary Where?	hallway	14
+1 travelled John and to garden the Mary.
+2 John office Daniel to the and moved.
+3 Mary Where  is?	garden	1
+4 and Mary travelled Sandra the to bedroom.
+5 to kitchen the and John journeyed Daniel.
+6  Where is Mary?	bedroom	4
+7 Daniel to hallway Sandra went and the.
+8 Sandra the and bathroom Daniel to journeyed.
+9 is John Where ?	kitchen	5
+10 garden and the John Mary to travelled.
+11 to went the Mary and Daniel bedroom.
+12 is Where Daniel ?	bedroom	11
+13 moved office Daniel and Sandra to the.
+14 the Sandra and to went Daniel kitchen.
+15  Daniel is Where?	kitchen	14
+1 the office Daniel and went to Mary.
+2 garden and moved the Sandra to Daniel.
+3 Where  is Mary?	office	1
+4 to and Daniel the moved bedroom John.
+5 Sandra the bathroom Mary to and journeyed.
+6 is Daniel  Where?	bedroom	4
+7 and journeyed Sandra to the John hallway.
+8 John Mary kitchen the travelled to and.
+9 Sandra Where  is?	hallway	7
+10 to journeyed the and Mary John office.
+11 back bathroom and Mary went the to Daniel.
+12 is Where  John?	office	10
+13 went the John kitchen and to back Daniel.
+14 went to John the and bedroom Mary.
+15 is Where  Daniel?	kitchen	13
+1 John the went back to hallway Mary and.
+2 and John the Mary to bedroom moved.
+3 Where is  Mary?	bedroom	2
+4 travelled to and the kitchen Mary Daniel.
+5 the travelled John Daniel hallway and to.
+6 Where Mary  is?	kitchen	4
+7 and garden back the John Sandra went to.
+8 journeyed and Mary Sandra the bathroom to.
+9 Where  Sandra is?	bathroom	8
+10 and to John Mary moved bedroom the.
+11 moved kitchen the to and Mary John.
+12 is Where Mary ?	kitchen	11
+13 Mary Daniel and went the bedroom to.
+14 the and Sandra garden to Mary moved.
+15 Where is Mary ?	garden	14
+1 the to moved hallway John Sandra and.
+2 to kitchen Daniel travelled Mary the and.
+3 Sandra is Where ?	hallway	1
+4 Sandra and Mary bathroom to moved the.
+5 Daniel to Sandra the and garden moved.
+6  Daniel Where is?	garden	5
+7 Mary kitchen and Sandra moved to the.
+8 to went the and Sandra Daniel hallway.
+9 Where  Daniel is?	hallway	8
+10 bedroom moved and Sandra Daniel the to.
+11 office to back went Sandra the and Daniel.
+12  is Where Sandra?	office	11
+13 travelled the and John Mary garden to.
+14 the moved hallway and John Mary to.
+15 is  Sandra Where?	office	11
+1 the bedroom to Sandra and travelled Mary.
+2 the hallway Daniel Mary travelled to and.
+3 is  Daniel Where?	hallway	2
+4 Sandra and to John went kitchen the.
+5 the to and Mary bathroom moved Sandra.
+6 Sandra Where is ?	bathroom	5
+7 and Daniel went Mary back to garden the.
+8 Daniel Sandra bedroom and the travelled to.
+9  Where Daniel is?	bedroom	8
+10 Daniel and John the to went bathroom.
+11 the and Daniel travelled John hallway to.
+12 Where is  Daniel?	hallway	11
+13 journeyed Sandra and Daniel the bathroom to.
+14 kitchen travelled the and John Daniel to.
+15 Where  John is?	kitchen	14
+1 to and bedroom journeyed the Daniel Sandra.
+2 the John bathroom and to moved Mary.
+3 John Where  is?	bathroom	2
+4 moved the John Sandra to office and.
+5 Sandra the and to Daniel travelled hallway.
+6  Where is John?	office	4
+7 the to Mary Sandra and went bedroom.
+8 back and to the went Mary Sandra office.
+9 Mary Where  is?	office	8
+10 Mary journeyed kitchen the to Sandra and.
+11 Daniel to went the Mary and bedroom.
+12 is Where  Daniel?	bedroom	11
+13 the to moved Mary and garden Sandra.
+14 Daniel hallway and Sandra journeyed the to.
+15 is  Where Sandra?	hallway	14
+1 and moved the Sandra John to bedroom.
+2 Sandra to and the back hallway John went.
+3 Sandra  Where is?	hallway	2
+4 journeyed Sandra to kitchen and the John.
+5 and to John Mary the office travelled.
+6 Where Mary is ?	office	5
+7 Mary Daniel kitchen the and to went back.
+8 garden Sandra and Mary the moved to.
+9 Sandra Where  is?	garden	8
+10 kitchen and to Mary travelled the John.
+11 to journeyed and the Sandra office John.
+12  John Where is?	office	11
+13 Daniel and to moved the Mary hallway.
+14 Mary to Sandra back bedroom the went and.
+15 is Mary  Where?	bedroom	14
+1 Daniel the and travelled John bedroom to.
+2 and John moved Sandra to the office.
+3 is  John Where?	office	2
+4 garden Daniel journeyed to Sandra the and.
+5 and bedroom to John journeyed Mary the.
+6 is Mary Where ?	bedroom	5
+7 and kitchen journeyed to the Daniel Mary.
+8 and the John travelled to Mary garden.
+9 is Mary Where ?	garden	8
+10 Mary Sandra to hallway moved and the.
+11 journeyed John and to bedroom the Sandra.
+12  Sandra Where is?	bedroom	11
+13 to the and office Daniel moved Sandra.
+14 bathroom John and Mary the to journeyed.
+15  Mary Where is?	bathroom	14
+1 and John the to Daniel bedroom travelled.
+2 the Daniel office Sandra to and journeyed.
+3 Daniel Where  is?	office	2
+4 and the to garden Sandra went Daniel.
+5 and travelled Sandra to kitchen the Mary.
+6 Mary Where  is?	kitchen	5
+7 Daniel and the travelled office Mary to.
+8 and to back Mary went hallway Sandra the.
+9  Daniel Where is?	office	7
+10 John Mary to journeyed office the and.
+11 Daniel to Mary the travelled garden and.
+12  is John Where?	office	10
+13 and John bedroom to Daniel journeyed the.
+14 kitchen the Daniel travelled to and John.
+15 is Where Daniel ?	kitchen	14
+1 the and hallway John moved to Mary.
+2 the John back bedroom and Daniel to went.
+3 Where John  is?	bedroom	2
+4 John Daniel and the travelled bathroom to.
+5 journeyed Sandra the garden Daniel and to.
+6 Where is  Sandra?	garden	5
+7 to office Mary journeyed Daniel and the.
+8 to Daniel hallway went and the Mary.
+9  Where is Daniel?	hallway	8
+10 office and journeyed to Sandra Mary the.
+11 to bedroom Daniel John and the journeyed.
+12 is Sandra  Where?	office	10
+13 the John kitchen Daniel to and travelled.
+14 and the to Daniel Sandra moved hallway.
+15 Where  is Daniel?	hallway	14
+1 the Sandra went to John and hallway.
+2 to Sandra travelled the and John kitchen.
+3 Sandra Where is ?	kitchen	2
+4 the Mary to and Daniel kitchen travelled.
+5 went John Mary the to and bathroom.
+6 is  Where Daniel?	kitchen	4
+7 to and the Sandra Mary hallway moved.
+8 Daniel went Sandra and bedroom to the.
+9  Sandra Where is?	bedroom	8
+10 Mary went and to John the kitchen.
+11 and to Mary Sandra bathroom back the went.
+12 Daniel Where  is?	bedroom	8
+13 the John moved and garden to Daniel.
+14 the Sandra and garden went Mary to.
+15 Daniel is Where ?	garden	13
+1 to Sandra garden the travelled Daniel and.
+2 the Mary and travelled to bathroom Daniel.
+3 Daniel is Where ?	bathroom	2
+4 the Mary Daniel bedroom travelled and to.
+5 and moved Mary to the garden John.
+6 Where Mary is ?	garden	5
+7 and Sandra to John travelled kitchen the.
+8 back John Sandra the office to went and.
+9 John  Where is?	office	8
+10 John Sandra travelled bathroom to and the.
+11 the to journeyed Daniel kitchen Mary and.
+12  Where Mary is?	kitchen	11
+13 and bedroom moved Daniel the Mary to.
+14 kitchen Mary back to Daniel went the and.
+15  Daniel is Where?	kitchen	14
+1 kitchen the and moved Mary Sandra to.
+2 garden travelled and Sandra the Mary to.
+3  Mary Where is?	garden	2
+4 and the to kitchen back went Mary Daniel.
+5 to bathroom the and Daniel John went.
+6 is Where  Daniel?	bathroom	5
+7 John to and bedroom travelled the Daniel.
+8 and journeyed the garden to John Mary.
+9 is  John Where?	garden	8
+10 back Daniel and went to the kitchen John.
+11 the Mary moved bedroom to Daniel and.
+12 John is  Where?	kitchen	10
+13 Sandra and to Daniel moved the bathroom.
+14 back garden the to and went Mary John.
+15  Daniel is Where?	bathroom	13
+1 to travelled office and John Mary the.
+2 Sandra the and bedroom moved to Daniel.
+3 Where  Daniel is?	bedroom	2
+4 the Sandra to Daniel went back and bathroom.
+5 and travelled to John bathroom Mary the.
+6 is John Where ?	bathroom	5
+7 Sandra the went office John and to.
+8 to Daniel and the garden travelled John.
+9  Where John is?	garden	8
+10 the back Sandra to and bathroom went John.
+11 kitchen Sandra Daniel the journeyed and to.
+12  is Daniel Where?	kitchen	11
+13 the office Daniel and John travelled to.
+14 Daniel and back John went to the bedroom.
+15 Where is  John?	bedroom	14
+1 the office moved and to Daniel Sandra.
+2 and the to Mary journeyed kitchen Sandra.
+3 is Where Daniel ?	office	1
+4 bathroom Mary back the and went Sandra to.
+5 to the Mary went garden Sandra and.
+6  Where Sandra is?	garden	5
+7 John Daniel to the and hallway moved.
+8 kitchen and John moved to Daniel the.
+9 is  John Where?	kitchen	8
+10 travelled to John bedroom the and Mary.
+11 Daniel and to office the travelled Mary.
+12  Mary is Where?	office	11
+13 the and Mary moved to Daniel bedroom.
+14 John and the kitchen Sandra to travelled.
+15 is Where Mary ?	bedroom	13
+1 Daniel the John hallway and moved to.
+2 Daniel and travelled to garden John the.
+3 Where  Daniel is?	garden	2
+4 Daniel John hallway the to travelled and.
+5 kitchen Daniel Mary and to travelled the.
+6 is Where Daniel ?	kitchen	5
+7 the John and to kitchen moved Sandra.
+8 the bathroom John journeyed to and Mary.
+9 Where  Mary is?	bathroom	8
+10 Sandra John bedroom the to went and.
+11 and to the John garden Mary journeyed.
+12 Where is  Mary?	garden	11
+13 Daniel the Sandra moved and hallway to.
+14 Mary and moved John bedroom to the.
+15 Sandra  Where is?	hallway	13
+1 Mary Sandra bedroom the travelled to and.
+2 to travelled Sandra the bathroom and Daniel.
+3  Where is Sandra?	bathroom	2
+4 went to the bedroom Daniel and Sandra.
+5 Sandra to and Daniel the went garden back.
+6  Daniel is Where?	garden	5
+7 Sandra moved kitchen the John and to.
+8 John the Daniel and journeyed hallway to.
+9 Sandra Where is ?	kitchen	7
+10 bathroom to Mary and journeyed the Sandra.
+11 Daniel and the bathroom to went John.
+12 Where is Daniel ?	bathroom	11
+13 Sandra travelled Mary and the garden to.
+14 Mary the and moved hallway Daniel to.
+15 Sandra is  Where?	garden	13
+1 office Mary and John the journeyed to.
+2 went the and Sandra garden Daniel to.
+3 John  Where is?	office	1
+4 bedroom travelled Mary to the Sandra and.
+5 and kitchen to went Sandra Daniel the.
+6 Sandra is Where ?	kitchen	5
+7 went back to and Daniel bedroom John the.
+8 Daniel kitchen and went the John to.
+9 is  Where Daniel?	kitchen	8
+10 bathroom Daniel the moved and Sandra to.
+11 office the and Sandra Mary moved to.
+12 Daniel is  Where?	bathroom	10
+13 hallway the Mary journeyed Sandra to and.
+14 went Daniel John and the to hallway.
+15 Where is Mary ?	hallway	13
+1 and Mary John the journeyed to hallway.
+2 the Daniel went bedroom and John to.
+3 is Mary  Where?	hallway	1
+4 the bathroom to Mary back and Sandra went.
+5 and Mary the Daniel to hallway went.
+6  is Where Mary?	hallway	5
+7 back John the Mary went and office to.
+8 Mary and back the bedroom went Daniel to.
+9 is  Where John?	office	7
+10 went Sandra Mary garden back the to and.
+11 Mary Daniel the journeyed to office and.
+12 Mary is Where ?	office	11
+13 John hallway to and Daniel travelled the.
+14 the to travelled John and bathroom Sandra.
+15 Where Mary  is?	office	11
+1 John and to garden journeyed the Daniel.
+2 John office Mary and the to moved.
+3 Where Daniel is ?	garden	1
+4 bathroom John and journeyed the to Sandra.
+5 and Mary John back to the hallway went.
+6 is Mary Where ?	hallway	5
+7 John the garden and Mary to moved.
+8 office moved and the Daniel to Mary.
+9 Where Mary  is?	office	8
+10 Mary and hallway Daniel the to journeyed.
+11 Daniel the John and travelled bathroom to.
+12  Where is John?	bathroom	11
+13 and hallway Sandra to moved the John.
+14 went the John and Sandra kitchen to.
+15  Where is Sandra?	kitchen	14
+1 journeyed and Mary to bedroom Daniel the.
+2 moved the bedroom Sandra John and to.
+3  is John Where?	bedroom	2
+4 bathroom journeyed Daniel John to and the.
+5 went Sandra to back the and office Mary.
+6 Sandra Where is ?	office	5
+7 John Sandra to the travelled and garden.
+8 the Daniel office journeyed and John to.
+9 Where is  John?	office	8
+10 John to Sandra the hallway and travelled.
+11 the and office travelled John Sandra to.
+12  Where is John?	office	11
+13 to and John the kitchen journeyed Sandra.
+14 the Mary hallway Daniel went to and.
+15  Daniel Where is?	hallway	14
+1 Mary went to and bathroom Daniel the.
+2 and the back bedroom Mary Sandra to went.
+3 is  Mary Where?	bedroom	2
+4 bathroom to John and went the Mary.
+5 to the John and garden Sandra went.
+6 Where is  Sandra?	garden	5
+7 Daniel the went Sandra to and bedroom.
+8 and John Sandra kitchen the moved to.
+9  Sandra Where is?	kitchen	8
+10 went to Daniel hallway the and John.
+11 the Mary office to back went Sandra and.
+12 Mary  Where is?	office	11
+13 and Sandra to the back went garden Daniel.
+14 kitchen travelled to Daniel Sandra and the.
+15 Where is Sandra ?	kitchen	14
+1 journeyed Daniel bathroom the John and to.
+2 travelled office and the Mary John to.
+3 is  Daniel Where?	bathroom	1
+4 to travelled Mary Daniel bedroom the and.
+5 hallway John to the and journeyed Sandra.
+6 Daniel is Where ?	bedroom	4
+7 Daniel to and went back hallway the Mary.
+8 the went office John to and Daniel.
+9  Where is John?	office	8
+10 and journeyed to Sandra Daniel the bathroom.
+11 John the kitchen back went to and Mary.
+12 is Daniel Where ?	bathroom	10
+13 the went Daniel to and Mary back garden.
+14 the and bathroom Daniel travelled Mary to.
+15 Where is Mary ?	bathroom	14
+1 to hallway John the moved and Sandra.
+2 journeyed John the garden to and Sandra.
+3 John  is Where?	garden	2
+4 to Daniel John and the hallway moved.
+5 travelled and Daniel John to the garden.
+6 Sandra is  Where?	garden	2
+7 to and Sandra Mary moved the bathroom.
+8 Sandra went the Mary to kitchen and.
+9 Where  Sandra is?	kitchen	8
+10 and to went the Sandra office John.
+11 the John bathroom and Mary to back went.
+12 is  Mary Where?	bathroom	11
+13 Sandra Daniel moved bathroom to and the.
+14 and kitchen moved the John to Mary.
+15 Where  John is?	kitchen	14
+1 Mary journeyed and to office John the.
+2 and John the went garden Daniel to.
+3  Where is John?	garden	2
+4 and Sandra hallway the went to Mary.
+5 the and bathroom to went John Daniel.
+6 is Mary Where ?	hallway	4
+7 went and Mary bedroom to Sandra the.
+8 John and went Sandra the to hallway.
+9 is Where  John?	hallway	8
+10 John to journeyed Mary and office the.
+11 bedroom and John journeyed Sandra to the.
+12 is John  Where?	bedroom	11
+13 the Sandra John and hallway to travelled.
+14 to Sandra back the went Daniel kitchen and.
+15 Where is  Sandra?	kitchen	14
+1 the and travelled Daniel Mary office to.
+2 went Daniel and garden back to the Sandra.
+3  is Sandra Where?	garden	2
+4 went Mary the to hallway Daniel and.
+5 the hallway to and John Sandra travelled.
+6  is Sandra Where?	hallway	5
+7 the John Daniel journeyed office to and.
+8 kitchen to moved the and Daniel Mary.
+9  Daniel Where is?	kitchen	8
+10 Daniel to the and Sandra travelled office.
+11 hallway travelled and the to Mary Sandra.
+12 is Where  Mary?	hallway	11
+13 the John kitchen went to Daniel and.
+14 travelled the and Sandra to office Daniel.
+15 Where Daniel  is?	office	14
+1 John the and Mary moved garden to.
+2 and moved John bedroom the Sandra to.
+3 Where Mary  is?	garden	1
+4 to and back the John Sandra garden went.
+5 and the Daniel journeyed hallway Sandra to.
+6 Daniel Where  is?	hallway	5
+7 and moved Sandra bedroom Mary the to.
+8 Sandra the to Daniel travelled and bathroom.
+9 Where Sandra  is?	bathroom	8
+10 the and Sandra went to Daniel bedroom.
+11 Sandra Mary to the garden went and.
+12 Daniel Where is ?	bedroom	10
+13 moved to and Mary the hallway Daniel.
+14 and to Daniel went John the bathroom.
+15  is John Where?	bathroom	14
+1 Mary back went and kitchen the to Daniel.
+2 hallway moved John the Daniel to and.
+3 Daniel is  Where?	hallway	2
+4 office and the moved John Mary to.
+5 Daniel and the to Sandra back went office.
+6 is Where  Daniel?	office	5
+7 went Daniel John the back garden and to.
+8 kitchen journeyed and the to Mary Daniel.
+9 Where Daniel is ?	kitchen	8
+10 Daniel the to John travelled and office.
+11 to Sandra back the bathroom Mary went and.
+12 is  Mary Where?	bathroom	11
+13 Daniel hallway went back to and the John.
+14 Sandra to the travelled and garden John.
+15 is Where  Sandra?	garden	14
+1 John Mary the bedroom and to moved.
+2 garden the and John to Daniel moved.
+3 is Where  John?	garden	2
+4 John went the Sandra and to kitchen.
+5 the Sandra journeyed to Daniel bathroom and.
+6  Where John is?	kitchen	4
+7 the to office John journeyed Daniel and.
+8 Sandra and the Mary office to journeyed.
+9 Daniel  Where is?	office	7
+10 Sandra John kitchen the and went to.
+11 journeyed Mary garden John to the and.
+12 is John Where ?	garden	11
+13 John back bathroom the went to Mary and.
+14 hallway John and to the went Mary.
+15  is Where John?	hallway	14
+1 Daniel the Mary to travelled and garden.
+2 the Mary to and journeyed hallway Sandra.
+3 is Daniel Where ?	garden	1
+4 hallway Daniel journeyed to John and the.
+5 Sandra to Mary travelled the and bathroom.
+6  Mary Where is?	bathroom	5
+7 Mary to the garden and John moved.
+8 to back went Daniel the kitchen Mary and.
+9 Where  is John?	garden	7
+10 Sandra went Mary and to the back office.
+11 journeyed the and Daniel Sandra garden to.
+12 Sandra Where  is?	garden	11
+13 to the kitchen back Mary and went John.
+14 Daniel went the hallway to and Sandra.
+15 John is  Where?	kitchen	13
+1 kitchen Sandra Daniel travelled and to the.
+2 to the John Sandra and hallway went.
+3  Where Sandra is?	hallway	2
+4 the Sandra bedroom and journeyed Daniel to.
+5 to Mary journeyed and garden John the.
+6  Sandra is Where?	bedroom	4
+7 the and to journeyed office Mary Sandra.
+8 and hallway Daniel back to the went Mary.
+9 is Mary  Where?	hallway	8
+10 hallway the went John and to Sandra.
+11 the journeyed kitchen and Mary Daniel to.
+12 Where  is Sandra?	hallway	10
+13 and kitchen travelled John Sandra to the.
+14 John and the to hallway Sandra travelled.
+15  Where Mary is?	kitchen	11
+1 Sandra and journeyed to the bedroom Daniel.
+2 and went kitchen the to Sandra back John.
+3  is Where Daniel?	bedroom	1
+4 and to Mary Daniel office the went.
+5 the Daniel went back hallway to Sandra and.
+6  Where is Mary?	office	4
+7 Mary and hallway John the moved to.
+8 to back and Mary the went garden Sandra.
+9 Where  Sandra is?	garden	8
+10 and the travelled bedroom John Sandra to.
+11 hallway the and to journeyed Mary Sandra.
+12 Sandra is  Where?	hallway	11
+13 travelled and to Daniel the John kitchen.
+14 went and to back Daniel the John bathroom.
+15 Where is  John?	bathroom	14
+1 and the garden went John to Mary.
+2 to Sandra hallway travelled the John and.
+3 Where is  John?	hallway	2
+4 travelled office to Daniel and Sandra the.
+5 journeyed to John and Mary the bathroom.
+6  Where is Sandra?	office	4
+7 the Daniel and to moved Mary garden.
+8 Daniel back went to and the kitchen Sandra.
+9 Where Sandra  is?	kitchen	8
+10 and Daniel went the bedroom to John.
+11 kitchen the to moved Mary John and.
+12 Mary is  Where?	kitchen	11
+13 and Mary back went to office John the.
+14 Daniel bathroom to moved Mary the and.
+15 is Where  Mary?	bathroom	14
+1 the Mary Sandra to went kitchen and.
+2 hallway John and Mary the to moved.
+3 John Where is ?	hallway	2
+4 the to travelled garden John and Sandra.
+5 the Sandra and to office moved Daniel.
+6 is Where  John?	garden	4
+7 went Sandra the to kitchen John and.
+8 Sandra went and the John hallway to.
+9  Sandra is Where?	hallway	8
+10 Sandra John kitchen went back to the and.
+11 hallway went and John Daniel to the.
+12 is  Sandra Where?	kitchen	10
+13 John bathroom to the moved Mary and.
+14 bedroom Daniel travelled the Sandra to and.
+15 is Where Daniel ?	bedroom	14
+1 travelled and Daniel the Mary hallway to.
+2 went the office Mary Daniel and to.
+3 is Where Daniel ?	office	2
+4 to the went and Mary bathroom John.
+5 and the Mary garden went to John back.
+6 is John Where ?	garden	5
+7 Mary went to the office John back and.
+8 to garden Sandra the Mary went and.
+9 is Where  Sandra?	garden	8
+10 bedroom Sandra the to Mary and went.
+11 to journeyed John Daniel and garden the.
+12 is  Sandra Where?	bedroom	10
+13 bedroom the went John back to Daniel and.
+14 to hallway and John Daniel journeyed the.
+15 Daniel  is Where?	hallway	14
+1 to hallway Mary Daniel travelled and the.
+2 travelled Mary bathroom Sandra to the and.
+3 Where  Daniel is?	hallway	1
+4 back the garden John to went Daniel and.
+5 moved and John Sandra the to bedroom.
+6  is Where Daniel?	garden	4
+7 hallway travelled to Daniel the Sandra and.
+8 to John and the garden went back Daniel.
+9 Where Daniel is ?	garden	8
+10 and John Daniel the journeyed to kitchen.
+11 went John garden back and to the Sandra.
+12 Where John  is?	garden	11
+13 and Mary to the travelled bedroom Daniel.
+14 office John Sandra to the moved and.
+15  Daniel Where is?	bedroom	13
+1 to and garden Sandra back the went John.
+2 the office moved Sandra Daniel and to.
+3 is Daniel  Where?	office	2
+4 and bathroom back the Sandra to Daniel went.
+5 Sandra to the journeyed kitchen John and.
+6 Sandra is  Where?	kitchen	5
+7 Mary went bedroom to and the Daniel.
+8 John travelled bedroom and the to Sandra.
+9 Where is Mary ?	bedroom	7
+10 and Sandra the back hallway Daniel to went.
+11 to the travelled and Sandra Daniel bathroom.
+12 Sandra is Where ?	bathroom	11
+13 Mary and office moved Sandra to the.
+14 and journeyed the Mary Sandra hallway to.
+15 Sandra is Where ?	hallway	14
+1 to kitchen journeyed John the Mary and.
+2 Mary to went office and the John.
+3 Mary Where is ?	office	2
+4 John back hallway and the went to Mary.
+5 Mary the Sandra journeyed to office and.
+6  is Where Mary?	office	5
+7 Mary Sandra and bedroom the back to went.
+8 and the Sandra travelled to Mary bathroom.
+9  Mary is Where?	bathroom	8
+10 John and garden Daniel the to went.
+11 the Daniel bedroom Mary went to and.
+12  John Where is?	garden	10
+13 the to travelled John Sandra and bedroom.
+14 Daniel travelled Sandra to and the garden.
+15 Mary Where  is?	bedroom	11
+1 kitchen to the Mary Daniel moved and.
+2 journeyed Mary the office Sandra and to.
+3 Mary is  Where?	office	2
+4 and moved Mary the to bedroom John.
+5 John to Daniel the and hallway journeyed.
+6 is John Where ?	hallway	5
+7 Daniel back went and to garden the Sandra.
+8 the and John journeyed office to Sandra.
+9 John Where is ?	office	8
+10 back to went and John Daniel the bedroom.
+11 Mary the John and moved to office.
+12 Where is  Mary?	office	11
+13 and hallway journeyed to Daniel the Sandra.
+14 and Sandra the kitchen Daniel moved to.
+15  Where is Sandra?	kitchen	14
+1 went John to the garden Mary and.
+2 went kitchen Mary to Daniel and the.
+3 is John Where ?	garden	1
+4 went Sandra to the Mary and bathroom.
+5 Daniel office the went Sandra to and.
+6 is Where Daniel ?	office	5
+7 Mary hallway Sandra went to the and.
+8 moved bathroom to the Daniel and Sandra.
+9 Where Sandra is ?	bathroom	8
+10 to Sandra and office moved Mary the.
+11 the Sandra and bedroom Mary to went.
+12 is  Daniel Where?	bathroom	8
+13 Daniel Sandra to and the moved kitchen.
+14 John and to Sandra the bedroom journeyed.
+15 Daniel Where is ?	kitchen	13
+1 back Sandra and the to hallway Daniel went.
+2 office to moved Sandra Mary the and.
+3 Daniel is Where ?	hallway	1
+4 garden back went the John Sandra to and.
+5 hallway to went John the and Sandra.
+6 is  Sandra Where?	hallway	5
+7 and the to kitchen Mary travelled Daniel.
+8 the went John Daniel and to back office.
+9 is John Where ?	office	8
+10 John the and Mary to hallway went.
+11 to and moved John office Mary the.
+12 John is Where ?	office	11
+13 Mary Sandra to and went the kitchen.
+14 Daniel the and went Mary to bedroom back.
+15 Mary  Where is?	bedroom	14
+1 to Mary and garden travelled the John.
+2 journeyed to kitchen and Sandra the Daniel.
+3 Sandra is  Where?	kitchen	2
+4 hallway and John to the Mary went.
+5 Sandra to bathroom and the Daniel travelled.
+6 is Where  Sandra?	bathroom	5
+7 and Sandra moved kitchen Mary the to.
+8 Mary and garden travelled the to Sandra.
+9 is Where  Sandra?	garden	8
+10 the went Daniel and to office Mary.
+11 Mary John and kitchen the to travelled.
+12 is  John Where?	kitchen	11
+13 hallway Mary to the journeyed Sandra and.
+14 Daniel and the Sandra went bathroom to.
+15 Mary  Where is?	hallway	13
+1 John the garden went to and Daniel.
+2 Mary and hallway to back the went Daniel.
+3 is Daniel Where ?	hallway	2
+4 Sandra journeyed and the to garden Mary.
+5 and Sandra to bathroom the Mary journeyed.
+6 Sandra is  Where?	bathroom	5
+7 Mary the and Daniel to moved bedroom.
+8 and journeyed the to John Mary kitchen.
+9 Mary is  Where?	kitchen	8
+10 the to and Mary John moved bedroom.
+11 to Daniel the and moved John bathroom.
+12 is  John Where?	bathroom	11
+13 went back Sandra the and kitchen Daniel to.
+14 travelled Mary office the Sandra and to.
+15 Where Sandra is ?	office	14
+1 and travelled kitchen to John Mary the.
+2 Mary the Daniel bedroom moved to and.
+3 is Daniel  Where?	bedroom	2
+4 bathroom Sandra and the went Daniel to.
+5 Daniel to John and the garden journeyed.
+6 Sandra  Where is?	bathroom	4
+7 kitchen and John went the to Sandra back.
+8 to moved the bathroom and Sandra John.
+9 is Sandra Where ?	bathroom	8
+10 and hallway Daniel John went to the.
+11 garden the Sandra went back Daniel to and.
+12 Sandra is Where ?	garden	11
+13 Sandra hallway to journeyed the Daniel and.
+14 to Sandra went office and Mary the.
+15  Daniel is Where?	hallway	13
+1 and to bedroom travelled Daniel John the.
+2 and Daniel John to hallway the journeyed.
+3 Daniel Where is ?	hallway	2
+4 the and Daniel moved bedroom Mary to.
+5 and Daniel the Mary to moved garden.
+6  is Mary Where?	garden	5
+7 Daniel to and journeyed Mary the bedroom.
+8 to the and journeyed kitchen John Daniel.
+9 Mary is Where ?	bedroom	7
+10 and Sandra the hallway to Daniel journeyed.
+11 and John garden Sandra moved to the.
+12 is John Where ?	garden	11
+13 the to John and journeyed Mary hallway.
+14 Mary travelled to Sandra and the bedroom.
+15 is Where John ?	hallway	13
+1 Daniel to Mary and the went office.
+2 garden the moved Daniel to and Sandra.
+3 Where Daniel is ?	garden	2
+4 travelled Sandra bedroom and the Mary to.
+5 the to Sandra kitchen and John journeyed.
+6 John is Where ?	kitchen	5
+7 bathroom the John to and Mary journeyed.
+8 Daniel to the office Mary and travelled.
+9 is Where Mary ?	office	8
+10 Daniel garden the to Sandra and moved.
+11 the and travelled Sandra to bedroom John.
+12 is Where John ?	bedroom	11
+13 went the to bathroom and Sandra Mary.
+14 Daniel and office the Mary to travelled.
+15 Sandra is  Where?	bathroom	13
+1 to journeyed Mary and Daniel kitchen the.
+2 Sandra to Mary the and moved garden.
+3  Mary is Where?	garden	2
+4 bathroom the to Daniel Mary journeyed and.
+5 and kitchen back the Daniel to Mary went.
+6 Sandra  is Where?	garden	2
+7 kitchen went to the Sandra John and.
+8 Daniel the bedroom Mary and went to back.
+9  is Where Sandra?	kitchen	7
+10 Sandra the to moved Mary and hallway.
+11 journeyed and the office Mary to Daniel.
+12 Where  Mary is?	office	11
+13 Sandra travelled bathroom and the Daniel to.
+14 and journeyed Mary to bedroom John the.
+15 Where  John is?	bedroom	14
+1 Sandra and travelled John hallway the to.
+2 and Sandra bedroom John went to the.
+3 Where  Sandra is?	bedroom	2
+4 the garden and Sandra to went Daniel.
+5 moved the Daniel Sandra and bedroom to.
+6  Sandra Where is?	bedroom	5
+7 to bathroom and Sandra Mary journeyed the.
+8 to hallway went Daniel and John the.
+9 Where is Daniel ?	hallway	8
+10 Sandra moved office to the Daniel and.
+11 kitchen Mary back went to and the Sandra.
+12 John Where is ?	hallway	8
+13 moved hallway to and Mary the Sandra.
+14 the kitchen to journeyed Mary Daniel and.
+15  Mary is Where?	kitchen	14
+1 to and Sandra the bedroom John journeyed.
+2 hallway John to went the Daniel and.
+3 is Where  John?	hallway	2
+4 to the Mary went and garden Sandra.
+5 Daniel office and went the to John back.
+6 Mary  is Where?	garden	4
+7 Sandra and Mary kitchen to the went.
+8 journeyed Mary garden Daniel and to the.
+9 is  John Where?	office	5
+10 Mary the and journeyed to office Daniel.
+11 garden John and to Mary the journeyed.
+12  is Where Mary?	garden	11
+13 bathroom and to John the Daniel travelled.
+14 Sandra office the travelled John to and.
+15 is John Where ?	office	14
+1 Mary kitchen to journeyed and the Sandra.
+2 the and bathroom to Mary Sandra moved.
+3 Sandra  is Where?	bathroom	2
+4 the and travelled to office John Mary.
+5 John Daniel the to and moved garden.
+6 Mary  is Where?	office	4
+7 Mary Daniel went hallway the to back and.
+8 the to and went Daniel back bedroom Sandra.
+9  is Sandra Where?	bedroom	8
+10 kitchen the John Daniel moved to and.
+11 garden and to John Sandra travelled the.
+12 Daniel is  Where?	kitchen	10
+13 the went back to bathroom and Mary John.
+14 the Sandra bedroom and moved Mary to.
+15  is Mary Where?	bedroom	14
+1 and the office Mary to back Sandra went.
+2 bathroom the went Daniel John back and to.
+3 Where Mary  is?	office	1
+4 Mary hallway and went the to Sandra back.
+5 kitchen Daniel and John to the travelled.
+6 is Daniel Where ?	kitchen	5
+7 went and Sandra to John the garden.
+8 journeyed the to John and Mary bedroom.
+9 is John Where ?	bedroom	8
+10 and office journeyed Mary to Daniel the.
+11 Daniel to hallway back went Mary the and.
+12 Mary is Where ?	hallway	11
+13 to went and Sandra back Daniel bathroom the.
+14 John the to went Mary and bathroom.
+15 Where  is Sandra?	bathroom	13
+1 the went to garden and John Mary.
+2 the Sandra Mary travelled and kitchen to.
+3  John Where is?	garden	1
+4 Daniel Sandra to journeyed office and the.
+5 to journeyed Mary Sandra bedroom and the.
+6 Where  is Mary?	bedroom	5
+7 John Sandra to hallway journeyed and the.
+8 Mary journeyed and to the hallway Daniel.
+9 is  Where John?	hallway	7
+10 Sandra to the went Daniel garden and back.
+11 Sandra bedroom went and the Daniel to.
+12 Daniel Where is ?	bedroom	11
+13 the John journeyed and Daniel garden to.
+14 travelled Mary the and to Daniel kitchen.
+15 Mary  is Where?	kitchen	14
+1 bathroom and the John to Sandra moved.
+2 journeyed the and garden Daniel to Mary.
+3 is Where Sandra ?	bathroom	1
+4 kitchen the and Sandra moved to Daniel.
+5 and Sandra to Mary bathroom the went.
+6 Where Daniel is ?	kitchen	4
+7 and the Sandra kitchen John to went.
+8 Daniel the office to and journeyed John.
+9 is Sandra Where ?	kitchen	7
+10 to Sandra hallway and Mary travelled the.
+11 travelled the Mary bathroom and to Daniel.
+12 Where Mary is ?	bathroom	11
+13 back bedroom the Mary John to went and.
+14 back Sandra and went kitchen the Daniel to.
+15 Where is John ?	bedroom	13
+1 office travelled the Sandra to and Mary.
+2 the and John went Daniel back to bathroom.
+3 Where Sandra is ?	office	1
+4 the office travelled Daniel to John and.
+5 moved to Daniel the Mary kitchen and.
+6 Daniel is  Where?	kitchen	5
+7 travelled and to bedroom Mary Sandra the.
+8 back and bathroom Daniel to went the John.
+9 Where Mary  is?	bedroom	7
+10 the went hallway Sandra John to and.
+11 the garden to journeyed Daniel and John.
+12 is John  Where?	garden	11
+13 bedroom moved Sandra John and to the.
+14 Sandra journeyed and Daniel the to hallway.
+15 John is  Where?	bedroom	13
+1 and back the Daniel to Mary went garden.
+2 Sandra to back the went hallway Daniel and.
+3 Mary Where  is?	garden	1
+4 moved bathroom the to Sandra and John.
+5 John and Daniel the to travelled bedroom.
+6 is John Where ?	bedroom	5
+7 the John Daniel and garden travelled to.
+8 kitchen went Mary and back to the John.
+9 is  John Where?	kitchen	8
+10 Sandra garden journeyed and to John the.
+11 to journeyed Daniel bathroom the and John.
+12  Daniel Where is?	bathroom	11
+13 the and office travelled Daniel John to.
+14 Sandra and to office back the Mary went.
+15 Where  is John?	office	13
+1 Daniel and journeyed to the Sandra bedroom.
+2 Sandra hallway and Daniel went the back to.
+3 is Daniel Where ?	hallway	2
+4 to bathroom and travelled the Sandra Mary.
+5 garden the John back to Mary went and.
+6  Where is Sandra?	bathroom	4
+7 Mary bedroom and the to Daniel moved.
+8 the Mary John to and hallway journeyed.
+9 Where  Mary is?	hallway	8
+10 the to Sandra went back kitchen Daniel and.
+11 Sandra bathroom and John went the to.
+12  Sandra Where is?	bathroom	11
+13 John to journeyed kitchen and Sandra the.
+14 and Mary went bathroom the to Daniel.
+15  is Where Sandra?	kitchen	13
+1 the moved Daniel garden and Sandra to.
+2 the went bedroom and to Daniel John.
+3 is Where  Sandra?	garden	1
+4 hallway and Mary the Sandra went to.
+5 Mary and to Daniel garden journeyed the.
+6 Mary  is Where?	garden	5
+7 Sandra Mary to and the bedroom travelled.
+8 to Daniel and John moved bathroom the.
+9 John  is Where?	bathroom	8
+10 Sandra to the back went kitchen and Mary.
+11 the and Sandra John bedroom moved to.
+12  Where Sandra is?	bedroom	11
+13 Mary office back and John the to went.
+14 kitchen Mary and to journeyed the Sandra.
+15  John Where is?	office	13
+1 Mary travelled the Sandra and kitchen to.
+2 John the journeyed hallway and to Mary.
+3 Where is  Sandra?	kitchen	1
+4 moved the and to Sandra bedroom John.
+5 the went bedroom Mary Daniel and to back.
+6 John  is Where?	bedroom	4
+7 back Daniel hallway Mary to went and the.
+8 moved and bathroom Sandra to the Daniel.
+9 is Where Daniel ?	bathroom	8
+10 back garden went Sandra to Daniel and the.
+11 and John Mary to journeyed the garden.
+12  is Sandra Where?	garden	10
+13 Daniel moved and bathroom John to the.
+14 and travelled Daniel kitchen Sandra to the.
+15 Where John is ?	bathroom	13
+1 Daniel to travelled and Mary the bathroom.
+2 Daniel to and the back bedroom went John.
+3 Where is  Mary?	bathroom	1
+4 the journeyed and garden to Daniel Mary.
+5 bathroom and the travelled to John Daniel.
+6 is John  Where?	bathroom	5
+7 office to went John Daniel the and.
+8 Daniel to bathroom and the Sandra moved.
+9 Daniel  Where is?	bathroom	8
+10 the and Daniel to kitchen John travelled.
+11 to bedroom and the Daniel went Mary.
+12  is Where Daniel?	bedroom	11
+13 back Sandra hallway and Mary to the went.
+14 to John office the travelled Daniel and.
+15 is John  Where?	office	14
+1 the office to and moved John Sandra.
+2 to bedroom and Sandra Mary the travelled.
+3  John is Where?	office	1
+4 the to Sandra Mary hallway and went.
+5 the travelled and to John Sandra kitchen.
+6  Where is Sandra?	kitchen	5
+7 Mary back to bedroom John the went and.
+8 the hallway travelled Mary to Sandra and.
+9 is Where  Mary?	hallway	8
+10 and the bathroom Mary travelled John to.
+11 Daniel to and travelled bathroom the Sandra.
+12  Where Mary is?	bathroom	10
+13 the travelled to and Sandra garden John.
+14 moved Mary the John to and bedroom.
+15 John is  Where?	bedroom	14
+1 journeyed hallway and Mary the to John.
+2 and went the garden to Daniel Sandra.
+3 is Sandra  Where?	garden	2
+4 garden Mary to the and John travelled.
+5 John and the bedroom moved Sandra to.
+6 is John Where ?	bedroom	5
+7 and to back bathroom Sandra went the Mary.
+8 moved garden Sandra the John and to.
+9  Sandra is Where?	garden	8
+10 to and bedroom Mary journeyed Daniel the.
+11 and to John journeyed the Daniel kitchen.
+12 Mary is Where ?	bedroom	10
+13 travelled Daniel Sandra the to and bedroom.
+14 hallway to the moved and Daniel Mary.
+15 Where Mary is ?	hallway	14
+1 went Daniel the and back to Sandra office.
+2 travelled Mary and hallway Sandra the to.
+3 Where is  Daniel?	office	1
+4 Mary garden Daniel back and went to the.
+5 to the Sandra John and garden travelled.
+6 Where  is Mary?	garden	4
+7 John Daniel the and to back went kitchen.
+8 and journeyed Daniel to garden the John.
+9 Where  John is?	garden	8
+10 to the went and office Daniel Mary.
+11 to Daniel Sandra the bathroom went and.
+12  Where Daniel is?	bathroom	11
+13 the to went back and Mary kitchen John.
+14 Daniel the and back John went office to.
+15  is Where Mary?	kitchen	13
+1 the and bathroom to Daniel journeyed Mary.
+2 Mary moved the to and hallway Daniel.
+3 is Mary Where ?	hallway	2
+4 kitchen the and John went Daniel to.
+5 John the bathroom to and travelled Sandra.
+6 John is Where ?	bathroom	5
+7 hallway back to and Sandra the went John.
+8 Sandra went to and bathroom the Daniel.
+9 Where  is Sandra?	bathroom	8
+10 John Mary and bathroom moved the to.
+11 went Daniel the back to John kitchen and.
+12  Where is Mary?	bathroom	10
+13 the travelled garden Daniel to and John.
+14 the Sandra John to hallway and journeyed.
+15 Sandra  Where is?	hallway	14
+1 and the to journeyed garden Sandra John.
+2 and to John the Mary kitchen travelled.
+3 is Where  John?	kitchen	2
+4 and to the Daniel hallway went John back.
+5 travelled to and the garden Mary John.
+6 is John Where ?	garden	5
+7 to the back Sandra bedroom and went Daniel.
+8 John to the hallway Mary back and went.
+9  is Where John?	hallway	8
+10 Daniel the John went bathroom and to.
+11 to garden and went the back Daniel John.
+12 John Where  is?	garden	11
+13 John bedroom Mary to the went back and.
+14 office to went back Daniel Sandra the and.
+15 Mary is  Where?	bedroom	13
+1 Mary went and John to kitchen the back.
+2 Sandra the to travelled Mary office and.
+3 Where  Sandra is?	office	2
+4 and went the bathroom to Daniel John.
+5 to travelled the and bedroom Mary John.
+6  is Where Daniel?	bathroom	4
+7 Daniel John the went kitchen to and.
+8 the John journeyed to Daniel and garden.
+9 is  Daniel Where?	garden	8
+10 Mary back John and the went hallway to.
+11 to Sandra and back went kitchen the John.
+12 Where  John is?	kitchen	11
+13 to John hallway and Daniel went the.
+14 Mary to and bathroom John the journeyed.
+15 Where  John is?	bathroom	14
+1 Daniel and Mary to office the went.
+2 to travelled Daniel and garden the Mary.
+3 Mary  Where is?	garden	2
+4 and Daniel journeyed to hallway the Sandra.
+5 the John bathroom went to Daniel and.
+6  Where is Sandra?	hallway	4
+7 to Daniel journeyed the and Mary hallway.
+8 the John to garden went Daniel and back.
+9 Where is John ?	garden	8
+10 to John the kitchen and journeyed Sandra.
+11 garden travelled and Mary the Sandra to.
+12 John  Where is?	kitchen	10
+13 travelled Daniel and to Mary kitchen the.
+14 office the John Daniel and journeyed to.
+15 is  Where Daniel?	office	14
+1 and Sandra the Daniel moved bedroom to.
+2 Mary to and went Sandra garden the.
+3 Mary Where  is?	garden	2
+4 garden and to went the Daniel back John.
+5 the bathroom Mary journeyed to and Sandra.
+6 is Where Mary ?	bathroom	5
+7 Mary went Sandra to the and garden.
+8 the to John hallway Mary travelled and.
+9 Mary is  Where?	hallway	8
+10 hallway the went and to Daniel Sandra.
+11 and John Daniel to bedroom went the.
+12 Where Daniel is ?	bedroom	11
+13 to the and Mary Sandra bathroom journeyed.
+14 Daniel kitchen the John moved and to.
+15 Where Daniel is ?	kitchen	14
+1 Sandra and journeyed Daniel garden to the.
+2 bedroom John travelled and to the Sandra.
+3  is Sandra Where?	bedroom	2
+4 bathroom John to moved the Sandra and.
+5 to Mary the went kitchen back Daniel and.
+6 Where  is John?	bathroom	4
+7 and Mary moved Daniel the to hallway.
+8 the Mary to and John garden travelled.
+9 Where  is Mary?	garden	8
+10 to went Mary Daniel and kitchen the.
+11 the Mary bathroom Daniel to travelled and.
+12 Where  Mary is?	bathroom	11
+13 bedroom Mary travelled the and Sandra to.
+14 to the and Daniel Mary kitchen journeyed.
+15 Daniel Where  is?	kitchen	14
+1 the to and John travelled Mary office.
+2 Sandra to hallway journeyed and the Mary.
+3 Where Mary is ?	hallway	2
+4 Daniel and Mary the moved office to.
+5 the garden to Mary went and back Sandra.
+6 is Where Sandra ?	garden	5
+7 to John the moved Daniel and bathroom.
+8 to and Sandra office moved Mary the.
+9 Mary  is Where?	office	8
+10 to and Mary John the garden travelled.
+11 Daniel went Mary to the and back bedroom.
+12  Where is Daniel?	bedroom	11
+13 journeyed Sandra the to garden and Daniel.
+14 Daniel to and went bathroom John the.
+15 Where Daniel is ?	bathroom	14
+1 Mary to Daniel back garden the went and.
+2 to and back went the kitchen Sandra Mary.
+3  is Daniel Where?	garden	1
+4 hallway Mary the to John journeyed and.
+5 the Mary to Daniel travelled kitchen and.
+6  Where John is?	hallway	4
+7 bathroom to and John Mary journeyed the.
+8 the bedroom Mary to John and travelled.
+9 is  Where Mary?	bedroom	8
+10 to Sandra the and went John hallway.
+11 moved and John the Mary to bathroom.
+12 Where John is ?	bathroom	11
+13 back John Daniel and the to went bedroom.
+14 Mary the Daniel to journeyed kitchen and.
+15 Daniel  Where is?	kitchen	14
+1 Mary and the hallway travelled Daniel to.
+2 the and moved John to Sandra kitchen.
+3 is Where Mary ?	hallway	1
+4 John moved and bedroom Mary to the.
+5 garden to Daniel journeyed Sandra and the.
+6  Daniel is Where?	garden	5
+7 to moved Daniel and the hallway Sandra.
+8 to Mary the office and Sandra travelled.
+9 Mary  Where is?	office	8
+10 the to journeyed Sandra and John hallway.
+11 to bathroom Daniel went and the Mary.
+12  Daniel is Where?	bathroom	11
+13 garden the and to went Sandra John.
+14 to Daniel office the travelled John and.
+15  Where Daniel is?	office	14
+1 bathroom the travelled to and John Mary.
+2 and to travelled garden the Daniel Sandra.
+3  Where Mary is?	bathroom	1
+4 Sandra to moved the John and kitchen.
+5 to bedroom and moved the John Sandra.
+6 is  Sandra Where?	bedroom	5
+7 the back Mary bedroom to went Daniel and.
+8 Daniel to back and kitchen went the Sandra.
+9  Where Daniel is?	kitchen	8
+10 and moved to the hallway Daniel John.
+11 to back the office and went Mary Sandra.
+12 is  Sandra Where?	office	11
+13 the and Sandra bedroom to Daniel went.
+14 the Mary kitchen and to Sandra back went.
+15  is Daniel Where?	bedroom	13
+1 and Daniel hallway the Mary to back went.
+2 and Sandra to bedroom Daniel the journeyed.
+3 Daniel  Where is?	bedroom	2
+4 Daniel and travelled to the Sandra garden.
+5 kitchen to the Daniel back John went and.
+6 is Daniel  Where?	kitchen	5
+7 the bedroom went and back Mary to Daniel.
+8 the and hallway Daniel went to Sandra.
+9 Sandra is Where ?	hallway	8
+10 to Mary Sandra kitchen moved the and.
+11 office and Daniel to Mary the travelled.
+12  is Mary Where?	office	11
+13 Sandra journeyed the and John to hallway.
+14 the John bathroom to and Daniel moved.
+15 is  Where Daniel?	bathroom	14
+1 Mary office Daniel moved to and the.
+2 to the Daniel and hallway back Sandra went.
+3 Where Daniel  is?	hallway	2
+4 office the John Daniel travelled and to.
+5 John the journeyed to Sandra and bedroom.
+6 is  Where Sandra?	bedroom	5
+7 to went garden John and back the Mary.
+8 Mary bathroom and to the went Sandra back.
+9 Where is  Mary?	bathroom	8
+10 Sandra Daniel journeyed garden and the to.
+11 to John Mary the went bedroom and.
+12 Where is Sandra ?	garden	10
+13 hallway the journeyed Sandra to Mary and.
+14 and travelled to John bathroom Sandra the.
+15 is Mary  Where?	hallway	13
+1 John bedroom and to went the back Sandra.
+2 and the bathroom to Sandra back went John.
+3 John is  Where?	bathroom	2
+4 John Sandra the and to kitchen moved.
+5 Daniel back went and to Mary office the.
+6 Where Sandra is ?	kitchen	4
+7 Daniel and went kitchen Mary the back to.
+8 Mary hallway John the to moved and.
+9 John Where is ?	hallway	8
+10 the to Daniel office and Mary journeyed.
+11 to Sandra Daniel bathroom and the moved.
+12 is Daniel  Where?	bathroom	11
+13 the to journeyed and Mary kitchen John.
+14 the travelled John Daniel to hallway and.
+15  is Sandra Where?	bathroom	11
+1 moved and to Mary office the John.
+2 John journeyed bedroom the Daniel to and.
+3  Where is Daniel?	bedroom	2
+4 and to moved Sandra the hallway John.
+5 John Mary journeyed the bathroom and to.
+6  is Where Daniel?	bedroom	2
+7 went garden and Mary to John the back.
+8 Sandra the journeyed and Mary bathroom to.
+9 Where is  John?	garden	7
+10 Sandra Mary the went hallway and to.
+11 John the and Mary bedroom went to.
+12  is Mary Where?	bedroom	11
+13 office Daniel and the went John to.
+14 to kitchen Sandra the and John moved.
+15 Where is Sandra ?	kitchen	14
+1 bathroom the John and back Daniel to went.
+2 office to Mary the Sandra and went.
+3 Sandra  is Where?	office	2
+4 garden Sandra the Daniel to went and.
+5 Daniel went Sandra bedroom to the and.
+6 is Daniel  Where?	bedroom	5
+7 Daniel kitchen to journeyed and John the.
+8 Sandra went back to and bathroom Mary the.
+9 Where is  Sandra?	bathroom	8
+10 Daniel and to office Sandra the journeyed.
+11 garden went the and Daniel Mary to back.
+12 is Where Sandra ?	office	10
+13 to the Mary John bedroom and moved.
+14 bathroom went Mary back Daniel and to the.
+15 is  Where Daniel?	bathroom	14
+1 to John and the Sandra bathroom journeyed.
+2 to and Daniel went back bathroom the Mary.
+3 Where Daniel  is?	bathroom	2
+4 and travelled to the garden Sandra John.
+5 to Daniel and the John hallway journeyed.
+6 Where  is Sandra?	garden	4
+7 went and Daniel back the to bedroom Sandra.
+8 went Mary office to Sandra the and.
+9 Where is Sandra ?	office	8
+10 to Mary moved hallway Daniel and the.
+11 bathroom Daniel went back to John the and.
+12 Where  Daniel is?	bathroom	11
+13 bedroom the John and Mary went to.
+14 moved to Sandra hallway Daniel and the.
+15 Where John  is?	bedroom	13
+1 journeyed the and bathroom to Daniel Mary.
+2 garden journeyed to and Daniel Sandra the.
+3  is Sandra Where?	garden	2
+4 the to bedroom back and John Sandra went.
+5 Sandra the went Mary back and kitchen to.
+6 John  Where is?	bedroom	4
+7 to the bathroom travelled Mary Daniel and.
+8 to journeyed and hallway Sandra Daniel the.
+9 Where is  Mary?	bathroom	7
+10 and went office back the Mary Sandra to.
+11 Mary travelled John the garden and to.
+12 Where  is Daniel?	hallway	8
+13 John journeyed Mary the hallway to and.
+14 to travelled bedroom the Daniel and Sandra.
+15  Mary Where is?	hallway	13
+1 to Mary the moved Sandra bedroom and.
+2 and the John Mary kitchen to back went.
+3  Where Mary is?	kitchen	2
+4 John to travelled Sandra and the hallway.
+5 Sandra moved bedroom to and Mary the.
+6 is Where Mary ?	bedroom	5
+7 bathroom back and the to Sandra went Daniel.
+8 travelled the kitchen Mary and to John.
+9 is Where  Sandra?	bathroom	7
+10 Sandra hallway Mary the to travelled and.
+11 to Sandra Mary kitchen and the travelled.
+12  Where is Mary?	kitchen	11
+13 hallway and Sandra to the went John.
+14 garden moved to Sandra and Daniel the.
+15 is Where  Sandra?	garden	14
+1 kitchen Sandra and the went John back to.
+2 Sandra the office to back and John went.
+3 Where John is ?	office	2
+4 Mary to Sandra and kitchen went the.
+5 and John moved the to bathroom Mary.
+6 Where is Mary ?	bathroom	5
+7 moved Mary kitchen and Daniel the to.
+8 the John office journeyed Daniel and to.
+9 Daniel Where is ?	office	8
+10 to Mary Sandra and went the bedroom.
+11 and to the kitchen John journeyed Sandra.
+12  Daniel Where is?	office	8
+13 and to garden Mary John journeyed the.
+14 hallway the to John and Daniel travelled.
+15  John Where is?	hallway	14
+1 kitchen and back Sandra to went Daniel the.
+2 and the Sandra bedroom Daniel journeyed to.
+3  Where Daniel is?	bedroom	2
+4 went John the kitchen Daniel and to.
+5 moved bathroom to the and John Sandra.
+6 is Daniel  Where?	kitchen	4
+7 garden John to and the journeyed Mary.
+8 to bathroom John back the Daniel and went.
+9 is Where  John?	bathroom	8
+10 and moved Mary to bedroom the John.
+11 and went to John office the Mary.
+12 Where John  is?	office	11
+13 Daniel hallway journeyed the and to Mary.
+14 to went and back the kitchen Mary John.
+15  Daniel is Where?	hallway	13
+1 to bathroom John the went Sandra and.
+2 back office the and John went Mary to.
+3 Where John  is?	office	2
+4 went and bedroom the John to Sandra back.
+5 Daniel to Sandra office travelled the and.
+6 is Where  Sandra?	office	5
+7 Mary and Sandra to garden the went.
+8 kitchen and Daniel Mary the to moved.
+9 is Sandra  Where?	garden	7
+10 to bathroom and went Sandra Mary the.
+11 Daniel to journeyed hallway and Mary the.
+12  is Sandra Where?	bathroom	10
+13 and kitchen back the went Mary John to.
+14 to went the Sandra Daniel bedroom back and.
+15  is Sandra Where?	bedroom	14
+1 John back garden the and Sandra to went.
+2 Mary the office to and moved Sandra.
+3 Where Sandra is ?	office	2
+4 and Mary bedroom to the Daniel moved.
+5 hallway travelled Sandra and the to Daniel.
+6 Daniel  is Where?	hallway	5
+7 bedroom the journeyed and to Daniel Sandra.
+8 and hallway to John the Sandra journeyed.
+9 is Sandra  Where?	hallway	8
+10 and office back to John the Sandra went.
+11 moved Sandra the and hallway to Daniel.
+12 Sandra Where is ?	hallway	11
+13 went the bedroom to John and Daniel.
+14 office Mary the journeyed to and Sandra.
+15 Daniel is Where ?	bedroom	13
+1 hallway the journeyed to and Daniel Sandra.
+2 to John office the Daniel travelled and.
+3 John  Where is?	office	2
+4 the bathroom Daniel and Sandra to journeyed.
+5 went Sandra back to kitchen Daniel and the.
+6 Sandra  is Where?	kitchen	5
+7 Daniel John hallway to went the and.
+8 kitchen and Mary the went to John.
+9  Daniel Where is?	hallway	7
+10 the Sandra garden and back Daniel went to.
+11 and Sandra bedroom to the travelled Mary.
+12 Mary  Where is?	bedroom	11
+13 to went John Mary hallway the and back.
+14 Sandra moved and to the office Mary.
+15  Sandra is Where?	office	14
+1 office travelled and John to Sandra the.
+2 and back to the Mary bedroom went John.
+3 is John Where ?	bedroom	2
+4 Mary journeyed hallway Daniel the and to.
+5 to garden journeyed Sandra Mary and the.
+6 Daniel is Where ?	hallway	4
+7 and the John hallway went Mary to.
+8 John office went Sandra and the to.
+9  Where Mary is?	hallway	7
+10 and John to the Daniel travelled garden.
+11 to the hallway travelled Daniel and Sandra.
+12 John  is Where?	garden	10
+13 moved the Daniel Mary and to office.
+14 to back and the Sandra garden went Mary.
+15 Where is Mary ?	garden	14
+1 Daniel and the kitchen travelled to Mary.
+2 the journeyed hallway and Sandra Mary to.
+3  is Where Mary?	hallway	2
+4 went John and the to office Sandra.
+5 Daniel to moved Sandra the bedroom and.
+6  John Where is?	office	4
+7 moved Sandra Daniel garden to the and.
+8 hallway travelled to the and Sandra Daniel.
+9 Where Daniel is ?	hallway	8
+10 to the Mary John bathroom and travelled.
+11 to the Mary Sandra and kitchen journeyed.
+12  Where John is?	bathroom	10
+13 John the and to kitchen Daniel went.
+14 Mary to bathroom and went Daniel the.
+15 Where is  Sandra?	kitchen	11
+1 John and Sandra kitchen to the journeyed.
+2 John the office Mary moved to and.
+3 John  Where is?	office	2
+4 to kitchen the and back Daniel Mary went.
+5 and Mary the went garden John to.
+6 Where is John ?	garden	5
+7 office went back the Daniel to and Sandra.
+8 hallway to Daniel and Mary travelled the.
+9 is Daniel Where ?	hallway	8
+10 office Daniel and the John to journeyed.
+11 and bedroom Daniel journeyed the John to.
+12  Daniel Where is?	bedroom	11
+13 moved the and to Sandra Daniel kitchen.
+14 Daniel to went and the John hallway.
+15 Where  Sandra is?	kitchen	13
+1 Daniel to moved hallway John and the.
+2 garden John to journeyed the and Mary.
+3  Mary is Where?	garden	2
+4 Daniel to Sandra went the and back kitchen.
+5 the Mary went bedroom and Daniel to.
+6  Daniel Where is?	bedroom	5
+7 went back to bathroom the and Daniel Sandra.
+8 Mary kitchen the went Daniel back to and.
+9 Where  is Daniel?	kitchen	8
+10 Mary and moved John to the office.
+11 bathroom to the moved Mary Daniel and.
+12  Where is Daniel?	bathroom	11
+13 and hallway Daniel to went the Sandra.
+14 the Mary and John to travelled kitchen.
+15 John  Where is?	kitchen	14
+1 the to garden Sandra Mary and went.
+2 Mary Daniel travelled bathroom to the and.
+3  is Mary Where?	bathroom	2
+4 Daniel John back the office to and went.
+5 Mary kitchen to the moved John and.
+6 Where is  John?	kitchen	5
+7 went to back Daniel the and bathroom Mary.
+8 and Daniel the went garden back Mary to.
+9 Where is Mary ?	garden	8
+10 Daniel and went John back bathroom to the.
+11 to Sandra kitchen the and travelled Daniel.
+12 John  is Where?	bathroom	10
+13 bedroom John to and went the Daniel.
+14 and to bathroom the Mary Daniel travelled.
+15 Daniel Where is ?	bathroom	14
+1 to Daniel and the Mary bedroom journeyed.
+2 Daniel journeyed to the bathroom and Sandra.
+3 Mary is Where ?	bedroom	1
+4 garden to Sandra Daniel and the moved.
+5 the to went and Daniel hallway Sandra.
+6  Where Sandra is?	hallway	5
+7 bathroom the went Daniel Sandra and to.
+8 to went John hallway the and Daniel.
+9 is Daniel Where ?	hallway	8
+10 and Daniel moved Sandra the to garden.
+11 office back went the John to and Daniel.
+12 is Daniel  Where?	office	11
+13 Mary and to the moved John hallway.
+14 and Sandra went to the Daniel bedroom.
+15  is Daniel Where?	bedroom	14
+1 Mary to the and travelled garden John.
+2 the Daniel and journeyed John kitchen to.
+3  Mary is Where?	garden	1
+4 went the hallway to Sandra Daniel back and.
+5 Daniel moved and to the garden Sandra.
+6 Where  Sandra is?	garden	5
+7 to office back and John the Mary went.
+8 went to the Daniel and bathroom Mary.
+9 Mary Where is ?	bathroom	8
+10 the and bedroom Sandra travelled John to.
+11 John went the to kitchen Daniel and.
+12 John is Where ?	kitchen	11
+13 the John to Daniel bathroom journeyed and.
+14 the kitchen and Mary moved Sandra to.
+15 Where is  Mary?	kitchen	14
+1 the bedroom John to and back went Daniel.
+2 Mary went the Sandra office and to back.
+3 Where is John ?	bedroom	1
+4 the Daniel Sandra hallway and went to.
+5 journeyed John to and the hallway Mary.
+6 is  John Where?	hallway	5
+7 went Mary garden the to John and.
+8 to Daniel travelled Sandra the and garden.
+9 Daniel Where  is?	garden	8
+10 the went to hallway Daniel and Mary.
+11 the to bedroom went Sandra back John and.
+12 Daniel Where  is?	hallway	10
+13 the and Sandra bathroom to moved Daniel.
+14 Daniel Sandra the office and moved to.
+15  Sandra Where is?	office	14
+1 to John the and moved Mary kitchen.
+2 the went John to and Sandra hallway.
+3 John  Where is?	hallway	2
+4 John bedroom and Mary went to the.
+5 to garden the John travelled Sandra and.
+6 Where is  John?	garden	5
+7 back to John Sandra and went the kitchen.
+8 hallway Daniel the John and moved to.
+9 is Where John ?	hallway	8
+10 John and moved to kitchen the Daniel.
+11 Daniel office the and John to moved.
+12 John Where  is?	office	11
+13 to travelled bathroom the and Mary Sandra.
+14 Sandra the went to kitchen and Mary.
+15 is  Mary Where?	kitchen	14
+1 the John and Mary to kitchen travelled.
+2 Mary John the office and to went.
+3 Where is Mary ?	office	2
+4 Daniel kitchen went and to Mary the back.
+5 to journeyed Mary and Sandra office the.
+6 is Where  Mary?	office	5
+7 bathroom and Sandra the to travelled John.
+8 Mary the to bedroom John and went.
+9  Mary is Where?	bedroom	8
+10 Daniel back went the and Mary to office.
+11 to the hallway John journeyed and Sandra.
+12 Where Mary  is?	office	10
+13 to the John Sandra and kitchen moved.
+14 to and the Sandra garden moved Mary.
+15 Where Sandra  is?	garden	14
+1 the John Mary hallway journeyed to and.
+2 the went and John office to back Daniel.
+3 John Where is ?	office	2
+4 and John to the hallway moved Sandra.
+5 Mary went garden Sandra to and the.
+6 Where  is John?	hallway	4
+7 back Mary and the to hallway Sandra went.
+8 Mary to the bedroom Daniel went and.
+9  is Mary Where?	bedroom	8
+10 Mary John went to and the kitchen.
+11 to hallway and the Mary Daniel journeyed.
+12 Where John  is?	kitchen	10
+13 Daniel travelled kitchen to Sandra and the.
+14 the to back bathroom went Mary and Sandra.
+15  Sandra Where is?	bathroom	14
+1 and bathroom Daniel went to the Sandra.
+2 went the Sandra and bedroom back Mary to.
+3  Sandra Where is?	bedroom	2
+4 the and journeyed bathroom Sandra to John.
+5 travelled to kitchen Mary and the Daniel.
+6 is  Sandra Where?	bathroom	4
+7 Daniel and to journeyed Mary the bathroom.
+8 went and back the to garden Daniel Sandra.
+9  Where is Daniel?	garden	8
+10 to kitchen Mary the and Daniel journeyed.
+11 to John and travelled the Mary garden.
+12 Where Daniel  is?	kitchen	10
+13 office Daniel John the and moved to.
+14 and the to John went Daniel bathroom.
+15 is  Where John?	bathroom	14
+1 the moved and John office Mary to.
+2 and went John bedroom to Mary the.
+3 is Where John ?	bedroom	2
+4 to office and Daniel journeyed the Sandra.
+5 went bathroom and back to Mary the John.
+6 Where  is John?	bathroom	5
+7 and John hallway to travelled the Sandra.
+8 the to back Daniel Mary and hallway went.
+9 Where is  Daniel?	hallway	8
+10 and journeyed garden to Mary John the.
+11 and the journeyed to office John Mary.
+12 is Where  Mary?	office	11
+13 bedroom Daniel went the John and to.
+14 went the bathroom to Daniel and Sandra.
+15  Daniel is Where?	bathroom	14
+1 the Mary and to kitchen Daniel journeyed.
+2 the Mary to office and journeyed Daniel.
+3  Mary is Where?	office	2
+4 bathroom went Mary the to Sandra and.
+5 to and hallway the Mary moved Sandra.
+6 is Where  Mary?	hallway	5
+7 garden to Sandra Daniel journeyed and the.
+8 the and kitchen John went Daniel to.
+9 Daniel is Where ?	kitchen	8
+10 to Sandra the journeyed and John bedroom.
+11 kitchen to the and journeyed Sandra Mary.
+12  is Where Mary?	kitchen	11
+13 moved Sandra to and garden Daniel the.
+14 the John journeyed Sandra office to and.
+15 is Sandra Where ?	office	14
+1 to Sandra journeyed the hallway Mary and.
+2 Mary office travelled and to the Sandra.
+3 is Where Mary ?	office	2
+4 the bedroom back went to Daniel John and.
+5 and travelled John the garden to Daniel.
+6  is Where John?	garden	5
+7 back to Daniel and the went bathroom Sandra.
+8 journeyed the office Daniel and Sandra to.
+9 is John  Where?	garden	5
+10 and Mary Daniel to bathroom went the.
+11 travelled bedroom to Mary and the John.
+12 is  Mary Where?	bedroom	11
+13 to Mary and Sandra the kitchen went.
+14 Mary John and to office went the.
+15 John is Where ?	office	14
+1 Mary travelled and the John to kitchen.
+2 Daniel journeyed the Mary to office and.
+3  John Where is?	kitchen	1
+4 went Daniel Sandra to the back and kitchen.
+5 the John Mary garden and travelled to.
+6 is  Where Daniel?	kitchen	4
+7 went John the and to hallway Mary.
+8 to and travelled bathroom Mary Daniel the.
+9 Where  Daniel is?	bathroom	8
+10 Sandra and to travelled office the Mary.
+11 and Sandra the to hallway Mary journeyed.
+12 is Where  Sandra?	hallway	11
+13 back office went to Sandra and the Mary.
+14 back and the Daniel Mary kitchen went to.
+15 Mary Where is ?	kitchen	14
+1 the Mary Sandra office and to moved.
+2 moved Daniel John and to the kitchen.
+3 John Where is ?	kitchen	2
+4 hallway went to and Mary Sandra the back.
+5 to the Mary Sandra and office journeyed.
+6 is Where Sandra ?	office	5
+7 and John back the office to went Daniel.
+8 Daniel Mary moved the and hallway to.
+9 Where is  Daniel?	hallway	8
+10 Sandra bathroom the and to went John.
+11 and Sandra hallway travelled the John to.
+12 John Where  is?	hallway	11
+13 and Daniel to the bathroom John journeyed.
+14 the and Daniel office Sandra went back to.
+15 is John  Where?	bathroom	13
+1 Daniel the Sandra to moved garden and.
+2 the went office Sandra to and Daniel.
+3 is  Sandra Where?	office	2
+4 went Mary and to kitchen Sandra the.
+5 moved the and garden to Daniel Mary.
+6 Sandra is  Where?	kitchen	4
+7 Mary kitchen went and the to Daniel.
+8 Sandra Mary and journeyed to bathroom the.
+9  Mary is Where?	bathroom	8
+10 went the Daniel and to back bedroom John.
+11 travelled to the garden Daniel and John.
+12 is Where  Sandra?	bathroom	8
+13 and John to the went Mary hallway.
+14 went Daniel the to Sandra kitchen and.
+15  is Where Daniel?	kitchen	14
+1 the and hallway Sandra Daniel to moved.
+2 journeyed the John garden and to Mary.
+3  Where is John?	garden	2
+4 travelled the Mary and to Sandra bedroom.
+5 and to Mary travelled office the Sandra.
+6  is Mary Where?	office	5
+7 to travelled and bathroom Mary Daniel the.
+8 went the Sandra Mary to bedroom and.
+9 is Mary Where ?	bedroom	8
+10 and Sandra went the garden Mary to.
+11 office to Sandra Daniel and went the.
+12 Where  is Daniel?	office	11
+13 travelled Daniel and the Sandra bathroom to.
+14 office John to the Mary and back went.
+15 John Where is ?	office	14
+1 office and to the John journeyed Mary.
+2 kitchen and journeyed Sandra the to John.
+3 is Where Sandra ?	kitchen	2
+4 hallway back John Mary the went and to.
+5 went Mary to and the garden back Daniel.
+6  Daniel Where is?	garden	5
+7 hallway to travelled Mary Sandra and the.
+8 to the Mary and journeyed Daniel kitchen.
+9 Where  Mary is?	kitchen	8
+10 and journeyed to bedroom Sandra the Mary.
+11 the to Sandra and office went John.
+12 Sandra is Where ?	office	11
+13 the to Mary Daniel went and office.
+14 garden John moved the Daniel and to.
+15 Where is John ?	garden	14
+1 Sandra office the moved to Daniel and.
+2 went garden Sandra John and the back to.
+3 Where Sandra is ?	garden	2
+4 Sandra journeyed to Mary the bathroom and.
+5 the to Daniel and bathroom John went.
+6 is Where  Sandra?	bathroom	4
+7 and bedroom Daniel journeyed the to Mary.
+8 and travelled Sandra the bedroom John to.
+9 is  Mary Where?	bedroom	7
+10 Mary travelled garden the Sandra to and.
+11 office the Sandra to and travelled John.
+12 is John  Where?	office	11
+13 Daniel went to back the and Mary kitchen.
+14 went back Sandra to the Mary hallway and.
+15 Where is Mary ?	hallway	14
+1 back the to and John went office Sandra.
+2 travelled the Mary and bedroom to John.
+3  John is Where?	bedroom	2
+4 Daniel to journeyed the garden and John.
+5 Mary the to bathroom travelled and John.
+6 Daniel is  Where?	garden	4
+7 the went and Sandra back bathroom to Daniel.
+8 the kitchen to and Daniel back went Mary.
+9 Daniel is Where ?	kitchen	8
+10 to Mary journeyed and bedroom the Daniel.
+11 Daniel to the and journeyed Sandra office.
+12  Mary is Where?	bedroom	10
+13 to went John back Sandra hallway the and.
+14 Daniel hallway and to went the Mary.
+15 is  Daniel Where?	hallway	14
+1 travelled bedroom the John and Mary to.
+2 Daniel back the went office and John to.
+3 John  is Where?	office	2
+4 and Sandra John hallway the to journeyed.
+5 to John journeyed the kitchen Mary and.
+6 Where  is John?	kitchen	5
+7 garden to Sandra travelled Daniel the and.
+8 the to John Daniel journeyed and hallway.
+9 Where is  John?	hallway	8
+10 bathroom Mary and Daniel the to journeyed.
+11 went and Mary garden to Daniel the.
+12 Where Daniel  is?	garden	11
+13 journeyed the Sandra and to bedroom Daniel.
+14 Sandra Mary and the went kitchen back to.
+15 Sandra is  Where?	kitchen	14
+1 bathroom Mary journeyed the John to and.
+2 Daniel garden and moved John the to.
+3  is Where Mary?	bathroom	1
+4 back and went to hallway Daniel the John.
+5 the back went office Daniel to and Sandra.
+6 is Where John ?	hallway	4
+7 bedroom to and John the Daniel journeyed.
+8 to kitchen Daniel travelled and the Mary.
+9 Mary Where is ?	kitchen	8
+10 to journeyed the and bathroom Daniel John.
+11 Mary Sandra moved the to garden and.
+12 is Daniel Where ?	bathroom	10
+13 the bedroom went Sandra to Daniel and.
+14 to the John and office went Daniel.
+15  is Where Sandra?	bedroom	13
+1 Sandra garden went the to Mary back and.
+2 went Mary the back and office Sandra to.
+3 Where Sandra is ?	office	2
+4 Sandra went back and John to the bathroom.
+5 went John the Mary to and garden.
+6 is Mary Where ?	garden	5
+7 and the Sandra to went Daniel office.
+8 Daniel John travelled the bathroom to and.
+9  Where is Sandra?	office	7
+10 the hallway John went and to Daniel.
+11 bathroom Mary and went the Sandra to.
+12 is  Daniel Where?	hallway	10
+13 moved the John Sandra and kitchen to.
+14 the and moved Sandra garden Mary to.
+15 Where  is Mary?	garden	14
+1 back and Sandra office to went John the.
+2 the back and to went hallway Daniel John.
+3 Where  is John?	hallway	2
+4 garden to and the moved John Daniel.
+5 to Daniel moved and bedroom Mary the.
+6 is  Where John?	garden	4
+7 office the to John Mary and went.
+8 the Sandra and bedroom went to Mary.
+9 is  John Where?	office	7
+10 to and John Sandra moved hallway the.
+11 kitchen to and moved Mary the Sandra.
+12 Where  Sandra is?	kitchen	11
+13 moved Sandra and to Mary the garden.
+14 and back Mary to kitchen John the went.
+15  Mary is Where?	kitchen	14
+1 and office back Sandra to went the John.
+2 kitchen to moved Mary and the John.
+3 Where  is John?	kitchen	2
+4 moved and John to Mary office the.
+5 and Sandra the kitchen to went Daniel.
+6 Mary  Where is?	office	4
+7 travelled office Sandra to and the Daniel.
+8 to the Mary moved hallway and John.
+9 Sandra is  Where?	office	7
+10 garden and to moved Mary the Sandra.
+11 Daniel back and Sandra to went the bathroom.
+12 is  Mary Where?	garden	10
+13 and office the went Mary John to.
+14 bedroom and Sandra the to journeyed Mary.
+15 is  Mary Where?	bedroom	14
+1 went the John and garden Mary to.
+2 Mary the back bedroom Sandra to went and.
+3  Where is John?	garden	1
+4 Sandra moved and kitchen to the John.
+5 the to went garden John and Sandra.
+6 Sandra is Where ?	garden	5
+7 moved office John to and the Sandra.
+8 to Mary Daniel hallway the travelled and.
+9 John is Where ?	office	7
+10 travelled John and to Sandra the bedroom.
+11 Sandra travelled kitchen Daniel the to and.
+12 is Sandra Where ?	kitchen	11
+13 the John journeyed and Mary office to.
+14 Sandra John to and bedroom journeyed the.
+15 is Where John ?	bedroom	14
+1 to Daniel the and travelled garden Sandra.
+2 went back and Daniel bathroom to Sandra the.
+3 is Sandra Where ?	bathroom	2
+4 to the Mary John garden moved and.
+5 and to Sandra the Daniel went bedroom.
+6 is Daniel  Where?	bedroom	5
+7 to Daniel kitchen the and Sandra moved.
+8 bathroom journeyed Mary to the and Sandra.
+9 is Where  Mary?	bathroom	8
+10 journeyed the and kitchen Sandra John to.
+11 and the went back John office Sandra to.
+12 is Mary Where ?	bathroom	8
+13 travelled Mary Daniel the bedroom to and.
+14 the to travelled and Daniel John garden.
+15 Where Daniel is ?	garden	14
+1 hallway John and journeyed the to Sandra.
+2 and the John Mary garden journeyed to.
+3 is Where  Sandra?	hallway	1
+4 the to Mary Sandra and bedroom went.
+5 went back kitchen the to Sandra and John.
+6 Mary Where  is?	bedroom	4
+7 moved the bathroom and John Daniel to.
+8 Mary to and the hallway journeyed John.
+9 Daniel is Where ?	bathroom	7
+10 travelled to kitchen the John and Mary.
+11 the moved office Sandra to and Daniel.
+12 is Sandra  Where?	office	11
+13 and Sandra went the bathroom John to.
+14 to Sandra the John bedroom and moved.
+15 Where Sandra  is?	bedroom	14
+1 journeyed to garden and the Mary Sandra.
+2 Mary to went hallway the and Daniel.
+3 Sandra  is Where?	garden	1
+4 bathroom John the travelled Daniel and to.
+5 the and to Mary Sandra journeyed office.
+6  is Where Daniel?	bathroom	4
+7 Sandra moved the and to garden John.
+8 Mary to and travelled the garden Daniel.
+9 Mary  is Where?	garden	8
+10 to moved Daniel the office and John.
+11 to journeyed hallway and the Mary Daniel.
+12 Where  Mary is?	hallway	11
+13 to Daniel journeyed and bathroom the John.
+14 and journeyed to Sandra kitchen Daniel the.
+15 is Where Mary ?	hallway	11
+1 moved office Mary to and the John.
+2 John and Mary to journeyed garden the.
+3 is Mary Where ?	garden	2
+4 Mary and to kitchen the Daniel journeyed.
+5 Mary Daniel travelled and the to hallway.
+6 is Where John ?	garden	2
+7 the Mary to kitchen went and Sandra.
+8 and bathroom to back Mary the Daniel went.
+9 Mary Where  is?	bathroom	8
+10 Daniel kitchen travelled and the to Mary.
+11 Daniel and went bedroom to John the.
+12 is  Where Daniel?	bedroom	11
+13 and office Mary back to went the Sandra.
+14 Mary John the kitchen journeyed to and.
+15 Where is  John?	kitchen	14
+1 and to bedroom John the went Mary.
+2 the garden moved Mary to and Sandra.
+3 Where Sandra is ?	garden	2
+4 Mary and the kitchen Daniel travelled to.
+5 went bathroom Mary Daniel back the to and.
+6  is Where Mary?	bathroom	5
+7 Mary the Daniel journeyed hallway to and.
+8 went and garden Daniel John to the.
+9  is Where Daniel?	garden	8
+10 the and Mary Sandra to travelled office.
+11 bathroom to the Mary moved and John.
+12 Sandra  Where is?	office	10
+13 Sandra hallway the to moved Daniel and.
+14 bathroom moved the and Sandra to Daniel.
+15 Where  is Sandra?	bathroom	14
+1 to the went and Sandra Mary back garden.
+2 and journeyed Sandra the hallway Mary to.
+3 is Sandra  Where?	hallway	2
+4 John office the and moved Daniel to.
+5 Daniel Sandra the moved bathroom and to.
+6 Daniel Where  is?	bathroom	5
+7 to journeyed the Sandra and hallway John.
+8 Daniel to the kitchen went and Mary.
+9  is Where Daniel?	kitchen	8
+10 journeyed to Mary the John bathroom and.
+11 John to bedroom Mary and the moved.
+12  Where is John?	bedroom	11
+13 went and garden the to John Daniel.
+14 travelled Daniel the and office Mary to.
+15 is John Where ?	garden	13
+1 Sandra journeyed John office the to and.
+2 to journeyed and the Mary Sandra hallway.
+3  Mary is Where?	hallway	2
+4 John went to bedroom back the Mary and.
+5 the moved to John garden Sandra and.
+6 Where  Sandra is?	garden	5
+7 moved to Daniel kitchen the and Mary.
+8 moved John and Mary bathroom to the.
+9  Mary Where is?	bathroom	8
+10 John went and Mary the kitchen to.
+11 and bedroom Mary to Daniel travelled the.
+12 is  Where John?	kitchen	10
+13 travelled and to the hallway Mary John.
+14 the bedroom and John Sandra travelled to.
+15  is Sandra Where?	bedroom	14
+1 went and back the to Sandra kitchen Daniel.
+2 went to hallway and the Daniel John.
+3 Where Sandra is ?	kitchen	1
+4 the and Daniel to garden journeyed Sandra.
+5 to journeyed bathroom Sandra and the John.
+6 Where Sandra is ?	bathroom	5
+7 Sandra to and hallway Daniel moved the.
+8 John and office the travelled to Sandra.
+9  John Where is?	office	8
+10 Sandra and garden moved Daniel the to.
+11 bedroom Daniel to John and the went.
+12 is Daniel  Where?	bedroom	11
+13 and the garden Mary travelled to Daniel.
+14 Mary the to Sandra and travelled hallway.
+15 Where is John ?	bedroom	11
+1 Daniel hallway Mary and moved the to.
+2 and kitchen the to moved John Sandra.
+3 Sandra Where is ?	kitchen	2
+4 Mary to the Sandra travelled office and.
+5 went and the bathroom John to Daniel.
+6 Sandra is Where ?	office	4
+7 to garden Daniel Sandra the went and back.
+8 Daniel the to went and bedroom Sandra.
+9  Where Sandra is?	bedroom	8
+10 John garden the Mary and moved to.
+11 the and Mary moved to office Sandra.
+12 Where is  Sandra?	office	11
+13 and John went Sandra bathroom to the.
+14 kitchen went back and to John the Mary.
+15 Where  Sandra is?	bathroom	13
+1 and John bathroom the travelled Mary to.
+2 to journeyed and Daniel the Sandra kitchen.
+3 John is Where ?	bathroom	1
+4 went garden and the to Mary Daniel.
+5 to the John Daniel went bedroom and.
+6  is Sandra Where?	kitchen	2
+7 John and to hallway Mary the journeyed.
+8 Sandra and to the office journeyed John.
+9 Sandra is Where ?	office	8
+10 went kitchen the John and Sandra to back.
+11 to Mary travelled the and John bathroom.
+12 Where Sandra  is?	kitchen	10
+13 and travelled Mary John to the hallway.
+14 to and Mary the Daniel office travelled.
+15 Where  Mary is?	office	14
+1 John office and Mary to the travelled.
+2 travelled and Sandra to the John garden.
+3  Where John is?	garden	2
+4 Daniel to John the moved bedroom and.
+5 bathroom and Daniel to moved the Sandra.
+6 is  Daniel Where?	bathroom	5
+7 the to moved hallway John and Sandra.
+8 to Sandra and journeyed John the garden.
+9 Where is  John?	garden	8
+10 went Mary hallway Sandra to and the.
+11 office Sandra the and to went Mary back.
+12  Where is Sandra?	office	11
+13 to travelled hallway Daniel and John the.
+14 travelled Sandra bedroom the and Mary to.
+15 Where  is Mary?	bedroom	14
+1 journeyed office to John Daniel the and.
+2 Daniel kitchen and journeyed John the to.
+3 Where John is ?	kitchen	2
+4 to and bathroom Daniel John travelled the.
+5 Mary to went the and Sandra office.
+6 is Where  Daniel?	bathroom	4
+7 to and Daniel garden the John moved.
+8 bedroom the Daniel John to went and.
+9  Daniel is Where?	bedroom	8
+10 garden and to moved the Sandra John.
+11 and Daniel back the to went John bathroom.
+12 Where is  Sandra?	garden	10
+13 and to bedroom Daniel the Sandra journeyed.
+14 went the to garden and Mary Daniel.
+15 is Sandra Where ?	bedroom	13
+1 and the bedroom Daniel to Sandra journeyed.
+2 bathroom Daniel moved and Mary the to.
+3 is  Where Sandra?	bedroom	1
+4 Sandra Daniel journeyed garden to the and.
+5 Sandra hallway the Daniel to and travelled.
+6  is Where Daniel?	hallway	5
+7 the moved to Sandra kitchen Daniel and.
+8 garden the to and Daniel journeyed Mary.
+9 Where is Daniel ?	garden	8
+10 Sandra office and Daniel to moved the.
+11 John hallway to the Mary and journeyed.
+12 Where is Daniel ?	office	10
+13 and to back the Sandra went Daniel bedroom.
+14 Sandra office to the went and Mary.
+15  Mary Where is?	office	14
+1 bathroom Daniel the went and to Sandra.
+2 Sandra to Daniel hallway the went and.
+3 is Daniel Where ?	hallway	2
+4 went to John Sandra the back and bedroom.
+5 Daniel the to kitchen and went John.
+6 Where  John is?	kitchen	5
+7 Daniel and went Sandra to office the.
+8 garden the back and to Sandra went Mary.
+9 Where Daniel is ?	office	7
+10 Sandra and Daniel to kitchen back the went.
+11 the went Daniel back Mary to office and.
+12 Sandra Where  is?	kitchen	10
+13 Mary Daniel moved the to garden and.
+14 kitchen to and the Mary Daniel travelled.
+15 Where is  Daniel?	kitchen	14
+1 the and to Mary garden moved John.
+2 Sandra hallway the and to Mary moved.
+3 Where  Mary is?	hallway	2
+4 to Sandra John travelled the and bathroom.
+5 Mary to went kitchen Sandra the and.
+6 Where  is Mary?	kitchen	5
+7 bedroom journeyed to Sandra Daniel the and.
+8 Daniel the to went and Sandra office.
+9 is  Where Mary?	kitchen	5
+10 Daniel the journeyed to and bedroom John.
+11 the Mary office went to John and.
+12 is John Where ?	office	11
+13 Sandra to went Mary garden and the.
+14 bedroom the to John and moved Sandra.
+15 is  Where Sandra?	bedroom	14
+1 Sandra and to office travelled John the.
+2 to Daniel garden journeyed John the and.
+3 John is  Where?	garden	2
+4 Daniel bathroom and to the John went.
+5 the to moved Sandra garden and John.
+6 is  Where Daniel?	bathroom	4
+7 to Sandra Mary kitchen the and went.
+8 travelled the John and Mary to office.
+9  is Where Sandra?	kitchen	7
+10 Sandra bedroom John and went to the.
+11 went and John hallway Daniel the to.
+12  is Where Daniel?	hallway	11
+13 Sandra and to travelled the Daniel kitchen.
+14 Sandra the John journeyed and to office.
+15 John  is Where?	office	14
+1 went Sandra kitchen and to the Mary.
+2 the Sandra travelled to bathroom and John.
+3 is  Sandra Where?	bathroom	2
+4 Sandra moved Mary and to office the.
+5 Daniel office the and John to travelled.
+6 Sandra is  Where?	office	4
+7 the Sandra Daniel went and to kitchen back.
+8 and Mary went John bathroom to the.
+9 is Where John ?	bathroom	8
+10 Sandra the Mary journeyed and garden to.
+11 journeyed to John office and Daniel the.
+12  John is Where?	office	11
+13 Daniel Mary bathroom back went and the to.
+14 to John and went the bedroom Mary.
+15 Where Mary  is?	bedroom	14
+1 Daniel and the to went Mary bedroom.
+2 Mary office Sandra journeyed the to and.
+3 Mary Where is ?	office	2
+4 and to John travelled Daniel kitchen the.
+5 to and garden John went the Mary.
+6  Where is Mary?	garden	5
+7 to went John back Sandra the kitchen and.
+8 the office to went John back and Sandra.
+9 is Where  Mary?	garden	5
+10 bathroom and Daniel back Sandra went the to.
+11 the and bedroom to moved Daniel Mary.
+12 Where is Daniel ?	bedroom	11
+13 Sandra to Daniel the and garden travelled.
+14 Mary Daniel the and moved to hallway.
+15 is Daniel Where ?	hallway	14
+1 to and Sandra went garden the back Daniel.
+2 the John kitchen and Mary travelled to.
+3 Daniel  Where is?	garden	1
+4 went the back to bathroom John and Sandra.
+5 to John the Sandra garden and journeyed.
+6 is Where  Sandra?	garden	5
+7 Sandra and travelled the bedroom to John.
+8 travelled office Sandra Daniel to and the.
+9 Sandra is Where ?	office	8
+10 hallway went and the Mary to Sandra.
+11 garden and to John Daniel the went.
+12 Daniel is Where ?	garden	11
+13 to went and bedroom John the Daniel.
+14 and Sandra the to went kitchen Daniel back.
+15 Where is  Daniel?	kitchen	14
+1 Sandra to hallway moved John the and.
+2 moved to Daniel and the Sandra kitchen.
+3 Where  Sandra is?	kitchen	2
+4 and bedroom travelled Sandra John the to.
+5 to office the and travelled Daniel Mary.
+6 Where  Daniel is?	office	5
+7 and to went the Mary John kitchen.
+8 bedroom the Daniel and moved to John.
+9 Daniel Where  is?	bedroom	8
+10 Mary and moved to Sandra the hallway.
+11 and Mary moved bedroom the to Sandra.
+12 Where  is Mary?	bedroom	11
+13 Sandra hallway Daniel the went and to.
+14 travelled Mary to hallway the and John.
+15  is Where Sandra?	hallway	13
+1 the to garden Daniel John moved and.
+2 Mary the went and to John kitchen.
+3  Where Daniel is?	garden	1
+4 Mary bedroom to the and travelled Daniel.
+5 went John garden the back Sandra and to.
+6  is Where John?	garden	5
+7 and hallway Sandra the journeyed to John.
+8 and Daniel Mary to journeyed bathroom the.
+9  is Where Sandra?	hallway	7
+10 and went Daniel the back kitchen John to.
+11 Sandra and to journeyed garden the John.
+12 John is  Where?	garden	11
+13 Daniel the bedroom and moved John to.
+14 to the Daniel journeyed garden and John.
+15 Daniel is Where ?	garden	14
+1 to the Mary John went bathroom and back.
+2 the John Daniel to kitchen went and.
+3 Where John  is?	kitchen	2
+4 John and to the went Sandra office.
+5 bedroom Sandra Mary and to the went.
+6 John  is Where?	office	4
+7 Mary office Daniel the and to went.
+8 bathroom went and Mary the to back John.
+9 Where is  Daniel?	office	7
+10 to and bedroom Mary Daniel journeyed the.
+11 and Daniel the journeyed Mary kitchen to.
+12 is  Mary Where?	kitchen	11
+13 Sandra moved and garden Mary the to.
+14 and Mary the back bedroom went Sandra to.
+15  is Sandra Where?	bedroom	14
+1 kitchen Mary journeyed to Daniel the and.
+2 Mary the moved hallway Daniel to and.
+3 Where Daniel is ?	hallway	2
+4 to and the John hallway moved Sandra.
+5 and Sandra office the Mary journeyed to.
+6 Where  Mary is?	office	5
+7 and Mary Sandra went the kitchen to.
+8 to John and office travelled the Mary.
+9  Mary is Where?	office	8
+10 bathroom went Sandra and the to Daniel.
+11 to the went and Daniel bedroom back John.
+12 is  Where Sandra?	bathroom	10
+13 to hallway Daniel back and Mary went the.
+14 Sandra garden the Daniel and moved to.
+15 Where  is Daniel?	garden	14
+1 to the travelled kitchen and John Mary.
+2 the to and went Daniel bedroom Sandra.
+3 is Where  Mary?	kitchen	1
+4 and Sandra the kitchen Daniel went to.
+5 bathroom Sandra and the to moved Daniel.
+6 Where is Daniel ?	bathroom	5
+7 to the and Mary office Daniel went.
+8 Daniel and to the Mary kitchen went.
+9 is Daniel  Where?	kitchen	8
+10 moved garden to and the John Mary.
+11 bedroom and travelled to Mary the John.
+12 is Where John ?	bedroom	11
+13 hallway Sandra John to and went the.
+14 back and went the bathroom Mary to Sandra.
+15 Where is Sandra ?	bathroom	14
+1 Daniel John to and bathroom the went.
+2 Daniel to the Sandra travelled bedroom and.
+3 is  Where Sandra?	bedroom	2
+4 to journeyed the Sandra and John garden.
+5 journeyed John to and the office Daniel.
+6 Where  is John?	office	5
+7 moved to and garden the John Mary.
+8 back and John the went kitchen to Mary.
+9  Daniel Where is?	office	5
+10 the travelled Mary garden John and to.
+11 bedroom journeyed and John Mary the to.
+12 is Where Mary ?	bedroom	11
+13 went Daniel the to John bathroom and.
+14 the and John to Daniel kitchen went.
+15  Where Daniel is?	kitchen	14
+1 back Mary the and to went bedroom Daniel.
+2 to journeyed John bathroom and the Daniel.
+3 Where Daniel  is?	bathroom	2
+4 the John Daniel journeyed and to bedroom.
+5 hallway Mary John and moved to the.
+6 is  Where John?	hallway	5
+7 to Sandra went the back office and Daniel.
+8 bedroom Daniel Sandra to went the and.
+9 Where Mary is ?	hallway	5
+10 Daniel Mary the and travelled to bathroom.
+11 Mary to the bedroom travelled and Daniel.
+12 Where  is Daniel?	bedroom	11
+13 John Daniel and office the to went.
+14 John journeyed Daniel and to bathroom the.
+15 Daniel is  Where?	bathroom	14
+1 the and bathroom to Daniel Sandra journeyed.
+2 to went and Sandra hallway John the.
+3 Where is  Sandra?	hallway	2
+4 moved bedroom and John the to Mary.
+5 kitchen and to the Sandra travelled Daniel.
+6 Mary Where is ?	bedroom	4
+7 bathroom Daniel Mary and the journeyed to.
+8 and travelled the John to Daniel garden.
+9 Where John  is?	garden	8
+10 Mary garden the and to Sandra went back.
+11 Mary and Daniel the bathroom to travelled.
+12 Mary  is Where?	bathroom	11
+13 garden and to the journeyed Daniel Mary.
+14 to moved Mary bedroom the Daniel and.
+15 Daniel  Where is?	bedroom	14
+1 John to the garden Mary and moved.
+2 Daniel the travelled John and hallway to.
+3 Where is Daniel ?	hallway	2
+4 Daniel bedroom and the John journeyed to.
+5 hallway Daniel to Mary and journeyed the.
+6 Where is Daniel ?	hallway	5
+7 went the bathroom and Sandra back to Mary.
+8 to went back office and Sandra John the.
+9  is Daniel Where?	hallway	5
+10 and moved Mary kitchen to the Daniel.
+11 John and Mary the to garden travelled.
+12 Mary  Where is?	garden	11
+13 and the to Mary John hallway went.
+14 back Sandra the went and bathroom Daniel to.
+15 John Where is ?	hallway	13
+1 the to John moved Daniel bathroom and.
+2 Mary the John went and to kitchen.
+3 Where  is John?	kitchen	2
+4 to the and journeyed hallway Mary John.
+5 and travelled Sandra garden Daniel to the.
+6  Mary is Where?	hallway	4
+7 office and the to went Sandra Daniel.
+8 and John the Mary to went bedroom back.
+9 Where is Daniel ?	office	7
+10 Daniel and hallway to the John went back.
+11 bathroom to Mary journeyed Daniel the and.
+12 is  Where Daniel?	bathroom	11
+13 and Daniel bedroom to Sandra the moved.
+14 the to and moved Sandra garden Daniel.
+15 is Where Daniel ?	garden	14
+1 the moved Sandra to and Mary kitchen.
+2 the to journeyed and hallway Mary Sandra.
+3 is  Where Sandra?	hallway	2
+4 the office back Daniel went and Sandra to.
+5 to Sandra the Daniel went bedroom and.
+6  is Sandra Where?	bedroom	5
+7 the garden went and Mary Sandra to.
+8 Daniel went and Sandra to the kitchen back.
+9  Where Sandra is?	kitchen	8
+10 went the bathroom Mary Sandra to and.
+11 bathroom Daniel and travelled to the John.
+12 Daniel is Where ?	bathroom	11
+13 and the garden Daniel John to journeyed.
+14 hallway Daniel to moved John the and.
+15 Where John is ?	hallway	14
+1 the moved and to Mary office Sandra.
+2 Daniel the travelled Mary garden to and.
+3  is Mary Where?	garden	2
+4 garden went John to and Sandra the.
+5 went hallway to the Sandra Daniel and.
+6 is Where John ?	garden	4
+7 John kitchen Daniel and went to the.
+8 the went and bathroom Sandra to back Mary.
+9 is  Daniel Where?	kitchen	7
+10 went to bathroom and John the Daniel back.
+11 Mary hallway to moved the Sandra and.
+12  John Where is?	bathroom	10
+13 office and Daniel the travelled to Mary.
+14 the Mary Daniel back to bedroom and went.
+15 is  Daniel Where?	bedroom	14
+1 and the to John Sandra kitchen went back.
+2 the Mary to moved garden and Daniel.
+3 Where  is Daniel?	garden	2
+4 the John went Sandra back to and bathroom.
+5 Mary to and hallway the back Daniel went.
+6  Daniel is Where?	hallway	5
+7 journeyed and the Sandra office John to.
+8 the Sandra to John journeyed and garden.
+9 is Sandra  Where?	garden	8
+10 and office the journeyed John Mary to.
+11 kitchen Mary to and John the back went.
+12 John Where is ?	kitchen	11
+13 Daniel garden travelled and the to John.
+14 to Daniel journeyed Mary the bedroom and.
+15  Daniel Where is?	bedroom	14
+1 and the Mary Sandra to back office went.
+2 Mary and Daniel the to moved bedroom.
+3 Mary Where is ?	bedroom	2
+4 and to moved garden the John Sandra.
+5 Daniel the and John went to kitchen.
+6 Daniel  Where is?	kitchen	5
+7 the Mary to journeyed and John office.
+8 and went John bedroom the Mary to.
+9 is  Where John?	bedroom	8
+10 Sandra to bathroom the John moved and.
+11 Daniel back to the hallway went Mary and.
+12 Mary Where is ?	hallway	11
+13 to office and the John Mary moved.
+14 to Mary hallway and journeyed Sandra the.
+15 Where  is Mary?	hallway	14
+1 and John Sandra to the journeyed hallway.
+2 Daniel and travelled hallway to Mary the.
+3 is Where  Sandra?	hallway	1
+4 to bedroom the went and Sandra back Daniel.
+5 the to Mary and John moved kitchen.
+6 Where Daniel is ?	bedroom	4
+7 Sandra the to office Daniel and journeyed.
+8 Sandra travelled and hallway the to John.
+9  is John Where?	hallway	8
+10 went and John kitchen Daniel the to.
+11 to bathroom moved Sandra and the John.
+12 John is Where ?	bathroom	11
+13 to went back Mary the Daniel garden and.
+14 Sandra to hallway Mary the journeyed and.
+15 Mary Where  is?	hallway	14

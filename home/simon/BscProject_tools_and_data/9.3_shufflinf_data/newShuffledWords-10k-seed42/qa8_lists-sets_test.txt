@@ -1,0 +1,3710 @@
+1 milk Mary the there got.
+2 bedroom John the to moved.
+3 is What carrying Mary ?	milk	1
+4 football there up the John picked.
+5 bathroom the John to journeyed.
+6 John What is  carrying?	football	4
+7 went garden John to the.
+8 went back hallway to Daniel the.
+9 What carrying is John ?	football	4
+10 the went to back bathroom John.
+11 office to went Mary the.
+12 went the to back kitchen Sandra.
+13 Mary travelled the hallway to.
+14 John travelled bedroom to the.
+15 picked apple the there up John.
+16 John  carrying What is?	football,apple	4 15
+17 to Sandra the travelled bedroom.
+18 journeyed the to kitchen Sandra.
+19 What is carrying John ?	football,apple	4 15
+1 Daniel the grabbed milk there.
+2 went the bathroom back Sandra to.
+3 Daniel  is What carrying?	milk	1
+4 the Daniel garden to went back.
+5 Daniel dropped the milk.
+6  is Daniel carrying What?	nothing	1 5
+7 bedroom to John the travelled.
+8 the bedroom to journeyed Sandra.
+9  is What carrying Daniel?	nothing	1 5
+10 bedroom Daniel the journeyed to.
+11 bathroom John went to the.
+12 Daniel What  is carrying?	nothing	1 5
+13 the kitchen John to travelled.
+14 Sandra the went to kitchen.
+15 went to the bedroom back Mary.
+16 to office John the journeyed.
+17 to moved garden John the.
+18 the John grabbed milk there.
+19 is carrying  John What?	milk	18
+1 Mary the there milk grabbed.
+2 the bedroom Daniel moved to.
+3 carrying What is Mary ?	milk	1
+4 to bedroom travelled John the.
+5 apple grabbed there Daniel the.
+6 What is carrying  Daniel?	apple	5
+7 the apple discarded Daniel.
+8 back garden went to John the.
+9  Daniel is carrying What?	nothing	5 7
+10 back to the Daniel went office.
+11 the garden travelled Mary to.
+12 Daniel carrying  What is?	nothing	5 7
+13 hallway the to Mary journeyed.
+14 Daniel hallway to the went.
+15 John to bathroom went the.
+16 went to John kitchen back the.
+17 the there discarded milk Mary.
+18 the milk Sandra there grabbed.
+19  is What Mary carrying?	nothing	1 17
+1 the kitchen went to Mary.
+2 Daniel the took there football.
+3 is  Daniel What carrying?	football	2
+4 Daniel the football dropped.
+5 there the milk grabbed Sandra.
+6 Daniel is  carrying What?	nothing	2 4
+7 Mary to garden the travelled.
+8 went Daniel the to bedroom back.
+9 Sandra is carrying  What?	milk	5
+10 the Sandra discarded milk.
+11 Sandra there grabbed milk the.
+12  Sandra is carrying What?	milk	5 10 11
+13 the bedroom to Mary moved.
+14 there apple got the John.
+15 carrying  What is Sandra?	milk	5 10 11
+1 garden Sandra to travelled the.
+2 Mary milk the grabbed there.
+3 carrying  What Mary is?	milk	2
+4 moved to the John hallway.
+5 John garden went back the to.
+6 carrying  is What Mary?	milk	2
+7 went to hallway the Daniel.
+8 Sandra the journeyed to hallway.
+9 Mary carrying is  What?	milk	2
+10 football took there Daniel the.
+11 to Daniel the journeyed bathroom.
+12  carrying Daniel What is?	football	10
+13 Daniel hallway to the journeyed.
+14 the down put Mary milk.
+15  What Daniel carrying is?	football	10
+1 Sandra to travelled bathroom the.
+2 picked the apple Daniel there up.
+3 carrying  is Daniel What?	apple	2
+4 Sandra football the up picked there.
+5 the to hallway Mary travelled.
+6 Sandra is carrying What ?	football	4
+7 Sandra the football dropped.
+8 to bedroom the moved Sandra.
+9 Sandra  carrying is What?	nothing	4 7
+10 Daniel dropped the apple.
+11 the grabbed Mary there apple.
+12 carrying is What Daniel ?	nothing	2 10
+13 the to Sandra office went.
+14 Daniel bathroom travelled the to.
+15  What is carrying Daniel?	nothing	2 10
+1 kitchen the to Sandra went.
+2 to bathroom John the moved.
+3 the office John to journeyed.
+4 the to garden travelled Sandra.
+5 bathroom to Sandra the went.
+6 Sandra football grabbed there the.
+7  What is carrying Sandra?	football	6
+8 Daniel the took milk there.
+9 football there Sandra the dropped.
+10 carrying Daniel is  What?	milk	8
+11 the there got John apple.
+12 the went bathroom Mary to.
+13 is  carrying Daniel What?	milk	8
+14 there apple put John down the.
+15 milk the left Daniel there.
+16 carrying is  What John?	nothing	11 14
+17 Mary grabbed the there football.
+18 Mary football left the.
+19  Daniel carrying is What?	nothing	8 15
+1 milk Sandra grabbed there the.
+2 office back to the Sandra went.
+3 carrying  is Sandra What?	milk	1
+4 to journeyed Daniel the hallway.
+5 Sandra back the garden went to.
+6 carrying  What is Sandra?	milk	1
+7 the to Mary garden journeyed.
+8 bathroom travelled to the Daniel.
+9 to the travelled kitchen Mary.
+10 the office Sandra to travelled.
+11 to John office the travelled.
+12 the milk Sandra there discarded.
+13 Sandra What  carrying is?	nothing	1 12
+14 there got apple Mary the.
+15 went Mary office back the to.
+16 What carrying  Sandra is?	nothing	1 12
+17 the there took Mary football.
+18 the up picked there John milk.
+19 is What carrying  Sandra?	nothing	1 12
+1 moved Mary the bedroom to.
+2 got there milk the Sandra.
+3 is Sandra carrying  What?	milk	2
+4 Sandra moved bathroom to the.
+5 Sandra went to garden the back.
+6  is Sandra What carrying?	milk	2
+7 the bathroom back went to Sandra.
+8 to back the garden Sandra went.
+9  Sandra What carrying is?	milk	2
+10 Sandra the hallway travelled to.
+11 hallway to journeyed Mary the.
+12 to bathroom moved John the.
+13 to Mary travelled the kitchen.
+14 to the Mary travelled bathroom.
+15 to back Mary went the office.
+16 John there football got the.
+17 the discarded Sandra milk.
+18 carrying  Sandra What is?	nothing	2 17
+19 the Sandra travelled bathroom to.
+20 Sandra got the apple there.
+21 Sandra  What carrying is?	apple	2 17 20
+1 Sandra the to garden went.
+2 back office Daniel to the went.
+3 the to John bathroom journeyed.
+4 Sandra to moved the bathroom.
+5 the Sandra journeyed bedroom to.
+6 hallway went to John the.
+7 the apple grabbed there Daniel.
+8 the Sandra to travelled bathroom.
+9 What  Daniel carrying is?	apple	7
+10 kitchen the to John went.
+11 to journeyed Sandra bedroom the.
+12 is  carrying Daniel What?	apple	7
+13 kitchen went Daniel to the.
+14 moved Daniel to bedroom the.
+15 Mary the went office to.
+16 to garden Daniel the moved.
+17 there milk grabbed Daniel the.
+18 to kitchen Mary the went.
+19 What carrying is Daniel ?	apple,milk	7 17
+20 to Daniel moved the kitchen.
+21 to the bathroom back Mary went.
+22  What Daniel is carrying?	apple,milk	7 17
+23 garden journeyed the John to.
+24 football picked there John the up.
+25 is What John carrying ?	football	24
+1 garden travelled the to Daniel.
+2 went Sandra office to the.
+3 John the garden went to.
+4 to kitchen back the John went.
+5 went to the Daniel bedroom.
+6 the to Daniel office moved.
+7 got Daniel there milk the.
+8 put down milk Daniel the.
+9 is carrying  Daniel What?	nothing	7 8
+10 the Daniel to travelled garden.
+11 garden to went back Mary the.
+12  is carrying What Daniel?	nothing	7 8
+13 the Sandra went to garden back.
+14 journeyed the Daniel to bathroom.
+15 carrying  is Daniel What?	nothing	7 8
+16 the hallway to John went.
+17 the journeyed bathroom John to.
+18 journeyed to bedroom the Sandra.
+19 took the apple John there.
+20 John is What  carrying?	apple	19
+21 Sandra the there football got.
+22 left football the Sandra.
+23 What is carrying Sandra ?	nothing	21 22
+1 up Mary football the picked there.
+2 to the went hallway Sandra.
+3 What Mary is  carrying?	football	1
+4 Daniel went office to the.
+5 journeyed Daniel to bathroom the.
+6 is Mary  What carrying?	football	1
+7 the travelled to Daniel hallway.
+8 football down the Mary put.
+9 Mary  carrying is What?	nothing	1 8
+10 John went bathroom to the.
+11 journeyed to the bathroom Daniel.
+12 Mary  is carrying What?	nothing	1 8
+13 travelled the garden Sandra to.
+14 moved the to hallway Daniel.
+15  carrying Mary What is?	nothing	1 8
+1 the John moved garden to.
+2 Sandra the office went to.
+3 Daniel to the moved bathroom.
+4 milk the there Mary took.
+5 carrying  What is Mary?	milk	4
+6 to garden Daniel the journeyed.
+7 the Mary garden to went.
+8 What carrying Mary is ?	milk	4
+9 apple there Sandra the took.
+10 dropped milk Mary there the.
+11  Mary is carrying What?	nothing	4 10
+12 John there got milk the.
+13 to the kitchen Sandra journeyed.
+14 What carrying is John ?	milk	12
+15 milk John the left.
+16 journeyed the bedroom to Mary.
+17 What is  Mary carrying?	nothing	4 10
+1 garden the to Sandra went back.
+2 to kitchen journeyed the Mary.
+3 bedroom went back the to Mary.
+4 hallway the went to Daniel.
+5 to Daniel journeyed garden the.
+6 went the to Mary hallway.
+7 to travelled John garden the.
+8 kitchen John the went to.
+9 garden to the John travelled.
+10 kitchen Daniel to the travelled.
+11 journeyed the kitchen Sandra to.
+12 the milk there Sandra grabbed.
+13 carrying is What  Sandra?	milk	12
+14 Sandra left there the milk.
+15 to Mary the kitchen travelled.
+16 Sandra carrying is  What?	nothing	12 14
+17 travelled to Sandra the hallway.
+18 up picked milk Mary there the.
+19 is carrying Sandra What ?	nothing	12 14
+20 dropped Mary milk the.
+21 the got Daniel there milk.
+22 carrying is Mary  What?	nothing	18 20
+23 journeyed bathroom the John to.
+24 to back the bedroom went Daniel.
+25  carrying What Mary is?	nothing	18 20
+1 took Sandra milk the there.
+2 there got apple John the.
+3 is Sandra  What carrying?	milk	1
+4 the went garden to Sandra.
+5 bathroom Mary the moved to.
+6 John  is What carrying?	apple	2
+7 the travelled Sandra to bedroom.
+8 travelled Mary the to hallway.
+9 is What carrying John ?	apple	2
+10 hallway Sandra to moved the.
+11 the milk Sandra dropped.
+12  is Sandra What carrying?	nothing	1 11
+13 the there grabbed Sandra milk.
+14 garden went Mary to the.
+15 Sandra  carrying is What?	milk	1 11 13
+1 journeyed the to John bedroom.
+2 went to Sandra office the back.
+3 the John got apple there.
+4 bathroom to moved Daniel the.
+5  is carrying What John?	apple	3
+6 discarded John the apple.
+7 Mary the went to office.
+8 carrying What John is ?	nothing	3 6
+9 Mary travelled to the hallway.
+10 John apple there grabbed the.
+11 is carrying  John What?	apple	3 6 10
+12 took there the John football.
+13 the office journeyed to John.
+14 What is carrying  John?	apple,football	3 6 10 12
+15 Sandra the bathroom to went.
+16 discarded there John the apple.
+17 John carrying is What ?	football	3 6 10 16 12
+1 the to journeyed office Mary.
+2 bathroom Mary to went the.
+3 Daniel got apple there the.
+4 the John hallway to went.
+5 is What  Daniel carrying?	apple	3
+6 the football there grabbed Mary.
+7 the down apple Daniel put.
+8  What carrying Mary is?	football	6
+9 got apple the there Daniel.
+10 the apple dropped Daniel.
+11  carrying is Daniel What?	nothing	3 7 9 10
+12 apple Daniel the there grabbed.
+13 office the John went to.
+14 What is Daniel  carrying?	apple	3 7 9 10 12
+15 travelled John the garden to.
+16 the bedroom went Daniel to.
+17  carrying What is Daniel?	apple	3 7 9 10 12
+1 went back the to Sandra office.
+2 the milk took there Sandra.
+3 carrying Sandra is What ?	milk	2
+4 the Daniel kitchen went back to.
+5 to bedroom the went Sandra back.
+6 What  is carrying Sandra?	milk	2
+7 there grabbed the apple John.
+8 down put Sandra the milk.
+9 Sandra carrying is What ?	nothing	2 8
+10 Daniel back went to the bedroom.
+11 up picked the Sandra milk there.
+12 What carrying is Sandra ?	milk	2 8 11
+13 moved office John the to.
+14 hallway the John journeyed to.
+15 What carrying is Sandra ?	milk	2 8 11
+1 to Sandra the travelled garden.
+2 there Sandra took the football.
+3 is Sandra  carrying What?	football	2
+4 the travelled bathroom John to.
+5 the Sandra football left.
+6 What carrying  Sandra is?	nothing	2 5
+7 the bathroom Mary moved to.
+8 the to bedroom journeyed Mary.
+9 What  is carrying Sandra?	nothing	2 5
+10 kitchen the travelled to Mary.
+11 the journeyed to bedroom Mary.
+12 is  Sandra What carrying?	nothing	2 5
+13 John the back to bedroom went.
+14 there took Sandra football the.
+15 What Sandra is  carrying?	football	2 5 14
+1 milk the Daniel took there.
+2 went Mary bedroom to back the.
+3 carrying  What is Daniel?	milk	1
+4 apple up there John the picked.
+5 left John apple the.
+6 is What  carrying Daniel?	milk	1
+7 the Daniel milk discarded.
+8 to John the back office went.
+9 carrying Daniel What is ?	nothing	1 7
+10 the went Mary to bathroom.
+11 the went garden to John.
+12 is carrying John What ?	nothing	4 5
+13 back went to bathroom John the.
+14 went Mary to office back the.
+15 bathroom Mary moved the to.
+16 Daniel office journeyed to the.
+17 office moved to the Mary.
+18 John office went the back to.
+19 the hallway back to Daniel went.
+20 journeyed Daniel the to bedroom.
+21 to the hallway moved John.
+22 moved to the bathroom Sandra.
+23 to kitchen moved Sandra the.
+24 there John apple the got.
+25 What is John carrying ?	apple	4 5 24
+1 to hallway Daniel the journeyed.
+2 office to travelled Mary the.
+3 back John went the to hallway.
+4 picked there Sandra apple up the.
+5 What  Sandra carrying is?	apple	4
+6 the to garden John journeyed.
+7 to office Sandra the moved.
+8 is Sandra carrying What ?	apple	4
+9 moved bathroom Sandra to the.
+10 went to garden Daniel the.
+11 What is carrying Sandra ?	apple	4
+12 the journeyed to Daniel bedroom.
+13 travelled to hallway the Mary.
+14 travelled the to office John.
+15 to bathroom the John moved.
+16 to office the journeyed Mary.
+17 the there John grabbed milk.
+18 John is carrying  What?	milk	17
+19 Sandra football picked the up there.
+20 to hallway Daniel the travelled.
+21 What is carrying  Sandra?	apple,football	4 19
+1 to went the Daniel office.
+2 there John the apple took.
+3 John  is What carrying?	apple	2
+4 the bathroom to Sandra journeyed.
+5 John the apple left.
+6 John  is What carrying?	nothing	2 5
+7 moved kitchen to the Daniel.
+8 John got apple there the.
+9  carrying John What is?	apple	2 5 8
+10 bathroom the back to went Daniel.
+11 the discarded John apple.
+12 is carrying What  John?	nothing	2 5 8 11
+13 travelled kitchen Daniel the to.
+14 garden moved the to John.
+15 John What  carrying is?	nothing	2 5 8 11
+1 bedroom Mary back to went the.
+2 the John to hallway travelled.
+3 Mary the to office journeyed.
+4 journeyed Daniel to bathroom the.
+5 moved John to office the.
+6 to kitchen the John moved.
+7 Mary the travelled to hallway.
+8 the Daniel football there got.
+9  Daniel carrying is What?	football	8
+10 dropped Daniel football the.
+11 Daniel to journeyed the office.
+12 What Daniel is carrying ?	nothing	8 10
+13 journeyed the to Mary office.
+14 the bedroom journeyed to John.
+15 Daniel  is What carrying?	nothing	8 10
+16 the to Daniel hallway journeyed.
+17 Sandra to went office the.
+18 Mary moved the to bedroom.
+19 office went to the Mary.
+20 to John hallway the journeyed.
+21 journeyed to Daniel the kitchen.
+22 the back Daniel went bathroom to.
+23 Daniel the moved to garden.
+24 the to travelled Daniel bedroom.
+25 the garden went Daniel to.
+26 moved bedroom Mary the to.
+27 the travelled Mary garden to.
+28 the Daniel to kitchen moved.
+29 to Daniel went the back office.
+30 went to bedroom the Sandra.
+31 the moved to Daniel hallway.
+32 Mary apple got there the.
+33 to office went the Sandra.
+34 is carrying What  Mary?	apple	32
+35 Daniel to went the back bedroom.
+36 Sandra travelled hallway the to.
+37 carrying  Mary What is?	apple	32
+1 the football up picked there Sandra.
+2 office John the journeyed to.
+3 What Sandra  is carrying?	football	1
+4 to back kitchen Sandra the went.
+5 John went to the bedroom back.
+6 Sandra is What  carrying?	football	1
+7 Daniel the there took apple.
+8 Sandra football dropped the.
+9 carrying What Sandra  is?	nothing	1 8
+10 to the office went back Mary.
+11 to Daniel the hallway travelled.
+12 What is  Sandra carrying?	nothing	1 8
+13 discarded Daniel apple the.
+14 kitchen went the to John.
+15 Daniel carrying  What is?	nothing	7 13
+1 Mary the went back bedroom to.
+2 Daniel travelled office to the.
+3 bathroom to Sandra the moved.
+4 the Sandra garden to journeyed.
+5 to the went kitchen John.
+6 back Mary went the office to.
+7 milk there got Sandra the.
+8 took Mary apple the there.
+9 is What Sandra carrying ?	milk	7
+10 to hallway Daniel moved the.
+11 back went to the Mary hallway.
+12 Mary What is  carrying?	apple	8
+13 the Mary bedroom to moved.
+14 Sandra the office went to.
+15 Mary is What  carrying?	apple	8
+16 the apple Mary discarded.
+17 went hallway John to the.
+18 What  Mary carrying is?	nothing	8 16
+19 Sandra the to went kitchen.
+20 moved to Sandra bathroom the.
+21  What is Mary carrying?	nothing	8 16
+1 took Sandra there the apple.
+2 the John went garden to.
+3 What  Sandra carrying is?	apple	1
+4 garden journeyed Daniel to the.
+5 apple discarded the Sandra.
+6 is carrying Sandra  What?	nothing	1 5
+7 Sandra apple took there the.
+8 John to the kitchen journeyed.
+9 What is  Sandra carrying?	apple	1 5 7
+10 hallway to back went Daniel the.
+11 John to the bedroom journeyed.
+12 What is  Sandra carrying?	apple	1 5 7
+13 back Sandra bedroom to the went.
+14 went the Daniel garden to.
+15 to office Mary went the.
+16 Sandra apple discarded the.
+17  carrying is Sandra What?	nothing	1 5 7 16
+1 garden to journeyed the John.
+2 the went to Mary office.
+3 to the moved hallway Daniel.
+4 to the journeyed kitchen John.
+5 office John to the moved.
+6 journeyed Sandra garden the to.
+7 Daniel to garden the back went.
+8 journeyed Daniel to kitchen the.
+9 went bedroom the to Mary.
+10 grabbed Daniel there milk the.
+11  Daniel carrying What is?	milk	10
+12 to went the bedroom Sandra.
+13 journeyed the Mary to bathroom.
+14  is What carrying Daniel?	milk	10
+15 travelled the John bathroom to.
+16 kitchen journeyed John the to.
+17 carrying is  What Daniel?	milk	10
+18 bathroom journeyed to Daniel the.
+19 Daniel the moved to bedroom.
+20 there put down Daniel milk the.
+21 up picked Sandra there the apple.
+22  What carrying Sandra is?	apple	21
+23 went the back to Mary office.
+24 there Sandra the took milk.
+25 Daniel  is What carrying?	nothing	10 20
+1 the apple took there Sandra.
+2 the moved Sandra garden to.
+3  is Sandra What carrying?	apple	1
+4 the went John bedroom back to.
+5 Sandra the went bedroom to.
+6 What is Sandra carrying ?	apple	1
+7 up milk picked there the Mary.
+8 the to back office went John.
+9 carrying What Mary is ?	milk	7
+10 Sandra apple left the.
+11 moved to the hallway Daniel.
+12 Mary  What carrying is?	milk	7
+13 back the garden Mary went to.
+14 Daniel back the went to garden.
+15 What carrying is Sandra ?	nothing	1 10
+1 picked the up Sandra apple there.
+2 there John the took football.
+3 carrying is  Sandra What?	apple	1
+4 John bedroom the to travelled.
+5 got there the Mary milk.
+6 carrying is  John What?	football	2
+7 the milk discarded Mary.
+8 apple down Sandra put the.
+9 Sandra What carrying  is?	nothing	1 8
+10 moved to Daniel the office.
+11 put down there football John the.
+12 What is Mary carrying ?	nothing	5 7
+13 apple the took there Daniel.
+14 football took John there the.
+15 Daniel What is  carrying?	apple	13
+1 bedroom moved the to Daniel.
+2 Mary the bathroom to travelled.
+3 the there apple Mary took.
+4 bedroom to the went Mary.
+5  What Mary is carrying?	apple	3
+6 down apple the there Mary put.
+7 the Sandra went to bedroom.
+8 What Mary carrying is ?	nothing	3 6
+9 apple Sandra got the there.
+10 there grabbed John milk the.
+11 is carrying What  Mary?	nothing	3 6
+12 milk John the dropped.
+13 to bathroom Sandra the travelled.
+14 John carrying  What is?	nothing	10 12
+15 got there the milk John.
+16 milk the there John discarded.
+17 John  is carrying What?	nothing	10 12 15 16
+1 moved bedroom to John the.
+2 to went the back bedroom Daniel.
+3 office travelled the to Mary.
+4 to went John office the.
+5 bedroom to Mary the travelled.
+6 Sandra to the hallway travelled.
+7 journeyed the bedroom to Sandra.
+8 football the there John grabbed.
+9 is John What  carrying?	football	8
+10 the travelled kitchen to Mary.
+11 Mary to the travelled hallway.
+12 is carrying John  What?	football	8
+13 left John the football.
+14 Sandra office the to travelled.
+15 is What  carrying John?	nothing	8 13
+16 there the took Mary apple.
+17 John journeyed to garden the.
+18 is What  John carrying?	nothing	8 13
+19 travelled the to kitchen John.
+20 went Mary to office the back.
+21  carrying What Mary is?	apple	16
+1 the there got milk John.
+2 John the left milk.
+3 is  What John carrying?	nothing	1 2
+4 to Daniel garden went the.
+5 John milk got the there.
+6 carrying What John  is?	milk	1 2 5
+7 bedroom to travelled Daniel the.
+8 the John discarded milk.
+9 is What John carrying ?	nothing	1 2 5 8
+10 milk there Mary the took.
+11 Daniel went hallway to the.
+12 is  carrying What Mary?	milk	10
+13 travelled office Daniel to the.
+14 the office to Sandra moved.
+15 carrying Mary is  What?	milk	10
+1 garden the to moved Sandra.
+2 Sandra moved the to office.
+3 John to journeyed the bedroom.
+4 bedroom journeyed the Sandra to.
+5 the to Sandra moved garden.
+6 office the to moved Daniel.
+7 kitchen journeyed Daniel to the.
+8 bedroom Daniel the went to.
+9 Mary journeyed the to hallway.
+10 to Mary bathroom journeyed the.
+11 back to John garden went the.
+12 there milk the took Mary.
+13 What is carrying Mary ?	milk	12
+14 to kitchen the John went.
+15 Mary left milk the.
+16 carrying  Mary What is?	nothing	12 15
+17 the milk there picked up Mary.
+18 John got there the football.
+19  is John carrying What?	football	18
+20 garden to the travelled John.
+21 Mary milk the left.
+22 Mary What  carrying is?	nothing	12 15 17 21
+23 put football there John down the.
+24 the took football John there.
+25 What Mary is carrying ?	nothing	12 15 17 21
+1 to went Daniel the hallway.
+2 went to the hallway John.
+3 Mary took there the milk.
+4 the travelled kitchen Mary to.
+5 is  Mary carrying What?	milk	3
+6 the travelled Daniel to kitchen.
+7 bedroom to the travelled Daniel.
+8 What Mary  carrying is?	milk	3
+9 moved Sandra the bathroom to.
+10 Mary the discarded milk.
+11 carrying  Mary What is?	nothing	3 10
+12 back John went kitchen to the.
+13 the moved bathroom John to.
+14 Mary is What carrying ?	nothing	3 10
+15 bathroom moved Mary the to.
+16 Mary moved the hallway to.
+17 Mary is  carrying What?	nothing	3 10
+1 got milk Sandra there the.
+2 hallway back went to Mary the.
+3 What is  Sandra carrying?	milk	1
+4 left there milk the Sandra.
+5 the to office John moved.
+6  carrying is What Sandra?	nothing	1 4
+7 milk Sandra the grabbed there.
+8 to back hallway Daniel went the.
+9 carrying is What  Sandra?	milk	1 4 7
+10 John the travelled kitchen to.
+11 hallway John the to moved.
+12 What carrying  Sandra is?	milk	1 4 7
+13 Sandra there the milk dropped.
+14 Sandra there picked milk up the.
+15 carrying Sandra What  is?	milk	1 4 7 13 14
+1 Mary journeyed to office the.
+2 Sandra travelled the to office.
+3 to office the Daniel moved.
+4 journeyed the to garden Mary.
+5 the to hallway went John back.
+6 there took the Mary apple.
+7 What carrying is  Mary?	apple	6
+8 went bathroom to back the Daniel.
+9 apple Mary the there left.
+10 is carrying Mary  What?	nothing	6 9
+11 Mary there grabbed the apple.
+12 journeyed Daniel to the garden.
+13 carrying Mary is What ?	apple	6 9 11
+14 went John the office to back.
+15 got the football Daniel there.
+16 What carrying  Daniel is?	football	15
+17 the apple discarded Mary there.
+18 to garden the travelled Sandra.
+19 Daniel What  is carrying?	football	15
+1 to back the hallway went Mary.
+2 Sandra to the office journeyed.
+3 football there took the John.
+4 apple there the Daniel took.
+5 is carrying Daniel  What?	apple	4
+6 picked the there milk up Daniel.
+7 John the down football put.
+8 What carrying  Daniel is?	apple,milk	4 6
+9 went to Mary garden the.
+10 to the Sandra bathroom went.
+11  John carrying What is?	nothing	3 7
+12 the journeyed to Daniel bedroom.
+13 apple Daniel discarded the.
+14 What carrying  is John?	nothing	3 7
+15 the Sandra to moved hallway.
+16 milk Daniel left the.
+17 What  carrying is Daniel?	nothing	4 13 6 16
+1 John to hallway the journeyed.
+2 to John the bathroom went.
+3 took there the milk Daniel.
+4 office Sandra the to moved.
+5 is What Daniel  carrying?	milk	3
+6 to office John the moved.
+7 to journeyed bathroom Sandra the.
+8 is Daniel What  carrying?	milk	3
+9 went bathroom to Mary the.
+10 football got John there the.
+11 is John carrying What ?	football	10
+12 office travelled to Daniel the.
+13 down milk put Daniel the.
+14 What Daniel  carrying is?	nothing	3 13
+15 went back Daniel bathroom to the.
+16 John picked milk up there the.
+17 John is What carrying ?	football,milk	10 16
+1 went to the John back kitchen.
+2 to journeyed bedroom the Sandra.
+3 kitchen to the went Sandra.
+4 garden the went back John to.
+5 the moved John to kitchen.
+6 went hallway Mary the to.
+7 the went back to Daniel garden.
+8 the went to Mary bathroom back.
+9 to Mary went office the back.
+10 to the Sandra went garden.
+11 the Sandra bedroom went to.
+12 up the Daniel picked there football.
+13 What Daniel carrying is ?	football	12
+14 grabbed Sandra the apple there.
+15 the hallway went John to back.
+16  What Sandra is carrying?	apple	14
+17 there Daniel milk the took.
+18 Daniel back went bedroom the to.
+19  carrying is Daniel What?	football,milk	12 17
+20 Daniel travelled to garden the.
+21 hallway went Mary the to back.
+22 Daniel  carrying is What?	football,milk	12 17
+23 journeyed Daniel the bathroom to.
+24 kitchen to Mary the journeyed.
+25 the bathroom to travelled Sandra.
+26 Sandra the garden to moved.
+27 John the office travelled to.
+28 back went Mary office to the.
+29 to went back the Sandra bathroom.
+30 went the to Daniel bedroom back.
+31 Daniel bathroom to travelled the.
+32 to bedroom Daniel the moved.
+33 left Sandra the apple.
+34 went to the hallway Daniel.
+35 is What  Sandra carrying?	nothing	14 33
+1 up the there John milk picked.
+2 the milk John discarded there.
+3 carrying  John What is?	nothing	1 2
+4 the Mary to travelled bedroom.
+5 travelled hallway the to Sandra.
+6 carrying What John  is?	nothing	1 2
+7 John there took the milk.
+8 there grabbed Sandra the football.
+9  What John carrying is?	milk	1 2 7
+10 bedroom travelled Daniel the to.
+11 John milk left the.
+12 John What  is carrying?	nothing	1 2 7 11
+13 there John grabbed the milk.
+14 the John discarded milk.
+15 John is  carrying What?	nothing	1 2 7 11 13 14
+1 grabbed Daniel there the milk.
+2 to John bedroom went the.
+3 carrying Daniel  is What?	milk	1
+4 Sandra to garden travelled the.
+5 the to Daniel garden journeyed.
+6 What  is carrying Daniel?	milk	1
+7 football there the John grabbed.
+8 apple the there Mary got.
+9 Mary  What carrying is?	apple	8
+10 Mary apple down the put.
+11 football John there the left.
+12 carrying What  Mary is?	nothing	8 10
+13 the there football John got.
+14 garden John the to moved.
+15 carrying is John  What?	football	7 11 13
+1 John the to journeyed office.
+2 milk there got John the.
+3 is  carrying John What?	milk	2
+4 up picked apple Mary there the.
+5 Daniel to the office went back.
+6 Mary carrying  is What?	apple	4
+7 the Sandra journeyed to garden.
+8 went John the bathroom back to.
+9 What is Mary carrying ?	apple	4
+10 kitchen Daniel the to journeyed.
+11 milk discarded John the.
+12 is What  carrying John?	nothing	2 11
+13 John the to went back kitchen.
+14 the Daniel to back went office.
+15 John is What  carrying?	nothing	2 11
+1 Sandra to journeyed the office.
+2 to travelled the bedroom Sandra.
+3 to Daniel journeyed kitchen the.
+4 the bedroom to Mary moved.
+5 went to John garden the back.
+6 Daniel to travelled bedroom the.
+7 back Mary to kitchen the went.
+8 milk got the there John.
+9 What John carrying  is?	milk	8
+10 put milk down the there John.
+11 up the there John football picked.
+12 carrying What  John is?	football	8 10 11
+13 John football put the down.
+14 travelled John bathroom to the.
+15 What is  carrying John?	nothing	8 10 11 13
+16 journeyed the office to Daniel.
+17 to Daniel went bedroom the.
+18  carrying is John What?	nothing	8 10 11 13
+19 kitchen moved to the John.
+20 the hallway to went Mary.
+21 picked up Mary the there apple.
+22 the apple Mary discarded.
+23 What carrying  Mary is?	nothing	21 22
+1 the office Mary to went.
+2 apple grabbed there the John.
+3 is John What carrying ?	apple	2
+4 travelled John kitchen to the.
+5 John dropped apple the.
+6 What carrying  is John?	nothing	2 5
+7 there the football Daniel took.
+8 put Daniel football the down.
+9 What carrying Daniel  is?	nothing	7 8
+10 John there apple grabbed the.
+11 took Daniel football there the.
+12 John carrying What is ?	apple	2 5 10
+13 football the Daniel discarded.
+14 the went Sandra garden to.
+15  carrying is What John?	apple	2 5 10
+1 there the Daniel football took.
+2 hallway the went to Mary.
+3 is carrying Daniel  What?	football	1
+4 bathroom to went the back Sandra.
+5 hallway to the Sandra journeyed.
+6 carrying  What Daniel is?	football	1
+7 went to John garden the.
+8 kitchen Sandra to the journeyed.
+9 moved to bedroom John the.
+10 the to travelled bathroom Mary.
+11 Daniel back bedroom went to the.
+12 there the milk got John.
+13 What is  carrying John?	milk	12
+14 Daniel left the football.
+15 the to moved Sandra bedroom.
+16  carrying Daniel is What?	nothing	1 14
+17 the football there Sandra grabbed.
+18 the to journeyed Sandra garden.
+19 carrying is Daniel What ?	nothing	1 14
+1 Daniel journeyed to kitchen the.
+2 garden to went Mary back the.
+3 Sandra the to went bedroom.
+4 went John to the garden back.
+5 the office Daniel to journeyed.
+6 the garden to journeyed Sandra.
+7 to Daniel travelled the bathroom.
+8 to office journeyed Sandra the.
+9 picked up Daniel there the football.
+10 Mary to kitchen the journeyed.
+11 carrying is Daniel What ?	football	9
+12 grabbed Mary there milk the.
+13 the left Mary milk.
+14 Mary is carrying What ?	nothing	12 13
+15 there the discarded football Daniel.
+16 Mary the milk grabbed there.
+17  carrying is Mary What?	milk	12 13 16
+18 the to hallway Daniel went.
+19 Daniel journeyed the bedroom to.
+20 carrying Daniel is  What?	nothing	9 15
+21 the Mary journeyed office to.
+22 went the back John to bedroom.
+23 is What Mary carrying ?	milk	12 13 16
+1 garden to the back Sandra went.
+2 there Daniel got the milk.
+3 is Daniel What  carrying?	milk	2
+4 the Daniel to kitchen went back.
+5 Mary to the garden moved.
+6 What is carrying Daniel ?	milk	2
+7 hallway to went the John.
+8 to kitchen moved John the.
+9 carrying Daniel  is What?	milk	2
+10 Mary the to bathroom journeyed.
+11 the to went office Daniel.
+12 the hallway Mary to travelled.
+13 dropped milk the Daniel.
+14  carrying is Daniel What?	nothing	2 13
+15 Mary bedroom to the back went.
+16 Mary grabbed the there football.
+17 is Daniel  carrying What?	nothing	2 13
+1 John the kitchen journeyed to.
+2 milk Mary took the there.
+3  carrying Mary What is?	milk	2
+4 office back went Sandra to the.
+5 discarded the Mary milk.
+6 is What carrying Mary ?	nothing	2 5
+7 John to went the bathroom.
+8 back went to kitchen Sandra the.
+9 carrying  What is Mary?	nothing	2 5
+10 Daniel moved bathroom the to.
+11 went the office to Mary.
+12 is What carrying Mary ?	nothing	2 5
+13 John the garden journeyed to.
+14 the Sandra journeyed bedroom to.
+15 there the got Sandra apple.
+16 got the John milk there.
+17 What  is John carrying?	milk	16
+1 Sandra the journeyed bedroom to.
+2 office Mary the travelled to.
+3 apple there got the Daniel.
+4 the to journeyed bedroom Mary.
+5 carrying is  Daniel What?	apple	3
+6 down Daniel apple the put.
+7 there apple Daniel grabbed the.
+8  Daniel is carrying What?	apple	3 6 7
+9 travelled John kitchen to the.
+10 office Sandra the travelled to.
+11 is  carrying What Daniel?	apple	3 6 7
+12 to Sandra garden journeyed the.
+13 Sandra the went to bedroom.
+14 carrying Daniel What  is?	apple	3 6 7
+15 the Daniel dropped apple.
+16 to bathroom Sandra back went the.
+17 carrying Daniel  is What?	nothing	3 6 7 15
+1 the moved to John kitchen.
+2 back went to the Daniel office.
+3 the garden to John went.
+4 travelled to John hallway the.
+5 John milk there picked the up.
+6 to went Daniel bedroom the.
+7 John carrying What is ?	milk	5
+8 Sandra the back went to office.
+9 John the moved bedroom to.
+10  carrying is What John?	milk	5
+11 to travelled the hallway Sandra.
+12 bedroom went Mary to the.
+13 John to journeyed the bathroom.
+14 down there the milk put John.
+15 John What is carrying ?	nothing	5 14
+16 the to went Mary garden.
+17 Sandra bathroom the to travelled.
+18 What carrying is John ?	nothing	5 14
+19 the football John there grabbed.
+20 there picked the milk up Sandra.
+21 John What carrying is ?	football	5 14 19
+1 garden Daniel the to back went.
+2 hallway to the John journeyed.
+3 the travelled John kitchen to.
+4 John the journeyed bathroom to.
+5 to moved the kitchen Mary.
+6 John office moved the to.
+7 bedroom to John went the.
+8 John to hallway journeyed the.
+9 to garden the Mary went.
+10 milk the there got John.
+11  What John is carrying?	milk	10
+12 Sandra moved the hallway to.
+13 Daniel to journeyed the bedroom.
+14  What John carrying is?	milk	10
+15 bathroom to went the Daniel.
+16 the kitchen John to went.
+17 What is John  carrying?	milk	10
+18 to kitchen went Sandra the.
+19 back John the went bedroom to.
+20 the Daniel to hallway travelled.
+21 moved hallway Mary to the.
+22 the moved to Sandra garden.
+23 kitchen travelled Daniel the to.
+24 the bathroom travelled Mary to.
+25 the took football Mary there.
+26 What  is carrying Mary?	football	25
+27 milk the John dropped.
+28 to Sandra office the back went.
+29 John is  carrying What?	nothing	10 27
+1 the Daniel apple got there.
+2 the to bathroom John journeyed.
+3  What Daniel is carrying?	apple	1
+4 went the back hallway Mary to.
+5 to office Mary went back the.
+6 Daniel is  What carrying?	apple	1
+7 to travelled John office the.
+8 Mary took there milk the.
+9 carrying is What  Mary?	milk	8
+10 to back John hallway went the.
+11 discarded apple the Daniel.
+12 What  Daniel carrying is?	nothing	1 11
+13 back the Sandra to went kitchen.
+14 to Daniel the garden journeyed.
+15 carrying is Daniel What ?	nothing	1 11
+1 bedroom John to the went.
+2 travelled the bathroom John to.
+3 bedroom to Sandra the moved.
+4 to travelled kitchen Mary the.
+5 to bedroom John travelled the.
+6 Daniel the moved office to.
+7 back to bathroom went the Daniel.
+8 travelled to John the bathroom.
+9 Mary to went the office.
+10 garden went the to Sandra.
+11 Mary the hallway to went.
+12 kitchen travelled the Daniel to.
+13 to bathroom the Daniel went.
+14 took the Mary there apple.
+15 Mary is carrying What ?	apple	14
+16 to the Daniel kitchen moved.
+17 garden Daniel travelled to the.
+18 carrying What  is Mary?	apple	14
+19 Mary to the bathroom journeyed.
+20 put Mary the apple down.
+21 carrying  is Mary What?	nothing	14 20
+22 apple the there grabbed John.
+23 John the discarded apple.
+24 is  John carrying What?	nothing	22 23
+25 travelled to office Mary the.
+26 bathroom Daniel the went to.
+27 John carrying What is ?	nothing	22 23
+1 back to went Mary office the.
+2 garden Sandra the travelled to.
+3 garden to the journeyed Mary.
+4 kitchen to went John the.
+5 the to went John office.
+6 office to Sandra the back went.
+7 to garden the John journeyed.
+8 kitchen the moved Sandra to.
+9 the Mary to bedroom went.
+10 journeyed the to Sandra hallway.
+11 to the garden travelled Daniel.
+12 went the Mary hallway back to.
+13 the Sandra there football got.
+14 Daniel bathroom to travelled the.
+15 is What Sandra carrying ?	football	13
+16 Sandra the dropped football.
+17 garden the back went Daniel to.
+18 carrying Sandra is What ?	nothing	13 16
+19 up picked there the football Sandra.
+20 Daniel the to office went.
+21 is What Sandra  carrying?	football	13 16 19
+22 football put the Sandra down.
+23 travelled the to office Sandra.
+24 carrying is Sandra What ?	nothing	13 16 19 22
+25 Mary went garden the to back.
+26 went kitchen Mary to back the.
+27 Sandra  What is carrying?	nothing	13 16 19 22
+1 went the hallway to John.
+2 hallway travelled the Daniel to.
+3 to the Mary went bathroom.
+4 there the football got Daniel.
+5 is Daniel What carrying ?	football	4
+6 journeyed Mary to the office.
+7 there the apple Daniel grabbed.
+8 carrying  What Daniel is?	football,apple	4 7
+9 kitchen the journeyed Mary to.
+10 to the bedroom went Daniel.
+11  What Daniel carrying is?	football,apple	4 7
+12 football dropped there the Daniel.
+13 there the grabbed football Daniel.
+14 is Daniel  What carrying?	football,apple	4 12 13 7
+15 the back kitchen went Sandra to.
+16 bathroom Mary to the went.
+17 carrying is Daniel What ?	football,apple	4 12 13 7
+1 the milk Mary there took.
+2 garden to the travelled Mary.
+3  Mary What is carrying?	milk	1
+4 put Mary milk the down.
+5 to journeyed the garden Sandra.
+6 is  carrying What Mary?	nothing	1 4
+7 moved Mary hallway the to.
+8 to the went bedroom Sandra.
+9 carrying  Mary is What?	nothing	1 4
+10 the bathroom to John journeyed.
+11 hallway went the back to Daniel.
+12 apple got there Sandra the.
+13 Mary the to journeyed garden.
+14  is What carrying Sandra?	apple	12
+15 went to the John hallway.
+16 moved to garden the Daniel.
+17 What  carrying Sandra is?	apple	12
+1 to bathroom John journeyed the.
+2 kitchen moved the Mary to.
+3 Sandra picked up football there the.
+4 to bedroom the moved Mary.
+5 What carrying  Sandra is?	football	3
+6 football the Sandra there left.
+7 to went the Mary hallway.
+8 is  Sandra What carrying?	nothing	3 6
+9 Mary back went the to kitchen.
+10 Mary hallway travelled the to.
+11 is  Sandra carrying What?	nothing	3 6
+12 the office Daniel to went.
+13 football grabbed the John there.
+14 John What carrying is ?	football	13
+15 Daniel travelled to kitchen the.
+16 the bedroom to Daniel went.
+17 is John What  carrying?	football	13
+1 there the apple Daniel grabbed.
+2 journeyed John to the bedroom.
+3 What carrying  Daniel is?	apple	1
+4 garden the moved John to.
+5 the left Daniel apple.
+6 is carrying Daniel  What?	nothing	1 5
+7 to Sandra travelled the garden.
+8 the took milk there John.
+9 is Daniel  carrying What?	nothing	1 5
+10 there milk discarded John the.
+11 got there the Daniel apple.
+12 What carrying is Daniel ?	apple	1 5 11
+13 to hallway the Daniel went.
+14 took the John there football.
+15 is John What  carrying?	football	8 10 14
+1 journeyed to Sandra the bedroom.
+2 to journeyed bathroom the Mary.
+3 to garden Daniel went the.
+4 bathroom the to went Daniel back.
+5 journeyed Sandra the hallway to.
+6 the went Daniel to hallway.
+7 to went office Mary the back.
+8 Sandra kitchen travelled to the.
+9 the kitchen John to travelled.
+10 went to John the bedroom.
+11 apple the Sandra picked up there.
+12 travelled the hallway to John.
+13 is  What Sandra carrying?	apple	11
+14 milk John there got the.
+15 Daniel to back went the office.
+16 What is carrying  Sandra?	apple	11
+17 the Mary to travelled bedroom.
+18 to the travelled Sandra hallway.
+19  John carrying is What?	milk	14
+20 dropped Sandra the apple.
+21 to back John the kitchen went.
+22 What  is Sandra carrying?	nothing	11 20
+23 discarded John milk the.
+24 Sandra the travelled to bathroom.
+25 John What carrying  is?	nothing	14 23
+1 milk Sandra got there the.
+2 kitchen the journeyed Daniel to.
+3 Sandra is  carrying What?	milk	1
+4 to Sandra travelled the bathroom.
+5 put Sandra down milk the.
+6 is  Sandra What carrying?	nothing	1 5
+7 Daniel the there football got.
+8 football Daniel the left.
+9 carrying What  Daniel is?	nothing	7 8
+10 kitchen to the went Sandra.
+11 the grabbed there Sandra football.
+12  carrying What is Daniel?	nothing	7 8
+13 travelled the to kitchen John.
+14 football dropped the Sandra.
+15  Sandra carrying is What?	nothing	1 5 11 14
+1 the grabbed Sandra milk there.
+2 to office travelled Mary the.
+3 carrying is Sandra  What?	milk	1
+4 the apple Sandra grabbed there.
+5 discarded the milk Sandra.
+6 Sandra carrying is  What?	apple	1 5 4
+7 there the Mary got milk.
+8 apple put down the Sandra.
+9 is What  carrying Sandra?	nothing	1 5 4 8
+10 Mary left milk there the.
+11 the there Mary grabbed apple.
+12 carrying is What  Mary?	apple	7 10 11
+13 garden the journeyed to Mary.
+14 journeyed the Sandra to kitchen.
+15 What  carrying is Sandra?	nothing	1 5 4 8
+1 office the travelled to Sandra.
+2 there grabbed the apple Sandra.
+3 is carrying  What Sandra?	apple	2
+4 John kitchen to travelled the.
+5 went kitchen Mary the to.
+6 Sandra  What carrying is?	apple	2
+7 garden back the to Sandra went.
+8 journeyed bathroom the John to.
+9 is carrying  What Sandra?	apple	2
+10 back the to went kitchen Sandra.
+11 back Mary went the to bedroom.
+12 got there football the Sandra.
+13 to went the bedroom John back.
+14 carrying What Sandra is ?	apple,football	2 12
+15 Daniel office to the travelled.
+16 John office the went to.
+17 What carrying is Sandra ?	apple,football	2 12
+1 the to travelled Daniel bedroom.
+2 Sandra the travelled to garden.
+3 the office to back went Daniel.
+4 Sandra moved kitchen to the.
+5 Sandra the travelled to bathroom.
+6 Sandra went back kitchen to the.
+7 garden John the to went.
+8 took the football John there.
+9 carrying is  John What?	football	8
+10 moved hallway Daniel the to.
+11 John the moved bathroom to.
+12  carrying What John is?	football	8
+13 bathroom the Sandra to journeyed.
+14 Mary travelled the to bedroom.
+15 John What  carrying is?	football	8
+16 to bedroom John the went.
+17 picked up the Mary there milk.
+18  Mary carrying What is?	milk	17
+19 to moved the John bathroom.
+20 milk Mary dropped there the.
+21  is carrying What Mary?	nothing	17 20
+1 there milk Daniel the took.
+2 bathroom to the moved Daniel.
+3 is  Daniel What carrying?	milk	1
+4 got there Mary the apple.
+5 the Daniel dropped milk there.
+6 carrying What Daniel is ?	nothing	1 5
+7 Mary left apple the.
+8 Sandra moved to the bedroom.
+9  is Mary carrying What?	nothing	4 7
+10 the grabbed John football there.
+11 went Sandra back garden to the.
+12  is carrying John What?	football	10
+13 Sandra to back went the kitchen.
+14 there apple got the Mary.
+15  What carrying Mary is?	apple	4 7 14
+1 the bedroom went Mary to.
+2 went to the Daniel bedroom.
+3 to bathroom the went Daniel.
+4 Mary the to garden travelled.
+5 journeyed Daniel to kitchen the.
+6 there took the apple Mary.
+7  What carrying Mary is?	apple	6
+8 travelled the Sandra to hallway.
+9 apple dropped Mary the.
+10 carrying  What Mary is?	nothing	6 9
+11 Daniel there the took milk.
+12 back bedroom went the to Daniel.
+13 is What Mary carrying ?	nothing	6 9
+14 Mary apple there the got.
+15 left Daniel milk the.
+16 What is carrying  Mary?	apple	6 9 14
+17 to the journeyed John kitchen.
+18 Mary apple there the down put.
+19 carrying  is Mary What?	nothing	6 9 14 18
+1 to the John kitchen travelled.
+2 the garden to John journeyed.
+3 moved office to Mary the.
+4 the to hallway moved Daniel.
+5 there got apple Sandra the.
+6 garden travelled to the Sandra.
+7 carrying Sandra  What is?	apple	5
+8 Mary garden went the to.
+9 went Daniel to the bedroom.
+10  What Sandra carrying is?	apple	5
+11 apple left Sandra the.
+12 Mary to kitchen the moved.
+13 is  What carrying Sandra?	nothing	5 11
+14 to office back went Mary the.
+15 John went back office the to.
+16  Sandra carrying What is?	nothing	5 11
+17 the office back Sandra to went.
+18 went Daniel bathroom back to the.
+19 went bedroom the back Mary to.
+20 travelled hallway the to Mary.
+21 to the John hallway moved.
+22 the hallway moved to Daniel.
+23 the milk Daniel up there picked.
+24 to moved the bedroom John.
+25  carrying is What Daniel?	milk	23
+1 the Daniel to bathroom moved.
+2 bedroom Mary to went the back.
+3 grabbed there Daniel the apple.
+4 to office travelled Mary the.
+5  Daniel What is carrying?	apple	3
+6 bedroom Sandra moved to the.
+7 the to Sandra kitchen journeyed.
+8 What carrying is Daniel ?	apple	3
+9 to the bedroom went John.
+10 moved to Daniel the garden.
+11 the grabbed football Daniel there.
+12 apple Daniel left the.
+13 is Daniel What  carrying?	football	3 12 11
+14 Mary to kitchen the journeyed.
+15 down football there the Daniel put.
+16 is Daniel carrying What ?	nothing	3 12 11 15
+17 to went bedroom back the Sandra.
+18 garden the moved to John.
+19 What  is carrying Daniel?	nothing	3 12 11 15
+1 Sandra moved the hallway to.
+2 to John back went hallway the.
+3 there the grabbed milk Daniel.
+4 Sandra went to kitchen the.
+5  carrying What Daniel is?	milk	3
+6 back garden John went the to.
+7 the football there John picked up.
+8 is Daniel What  carrying?	milk	3
+9 the milk Daniel dropped.
+10 the journeyed to office Sandra.
+11 Daniel is carrying  What?	nothing	3 9
+12 the John there apple got.
+13 kitchen Sandra to went the.
+14  Daniel What is carrying?	nothing	3 9
+15 there Daniel the milk grabbed.
+16 the football John discarded.
+17 carrying is  What John?	apple	7 16 12
+1 the to John moved garden.
+2 Mary the hallway travelled to.
+3 the milk got John there.
+4 to the John moved office.
+5 carrying What is  John?	milk	3
+6 hallway Sandra journeyed the to.
+7 bathroom to back the went Daniel.
+8  carrying What is John?	milk	3
+9 took football the there Daniel.
+10 Daniel dropped football the.
+11 Daniel carrying is  What?	nothing	9 10
+12 kitchen moved to the Daniel.
+13 bedroom Mary the went to.
+14 carrying Daniel  What is?	nothing	9 10
+15 Daniel to went office the.
+16 the took Mary there apple.
+17 Mary carrying What is ?	apple	16
+1 hallway the journeyed to John.
+2 milk Daniel picked there up the.
+3 What  carrying Daniel is?	milk	2
+4 there Mary the took football.
+5 left football the Mary.
+6 Mary What carrying  is?	nothing	4 5
+7 bedroom to the Mary went.
+8 kitchen Mary the went to.
+9 carrying Mary What is ?	nothing	4 5
+10 Daniel there milk the discarded.
+11 got Daniel the milk there.
+12 What is Daniel  carrying?	milk	2 10 11
+13 took football Sandra there the.
+14 the left Sandra football.
+15 What  Daniel carrying is?	milk	2 10 11
+1 Sandra the apple got there.
+2 the went bedroom back to John.
+3  is carrying What Sandra?	apple	1
+4 travelled to Mary the bathroom.
+5 to the hallway journeyed Sandra.
+6 is carrying What  Sandra?	apple	1
+7 Sandra apple the there dropped.
+8 to travelled the Daniel hallway.
+9 What is Sandra  carrying?	nothing	1 7
+10 the there got Daniel apple.
+11 travelled John to office the.
+12 is carrying Daniel  What?	apple	10
+13 left the apple Daniel.
+14 journeyed to the hallway Mary.
+15 Daniel What  carrying is?	nothing	10 13
+1 went hallway Sandra to the.
+2 to kitchen travelled John the.
+3 bathroom Daniel travelled the to.
+4 the office to John went back.
+5 to moved John bathroom the.
+6 up milk there Daniel picked the.
+7 is Daniel  What carrying?	milk	6
+8 John back went the kitchen to.
+9 went Mary the to bathroom.
+10 carrying Daniel What is ?	milk	6
+11 went kitchen Daniel to back the.
+12 Sandra the to went kitchen.
+13 Daniel carrying is What ?	milk	6
+14 Daniel the put down milk.
+15 the John there milk grabbed.
+16 John What carrying  is?	milk	15
+17 back Sandra the bedroom went to.
+18 there Sandra the grabbed football.
+19 What is carrying  Sandra?	football	18
+1 Mary kitchen to the moved.
+2 kitchen moved Sandra to the.
+3 Sandra the bedroom to travelled.
+4 the Mary there apple grabbed.
+5  Mary is carrying What?	apple	4
+6 milk the picked Sandra up there.
+7 Mary there apple the dropped.
+8 What Mary  is carrying?	nothing	4 7
+9 the to garden Sandra moved.
+10 travelled Mary office the to.
+11 is carrying What  Mary?	nothing	4 7
+12 back garden John the to went.
+13 the moved hallway to Sandra.
+14 is Mary carrying What ?	nothing	4 7
+15 journeyed Mary bedroom to the.
+16 garden to went Sandra the back.
+17 bedroom John to moved the.
+18 the to Sandra kitchen travelled.
+19 Sandra dropped milk the.
+20 moved Sandra hallway the to.
+21 Sandra What carrying  is?	nothing	6 19
+1 Daniel went back bedroom to the.
+2 bathroom John to the journeyed.
+3 Daniel to the office journeyed.
+4 to moved hallway the Mary.
+5 up picked Sandra the there milk.
+6 put milk Sandra down the.
+7 carrying Sandra What  is?	nothing	5 6
+8 picked the up milk Sandra there.
+9 milk the left Sandra.
+10  Sandra What is carrying?	nothing	5 6 8 9
+11 football there grabbed the Daniel.
+12 the John office journeyed to.
+13 carrying  What Daniel is?	football	11
+14 hallway Sandra the to journeyed.
+15 Mary the to back bathroom went.
+16 Sandra What is carrying ?	nothing	5 6 8 9
+17 Daniel the football there left.
+18 got milk there John the.
+19 Daniel  carrying What is?	nothing	11 17
+1 Mary kitchen went to the.
+2 Sandra milk took there the.
+3 carrying What  Sandra is?	milk	2
+4 John back to the office went.
+5 there Sandra the milk left.
+6 What is  Sandra carrying?	nothing	2 5
+7 office Sandra to the moved.
+8 to back bedroom the went Sandra.
+9 What  Sandra carrying is?	nothing	2 5
+10 Mary hallway to the travelled.
+11 Mary to kitchen went the back.
+12 is  carrying Sandra What?	nothing	2 5
+13 John to journeyed the garden.
+14 office to Daniel went the.
+15 Daniel journeyed kitchen the to.
+16 bedroom to the John journeyed.
+17 journeyed Mary bathroom to the.
+18 went hallway the to back Sandra.
+19 the Daniel milk there took.
+20 travelled to bathroom the John.
+21 What Daniel is carrying ?	milk	19
+1 the Sandra hallway to travelled.
+2 the Mary went to office.
+3 travelled to hallway John the.
+4 Sandra journeyed garden the to.
+5 up football Mary the there picked.
+6 football put down there Mary the.
+7  Mary is carrying What?	nothing	5 6
+8 Mary football grabbed the there.
+9 to Mary garden the travelled.
+10 What carrying is Mary ?	football	5 6 8
+11 there football Mary the put down.
+12 apple up picked the there Mary.
+13 Mary What is carrying ?	apple	5 6 8 11 12
+14 to the office John travelled.
+15 there the got Sandra football.
+16  What carrying Sandra is?	football	15
+17 to travelled the office Sandra.
+18 John back the to went bedroom.
+19  What carrying is Mary?	apple	5 6 8 11 12
+1 to Daniel journeyed the office.
+2 moved the John to office.
+3 travelled the hallway Sandra to.
+4 to garden Daniel the went.
+5 John bedroom moved to the.
+6 Mary the back to garden went.
+7 the bathroom to went back John.
+8 went back Daniel to kitchen the.
+9 Mary to the journeyed office.
+10 John hallway the went to.
+11 hallway journeyed the to Daniel.
+12 John to journeyed the bedroom.
+13 moved the hallway to John.
+14 moved office to the Sandra.
+15 the bedroom Mary travelled to.
+16 to the John garden journeyed.
+17 travelled Sandra bedroom to the.
+18 Mary hallway the back to went.
+19 bedroom Mary journeyed to the.
+20 to John the went kitchen.
+21 journeyed to bedroom John the.
+22 Sandra the moved kitchen to.
+23 to the Mary moved office.
+24 to the Mary hallway travelled.
+25 to the kitchen journeyed Mary.
+26 to journeyed Daniel bedroom the.
+27 the bathroom back went Mary to.
+28 went the to bedroom Mary.
+29 Mary the back hallway to went.
+30 to the Daniel travelled kitchen.
+31 Mary to the office travelled.
+32 the to moved bathroom John.
+33 to garden back John went the.
+34 went bathroom Sandra the to.
+35 journeyed Sandra office the to.
+36 the to went bedroom John.
+37 to the journeyed Mary garden.
+38 Mary office went the to.
+39 office to the moved John.
+40 travelled kitchen the to John.
+41 kitchen travelled to the Sandra.
+42 journeyed the to bathroom John.
+43 John there the took milk.
+44 down put milk John there the.
+45 carrying is  John What?	nothing	43 44
+46 the Mary travelled kitchen to.
+47 Mary the went back bedroom to.
+48  John is What carrying?	nothing	43 44
+49 moved Sandra to hallway the.
+50 garden the Mary to moved.
+51  is John carrying What?	nothing	43 44
+52 the to Daniel back bathroom went.
+53 the hallway moved to John.
+54 journeyed to the Mary kitchen.
+55 moved garden the Mary to.
+56 the travelled office to Sandra.
+57 office Daniel went the to.
+58 the back Sandra bathroom went to.
+59 Sandra the there grabbed apple.
+60 carrying Sandra  is What?	apple	59
+61 apple the dropped Sandra.
+62 bedroom the Sandra travelled to.
+63 What Sandra is  carrying?	nothing	59 61
+1 Sandra moved to the bedroom.
+2 hallway the travelled to Mary.
+3 journeyed garden to Sandra the.
+4 grabbed the Mary there football.
+5  What Mary is carrying?	football	4
+6 milk up picked Sandra there the.
+7 got the there John apple.
+8 What carrying is John ?	apple	7
+9 journeyed Sandra to the hallway.
+10 the apple John put down.
+11 Sandra carrying What  is?	milk	6
+12 Mary dropped the football.
+13 the grabbed there apple John.
+14 What John is carrying ?	apple	7 10 13
+15 Daniel moved garden to the.
+16 the Sandra to office journeyed.
+17 Mary What is  carrying?	nothing	4 12
+1 the bathroom journeyed Sandra to.
+2 Mary the moved to bathroom.
+3 Sandra apple there picked up the.
+4 the kitchen to John travelled.
+5 Sandra  carrying What is?	apple	3
+6 to the travelled Sandra office.
+7 hallway Mary to the travelled.
+8 What is carrying Sandra ?	apple	3
+9 the Sandra there grabbed milk.
+10 the Sandra dropped milk.
+11 carrying is Sandra  What?	apple	3 9 10
+12 Sandra milk up there the picked.
+13 John to travelled the garden.
+14 carrying What is  Sandra?	apple,milk	3 9 10 12
+15 the went John bathroom back to.
+16 went the bathroom Daniel to.
+17 carrying  Sandra is What?	apple,milk	3 9 10 12
+1 took the Daniel there milk.
+2 kitchen to Daniel the journeyed.
+3 is carrying Daniel What ?	milk	1
+4 to bathroom John the travelled.
+5 apple there took John the.
+6 carrying is Daniel What ?	milk	1
+7 to the kitchen John journeyed.
+8 Daniel the football there grabbed.
+9 carrying Daniel What  is?	milk,football	1 8
+10 travelled the Mary to bedroom.
+11 put Daniel down milk the.
+12 John  carrying is What?	apple	5
+13 the milk John there grabbed.
+14 kitchen travelled the Sandra to.
+15  carrying Daniel is What?	football	1 11 8
+1 journeyed the garden to Sandra.
+2 Daniel grabbed there the apple.
+3 is  carrying What Daniel?	apple	2
+4 to went Mary bedroom the.
+5 Daniel apple the left.
+6  carrying is Daniel What?	nothing	2 5
+7 to moved garden Daniel the.
+8 to went office back the Daniel.
+9 What carrying is  Daniel?	nothing	2 5
+10 went the bathroom to back Daniel.
+11 football Mary there the got.
+12 carrying is What Daniel ?	nothing	2 5
+13 to journeyed Sandra hallway the.
+14 discarded the there Mary football.
+15  Mary carrying What is?	nothing	11 14
+1 the journeyed John bedroom to.
+2 the to John bathroom journeyed.
+3 went the kitchen Daniel back to.
+4 bathroom to the Mary went back.
+5 garden to the went Mary.
+6 grabbed there Daniel the apple.
+7 What Daniel is carrying ?	apple	6
+8 to Daniel the bathroom went.
+9 to Mary the moved kitchen.
+10  is carrying What Daniel?	apple	6
+11 to journeyed Sandra the office.
+12 the to back went kitchen Sandra.
+13 is carrying What Daniel ?	apple	6
+14 back Daniel went the to kitchen.
+15 kitchen to went John the.
+16 garden went to the John back.
+17 took the there football John.
+18 is  John carrying What?	football	17
+19 the moved bathroom to Mary.
+20 Sandra travelled the to hallway.
+21 is John carrying What ?	football	17
+1 Sandra journeyed kitchen the to.
+2 to bedroom John moved the.
+3 Daniel to the journeyed hallway.
+4 went to Sandra the hallway.
+5 football the Mary got there.
+6 to the Mary went bedroom.
+7 carrying is What  Mary?	football	5
+8 football left the Mary.
+9 there got football the Mary.
+10  carrying Mary What is?	football	5 8 9
+11 the Mary football left.
+12 Mary office the went to.
+13 carrying  What is Mary?	nothing	5 8 9 11
+14 Daniel back went garden to the.
+15 grabbed the John football there.
+16 is John What carrying ?	football	15
+17 Mary travelled the to garden.
+18 moved office Daniel to the.
+19 John  What is carrying?	football	15
+1 football Sandra there the picked up.
+2 to Sandra the office journeyed.
+3 Sandra is What  carrying?	football	1
+4 the Sandra discarded football.
+5 there picked up the football Sandra.
+6 carrying  Sandra What is?	football	1 4 5
+7 Sandra the left football.
+8 garden the went Sandra to.
+9 carrying What Sandra  is?	nothing	1 4 5 7
+10 the apple grabbed Daniel there.
+11 to the office moved Mary.
+12 Daniel carrying is  What?	apple	10
+13 the went to back bathroom John.
+14 the Sandra went back to bathroom.
+15 What Daniel  carrying is?	apple	10
+1 moved to Sandra garden the.
+2 apple up picked Sandra the there.
+3 What carrying is Sandra ?	apple	2
+4 to went the Mary garden back.
+5 the moved bathroom Mary to.
+6 What carrying Sandra is ?	apple	2
+7 the to moved Daniel hallway.
+8 apple the Sandra dropped.
+9 What  carrying Sandra is?	nothing	2 8
+10 the there got milk Mary.
+11 John the there football took.
+12  carrying What is Sandra?	nothing	2 8
+13 office the Daniel went to.
+14 milk the Mary left.
+15 What carrying  Mary is?	nothing	10 14
+1 office Daniel the to moved.
+2 garden the travelled Mary to.
+3 Mary to kitchen the journeyed.
+4 grabbed Mary there the football.
+5 is What  carrying Mary?	football	4
+6 went Daniel the hallway to.
+7 Mary bathroom went to the.
+8 What  is Mary carrying?	football	4
+9 the apple there up picked John.
+10 back the office to Sandra went.
+11 carrying  What is Mary?	football	4
+12 John the apple discarded.
+13 football put the there down Mary.
+14 carrying  is Mary What?	nothing	4 13
+15 the Mary there football grabbed.
+16 apple there up the Mary picked.
+17 carrying  is John What?	nothing	9 12
+1 back went Daniel to the garden.
+2 Daniel there the apple grabbed.
+3 is Daniel carrying What ?	apple	2
+4 dropped apple Daniel the.
+5 Daniel took there apple the.
+6 is  carrying What Daniel?	apple	2 4 5
+7 the Mary journeyed office to.
+8 went to garden John the.
+9 What  is Daniel carrying?	apple	2 4 5
+10 journeyed hallway to Mary the.
+11 kitchen John the to journeyed.
+12 carrying Daniel What  is?	apple	2 4 5
+13 dropped the Daniel apple.
+14 Sandra apple there the took.
+15 Daniel is What  carrying?	nothing	2 4 5 13
+1 office to Mary the travelled.
+2 kitchen John the went to.
+3 office John to the moved.
+4 went hallway to the Daniel back.
+5 went Sandra to bedroom the.
+6 journeyed to the bedroom John.
+7 garden the to Daniel went.
+8 moved the bathroom to Mary.
+9 football Daniel there the got.
+10 to went kitchen the Daniel.
+11 is What carrying  Daniel?	football	9
+12 there apple the Daniel grabbed.
+13 garden Sandra went to the.
+14  Daniel What is carrying?	football,apple	9 12
+15 John to went hallway the back.
+16 dropped football the Daniel.
+17 is carrying What  Daniel?	apple	9 16 12
+18 to went the Mary hallway.
+19 Daniel left apple the.
+20 Daniel What  is carrying?	nothing	9 16 12 19
+21 the journeyed Mary garden to.
+22 bathroom the to journeyed Daniel.
+23 What  Daniel carrying is?	nothing	9 16 12 19
+1 to the Mary kitchen moved.
+2 hallway to journeyed the John.
+3 the Mary went garden to.
+4 the there Daniel grabbed apple.
+5 carrying is What  Daniel?	apple	4
+6 moved to John the bathroom.
+7 Mary the to moved kitchen.
+8 What  carrying Daniel is?	apple	4
+9 Daniel apple left there the.
+10 picked up Daniel the there milk.
+11 Daniel What is  carrying?	milk	4 9 10
+12 Mary the went office to.
+13 discarded the Daniel milk.
+14  Daniel carrying is What?	nothing	4 9 10 13
+15 Daniel the went kitchen to back.
+16 bedroom Sandra back the went to.
+17 is Daniel What  carrying?	nothing	4 9 10 13
+1 the travelled to kitchen Daniel.
+2 John travelled to the office.
+3 football the took Daniel there.
+4 grabbed there Sandra apple the.
+5 is  carrying What Daniel?	football	3
+6 the to Sandra garden went.
+7 journeyed to kitchen John the.
+8 What is Sandra  carrying?	apple	4
+9 left apple the Sandra.
+10 office back to Mary the went.
+11 carrying What is Sandra ?	nothing	4 9
+12 Mary went bathroom the to back.
+13 to moved John the hallway.
+14 What is  carrying Sandra?	nothing	4 9
+15 apple there got the Sandra.
+16 the Sandra moved to bathroom.
+17 carrying Sandra is What ?	apple	4 9 15
+1 the garden Mary to back went.
+2 the Sandra back hallway to went.
+3 garden Sandra journeyed to the.
+4 to the John moved kitchen.
+5 office moved the Sandra to.
+6 apple up there the picked John.
+7 carrying  What John is?	apple	6
+8 to journeyed the bathroom Daniel.
+9 John down apple put the.
+10 John  is carrying What?	nothing	6 9
+11 Mary hallway to the back went.
+12 took John the there apple.
+13  What is carrying John?	apple	6 9 12
+14 John apple the down put.
+15 went Sandra back to hallway the.
+16  What carrying John is?	nothing	6 9 12 14
+17 Sandra the bedroom back went to.
+18 went the garden back John to.
+19 John is carrying  What?	nothing	6 9 12 14
+1 the Sandra took there football.
+2 to the journeyed Daniel garden.
+3 carrying Sandra is What ?	football	1
+4 bedroom the travelled Mary to.
+5 to bedroom journeyed Daniel the.
+6  What carrying Sandra is?	football	1
+7 Sandra dropped the football.
+8 up the apple Daniel there picked.
+9 is Sandra carrying  What?	nothing	1 7
+10 dropped apple the Daniel.
+11 the there got Mary apple.
+12 Mary is  What carrying?	apple	11
+13 football took the there Sandra.
+14 went to John kitchen back the.
+15 What is Daniel  carrying?	nothing	8 10
+1 to Mary bathroom moved the.
+2 there the grabbed Daniel milk.
+3  carrying is Daniel What?	milk	2
+4 to the went Mary hallway.
+5 Sandra to moved the hallway.
+6 Daniel carrying is What ?	milk	2
+7 Sandra bathroom to journeyed the.
+8 John to kitchen the travelled.
+9 carrying is  Daniel What?	milk	2
+10 moved Sandra to the kitchen.
+11 to moved Mary the office.
+12 Daniel journeyed the to bathroom.
+13 moved garden Sandra the to.
+14 to went the bedroom back Mary.
+15 moved Mary kitchen to the.
+16 Daniel the left there milk.
+17 Sandra football the got there.
+18 carrying What is  Sandra?	football	17
+19 bedroom the went to Sandra.
+20 the office went Sandra to.
+21 is Daniel What carrying ?	nothing	2 16
+1 back kitchen went the Sandra to.
+2 got there milk Mary the.
+3 carrying is What  Mary?	milk	2
+4 to the hallway moved Sandra.
+5 to travelled Daniel the hallway.
+6 is carrying  Mary What?	milk	2
+7 kitchen to Daniel the travelled.
+8 football Mary the there took.
+9 What is  Mary carrying?	milk,football	2 8
+10 to bedroom Sandra journeyed the.
+11 garden moved Sandra to the.
+12  is What Mary carrying?	milk,football	2 8
+13 Mary milk dropped the.
+14 Mary the bedroom to moved.
+15 What is Mary  carrying?	football	2 13 8
+1 got the Daniel there football.
+2 travelled Sandra to the hallway.
+3 is Daniel  carrying What?	football	1
+4 to journeyed garden Mary the.
+5 up picked milk Mary there the.
+6 carrying What  is Daniel?	football	1
+7 the went Mary to bedroom.
+8 journeyed hallway Mary to the.
+9  carrying is What Mary?	milk	5
+10 to moved bathroom the Daniel.
+11 Daniel garden moved the to.
+12 is What Mary  carrying?	milk	5
+13 football Daniel left the.
+14 back the to kitchen went Daniel.
+15 carrying Daniel  What is?	nothing	1 13
+1 Daniel the journeyed to office.
+2 kitchen the moved Daniel to.
+3 milk there Sandra the got.
+4 the Daniel hallway moved to.
+5 Sandra What is  carrying?	milk	3
+6 put the Sandra milk down.
+7 Sandra there milk the grabbed.
+8 is  carrying Sandra What?	milk	3 6 7
+9 back to the Sandra went bathroom.
+10 the to went back John bedroom.
+11  carrying What Sandra is?	milk	3 6 7
+12 the there football got Sandra.
+13 Mary to bedroom the moved.
+14 What Sandra  carrying is?	milk,football	3 6 7 12
+15 Sandra the travelled to hallway.
+16 milk dropped Sandra the.
+17 carrying Sandra What  is?	football	3 6 7 16 12
+1 bathroom went the John to.
+2 to travelled the garden Daniel.
+3 hallway moved the to Mary.
+4 Sandra bedroom to the moved.
+5 Daniel the journeyed hallway to.
+6 there up Mary the apple picked.
+7 What  carrying is Mary?	apple	6
+8 travelled bathroom Sandra the to.
+9 apple dropped Mary the.
+10 is carrying What  Mary?	nothing	6 9
+11 office the Daniel moved to.
+12 the football Daniel grabbed there.
+13 Mary  carrying is What?	nothing	6 9
+14 to the moved bedroom Daniel.
+15 got apple there Mary the.
+16 What  carrying is Daniel?	football	12
+17 the football dropped Daniel.
+18 Daniel to the journeyed bathroom.
+19  What is carrying Daniel?	nothing	12 17
+1 travelled Daniel to the hallway.
+2 bathroom Sandra journeyed to the.
+3 the office moved to Mary.
+4 there John apple the took.
+5  carrying John What is?	apple	4
+6 went to garden the Mary.
+7 Sandra took milk there the.
+8 is  John carrying What?	apple	4
+9 to the moved bedroom Daniel.
+10 discarded the milk there Sandra.
+11 carrying Sandra is  What?	nothing	7 10
+12 took Sandra milk there the.
+13 to Mary office the travelled.
+14 What  Sandra is carrying?	milk	7 10 12
+15 the bathroom travelled Daniel to.
+16 Sandra dropped the there milk.
+17 What Sandra  is carrying?	nothing	7 10 12 16
+1 hallway John to the went.
+2 apple Sandra the up picked there.
+3 What carrying Sandra is ?	apple	2
+4 put there the Sandra down apple.
+5 office to John the travelled.
+6 Sandra is What  carrying?	nothing	2 4
+7 to Mary hallway went back the.
+8 got the there apple Mary.
+9 What Mary carrying is ?	apple	8
+10 kitchen Mary to travelled the.
+11 dropped Mary the apple.
+12  Mary is carrying What?	nothing	8 11
+13 kitchen Sandra the journeyed to.
+14 Mary moved the to bedroom.
+15 Mary What is carrying ?	nothing	8 11
+1 football the there Sandra got.
+2 Mary to journeyed the bathroom.
+3 Sandra carrying What is ?	football	1
+4 back to kitchen the went Mary.
+5 garden travelled to John the.
+6 Sandra is What carrying ?	football	1
+7 Sandra to moved the kitchen.
+8 Sandra the put football down.
+9 carrying Sandra  is What?	nothing	1 8
+10 football there Daniel took the.
+11 the there football Daniel dropped.
+12 What Sandra  is carrying?	nothing	1 8
+13 the John journeyed bedroom to.
+14 there took football the Daniel.
+15 Sandra carrying What  is?	nothing	1 8
+1 Daniel the bathroom to journeyed.
+2 journeyed office the Sandra to.
+3 there took Sandra the apple.
+4 went the Mary to office.
+5 carrying is Sandra What ?	apple	3
+6 to garden travelled Daniel the.
+7 Sandra the there milk took.
+8 carrying is What  Sandra?	apple,milk	3 7
+9 office moved to Daniel the.
+10 to bathroom journeyed the Sandra.
+11 carrying Sandra is  What?	apple,milk	3 7
+12 bathroom journeyed the Mary to.
+13 the Sandra back garden to went.
+14 Sandra carrying is  What?	apple,milk	3 7
+15 the to bathroom moved John.
+16 journeyed hallway the to Mary.
+17 the kitchen John to travelled.
+18 bathroom travelled to Daniel the.
+19 the Mary garden to travelled.
+20 hallway Daniel to the went.
+21 apple Sandra the dropped.
+22 grabbed the there Mary apple.
+23 Mary carrying What  is?	apple	22
+1 to Daniel garden went back the.
+2 hallway Sandra travelled the to.
+3 to bathroom moved the Daniel.
+4 football there took the Daniel.
+5 carrying Daniel What  is?	football	4
+6 bathroom to travelled John the.
+7 milk the Daniel there took.
+8 What  is carrying Daniel?	football,milk	4 7
+9 garden went the to John.
+10 down put milk Daniel the.
+11 carrying is  Daniel What?	football	4 7 10
+12 Daniel the football left.
+13 bathroom moved the John to.
+14 What carrying Daniel is ?	nothing	4 12 7 10
+15 kitchen Mary to travelled the.
+16 football the John there grabbed.
+17 carrying is Daniel What ?	nothing	4 12 7 10
+1 to back bedroom went the John.
+2 the picked there Daniel up football.
+3 Daniel carrying What is ?	football	2
+4 to Daniel the went garden back.
+5 the John moved to kitchen.
+6 carrying  What Daniel is?	football	2
+7 football Daniel the down put.
+8 went Sandra to back the kitchen.
+9  is Daniel What carrying?	nothing	2 7
+10 Mary to the moved garden.
+11 bedroom the Daniel went to.
+12 What carrying  Daniel is?	nothing	2 7
+13 the kitchen Mary to moved.
+14 Sandra to the travelled bedroom.
+15 to journeyed hallway the Sandra.
+16 office Sandra the journeyed to.
+17 bedroom Mary the back went to.
+18 bedroom travelled the John to.
+19 went to the bathroom Sandra back.
+20 bathroom moved the to Mary.
+21 moved the office Sandra to.
+22 kitchen travelled Sandra to the.
+23 to went John the kitchen back.
+24 to garden journeyed the John.
+25 bathroom to Sandra the back went.
+26 the John up picked there football.
+27 What  is John carrying?	football	26
+1 to moved Sandra the hallway.
+2 up picked milk Daniel there the.
+3  carrying Daniel is What?	milk	2
+4 John travelled the to garden.
+5 the football took Mary there.
+6 Daniel What  carrying is?	milk	2
+7 football dropped the Mary.
+8 to the Sandra garden moved.
+9  Mary What is carrying?	nothing	5 7
+10 bedroom the journeyed Sandra to.
+11 to the went garden Daniel.
+12 is  What Mary carrying?	nothing	5 7
+13 bedroom went back Mary the to.
+14 hallway the to Mary travelled.
+15 bedroom the journeyed John to.
+16 the John garden to moved.
+17 bathroom Daniel to went the.
+18 Daniel milk the down put.
+19 carrying What  is Daniel?	nothing	2 18
+1 got Sandra there milk the.
+2 John there apple grabbed the.
+3 is carrying Sandra What ?	milk	1
+4 moved to bedroom the John.
+5 the left apple John.
+6  is carrying Sandra What?	milk	1
+7 Daniel the apple there got.
+8 the back to went Sandra garden.
+9  is carrying John What?	nothing	2 5
+10 there the got football Sandra.
+11 the left milk Sandra.
+12 carrying What  is Sandra?	football	1 11 10
+13 went the kitchen back Mary to.
+14 to went back bathroom Mary the.
+15 carrying  Sandra What is?	football	1 11 10
+1 Sandra the bathroom back to went.
+2 Sandra hallway to the travelled.
+3 got Mary apple the there.
+4 Mary put apple down the.
+5  What is carrying Mary?	nothing	3 4
+6 kitchen Sandra travelled the to.
+7 Mary the apple took there.
+8  is Mary What carrying?	apple	3 4 7
+9 the down apple Mary put.
+10 apple Mary took the there.
+11  What carrying Mary is?	apple	3 4 7 9 10
+12 apple down Mary put the.
+13 the bedroom to journeyed Sandra.
+14 is What carrying Mary ?	nothing	3 4 7 9 10 12
+15 to the bedroom John travelled.
+16 the went to Mary kitchen.
+17 carrying  What Mary is?	nothing	3 4 7 9 10 12
+1 the Daniel football grabbed there.
+2 football down the Daniel put.
+3 is What Daniel  carrying?	nothing	1 2
+4 to bedroom Sandra the travelled.
+5 John garden moved the to.
+6 is Daniel carrying  What?	nothing	1 2
+7 to Sandra the went garden.
+8 moved bedroom the Sandra to.
+9 What  Daniel is carrying?	nothing	1 2
+10 Daniel there football the took.
+11 milk took there the Mary.
+12  carrying What is Daniel?	football	1 2 10
+13 to the Mary garden travelled.
+14 the left Daniel football.
+15  carrying What is Mary?	milk	11
+1 Daniel the football there took.
+2 went to Sandra the garden.
+3 Daniel carrying is  What?	football	1
+4 down there the football Daniel put.
+5 Daniel grabbed there football the.
+6 What is  Daniel carrying?	football	1 4 5
+7 the there milk got Sandra.
+8 to moved Daniel office the.
+9 Sandra carrying is  What?	milk	7
+10 football the left Daniel.
+11 moved to the Sandra kitchen.
+12 Daniel carrying What  is?	nothing	1 4 5 10
+13 took there the Sandra apple.
+14 bedroom to Sandra moved the.
+15 Daniel carrying  What is?	nothing	1 4 5 10
+1 Sandra kitchen went the to.
+2 football there picked the up Sandra.
+3 is  What Sandra carrying?	football	2
+4 the travelled to Mary bedroom.
+5 Daniel to travelled the kitchen.
+6 Sandra What is carrying ?	football	2
+7 the went hallway to John.
+8 back went Sandra to the garden.
+9 is carrying What  Sandra?	football	2
+10 went office Mary to the.
+11 Sandra the football left.
+12 What  carrying Sandra is?	nothing	2 11
+13 there Sandra picked football the up.
+14 the Mary moved hallway to.
+15 is What  Sandra carrying?	football	2 11 13
+1 football the Mary there grabbed.
+2 garden to the went Sandra back.
+3 is Mary What carrying ?	football	1
+4 John bedroom the to went back.
+5 to the bathroom John journeyed.
+6 What Mary carrying is ?	football	1
+7 apple there took Mary the.
+8 back bathroom to went Sandra the.
+9 What carrying Mary is ?	football,apple	1 7
+10 the Mary to hallway went back.
+11 travelled the office to Daniel.
+12 What Mary is  carrying?	football,apple	1 7
+13 bathroom to journeyed Mary the.
+14 the dropped football Mary.
+15  carrying Mary is What?	apple	1 14 7
+1 the moved to Daniel bedroom.
+2 to journeyed kitchen the Daniel.
+3 apple there the grabbed John.
+4 there got Mary the milk.
+5 carrying  John is What?	apple	3
+6 football Sandra there grabbed the.
+7 down Mary the milk put.
+8 is John carrying What ?	apple	3
+9 Mary to hallway went the back.
+10 apple the John dropped.
+11 What  is carrying Mary?	nothing	4 7
+12 grabbed the apple there Daniel.
+13 football put Sandra down the.
+14 Daniel  is carrying What?	apple	12
+15 there grabbed football the Sandra.
+16 Sandra discarded there football the.
+17 carrying  is Daniel What?	apple	12
+1 went back the kitchen Sandra to.
+2 the Sandra bedroom travelled to.
+3 bathroom Sandra journeyed the to.
+4 there the up milk Sandra picked.
+5  Sandra is carrying What?	milk	4
+6 football took Daniel the there.
+7 journeyed Mary kitchen the to.
+8 What is  Sandra carrying?	milk	4
+9 Sandra went the back hallway to.
+10 John to hallway journeyed the.
+11 carrying  Sandra is What?	milk	4
+12 Daniel football dropped the.
+13 there grabbed Daniel the football.
+14 carrying Daniel is  What?	football	6 12 13
+15 to the bedroom John went.
+16 the office John to travelled.
+17 carrying Daniel What  is?	football	6 12 13
+1 the Sandra to moved bedroom.
+2 football got there Mary the.
+3 is What carrying Mary ?	football	2
+4 to the journeyed Sandra garden.
+5 Sandra to office the moved.
+6 Mary carrying is  What?	football	2
+7 kitchen to went the Mary.
+8 travelled Mary the to office.
+9 carrying  is Mary What?	football	2
+10 the to kitchen Sandra went.
+11 to went the bathroom Mary.
+12 travelled Mary the to office.
+13 to hallway went Mary the.
+14 Mary dropped the football.
+15 the Daniel kitchen to journeyed.
+16 What carrying  is Mary?	nothing	2 14
+17 to the office journeyed Sandra.
+18 back kitchen Mary to went the.
+19 is  Mary What carrying?	nothing	2 14
+1 the John back office went to.
+2 took John apple there the.
+3 John is  carrying What?	apple	2
+4 the John journeyed garden to.
+5 moved the John bedroom to.
+6 carrying  John What is?	apple	2
+7 picked football up John there the.
+8 travelled to the office Sandra.
+9 carrying  What is John?	apple,football	2 7
+10 Daniel to the hallway travelled.
+11 the garden to travelled John.
+12 is carrying John  What?	apple,football	2 7
+13 milk there got John the.
+14 to garden Sandra moved the.
+15 John is  carrying What?	apple,football,milk	2 7 13
+1 the Sandra travelled bedroom to.
+2 hallway travelled to the Sandra.
+3 went to garden the Sandra back.
+4 Sandra travelled to the kitchen.
+5 the moved bedroom Mary to.
+6 Daniel there got the football.
+7 Daniel  carrying What is?	football	6
+8 there got milk the Mary.
+9 the travelled bathroom John to.
+10  is carrying What Mary?	milk	8
+11 back went the to garden John.
+12 dropped milk the Mary.
+13 What carrying Daniel is ?	football	6
+14 Daniel football the dropped.
+15 the Mary to kitchen went.
+16 Daniel is carrying  What?	nothing	6 14
+17 the Sandra went bathroom to.
+18 the hallway to Daniel travelled.
+19 is Daniel What  carrying?	nothing	6 14
+1 bathroom Mary to the went back.
+2 milk Mary the there picked up.
+3 carrying Mary What  is?	milk	2
+4 the there dropped milk Mary.
+5 milk Mary grabbed there the.
+6  is What carrying Mary?	milk	2 4 5
+7 went garden the to Mary.
+8 the garden John to went.
+9 Mary What carrying is ?	milk	2 4 5
+10 Mary milk dropped the.
+11 to office John journeyed the.
+12 Mary What is carrying ?	nothing	2 4 5 10
+13 the kitchen moved to Mary.
+14 Sandra travelled the kitchen to.
+15 is Mary carrying What ?	nothing	2 4 5 10
+1 journeyed John to office the.
+2 moved Mary to the office.
+3 there the took apple Sandra.
+4 Sandra the there picked football up.
+5 What Sandra  is carrying?	apple,football	3 4
+6 Sandra football the dropped.
+7 football there grabbed John the.
+8 What  is carrying John?	football	7
+9 John the discarded football.
+10 Sandra put the down apple.
+11 carrying Sandra is  What?	nothing	3 10 4 6
+12 the there Mary grabbed apple.
+13 football up John the there picked.
+14  carrying What is John?	football	7 9 13
+15 the went Sandra bathroom back to.
+16 left the there apple Mary.
+17 carrying is What  John?	football	7 9 13
+1 the office Mary to journeyed.
+2 bedroom the to John went.
+3 went the bedroom to Sandra.
+4 the Sandra bathroom to back went.
+5 moved the Daniel garden to.
+6 the back bathroom went John to.
+7 John journeyed to the office.
+8 kitchen the Daniel back to went.
+9 Daniel the got there apple.
+10 Daniel the dropped apple.
+11 What is carrying Daniel ?	nothing	9 10
+12 there the got apple Daniel.
+13 Daniel apple the dropped.
+14 Daniel carrying is  What?	nothing	9 10 12 13
+15 Mary bathroom went the to.
+16 Daniel there apple the took.
+17 is  carrying Daniel What?	apple	9 10 12 13 16
+18 Sandra to office the moved.
+19 to garden John the moved.
+20 Daniel carrying What is ?	apple	9 10 12 13 16
+21 the Mary hallway to travelled.
+22 kitchen the went Mary to.
+23 carrying What Daniel is ?	apple	9 10 12 13 16
+1 the up milk picked there Daniel.
+2 the Daniel picked up football there.
+3 is  carrying Daniel What?	milk,football	1 2
+4 back to John the went garden.
+5 garden the Daniel back to went.
+6 carrying is Daniel  What?	milk,football	1 2
+7 the to went bathroom Sandra.
+8 dropped the Daniel football.
+9 What Daniel is carrying ?	milk	1 2 8
+10 to the moved hallway Sandra.
+11 the to Daniel kitchen went.
+12 is  carrying Daniel What?	milk	1 2 8
+13 went to John office back the.
+14 bathroom journeyed Mary to the.
+15 is Daniel carrying What ?	milk	1 2 8
+1 moved to the Mary office.
+2 journeyed to John kitchen the.
+3 to Daniel the moved garden.
+4 to went office the back John.
+5 Sandra travelled bedroom to the.
+6 milk there grabbed Sandra the.
+7 carrying What is Sandra ?	milk	6
+8 the went bathroom John to back.
+9 there Sandra discarded milk the.
+10 carrying What is Sandra ?	nothing	6 9
+11 kitchen back to went Sandra the.
+12 to hallway the went back Mary.
+13 What Sandra is  carrying?	nothing	6 9
+14 bedroom journeyed to Daniel the.
+15 the Mary to office journeyed.
+16 carrying Sandra is  What?	nothing	6 9
+17 to travelled John the garden.
+18 kitchen travelled John to the.
+19 the Daniel moved to garden.
+20 to John the journeyed garden.
+21 Sandra travelled to the hallway.
+22 Sandra journeyed to the bedroom.
+23 to office journeyed John the.
+24 travelled to the bathroom Daniel.
+25 garden to travelled the Daniel.
+26 to Sandra the garden travelled.
+27 went back bathroom to Sandra the.
+28 moved John to the bathroom.
+29 the bedroom moved to John.
+30 there John milk the got.
+31 carrying  John What is?	milk	30
+1 garden Mary moved to the.
+2 to Mary moved the bedroom.
+3 to Sandra bathroom the went.
+4 milk there the Sandra took.
+5 What is carrying Sandra ?	milk	4
+6 the bathroom Daniel to journeyed.
+7 the up there Daniel apple picked.
+8 Sandra carrying is What ?	milk	4
+9 Daniel to the office travelled.
+10 the Daniel apple there discarded.
+11 Sandra is carrying What ?	milk	4
+12 Mary football there the took.
+13 apple Daniel there the took.
+14 What carrying  Mary is?	football	12
+15 put apple the Daniel down.
+16 went to bathroom the back Mary.
+17  carrying is Daniel What?	nothing	7 10 13 15
+1 the back Sandra to office went.
+2 the grabbed Sandra football there.
+3 Sandra carrying What  is?	football	2
+4 the moved to kitchen Sandra.
+5 John to hallway the journeyed.
+6 is  carrying Sandra What?	football	2
+7 Sandra left football the.
+8 to back bathroom went Daniel the.
+9 is  carrying What Sandra?	nothing	2 7
+10 Sandra the football there took.
+11 garden the to journeyed John.
+12 is Sandra  What carrying?	football	2 7 10
+13 the Mary there apple grabbed.
+14 the Sandra bathroom went back to.
+15 What  Mary carrying is?	apple	13
+1 the office went John to back.
+2 back the to Sandra office went.
+3 Mary got football there the.
+4 garden to Sandra the travelled.
+5 Mary What is carrying ?	football	3
+6 the kitchen journeyed Daniel to.
+7 Mary the went kitchen to back.
+8 Mary What carrying is ?	football	3
+9 picked there up milk the Sandra.
+10 the bedroom John travelled to.
+11 carrying Sandra is What ?	milk	9
+12 kitchen went the to Sandra.
+13 travelled the Sandra garden to.
+14 What Sandra  carrying is?	milk	9
+15 office John to the went.
+16 put milk there the down Sandra.
+17 is carrying Sandra  What?	nothing	9 16
+1 moved Sandra kitchen to the.
+2 to Daniel bathroom moved the.
+3 the there John milk grabbed.
+4 the hallway to travelled Daniel.
+5 What John carrying is ?	milk	3
+6 dropped milk John the.
+7 the John to moved hallway.
+8 John carrying is What ?	nothing	3 6
+9 went to the Mary bedroom.
+10 there got the football Mary.
+11 is John carrying What ?	nothing	3 6
+12 the went to hallway Mary.
+13 Sandra garden went to the.
+14  Mary is What carrying?	football	10
+15 football Mary the discarded.
+16 football there picked the up Daniel.
+17 Daniel What carrying  is?	football	16
+1 the there Daniel milk took.
+2 there football Mary got the.
+3  Daniel carrying is What?	milk	1
+4 dropped the milk Daniel.
+5 bedroom Daniel to the travelled.
+6 is  carrying Daniel What?	nothing	1 4
+7 the football left Mary.
+8 to kitchen Daniel the journeyed.
+9 is Daniel What carrying ?	nothing	1 4
+10 Sandra the apple got there.
+11 dropped apple the Sandra.
+12 What  is Sandra carrying?	nothing	10 11
+13 football got the Sandra there.
+14 bathroom the Daniel to went.
+15 What is  carrying Sandra?	football	10 11 13
+1 the to Sandra moved bathroom.
+2 hallway the to moved Mary.
+3 the Sandra to went bedroom.
+4 John to the bathroom moved.
+5 to the Daniel journeyed office.
+6 Sandra went to office the.
+7 journeyed Sandra to the kitchen.
+8 John went the office to.
+9 John moved to the bedroom.
+10 back went to the bathroom Sandra.
+11 up the John milk picked there.
+12 the to Mary bedroom went.
+13 What is John carrying ?	milk	11
+14 office to went the Mary.
+15 kitchen moved John the to.
+16  carrying is John What?	milk	11
+17 Mary to kitchen the went.
+18 travelled the to hallway John.
+19 moved office the to Sandra.
+20 journeyed garden Daniel to the.
+21 put milk down John the.
+22 hallway to the Daniel travelled.
+23 carrying is John  What?	nothing	11 21
+24 Sandra the to hallway journeyed.
+25 to the Mary travelled bathroom.
+26 carrying  What John is?	nothing	11 21
+27 took the there Sandra milk.
+28 back the John bathroom went to.
+29 Sandra What is  carrying?	milk	27
+1 Daniel bedroom the travelled to.
+2 got the apple there Sandra.
+3 carrying  What Sandra is?	apple	2
+4 Sandra put apple the down there.
+5 Sandra moved the to kitchen.
+6 carrying is What Sandra ?	nothing	2 4
+7 back went Mary to bathroom the.
+8 apple up there picked the John.
+9 carrying What Sandra is ?	nothing	2 4
+10 up football Mary the picked there.
+11 apple dropped John the.
+12 John carrying What is ?	nothing	8 11
+13 to Mary journeyed the garden.
+14 garden the Sandra went back to.
+15 carrying  What is Mary?	football	10
+1 bedroom the to Sandra back went.
+2 to bathroom went the Mary.
+3 travelled the John to kitchen.
+4 moved Mary garden the to.
+5 Sandra the to moved kitchen.
+6 went Mary bedroom the to.
+7 to travelled bedroom the Sandra.
+8 to the Mary hallway travelled.
+9 bedroom to the travelled Daniel.
+10 went Sandra bathroom to the.
+11 milk Sandra took there the.
+12 moved office to John the.
+13  What is Sandra carrying?	milk	11
+14 back Sandra to went hallway the.
+15 the to went bathroom Daniel.
+16 carrying What Sandra  is?	milk	11
+17 back office the went to Daniel.
+18 John apple there the grabbed.
+19  is John What carrying?	apple	18
+20 the football took there Mary.
+21 the kitchen went Daniel to.
+22  carrying John What is?	apple	18
+23 the garden Sandra to moved.
+24 the apple left John.
+25  carrying Mary What is?	football	20
+1 hallway went Mary to the.
+2 garden the travelled Daniel to.
+3 Mary the got there milk.
+4 office the journeyed to Mary.
+5 is  Mary What carrying?	milk	3
+6 put milk the down Mary.
+7 kitchen Sandra went to the.
+8 What carrying  is Mary?	nothing	3 6
+9 milk up Mary picked there the.
+10 Mary went hallway to the.
+11 What is carrying Mary ?	milk	3 6 9
+12 there the took football Mary.
+13 to Daniel bathroom the went.
+14 What is carrying  Mary?	milk,football	3 6 9 12
+15 put Mary the milk down.
+16 left football Mary the.
+17 Mary carrying  is What?	nothing	3 6 9 15 12 16
+1 journeyed Sandra the bathroom to.
+2 Mary milk there grabbed the.
+3 is What carrying Mary ?	milk	2
+4 garden to journeyed the Mary.
+5 Mary dropped milk the.
+6 Mary carrying is What ?	nothing	2 5
+7 journeyed office Sandra the to.
+8 Sandra kitchen travelled to the.
+9 Mary  is carrying What?	nothing	2 5
+10 the John moved garden to.
+11 the to Sandra journeyed garden.
+12 is What carrying  Mary?	nothing	2 5
+13 got the Mary there football.
+14 there apple the John took.
+15 What  carrying Mary is?	football	2 5 13
+1 Daniel moved the to hallway.
+2 went to back John the bathroom.
+3 Mary bathroom to the went.
+4 John the to hallway travelled.
+5 the Daniel to journeyed garden.
+6 the to bedroom Mary back went.
+7 moved to Daniel the kitchen.
+8 picked up the Daniel apple there.
+9 is carrying  What Daniel?	apple	8
+10 travelled to garden Daniel the.
+11 down put apple Daniel the.
+12 is carrying What  Daniel?	nothing	8 11
+13 journeyed Daniel office to the.
+14 kitchen the to Sandra journeyed.
+15 What  Daniel is carrying?	nothing	8 11
+16 Mary to garden the travelled.
+17 hallway the Sandra to went.
+18  carrying is Daniel What?	nothing	8 11
+19 the to bathroom went Mary.
+20 travelled Sandra garden to the.
+21 the travelled hallway Sandra to.
+22 bedroom Daniel the went to.
+23 the hallway moved Mary to.
+24 there the milk Daniel grabbed.
+25 What Daniel is  carrying?	milk	8 11 24
+1 got apple the Daniel there.
+2 to went back the office John.
+3 is  What carrying Daniel?	apple	1
+4 bathroom the John to moved.
+5 Sandra to journeyed garden the.
+6 is  carrying Daniel What?	apple	1
+7 journeyed Sandra the to kitchen.
+8 Mary to journeyed the kitchen.
+9 hallway to the Sandra went.
+10 bedroom the journeyed to Sandra.
+11 Daniel kitchen moved the to.
+12 the up milk there Mary picked.
+13 Mary is What  carrying?	milk	12
+14 the Daniel discarded apple.
+15 there apple took Mary the.
+16 is What  Daniel carrying?	nothing	1 14
+17 to John the kitchen travelled.
+18 apple the put down Mary.
+19 carrying Mary  is What?	milk	12 15 18
+1 office went back the John to.
+2 to back the went kitchen John.
+3 bedroom travelled to Daniel the.
+4 Sandra garden the travelled to.
+5 to John office moved the.
+6 travelled to Sandra office the.
+7 hallway Mary to the travelled.
+8 the Mary office to journeyed.
+9 the back Mary to bathroom went.
+10 garden Sandra to the journeyed.
+11 got Mary the there milk.
+12 took Mary the football there.
+13 What carrying Mary is ?	milk,football	11 12
+14 the Daniel garden back to went.
+15 moved the Mary kitchen to.
+16 Mary  carrying is What?	milk,football	11 12
+17 to hallway the John journeyed.
+18 the milk down Mary put.
+19 Mary What  carrying is?	football	11 18 12
+20 to the hallway travelled Mary.
+21 to John went garden the.
+22 is carrying  Mary What?	football	11 18 12
+23 Mary the to travelled garden.
+24 to the Mary went bedroom.
+25 What  Mary is carrying?	football	11 18 12
+1 garden journeyed the Sandra to.
+2 travelled the hallway Daniel to.
+3 Daniel the football there took.
+4 to John kitchen the moved.
+5 Daniel What  carrying is?	football	3
+6 there Sandra the apple got.
+7 office back went to the John.
+8 What  is Daniel carrying?	football	3
+9 office Daniel the to went.
+10 John went to the bathroom back.
+11 is What Sandra  carrying?	apple	6
+12 went the to office Sandra.
+13 to hallway the moved Sandra.
+14 dropped football the Daniel.
+15 the Sandra dropped apple there.
+16 What is Daniel  carrying?	nothing	3 14
+17 journeyed the Mary office to.
+18 Daniel kitchen the to moved.
+19 is  carrying Daniel What?	nothing	3 14
+1 to Daniel journeyed the hallway.
+2 there the got Daniel football.
+3 carrying Daniel  What is?	football	2
+4 to Mary kitchen the travelled.
+5 bathroom John the travelled to.
+6 is Daniel carrying  What?	football	2
+7 to Mary the bathroom went back.
+8 to the back office Daniel went.
+9  What carrying Daniel is?	football	2
+10 Daniel there apple grabbed the.
+11 the hallway travelled to Daniel.
+12 carrying Daniel  is What?	football,apple	2 10
+13 to Daniel back the bedroom went.
+14 to went back the bedroom John.
+15 carrying Daniel  What is?	football,apple	2 10
+1 the to garden moved Sandra.
+2 took there John milk the.
+3 is  carrying What John?	milk	2
+4 John to went the bedroom.
+5 Mary to travelled the garden.
+6  is John What carrying?	milk	2
+7 kitchen the to Daniel travelled.
+8 to back garden the Daniel went.
+9 carrying What  John is?	milk	2
+10 the milk John discarded.
+11 the went bedroom to Daniel.
+12 John is carrying What ?	nothing	2 10
+13 journeyed to John the kitchen.
+14 to kitchen the journeyed Sandra.
+15 John What  is carrying?	nothing	2 10
+1 moved to the hallway Daniel.
+2 travelled the bathroom Mary to.
+3 bedroom the to back went Mary.
+4 moved the Mary office to.
+5 to Mary garden journeyed the.
+6 to Daniel went the bedroom back.
+7 Mary to went back the hallway.
+8 the apple there took Daniel.
+9 carrying Daniel is What ?	apple	8
+10 Daniel travelled to bathroom the.
+11 the left Daniel apple.
+12 What  carrying is Daniel?	nothing	8 11
+13 to John journeyed bedroom the.
+14 journeyed to Sandra bedroom the.
+15 carrying  is Daniel What?	nothing	8 11
+16 Daniel the there got apple.
+17 to bathroom the went back John.
+18  What carrying is Daniel?	apple	8 11 16
+19 apple the down put Daniel.
+20 the Sandra journeyed garden to.
+21 carrying Daniel is  What?	nothing	8 11 16 19
+1 Mary got there apple the.
+2 the office Sandra to journeyed.
+3 is carrying Mary What ?	apple	1
+4 to the garden John travelled.
+5 the back went to Mary kitchen.
+6 carrying What is Mary ?	apple	1
+7 the Mary milk there took.
+8 Sandra back went to the kitchen.
+9 What  carrying Mary is?	apple,milk	1 7
+10 went to the garden back Mary.
+11 the milk left Mary.
+12 is  What Mary carrying?	apple	1 7 11
+13 bedroom went Mary to the.
+14 there took the Mary football.
+15 What carrying  Mary is?	apple,football	1 7 11 14
+1 the moved to hallway Mary.
+2 to journeyed Mary the garden.
+3 garden to moved the Sandra.
+4 to moved John the bathroom.
+5 Mary there grabbed the apple.
+6 the garden to John moved.
+7 is What carrying Mary ?	apple	5
+8 journeyed the Mary to office.
+9 hallway John to the travelled.
+10 What Mary  carrying is?	apple	5
+11 Daniel went back hallway to the.
+12 John journeyed the to office.
+13 bathroom Daniel went to back the.
+14 apple dropped the Mary.
+15 carrying Mary is What ?	nothing	5 14
+16 there got apple the John.
+17 the to kitchen John back went.
+18 carrying  Mary What is?	nothing	5 14
+19 took football the John there.
+20 left football the John.
+21 carrying is John What ?	apple	16 19 20
+1 moved John to office the.
+2 the there took apple John.
+3  John carrying What is?	apple	2
+4 moved to Sandra the office.
+5 the moved to kitchen Sandra.
+6 What John is  carrying?	apple	2
+7 Mary the to office moved.
+8 John the picked football up there.
+9 What John carrying is ?	apple,football	2 8
+10 John dropped football the.
+11 office went to back Daniel the.
+12 is John  carrying What?	apple	2 8 10
+13 Mary there the football grabbed.
+14 discarded the Mary football.
+15 is Mary  carrying What?	nothing	13 14
+1 Mary garden the went to.
+2 bathroom to Daniel moved the.
+3 moved Sandra garden to the.
+4 took John milk the there.
+5 What John is carrying ?	milk	4
+6 the travelled Daniel to kitchen.
+7 travelled garden to John the.
+8 What is  John carrying?	milk	4
+9 bedroom Sandra to moved the.
+10 office Sandra to went the.
+11  carrying What is John?	milk	4
+12 to went Mary kitchen the.
+13 to moved John hallway the.
+14 Mary bedroom travelled the to.
+15 the Daniel football grabbed there.
+16  carrying What is Daniel?	football	15
+17 to went the back Daniel office.
+18 the milk John dropped.
+19 carrying What is  Daniel?	football	15
+1 moved office Daniel to the.
+2 got John milk the there.
+3 What  is John carrying?	milk	2
+4 the Daniel to journeyed hallway.
+5 down milk the John put.
+6 What carrying  John is?	nothing	2 5
+7 to the John moved kitchen.
+8 to the moved Sandra garden.
+9 What  John carrying is?	nothing	2 5
+10 travelled to Daniel office the.
+11 travelled Mary the to bedroom.
+12  John What carrying is?	nothing	2 5
+13 went Mary bathroom back to the.
+14 got the milk there Mary.
+15 carrying Mary What is ?	milk	14
+1 there took milk John the.
+2 Sandra to moved the bedroom.
+3 What carrying  is John?	milk	1
+4 milk the dropped John.
+5 up picked there the John milk.
+6 John What  carrying is?	milk	1 4 5
+7 travelled to Daniel bedroom the.
+8 bathroom to went the Sandra.
+9  What is carrying John?	milk	1 4 5
+10 John to went the hallway.
+11 back John kitchen to went the.
+12 What  is carrying John?	milk	1 4 5
+13 to the Sandra went office.
+14 moved office the to Daniel.
+15 football Daniel the picked there up.
+16 Mary the journeyed bathroom to.
+17 carrying What  Daniel is?	football	15
+1 took there the John milk.
+2 the journeyed John to office.
+3 is John carrying What ?	milk	1
+4 the journeyed to bathroom Sandra.
+5 milk the dropped John.
+6 John carrying What  is?	nothing	1 5
+7 Daniel took the football there.
+8 John grabbed the there milk.
+9 What carrying is John ?	milk	1 5 8
+10 bedroom the to went Sandra.
+11 to Daniel moved bedroom the.
+12 What John is carrying ?	milk	1 5 8
+13 back the Mary to went kitchen.
+14 garden went back the to John.
+15 John What is  carrying?	milk	1 5 8
+1 went bathroom to the John.
+2 went Mary the to back office.
+3 went Mary bedroom the to.
+4 the there apple got Mary.
+5 What  Mary is carrying?	apple	4
+6 journeyed bathroom to the Mary.
+7 apple the Mary discarded.
+8  carrying is What Mary?	nothing	4 7
+9 the to office Sandra travelled.
+10 Mary the got there apple.
+11 What  carrying Mary is?	apple	4 7 10
+12 back bathroom the Daniel to went.
+13 apple discarded Mary the.
+14  carrying is What Mary?	nothing	4 7 10 13
+15 the took there apple Daniel.
+16 left the Daniel apple.
+17 is carrying  Daniel What?	nothing	15 16
+1 bathroom the to travelled Daniel.
+2 Sandra the journeyed to kitchen.
+3 the went office Sandra to.
+4 the moved kitchen Daniel to.
+5 milk the Sandra there grabbed.
+6 the dropped Sandra milk.
+7 What Sandra is carrying ?	nothing	5 6
+8 Sandra the there grabbed milk.
+9 there took Sandra apple the.
+10  What carrying is Sandra?	milk,apple	5 6 8 9
+11 Sandra dropped milk the.
+12 garden the moved to John.
+13  What Sandra carrying is?	apple	5 6 8 11 9
+14 Sandra journeyed to bathroom the.
+15 hallway the journeyed John to.
+16 Sandra carrying  is What?	apple	5 6 8 11 9
+17 the got football there John.
+18 the left football John.
+19 carrying  is John What?	nothing	17 18
+1 John travelled bathroom the to.
+2 office went to the Mary.
+3 journeyed the Daniel to bedroom.
+4 travelled the to Sandra bathroom.
+5 to travelled the kitchen Daniel.
+6 garden moved to Daniel the.
+7 to Daniel the kitchen moved.
+8 to hallway the Sandra moved.
+9 the there up apple Sandra picked.
+10 John travelled the to kitchen.
+11  is Sandra What carrying?	apple	9
+12 Daniel to bathroom moved the.
+13 up the there picked milk Mary.
+14 carrying  is What Mary?	milk	13
+15 Mary the milk dropped.
+16 got Mary the there football.
+17 Mary What is  carrying?	football	13 15 16
+18 the Sandra to bedroom journeyed.
+19 the went bathroom to Mary back.
+20 is carrying Mary  What?	football	13 15 16
+21 the football discarded Mary.
+22 discarded Sandra the apple.
+23 What  Sandra is carrying?	nothing	9 22
+1 bathroom Daniel to went the.
+2 garden Sandra to journeyed the.
+3 hallway to the back went Daniel.
+4 up the Daniel there picked apple.
+5 carrying What Daniel is ?	apple	4
+6 Daniel to the office moved.
+7 milk Sandra the there grabbed.
+8 Sandra carrying is  What?	milk	7
+9 John went to bathroom the.
+10 milk Sandra dropped the.
+11 What carrying Sandra  is?	nothing	7 10
+12 put down Daniel the apple.
+13 milk there grabbed Sandra the.
+14  What carrying is Sandra?	milk	7 10 13
+15 back to Sandra went the bedroom.
+16 there Mary took apple the.
+17  What is carrying Daniel?	nothing	4 12
+1 bathroom Sandra back went the to.
+2 the hallway journeyed Mary to.
+3 back went the garden to Mary.
+4 picked the John there apple up.
+5 is What  carrying John?	apple	4
+6 went to Sandra kitchen the back.
+7 moved the to bathroom John.
+8 John  carrying What is?	apple	4
+9 the to journeyed Sandra bedroom.
+10 to the hallway Sandra travelled.
+11 John What carrying  is?	apple	4
+12 travelled John garden to the.
+13 Mary picked there the up milk.
+14 carrying What is Mary ?	milk	13
+15 kitchen to Daniel travelled the.
+16 the dropped milk Mary.
+17 Mary What  is carrying?	nothing	13 16
+1 travelled to John office the.
+2 Mary travelled the bathroom to.
+3 the grabbed Daniel there milk.
+4 John to journeyed bedroom the.
+5 is carrying Daniel  What?	milk	3
+6 milk Daniel discarded the.
+7 milk the Daniel there got.
+8 What Daniel  carrying is?	milk	3 6 7
+9 the there discarded milk Daniel.
+10 the journeyed bathroom to Sandra.
+11 What  carrying Daniel is?	nothing	3 6 7 9
+12 milk took the there Daniel.
+13 Daniel the bedroom to went.
+14 Daniel  What is carrying?	milk	3 6 7 9 12
+15 apple picked the up John there.
+16 moved John to office the.
+17 is  carrying Daniel What?	milk	3 6 7 9 12
+1 Daniel moved to kitchen the.
+2 the Sandra went to back office.
+3 took apple Mary the there.
+4 garden Mary moved the to.
+5 carrying What is Mary ?	apple	3
+6 bathroom Daniel to moved the.
+7 the dropped Mary apple.
+8 is  carrying What Mary?	nothing	3 7
+9 there apple grabbed the Mary.
+10 the Mary travelled to bathroom.
+11 is  carrying Mary What?	apple	3 7 9
+12 to moved Mary the office.
+13 apple Mary the discarded.
+14  is Mary carrying What?	nothing	3 7 9 13
+15 got the Mary apple there.
+16 to kitchen journeyed Daniel the.
+17 Mary  carrying is What?	apple	3 7 9 13 15
+1 to Daniel the went bathroom.
+2 milk grabbed there Daniel the.
+3 is Daniel carrying  What?	milk	2
+4 milk discarded the Daniel.
+5 Daniel the went to garden.
+6 carrying What Daniel is ?	nothing	2 4
+7 the Sandra went back to bedroom.
+8 kitchen John to the went.
+9  What Daniel is carrying?	nothing	2 4
+10 went Sandra the kitchen to.
+11 the Mary went to kitchen.
+12 to Daniel kitchen the moved.
+13 to went office Mary the.
+14 hallway journeyed to Mary the.
+15 the travelled to hallway Sandra.
+16 the Sandra there got apple.
+17 went to garden Mary the.
+18 is carrying  What Sandra?	apple	16
+19 went bathroom Mary the to.
+20 John hallway to the travelled.
+21 is Sandra carrying  What?	apple	16
+1 the went Sandra back garden to.
+2 back Sandra to kitchen the went.
+3 Mary hallway the journeyed to.
+4 John hallway the went back to.
+5 office Mary to the went back.
+6 picked Mary the up football there.
+7 carrying Mary What is ?	football	6
+8 the garden Daniel to journeyed.
+9 the put football Mary down.
+10 Mary What carrying is ?	nothing	6 9
+11 the football took there Mary.
+12 put football down the Mary.
+13 What Mary carrying is ?	nothing	6 9 11 12
+14 to Sandra went bedroom the back.
+15 journeyed to bedroom the John.
+16 What carrying is Mary ?	nothing	6 9 11 12
+17 went Mary the to hallway.
+18 kitchen Sandra to journeyed the.
+19 Mary What carrying is ?	nothing	6 9 11 12
+1 there got the John apple.
+2 John back to the went kitchen.
+3 John carrying What is ?	apple	1
+4 John office the to went.
+5 Sandra the moved to garden.
+6  John What carrying is?	apple	1
+7 kitchen John to the journeyed.
+8 to garden John went the.
+9 to went Mary the kitchen.
+10 to the John office travelled.
+11 garden the Daniel to went.
+12 bathroom the moved to John.
+13 got football the Mary there.
+14 Sandra to the kitchen went.
+15 Mary  What is carrying?	football	13
+16 travelled to the office Sandra.
+17 went back to Sandra garden the.
+18 carrying What is  Mary?	football	13
+19 moved Sandra the office to.
+20 the down Mary football put.
+21 What Mary is  carrying?	nothing	13 20
+1 grabbed the John there football.
+2 to Mary kitchen went the.
+3 carrying is  What John?	football	1
+4 hallway the Sandra travelled to.
+5 to Daniel office the journeyed.
+6  carrying is John What?	football	1
+7 back to went Sandra the bathroom.
+8 John kitchen went the back to.
+9 Sandra moved the to garden.
+10 the picked John there up apple.
+11 What John carrying  is?	football,apple	1 10
+12 to travelled Mary the hallway.
+13 bedroom to Daniel the moved.
+14 What  John carrying is?	football,apple	1 10
+15 to the journeyed garden Mary.
+16 John the to moved hallway.
+17  What is John carrying?	football,apple	1 10
+1 garden went the to Sandra back.
+2 apple took Sandra the there.
+3 What is  carrying Sandra?	apple	2
+4 to kitchen went the Mary.
+5 travelled to Mary bedroom the.
+6 Sandra What  is carrying?	apple	2
+7 football the there Daniel took.
+8 to Daniel went the bathroom.
+9 What carrying is Daniel ?	football	7
+10 garden journeyed the to Mary.
+11 bedroom travelled John to the.
+12 carrying What  is Daniel?	football	7
+13 down the football Daniel put there.
+14 Mary bedroom the journeyed to.
+15 Daniel carrying is What ?	nothing	7 13
+1 to Sandra office went back the.
+2 the to Sandra hallway moved.
+3 travelled the bathroom Daniel to.
+4 to the John travelled bedroom.
+5 the Mary there got football.
+6 Mary picked milk the up there.
+7 Mary  is carrying What?	football,milk	5 6
+8 moved Sandra bathroom to the.
+9 to the journeyed kitchen Daniel.
+10  carrying is What Mary?	football,milk	5 6
+11 the to Mary office travelled.
+12 the travelled Daniel hallway to.
+13 Mary  What is carrying?	football,milk	5 6
+14 journeyed garden to Daniel the.
+15 kitchen Sandra the journeyed to.
+16 milk Mary the left.
+17 Daniel there grabbed apple the.
+18  is What Daniel carrying?	apple	17
+19 discarded apple Daniel the.
+20 there Daniel the took apple.
+21 carrying  is Daniel What?	apple	17 19 20
+1 grabbed the there football Mary.
+2 Mary football the dropped.
+3 What carrying  Mary is?	nothing	1 2
+4 journeyed bathroom to Mary the.
+5 journeyed kitchen Sandra to the.
+6 is  What carrying Mary?	nothing	1 2
+7 journeyed John to the garden.
+8 the Daniel picked up milk there.
+9 Daniel is  What carrying?	milk	8
+10 the there Sandra took apple.
+11 Sandra the bathroom went to.
+12 What carrying is Sandra ?	apple	10
+13 journeyed Mary the to kitchen.
+14 apple dropped the Sandra.
+15  is Sandra carrying What?	nothing	10 14
+1 moved Mary the garden to.
+2 Sandra the to moved bathroom.
+3 the there took Sandra milk.
+4 travelled the to bathroom John.
+5 carrying is Sandra  What?	milk	3
+6 there football John the took.
+7 dropped milk the Sandra.
+8 What  carrying Sandra is?	nothing	3 7
+9 there got Sandra the milk.
+10 travelled to John the hallway.
+11 Sandra  What carrying is?	milk	3 7 9
+12 Sandra discarded milk the.
+13 the milk took there Sandra.
+14 Sandra is carrying  What?	milk	3 7 9 12 13
+15 the went John office to.
+16 milk left the Sandra.
+17  Sandra What is carrying?	nothing	3 7 9 12 13 16
+1 Daniel bathroom went to back the.
+2 the Mary there milk grabbed.
+3 What is Mary carrying ?	milk	2
+4 Sandra back to the went office.
+5 garden to the went Mary.
+6 is  carrying What Mary?	milk	2
+7 Mary to kitchen the back went.
+8 office went Mary to the.
+9 carrying Mary is What ?	milk	2
+10 the milk Mary discarded.
+11 Sandra grabbed there the milk.
+12 is carrying What  Mary?	nothing	2 10
+13 travelled to Mary hallway the.
+14 the discarded milk Sandra.
+15 What is Sandra carrying ?	nothing	11 14
+1 bathroom to back went the Mary.
+2 up the there Daniel picked football.
+3 is  carrying What Daniel?	football	2
+4 garden went Mary to back the.
+5 the went bedroom to Mary back.
+6 What Daniel  is carrying?	football	2
+7 there the milk grabbed Daniel.
+8 Daniel left the milk.
+9  Daniel is What carrying?	football	2 7 8
+10 to John kitchen the journeyed.
+11 the bathroom John to went.
+12 Daniel  What is carrying?	football	2 7 8
+13 the football left Daniel.
+14 the to bathroom Mary travelled.
+15  Daniel What is carrying?	nothing	2 13 7 8
+1 the hallway to Daniel went.
+2 kitchen to the Daniel journeyed.
+3 to went the Mary kitchen back.
+4 the Mary took football there.
+5 What is Mary  carrying?	football	4
+6 Mary football dropped the there.
+7 football took John the there.
+8 Mary is carrying What ?	nothing	4 6
+9 travelled Mary to office the.
+10 garden travelled the to Mary.
+11 carrying What is  Mary?	nothing	4 6
+12 the to hallway Daniel moved.
+13 the Mary picked up there apple.
+14 What  carrying Mary is?	apple	4 6 13
+15 to bathroom the Mary went.
+16 put down John the football.
+17 is  John What carrying?	nothing	7 16
+1 went back Mary the to office.
+2 got the milk John there.
+3  is carrying What John?	milk	2
+4 hallway the to journeyed Mary.
+5 Daniel there grabbed football the.
+6  What Daniel carrying is?	football	5
+7 the moved to Sandra hallway.
+8 went to hallway back the John.
+9 What  Daniel is carrying?	football	5
+10 went to the Mary bathroom.
+11 office John moved to the.
+12 carrying What  Daniel is?	football	5
+13 bedroom to back John the went.
+14 milk dropped John the.
+15 carrying John What is ?	nothing	2 14
+1 went back Mary to bathroom the.
+2 apple got the Daniel there.
+3 Daniel is carrying  What?	apple	2
+4 milk Sandra picked up the there.
+5 the dropped Sandra milk.
+6 What  carrying Sandra is?	nothing	4 5
+7 John kitchen went to the.
+8 kitchen Mary the to went.
+9 is carrying  Sandra What?	nothing	4 5
+10 to bedroom went the Mary.
+11 Daniel apple the left.
+12  What carrying Daniel is?	nothing	2 11
+13 Daniel the apple there got.
+14 Sandra milk got there the.
+15 What carrying is Daniel ?	apple	2 11 13
+1 journeyed the office Sandra to.
+2 kitchen journeyed Sandra to the.
+3 to back the hallway went Sandra.
+4 Mary there the got football.
+5 is  carrying What Mary?	football	4
+6 Daniel to the went hallway back.
+7 Mary to travelled the kitchen.
+8  What carrying is Mary?	football	4
+9 the to Sandra journeyed bathroom.
+10 the apple there grabbed Daniel.
+11 is  What carrying Mary?	football	4
+12 to bedroom the journeyed Sandra.
+13 travelled the to office Daniel.
+14 is Daniel What  carrying?	apple	10
+15 Sandra the to went bathroom.
+16 the went back office Mary to.
+17 What  carrying Daniel is?	apple	10
+1 the moved to Sandra office.
+2 milk picked the Mary there up.
+3 Mary is  carrying What?	milk	2
+4 Daniel football the there grabbed.
+5 to hallway Daniel moved the.
+6 What  Daniel carrying is?	football	4
+7 Sandra travelled to the kitchen.
+8 bathroom to went Mary the.
+9 Mary What  carrying is?	milk	2
+10 journeyed to Sandra the bathroom.
+11 kitchen John the to moved.
+12 the football Daniel left.
+13 went the to kitchen Sandra.
+14 is What carrying  Daniel?	nothing	4 12
+15 got apple the John there.
+16 garden to the moved Mary.
+17 Daniel  is carrying What?	nothing	4 12
+1 Sandra took the football there.
+2 back went hallway Mary the to.
+3 What is  Sandra carrying?	football	1
+4 to the office Mary travelled.
+5 hallway went John back the to.
+6 is What Sandra carrying ?	football	1
+7 the to travelled garden John.
+8 journeyed to bedroom John the.
+9 Mary the grabbed there apple.
+10 football Sandra left the.
+11 What carrying is  Mary?	apple	9
+12 the apple there left Mary.
+13 got apple Mary the there.
+14 What carrying is Mary ?	apple	9 12 13
+15 went to Sandra office the.
+16 travelled the to Sandra kitchen.
+17 is Mary  What carrying?	apple	9 12 13
+1 to travelled Mary the garden.
+2 journeyed Sandra the to bedroom.
+3 there the football grabbed Daniel.
+4 bathroom to the travelled Sandra.
+5  is What Daniel carrying?	football	3
+6 office journeyed to the John.
+7 travelled to Daniel kitchen the.
+8 carrying Daniel What is ?	football	3
+9 bathroom the to went Daniel back.
+10 the dropped Daniel football.
+11 What is Daniel carrying ?	nothing	3 10
+12 hallway Mary back to went the.
+13 milk there got the Mary.
+14 Daniel carrying What is ?	nothing	3 10
+15 Mary office the to went.
+16 to Sandra garden travelled the.
+17 carrying is Mary  What?	milk	13
+1 hallway the travelled Daniel to.
+2 travelled kitchen the to Daniel.
+3 office Mary journeyed the to.
+4 Daniel moved to the hallway.
+5 Daniel to the travelled office.
+6 office the to John moved.
+7 John football the took there.
+8 the went to hallway Mary back.
+9 What  carrying John is?	football	7
+10 to journeyed the Daniel hallway.
+11 John to the garden moved.
+12 is John What  carrying?	football	7
+13 to John went kitchen the.
+14 moved Sandra to kitchen the.
+15 bedroom the went to John.
+16 the to garden John moved.
+17 dropped football the John.
+18 office journeyed the Daniel to.
+19  is What carrying John?	nothing	7 17
+20 football there John took the.
+21 Mary the to kitchen went.
+22  is carrying John What?	football	7 17 20
+23 dropped John the football.
+24 the Sandra moved bedroom to.
+25 John  What carrying is?	nothing	7 17 20 23
+1 the travelled hallway Daniel to.
+2 hallway went to John the.
+3 Mary to went hallway the.
+4 the journeyed to kitchen Sandra.
+5 office Sandra journeyed the to.
+6 journeyed the to bedroom Sandra.
+7 John bedroom back the went to.
+8 the there got apple John.
+9 is  What carrying John?	apple	8
+10 office Sandra the to travelled.
+11 garden John travelled to the.
+12 is What carrying  John?	apple	8
+13 the picked there Sandra milk up.
+14 milk Sandra left the.
+15 Sandra  What is carrying?	nothing	13 14
+16 John dropped the apple.
+17 Sandra went bathroom to the.
+18 John What is carrying ?	nothing	8 16
+19 office to Daniel travelled the.
+20 there Daniel grabbed milk the.
+21 carrying  Daniel is What?	milk	20
+1 went the back bedroom to John.
+2 the John apple there grabbed.
+3 carrying What is John ?	apple	2
+4 the kitchen John journeyed to.
+5 bedroom to travelled Daniel the.
+6 John What is carrying ?	apple	2
+7 Daniel the to moved bathroom.
+8 the apple John down put.
+9 What carrying John is ?	nothing	2 8
+10 the travelled office John to.
+11 garden travelled the to John.
+12 John  is What carrying?	nothing	2 8
+13 the travelled to Mary bedroom.
+14 the to hallway Sandra went.
+15  carrying John is What?	nothing	2 8
+1 Sandra took milk the there.
+2 bedroom Sandra back to the went.
+3 What Sandra is carrying ?	milk	1
+4 John to went bathroom the.
+5 garden John the went to.
+6 What  Sandra carrying is?	milk	1
+7 journeyed kitchen John the to.
+8 there Daniel up picked the apple.
+9 Daniel  What is carrying?	apple	8
+10 to journeyed Daniel garden the.
+11 Sandra down put the milk.
+12 is What Daniel carrying ?	apple	8
+13 apple the dropped Daniel.
+14 Sandra there grabbed the milk.
+15 What  carrying is Sandra?	milk	1 11 14
+1 hallway moved the Mary to.
+2 back kitchen went the to Mary.
+3 the bathroom to Daniel travelled.
+4 went the John bedroom to.
+5 the moved garden to Mary.
+6 the bedroom moved Sandra to.
+7 bedroom journeyed to Daniel the.
+8 John moved to bathroom the.
+9 John to office travelled the.
+10 the to moved Daniel garden.
+11 Sandra the to office travelled.
+12 Mary the there milk grabbed.
+13 is Mary carrying  What?	milk	12
+14 apple the there Mary took.
+15 journeyed to the office Daniel.
+16 is carrying What Mary ?	milk,apple	12 14
+17 the Daniel hallway to journeyed.
+18 the hallway moved Sandra to.
+19 What carrying Mary  is?	milk,apple	12 14
+20 back hallway John to went the.
+21 office the to travelled John.
+22 Mary the to kitchen went.
+23 Sandra to the office journeyed.
+24 the to kitchen John travelled.
+25 travelled to bathroom the John.
+26 the bathroom Mary to moved.
+27 the grabbed John there football.
+28  What carrying John is?	football	27
+29 office to back went the Daniel.
+30 bedroom went to Daniel the.
+31  John What is carrying?	football	27
+1 travelled Daniel bathroom the to.
+2 Daniel moved the kitchen to.
+3 office moved to the Daniel.
+4 the went office to Mary.
+5 went bedroom the back Mary to.
+6 to bathroom the Daniel journeyed.
+7 kitchen the travelled to Daniel.
+8 moved the kitchen to Mary.
+9 to bathroom moved the John.
+10 the to Daniel bedroom moved.
+11 back went Mary to bedroom the.
+12 Mary moved the to office.
+13 Sandra garden the to moved.
+14 the football there Sandra got.
+15 Sandra is What  carrying?	football	14
+16 to the moved Sandra bathroom.
+17 Sandra down there football put the.
+18  Sandra carrying What is?	nothing	14 17
+19 Sandra picked up there the football.
+20 to John kitchen moved the.
+21 is carrying What Sandra ?	football	14 17 19
+22 the Sandra travelled to kitchen.
+23 to the went back office John.
+24 carrying is What  Sandra?	football	14 17 19
+25 left Sandra the football.
+26 Sandra went office the back to.
+27  What carrying Sandra is?	nothing	14 17 19 25
+1 got Daniel there apple the.
+2 there up picked football the Mary.
+3 carrying  Mary is What?	football	2
+4 to the went bathroom Sandra.
+5 left apple Daniel the.
+6  Mary carrying What is?	football	2
+7 garden to the Sandra went.
+8 moved hallway Mary to the.
+9 is  What Daniel carrying?	nothing	1 5
+10 up picked milk Sandra there the.
+11 left football the Mary.
+12 Daniel is What carrying ?	nothing	1 5
+13 John garden travelled the to.
+14 the there Mary football took.
+15 is  What Sandra carrying?	milk	10
+1 the bathroom moved Sandra to.
+2 apple John the got there.
+3  is John What carrying?	apple	2
+4 got there football Daniel the.
+5 journeyed Mary bathroom to the.
+6 carrying What  is John?	apple	2
+7 Daniel back the went bathroom to.
+8 office Daniel the went to.
+9 carrying What is Daniel ?	football	4
+10 the football Daniel left.
+11 the bedroom to Mary went.
+12 carrying What Daniel  is?	nothing	4 10
+13 the apple left John.
+14 got there the apple John.
+15 is John carrying What ?	apple	2 13 14
+1 travelled Sandra to the hallway.
+2 milk got Sandra there the.
+3 Sandra carrying What  is?	milk	2
+4 Sandra the to travelled bedroom.
+5 John went garden to the.
+6 Sandra is What carrying ?	milk	2
+7 to the Sandra garden back went.
+8 there the John grabbed football.
+9 John What  is carrying?	football	8
+10 Mary apple the there took.
+11 journeyed to hallway the Sandra.
+12 What carrying is  John?	football	8
+13 Sandra milk the discarded.
+14 got there Sandra milk the.
+15  Mary What is carrying?	apple	10
+1 there apple the took Sandra.
+2 the Sandra apple left.
+3 Sandra carrying What  is?	nothing	1 2
+4 back garden the Mary went to.
+5 the John picked there milk up.
+6  carrying is What Sandra?	nothing	1 2
+7 the Daniel office moved to.
+8 football John there the grabbed.
+9 carrying  What is John?	milk,football	5 8
+10 Sandra there apple the got.
+11 back garden Sandra to went the.
+12  is Sandra carrying What?	apple	1 2 10
+13 journeyed Daniel bathroom to the.
+14 office the Mary to back went.
+15 is  What carrying Sandra?	apple	1 2 10
+1 milk got the there Mary.
+2 the football Sandra there grabbed.
+3 carrying is  Sandra What?	football	2
+4 the football Sandra dropped.
+5 Daniel went hallway the back to.
+6 is carrying  What Sandra?	nothing	2 4
+7 discarded Mary milk the.
+8 got the milk there Mary.
+9  What carrying is Mary?	milk	1 7 8
+10 there apple the Daniel grabbed.
+11 the to moved bathroom Mary.
+12 is  Daniel carrying What?	apple	10
+13 Sandra to the travelled kitchen.
+14 apple left the Daniel.
+15 What Mary  carrying is?	milk	1 7 8
+1 grabbed milk the there Sandra.
+2 there dropped milk Sandra the.
+3 Sandra carrying What  is?	nothing	1 2
+4 to went back the Mary garden.
+5 the up picked apple there Daniel.
+6 carrying What is Sandra ?	nothing	1 2
+7 there picked milk the Sandra up.
+8 milk left Sandra the.
+9 Sandra carrying What  is?	nothing	1 2 7 8
+10 to bedroom John went the.
+11 milk there grabbed the Sandra.
+12 Sandra What  is carrying?	milk	1 2 7 8 11
+13 put Daniel down apple the.
+14 office Mary the went to.
+15 Daniel is  What carrying?	nothing	5 13
+1 Mary moved kitchen the to.
+2 to the John office journeyed.
+3 travelled Mary garden the to.
+4 journeyed bedroom the John to.
+5 to John kitchen the went.
+6 John apple there the got.
+7 carrying  What John is?	apple	6
+8 Mary moved the to bathroom.
+9 the discarded John apple.
+10 What carrying is John ?	nothing	6 9
+11 Daniel went bedroom the to.
+12 John the there apple took.
+13 carrying What is  John?	apple	6 9 12
+14 the journeyed office to Mary.
+15 to hallway the Sandra travelled.
+16 What carrying John is ?	apple	6 9 12
+17 journeyed the to Mary bathroom.
+18 John bedroom moved the to.
+19 John is carrying  What?	apple	6 9 12
+1 to the kitchen Daniel went.
+2 Sandra the to bathroom travelled.
+3 John the moved to office.
+4 Mary there took the football.
+5  Mary is carrying What?	football	4
+6 the Sandra moved to bedroom.
+7 Mary went bedroom the to.
+8 What Mary is  carrying?	football	4
+9 took the Daniel milk there.
+10 kitchen to back went John the.
+11  is carrying Mary What?	football	4
+12 journeyed Sandra bathroom the to.
+13 bedroom John the to journeyed.
+14 is What  carrying Daniel?	milk	9
+15 Sandra to garden the travelled.
+16 there discarded milk the Daniel.
+17 carrying What Daniel  is?	nothing	9 16
+1 bathroom the to Mary journeyed.
+2 moved to the Mary hallway.
+3 garden went back the to Daniel.
+4 Mary the milk picked there up.
+5 What is Mary carrying ?	milk	4
+6 kitchen to journeyed the Sandra.
+7 the moved bathroom Mary to.
+8 carrying  is What Mary?	milk	4
+9 garden went back the to Sandra.
+10 Daniel there the apple grabbed.
+11 is carrying Mary  What?	milk	4
+12 journeyed Mary garden the to.
+13 the to went bedroom Mary.
+14  Daniel carrying is What?	apple	10
+15 to John the kitchen moved.
+16 the John to back garden went.
+17 Daniel carrying  What is?	apple	10
+1 the there got milk Daniel.
+2 football picked there the up Sandra.
+3  is Daniel What carrying?	milk	1
+4 Daniel took apple the there.
+5 the to Daniel kitchen moved.
+6 Daniel What is carrying ?	milk,apple	1 4
+7 to Mary bedroom the journeyed.
+8 to bathroom the John went back.
+9  What is carrying Daniel?	milk,apple	1 4
+10 moved the to hallway Sandra.
+11 to John hallway went the.
+12 the there Daniel discarded milk.
+13 the milk Daniel got there.
+14 What Daniel  is carrying?	milk,apple	1 12 13 4
+15 milk the Daniel there left.
+16 to Sandra bathroom the journeyed.
+17  What Daniel carrying is?	apple	1 12 13 15 4
+1 there Daniel football the grabbed.
+2 the John hallway to journeyed.
+3 What Daniel  is carrying?	football	1
+4 went the Mary back garden to.
+5 hallway went the back to Mary.
+6  carrying is What Daniel?	football	1
+7 journeyed kitchen John the to.
+8 grabbed Daniel there the apple.
+9  carrying is What Daniel?	football,apple	1 8
+10 office Sandra to moved the.
+11 the bedroom Mary went to.
+12  What is carrying Daniel?	football,apple	1 8
+13 apple left Daniel the.
+14 bedroom the Sandra moved to.
+15  What carrying Daniel is?	football	1 8 13
+1 Mary office to the travelled.
+2 the to moved kitchen Mary.
+3 football there took Mary the.
+4 moved the to office Sandra.
+5 Mary What is carrying ?	football	3
+6 went the back Daniel bedroom to.
+7 grabbed Daniel milk there the.
+8 is What  carrying Daniel?	milk	7
+9 Mary put the football down.
+10 Mary football got there the.
+11  is Mary carrying What?	football	3 9 10
+12 travelled John to the bathroom.
+13 the journeyed garden to Mary.
+14  is What carrying Daniel?	milk	7
+15 Mary football discarded the.
+16 moved Mary to kitchen the.
+17 is What  carrying Mary?	nothing	3 9 10 15
+1 to the Sandra garden back went.
+2 to John hallway travelled the.
+3 the apple grabbed Mary there.
+4 there Mary football took the.
+5 What Mary is  carrying?	apple,football	3 4
+6 moved to bedroom the Mary.
+7 milk up picked there Daniel the.
+8 carrying Daniel is  What?	milk	7
+9 to travelled the bathroom John.
+10 the bedroom to moved John.
+11 Mary carrying What is ?	apple,football	3 4
+12 down put apple Mary the.
+13 the kitchen John to went.
+14 Daniel  What carrying is?	milk	7
+15 the travelled hallway Sandra to.
+16 Daniel the journeyed garden to.
+17 carrying is Mary What ?	football	3 12 4
+1 travelled the to Sandra bathroom.
+2 moved bathroom to the John.
+3 took apple John the there.
+4 John the went kitchen to.
+5  is carrying What John?	apple	3
+6 John the dropped apple.
+7 the grabbed apple John there.
+8 John What  is carrying?	apple	3 6 7
+9 moved Mary the to office.
+10 the went to Mary bedroom.
+11 John  is What carrying?	apple	3 6 7
+12 to office went Daniel the.
+13 bathroom moved Mary to the.
+14 John  carrying is What?	apple	3 6 7
+15 went the Sandra to bedroom.
+16 took there football the Sandra.
+17  is Sandra carrying What?	football	16
+1 to the office travelled Mary.
+2 the bedroom to moved Daniel.
+3 there Mary took milk the.
+4 garden John travelled to the.
+5 What carrying  Mary is?	milk	3
+6 the travelled hallway Daniel to.
+7 the John journeyed to hallway.
+8 carrying What Mary is ?	milk	3
+9 there up apple picked Sandra the.
+10 down Mary milk put the.
+11 is What Sandra  carrying?	apple	9
+12 John went to the bathroom.
+13 hallway journeyed Mary the to.
+14 Mary  is carrying What?	nothing	3 10
+15 kitchen to went Mary the.
+16 journeyed bathroom the Sandra to.
+17 is carrying Mary  What?	nothing	3 10
+1 to the hallway moved Sandra.
+2 John moved to the hallway.
+3 the Mary office back went to.
+4 the kitchen Sandra journeyed to.
+5 back the garden went to John.
+6 back went bedroom the to Mary.
+7 Mary went the to back garden.
+8 to office the went John.
+9 apple Sandra the grabbed there.
+10 the bathroom to went Daniel back.
+11 Sandra What  is carrying?	apple	9
+12 bathroom the journeyed to Sandra.
+13 to journeyed the kitchen Sandra.
+14 carrying is What  Sandra?	apple	9
+15 hallway went John to the.
+16 the went Mary to hallway back.
+17 the up football there John picked.
+18 the office to Sandra journeyed.
+19 is John carrying  What?	football	17
+20 to back the John kitchen went.
+21 Mary to moved the garden.
+22  What is carrying John?	football	17
+23 John the to went bedroom back.
+24 hallway to went the Sandra.
+25 to moved kitchen Sandra the.
+26 Mary the kitchen to moved.
+27 travelled Daniel the office to.
+28 Sandra the apple left there.
+29 What  Sandra is carrying?	nothing	9 28
+1 travelled the to kitchen John.
+2 took the apple there Mary.
+3 What carrying Mary is ?	apple	2
+4 the Sandra hallway journeyed to.
+5 back John the bathroom went to.
+6 What  carrying Mary is?	apple	2
+7 garden to Daniel travelled the.
+8 Sandra the kitchen to moved.
+9 What is Mary carrying ?	apple	2
+10 bedroom travelled the Mary to.
+11 the to Daniel bathroom travelled.
+12 travelled the hallway Daniel to.
+13 went the office to Sandra.
+14 kitchen travelled Sandra the to.
+15 to Sandra bathroom the went.
+16 the back to Daniel went garden.
+17 kitchen the to Daniel went.
+18 the travelled to Sandra garden.
+19 Mary the apple dropped.
+20  Mary carrying is What?	nothing	2 19
+21 garden to the Mary moved.
+22 garden to the John travelled.
+23 Mary carrying What is ?	nothing	2 19
+1 the to Daniel moved kitchen.
+2 the travelled to Daniel bedroom.
+3 office Daniel the went to.
+4 bathroom to the journeyed Mary.
+5 travelled the kitchen to Daniel.
+6 kitchen the John to went back.
+7 went to the office back Daniel.
+8 John to bedroom went the.
+9 garden travelled the Sandra to.
+10 went office Sandra to the back.
+11 Sandra milk the got there.
+12 football there the picked up Daniel.
+13 carrying Daniel  is What?	football	12
+14 travelled office to John the.
+15 the to hallway Daniel journeyed.
+16 What Daniel  is carrying?	football	12
+17 travelled Mary office to the.
+18 travelled garden Sandra the to.
+19 Daniel What is  carrying?	football	12
+20 Sandra there the apple picked up.
+21 back went the kitchen Daniel to.
+22 carrying  What Sandra is?	milk,apple	11 20
+23 the put down Sandra milk.
+24 milk there the took Sandra.
+25 carrying  What Sandra is?	milk,apple	11 23 24 20
+1 moved hallway to John the.
+2 to journeyed the garden John.
+3 the Daniel to garden moved.
+4 apple grabbed the Daniel there.
+5 is Daniel  What carrying?	apple	4
+6 there the got Daniel milk.
+7 the went John back to hallway.
+8 What  is Daniel carrying?	apple,milk	4 6
+9 put the apple down Daniel.
+10 Sandra to the went back kitchen.
+11  is carrying What Daniel?	milk	4 9 6
+12 dropped the milk Daniel.
+13 the went bathroom to Mary.
+14 What Daniel is carrying ?	nothing	4 9 6 12
+15 went bedroom the Sandra back to.
+16 travelled office to Mary the.
+17 is Daniel carrying What ?	nothing	4 9 6 12
+1 Mary grabbed the there milk.
+2 to Mary the kitchen moved.
+3 carrying Mary is  What?	milk	1
+4 milk down put the Mary.
+5 there John took milk the.
+6 carrying is What  John?	milk	5
+7 football the there Mary got.
+8 John journeyed office the to.
+9 is What Mary  carrying?	football	1 4 7
+10 left football Mary the.
+11 John the left milk.
+12 What is Mary carrying ?	nothing	1 4 7 10
+13 football the Sandra there grabbed.
+14 moved John to the bathroom.
+15 carrying Mary is  What?	nothing	1 4 7 10
+1 football there took the Sandra.
+2 went bedroom Sandra to the.
+3 carrying What is Sandra ?	football	1
+4 Mary hallway moved to the.
+5 the discarded Sandra football.
+6 Sandra  carrying is What?	nothing	1 5
+7 back hallway John to went the.
+8 office Mary the to travelled.
+9  What carrying is Sandra?	nothing	1 5
+10 got football the there Sandra.
+11 the to Daniel moved hallway.
+12 carrying  is What Sandra?	football	1 5 10
+13 Daniel milk the took there.
+14 left football the Sandra.
+15 Sandra carrying is What ?	nothing	1 5 10 14
+1 Sandra office the to moved.
+2 milk got the Sandra there.
+3 Sandra  What carrying is?	milk	2
+4 went kitchen John to back the.
+5 grabbed apple Sandra the there.
+6 Sandra is  What carrying?	milk,apple	2 5
+7 dropped the milk Sandra.
+8 to Sandra moved the bathroom.
+9  What is Sandra carrying?	apple	2 7 5
+10 moved bedroom Sandra to the.
+11 hallway the John to travelled.
+12  What is carrying Sandra?	apple	2 7 5
+13 kitchen to moved Mary the.
+14 apple the discarded Sandra.
+15 is carrying  What Sandra?	nothing	2 7 5 14
+1 to moved the Mary garden.
+2 the moved to Sandra kitchen.
+3 John the took there milk.
+4 bathroom to Mary the went.
+5 John What carrying is ?	milk	3
+6 John the to office moved.
+7 moved bathroom to the Sandra.
+8 is John What  carrying?	milk	3
+9 the football there Mary took.
+10 Sandra back the to bedroom went.
+11 Mary is What  carrying?	football	9
+12 put down milk the John.
+13 the took apple there Sandra.
+14 John carrying  is What?	nothing	3 12
+15 to Daniel journeyed hallway the.
+16 there Sandra the left apple.
+17  is Sandra carrying What?	nothing	13 16
+1 office the Mary moved to.
+2 bedroom Daniel travelled the to.
+3 the to office journeyed John.
+4 the took milk there Sandra.
+5 carrying is Sandra  What?	milk	4
+6 journeyed bathroom the to Daniel.
+7 milk dropped the Sandra.
+8 What  is Sandra carrying?	nothing	4 7
+9 milk Sandra there the got.
+10 moved kitchen Daniel the to.
+11 What Sandra is carrying ?	milk	4 7 9
+12 Sandra office to moved the.
+13 Sandra the hallway to moved.
+14  carrying What is Sandra?	milk	4 7 9
+15 bedroom Mary to the travelled.
+16 Daniel there football picked up the.
+17 Daniel is What  carrying?	football	16
+1 Mary the grabbed there football.
+2 bedroom to moved Daniel the.
+3 Mary is What carrying ?	football	1
+4 back garden Daniel went the to.
+5 went bedroom John the to back.
+6 What  is carrying Mary?	football	1
+7 went Mary bedroom to the.
+8 to the Mary travelled garden.
+9 John the went kitchen to.
+10 Sandra the office journeyed to.
+11 apple the picked up Mary there.
+12 up the milk picked Mary there.
+13 Mary  What is carrying?	football,apple,milk	1 11 12
+14 to the Sandra journeyed garden.
+15 Mary the left milk.
+16 Mary carrying is  What?	football,apple	1 11 12 15
+17 milk got Sandra there the.
+18 the to bedroom went Mary.
+19 carrying  Mary is What?	football,apple	1 11 12 15
+1 to garden Mary the moved.
+2 Daniel bathroom to the journeyed.
+3 moved bathroom Mary to the.
+4 bathroom John the went to.
+5 the to bedroom moved Sandra.
+6 Daniel the to hallway travelled.
+7 garden to John the went back.
+8 Daniel picked up football there the.
+9 is Daniel carrying  What?	football	8
+10 travelled to Sandra the kitchen.
+11 travelled garden the Daniel to.
+12 Daniel is carrying  What?	football	8
+13 Sandra to travelled hallway the.
+14 to hallway went Mary the.
+15 carrying  What is Daniel?	football	8
+16 John the milk there picked up.
+17 Daniel the football dropped.
+18 carrying is John  What?	milk	16
+19 kitchen the Mary to back went.
+20 Daniel to hallway travelled the.
+21 John is What carrying ?	milk	16

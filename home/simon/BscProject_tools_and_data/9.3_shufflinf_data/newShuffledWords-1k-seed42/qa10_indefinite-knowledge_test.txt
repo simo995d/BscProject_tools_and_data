@@ -1,0 +1,3000 @@
+1 Mary in the is school.
+2 kitchen is Bill in the.
+3 the Bill bedroom Is  in?	no	2
+4 the journeyed to bedroom Bill.
+5 the Fred travelled to cinema.
+6 in bedroom Bill  Is the?	yes	4
+7 back went park the to Fred.
+8 the Bill office in school the or is either.
+9 Bill Is in the park ?	no	8
+10 went the Mary cinema to.
+11 either in the school Julie is office the or.
+12 park in Is  the Fred?	yes	7
+13 or is either school in the park Julie the.
+14 the to Bill went back office.
+15 office in  the Bill Is?	yes	14
+1 to office journeyed Fred the.
+2 the back Fred cinema to went.
+3 office Fred  Is the in?	no	2
+4 Julie in either or school the is the office.
+5 cinema the moved to Julie.
+6 in the Julie cinema  Is?	yes	5
+7 in the kitchen the or either is Julie bedroom.
+8 Julie to the journeyed school.
+9 the in school Julie Is ?	yes	8
+10 is in the Bill the bedroom school or either.
+11 the Bill to bedroom went.
+12  Bill in the Is office?	no	11
+13 to journeyed park the Julie.
+14 travelled the school Mary to.
+15  the Is park in Julie?	yes	13
+1 in kitchen is the Bill.
+2 or the either the is cinema Julie in school.
+3 Bill the Is  bedroom in?	no	1
+4 bedroom in the Fred is.
+5 in the Bill school is.
+6 bedroom  the in Julie Is?	no	2
+7 the office Julie bedroom either is in or the.
+8 the Fred park in is.
+9 the  in bedroom Julie Is?	maybe	7
+10 the is in either Fred school the bedroom or.
+11 kitchen Mary to went the.
+12  Bill in Is school the?	yes	5
+13 the or either bedroom in kitchen Julie is the.
+14 in school is the Julie.
+15 school in Julie Is the ?	yes	14
+1 to Julie the bedroom journeyed.
+2 to park Julie the travelled.
+3 in the Julie kitchen Is ?	no	2
+4 in kitchen is or the Fred the either office.
+5 Julie the travelled bedroom to.
+6 Julie in  bedroom Is the?	yes	5
+7 to the moved office Julie.
+8 office kitchen either Mary the is or the in.
+9 the Is kitchen  in Julie?	no	7
+10 Bill in kitchen the is.
+11 Bill or bedroom in park either is the the.
+12  kitchen the Is in Mary?	maybe	8
+13 bedroom either the Fred or bedroom in is the.
+14 to Julie bedroom went the.
+15 in Mary Is  the kitchen?	maybe	8
+1 the kitchen Bill went to.
+2 or either the park is Fred the office in.
+3 the Is Fred  park in?	maybe	2
+4 went Fred the to bedroom.
+5 Mary or is school bedroom in the the either.
+6 Is school in the  Fred?	no	4
+7 or is the either the office kitchen in Bill.
+8 the in Julie park kitchen or the either is.
+9 bedroom  in the Fred Is?	yes	4
+10 is Mary the in park.
+11 back to office the Mary went.
+12  kitchen Mary Is the in?	no	11
+13 kitchen went to Bill back the.
+14 Bill bedroom the journeyed to.
+15  Mary the in Is office?	yes	11
+1 to the journeyed Julie cinema.
+2 Fred bedroom the in is.
+3 in  Julie the Is school?	no	1
+4 kitchen to Julie moved the.
+5 Mary park travelled the to.
+6  in Julie the kitchen Is?	yes	4
+7 the in is bedroom Mary.
+8 is the in kitchen either or kitchen the Fred.
+9  in Mary the office Is?	no	7
+10 in the the is or Julie park cinema either.
+11 or in the office either office is the Bill.
+12 office the in  Is Mary?	no	7
+13 Bill in the park is the park or either.
+14 Julie or school the the in either bedroom is.
+15 Is the cinema in  Fred?	no	8
+1 in Fred kitchen is the.
+2 the bedroom moved Bill to.
+3 in the kitchen  Is Fred?	yes	1
+4 the school in Fred is.
+5 the cinema Bill went to.
+6 school Is the Bill in ?	no	5
+7 the travelled to park Julie.
+8 Julie in office is the.
+9 the cinema  in Bill Is?	yes	5
+10 kitchen to journeyed Julie the.
+11 kitchen Fred to the went.
+12 in Julie the kitchen  Is?	yes	10
+13 the park moved Julie to.
+14 cinema the moved to Fred.
+15 in Is Fred the kitchen ?	no	14
+1 to went the Mary office.
+2 to kitchen the moved Bill.
+3 school Is in  the Mary?	no	1
+4 in Mary the park is.
+5 the office is Mary in.
+6  the Mary office in Is?	yes	5
+7 Fred went kitchen to the.
+8 the to Julie bedroom travelled.
+9 office Is Mary in  the?	yes	5
+10 kitchen Mary to the moved.
+11 Mary the is or school in either kitchen the.
+12 Is in Julie school the ?	no	8
+13 is park in bedroom Bill the either the or.
+14 is Bill in school the.
+15 Mary school the in  Is?	maybe	11
+1 school in is school either the or Bill the.
+2 office either or the kitchen the in is Mary.
+3  cinema Is the Bill in?	no	1
+4 the cinema travelled Mary to.
+5 kitchen the journeyed to Mary.
+6 Is in school the  Bill?	maybe	1
+7 journeyed office to Julie the.
+8 the Mary cinema moved to.
+9 Julie the in park Is ?	no	7
+10 bedroom Julie the or is bedroom the in either.
+11 to Julie went the back park.
+12 the Is Julie office in ?	no	11
+13 to office moved the Mary.
+14 went Julie back office the to.
+15 Is  in park the Mary?	no	13
+1 the Bill is bedroom in.
+2 the in is either the office or Fred bedroom.
+3 Fred park in  Is the?	no	2
+4 is cinema or in either Bill the kitchen the.
+5 went Fred to the office.
+6 Bill the park Is  in?	no	4
+7 to school travelled the Mary.
+8 Fred the to went cinema back.
+9 the Fred Is cinema in ?	yes	8
+10 bedroom in the is Mary.
+11 to went Mary the kitchen.
+12 in Fred Is cinema  the?	yes	8
+13 to Julie journeyed kitchen the.
+14 school to Mary moved the.
+15 bedroom Is  Mary in the?	no	14
+1 the kitchen Julie moved to.
+2 either or the Fred bedroom in is the bedroom.
+3 the in cinema  Fred Is?	no	2
+4 bedroom the went to Bill.
+5 to moved office Bill the.
+6 bedroom Fred in Is the ?	maybe	2
+7 the Fred is kitchen in.
+8 is the Fred in school.
+9  the Is school in Fred?	yes	8
+10 Julie is or either cinema in the office the.
+11 went the to Mary kitchen back.
+12 the  Mary kitchen Is in?	yes	11
+13 the to kitchen journeyed Julie.
+14 school Julie the to moved.
+15 Fred in Is the  school?	yes	8
+1 to back school Bill went the.
+2 the went to school Julie.
+3 Is the in school Julie ?	yes	2
+4 Fred the to travelled cinema.
+5 Bill the kitchen park or in is either the.
+6 Fred Is school  the in?	no	4
+7 in Bill the office is.
+8 kitchen moved Fred to the.
+9 Is school  the in Fred?	no	8
+10 to moved Fred the office.
+11 the went Mary bedroom to.
+12 office the Is in Bill ?	yes	7
+13 the park Julie in is.
+14 kitchen Mary the travelled to.
+15 Is  Mary in the kitchen?	yes	14
+1 Mary is in park the.
+2 in the or either the is school office Julie.
+3 the Julie in  school Is?	maybe	2
+4 went kitchen the to Mary.
+5 Fred the or either is park the office in.
+6 in  Is the school Julie?	maybe	2
+7 in Julie is the bedroom.
+8 the journeyed to kitchen Fred.
+9  bedroom the Mary Is in?	no	4
+10 is Julie the the bedroom either school in or.
+11 back park the went Bill to.
+12 Julie school Is  in the?	maybe	10
+13 kitchen the the or Bill either cinema is in.
+14 in Bill the is office.
+15 Is in the  park Bill?	no	14
+1 park went the Mary to back.
+2 Fred cinema in the is.
+3 the  park Is Mary in?	yes	1
+4 either the or in school is Mary the bedroom.
+5 the Julie in is kitchen.
+6 the school Mary in Is ?	maybe	4
+7 Mary in the office is.
+8 the school or cinema the Julie is either in.
+9 Mary the Is  office in?	yes	7
+10 cinema journeyed the Mary to.
+11 in kitchen Fred is the.
+12 the in  Is bedroom Julie?	no	8
+13 to Fred bedroom the journeyed.
+14 is the cinema school the Fred either or in.
+15 Fred the in office  Is?	no	14
+1 kitchen the travelled Bill to.
+2 Julie went school the to.
+3 Is  kitchen in Bill the?	yes	1
+4 is in the bedroom the or Julie cinema either.
+5 went to Julie kitchen the.
+6 in Is Julie kitchen  the?	yes	5
+7 back to park Julie the went.
+8 the journeyed bedroom Bill to.
+9 Julie Is the  kitchen in?	no	7
+10 in is the Fred school.
+11 kitchen Fred to moved the.
+12 Is in  the kitchen Fred?	yes	11
+13 the to school Mary went.
+14 Mary park the went to.
+15 in park the  Is Mary?	yes	14
+1 cinema is Julie in the.
+2 the Julie went to school.
+3 in the Julie  school Is?	yes	2
+4 cinema went the to back Fred.
+5 Julie went back the park to.
+6 Is in the Julie kitchen ?	no	5
+7 bedroom is in the Julie.
+8 either the or the is bedroom in Mary kitchen.
+9 Is the office in  Fred?	no	4
+10 is Mary the in office.
+11 the went school Fred to.
+12 Mary Is school in  the?	no	10
+13 Mary went park the to.
+14 school either or is in the the park Bill.
+15 Mary Is park the  in?	yes	13
+1 kitchen the Julie is office the either or in.
+2 Mary travelled to the school.
+3 Julie in the kitchen  Is?	maybe	1
+4 the bedroom or the is bedroom either Julie in.
+5 to the went school Bill.
+6 Is Julie in  kitchen the?	no	4
+7 bedroom the to moved Fred.
+8 the is the cinema either in office Fred or.
+9  in Is cinema Fred the?	maybe	8
+10 Mary kitchen is the in.
+11 kitchen office in the the or is either Julie.
+12 in school Is  the Fred?	no	8
+13 either kitchen in the the is school Mary or.
+14 to the Mary bedroom travelled.
+15  the in Mary Is school?	no	14
+1 or is cinema either the in the school Fred.
+2 moved to the school Mary.
+3  cinema Is Mary in the?	no	2
+4 to office Julie the travelled.
+5 office journeyed the Fred to.
+6 the Mary  Is in school?	yes	2
+7 school the in Julie is.
+8 the went Bill school to back.
+9 in Is  the office Fred?	yes	5
+10 cinema is either the or in the cinema Julie.
+11 kitchen either the in Mary or park the is.
+12  Mary park Is the in?	maybe	11
+13 Fred kitchen the travelled to.
+14 or cinema either in bedroom Fred is the the.
+15  the in Fred cinema Is?	maybe	14
+1 bedroom either or bedroom is in the the Fred.
+2 the kitchen is Fred in.
+3 in Is kitchen  Fred the?	yes	2
+4 Mary travelled bedroom to the.
+5 the to office Julie went.
+6 bedroom Mary in the Is ?	yes	4
+7 kitchen the Bill the park or in is either.
+8 park the Mary to moved.
+9 the cinema Julie Is  in?	no	5
+10 to Mary the school journeyed.
+11 Bill bedroom is the in.
+12 the office Is in Julie ?	yes	5
+13 the bedroom to Fred went.
+14 Mary the is in park.
+15 Bill bedroom Is  the in?	yes	11
+1 Mary the park travelled to.
+2 travelled the to Mary school.
+3  in the office Mary Is?	no	2
+4 bedroom Julie is the in.
+5 went the Bill school to.
+6 Mary  Is the school in?	yes	2
+7 the to went cinema Fred.
+8 Bill office the is in.
+9  school Julie in the Is?	no	4
+10 is Julie in kitchen the.
+11 journeyed bedroom Fred to the.
+12 kitchen  the Is in Julie?	yes	10
+13 the or either the school in Julie is office.
+14 or either Mary the in the is school park.
+15  cinema Julie Is in the?	no	13
+1 park Bill to journeyed the.
+2 in is park Fred the.
+3 in Fred  park Is the?	yes	2
+4 Bill cinema the to journeyed.
+5 the park park Mary the is or in either.
+6  Is the Bill park in?	no	4
+7 school either or cinema the Mary the is in.
+8 in either office the or bedroom is the Fred.
+9 the  Mary in Is cinema?	maybe	7
+10 bedroom the in is Bill.
+11 the Bill office in is.
+12 Is office in  Bill the?	yes	11
+13 Julie travelled to office the.
+14 to kitchen the travelled Julie.
+15 Is office in  the Julie?	no	14
+1 Mary back office the to went.
+2 or park kitchen either Bill in is the the.
+3 Is the bedroom Mary in ?	no	1
+4 went bedroom Bill the to.
+5 Julie either the school park in the is or.
+6 the school Is in Bill ?	no	4
+7 went to kitchen back Mary the.
+8 the to office travelled Fred.
+9 Is in  the Bill bedroom?	yes	4
+10 is bedroom the in Mary.
+11 in school Bill is the.
+12 in  the school Is Mary?	no	10
+13 Mary is kitchen the in.
+14 Mary the to school journeyed.
+15 Mary kitchen the Is in ?	no	14
+1 Fred is bedroom in the.
+2 Fred school is the in.
+3 in  Fred school Is the?	yes	2
+4 moved Mary to the school.
+5 travelled kitchen Mary to the.
+6 the  Is Fred in school?	yes	2
+7 Mary to travelled park the.
+8 in is park cinema the or Fred the either.
+9 Is the in park  Mary?	yes	7
+10 bedroom in is Fred the.
+11 Julie went the school to back.
+12 kitchen the Is in  Fred?	no	10
+13 went back to park Julie the.
+14 to cinema Mary the travelled.
+15 the bedroom Fred  in Is?	yes	10
+1 in Julie cinema the is.
+2 in Fred is bedroom the.
+3 in the cinema Julie Is ?	yes	1
+4 Julie the in is park.
+5 Mary the school in is.
+6 Mary cinema  Is in the?	no	5
+7 in school Mary or is park the the either.
+8 is school Mary in the.
+9 in Is the school Mary ?	yes	8
+10 bedroom travelled the Mary to.
+11 cinema or the the office is either Fred in.
+12 Is the in Mary school ?	no	10
+13 cinema the Bill is in.
+14 or bedroom either school Bill the is the in.
+15 the Is bedroom Mary  in?	yes	10
+1 went the to kitchen Julie.
+2 the is in office Julie.
+3 in  Julie school the Is?	no	2
+4 Julie school journeyed the to.
+5 in school is Mary the.
+6 Mary the in Is  school?	yes	5
+7 journeyed Bill park to the.
+8 cinema Mary the went to.
+9 the Is  school in Julie?	yes	4
+10 is Fred the in school.
+11 the Mary is bedroom in office the either or.
+12 park in Is Bill  the?	yes	7
+13 the is kitchen in Julie.
+14 travelled the bedroom to Fred.
+15 Is  Julie park the in?	no	13
+1 cinema Bill the moved to.
+2 the office in is Mary.
+3  office Mary in the Is?	yes	2
+4 the to moved school Julie.
+5 the Fred in is office.
+6 Is Julie park  in the?	no	4
+7 travelled Mary kitchen the to.
+8 Mary office to moved the.
+9 Is  the office in Mary?	yes	8
+10 Mary the in is school.
+11 back to kitchen Fred went the.
+12 school  Is in the Mary?	yes	10
+13 to the moved Fred office.
+14 Mary bedroom the in either or the is office.
+15 Fred  the in kitchen Is?	no	13
+1 to Bill travelled the kitchen.
+2 the office Bill is in.
+3 Bill  park the Is in?	no	2
+4 school the Mary in is.
+5 the school Fred is in.
+6 the school Fred  Is in?	yes	5
+7 office the to journeyed Fred.
+8 office in Julie is the.
+9 Is in Fred  the kitchen?	no	7
+10 the to bedroom moved Fred.
+11 in is the either cinema the or Fred office.
+12 Fred the  cinema in Is?	maybe	11
+13 either bedroom bedroom Mary or the in is the.
+14 Bill to bedroom journeyed the.
+15 Fred cinema the  Is in?	maybe	11
+1 the to moved Fred school.
+2 bedroom in Fred is the.
+3 Is  in Fred park the?	no	2
+4 either the in the is school Bill bedroom or.
+5 kitchen is Julie in the.
+6 Fred bedroom  the Is in?	yes	2
+7 office went Bill to the.
+8 park Julie in the is.
+9  the school in Is Fred?	no	2
+10 back went to the Bill school.
+11 moved school the to Fred.
+12  cinema Bill in Is the?	no	10
+13 kitchen the park in or either Bill the is.
+14 the the cinema or in is either Bill cinema.
+15  in park Julie Is the?	yes	8
+1 the journeyed to park Mary.
+2 park Fred in is the or either park the.
+3 the park Is  in Mary?	yes	1
+4 back Bill the bedroom to went.
+5 Fred back to the bedroom went.
+6 bedroom  Fred the in Is?	yes	5
+7 back the to Julie park went.
+8 Fred school is in either or the the park.
+9 the  school Is Bill in?	no	4
+10 is office Julie the in.
+11 to office the travelled Mary.
+12 the  office Is Mary in?	yes	11
+13 Bill school to travelled the.
+14 back to the went Mary school.
+15 Bill in  cinema the Is?	no	13
+1 bedroom the went to back Fred.
+2 the cinema to Mary moved.
+3 Mary Is in bedroom the ?	no	2
+4 the park either is or in Bill the park.
+5 the is the kitchen or Fred either office in.
+6 kitchen  Fred Is the in?	maybe	5
+7 travelled the to Bill cinema.
+8 the moved to Bill school.
+9 the kitchen in Is  Fred?	maybe	5
+10 back went to Mary office the.
+11 the in Bill cinema is.
+12 Bill Is the cinema in ?	yes	11
+13 Mary went school the to.
+14 the Julie either the park or in office is.
+15 Is  the Bill in cinema?	yes	11
+1 the office Mary went to.
+2 to the office moved Bill.
+3 office Bill  the Is in?	yes	2
+4 Fred travelled to park the.
+5 to Fred the journeyed kitchen.
+6 Is the  Fred kitchen in?	yes	5
+7 in is Mary bedroom the.
+8 Bill the kitchen journeyed to.
+9 Is kitchen in  the Bill?	yes	8
+10 the or the either office in Mary is kitchen.
+11 or either the the in Fred is cinema bedroom.
+12 the  in Mary Is school?	no	10
+13 in kitchen the Julie is.
+14 is the Fred cinema in.
+15 school Is in Mary  the?	no	10
+1 is in the office Mary.
+2 is Mary the school in.
+3 Mary in  school Is the?	yes	2
+4 either cinema in is the school or the Mary.
+5 the went school Fred to.
+6 Is  office in Mary the?	no	4
+7 the went back Mary to office.
+8 to school Julie the moved.
+9 bedroom  in Is Mary the?	no	7
+10 or the Fred is either the in kitchen office.
+11 the in Mary is park.
+12 Is kitchen  the Fred in?	maybe	10
+13 back to the Mary went office.
+14 in cinema the either park Bill or the is.
+15 in the Bill  cinema Is?	maybe	14
+1 the school either kitchen is in Julie or the.
+2 to the journeyed park Mary.
+3 the in Mary cinema Is ?	no	2
+4 to journeyed cinema the Julie.
+5 either office the Fred is the kitchen in or.
+6 the  Is Julie kitchen in?	no	4
+7 the cinema is in Fred.
+8 is the Fred park in.
+9 the Fred park  Is in?	yes	8
+10 bedroom the went to Julie.
+11 Julie to went the park.
+12 Julie  the Is in park?	yes	11
+13 kitchen Fred to travelled the.
+14 the cinema or is Bill in bedroom the either.
+15 Fred  bedroom in the Is?	no	13
+1 the Fred in either school cinema the is or.
+2 the travelled school Julie to.
+3 in school Is  the Fred?	maybe	1
+4 Fred the to school moved.
+5 travelled to the cinema Bill.
+6  Is the in Julie school?	yes	2
+7 bedroom the in Julie is.
+8 the Bill school is in.
+9 in Bill school the Is ?	yes	8
+10 office the to journeyed Mary.
+11 bedroom Bill to the went.
+12 in bedroom  Bill the Is?	yes	11
+13 in Bill park is the.
+14 to Bill went school back the.
+15 in  Bill park Is the?	no	14
+1 school in Julie the is.
+2 moved school to Bill the.
+3 Julie in school Is  the?	yes	1
+4 cinema the Fred is in.
+5 went kitchen the Julie to.
+6 Fred  in Is the park?	no	4
+7 is the the either office Mary or bedroom in.
+8 office in Fred either or the bedroom is the.
+9  Is in bedroom the Fred?	maybe	8
+10 to bedroom went Mary the.
+11 cinema is in the Julie.
+12 in the Julie Is cinema ?	yes	11
+13 Julie park to the back went.
+14 went Mary school the to back.
+15 Is the in Julie school ?	no	13
+1 moved Mary to kitchen the.
+2 the kitchen to Fred moved.
+3 Is Fred  the in kitchen?	yes	2
+4 Mary travelled cinema the to.
+5 the the either in Bill cinema is or bedroom.
+6 the  in Is cinema Bill?	maybe	5
+7 is in the Mary office.
+8 travelled the to Mary school.
+9 in the  Mary school Is?	yes	8
+10 to the travelled bedroom Bill.
+11 is or in cinema Fred the either the cinema.
+12 Mary the office in Is ?	no	8
+13 cinema Fred school in the either the is or.
+14 cinema in the is Bill.
+15 school in Is  the Mary?	yes	8
+1 to Mary back bedroom went the.
+2 Julie in the is park.
+3 Is bedroom  Mary the in?	yes	1
+4 the Mary to park went.
+5 cinema Bill the school is either or in the.
+6 the Julie office in  Is?	no	2
+7 journeyed Fred kitchen the to.
+8 is either or Julie the cinema in the office.
+9 Is  the in Fred kitchen?	yes	7
+10 or is Bill bedroom either the the in bedroom.
+11 bedroom back to Fred went the.
+12 the Is  bedroom Bill in?	maybe	10
+13 either or the cinema park is Fred the in.
+14 in kitchen the Fred is.
+15 Is in Bill the cinema ?	no	10
+1 the park in is Fred.
+2 cinema to journeyed Mary the.
+3 park Fred Is the  in?	yes	1
+4 the or the Julie either in bedroom kitchen is.
+5 the either park or is in Bill office the.
+6 Is the Julie park in ?	no	4
+7 to the went Bill back bedroom.
+8 to the bedroom Mary went.
+9 Is Julie office  the in?	no	4
+10 travelled school the Julie to.
+11 or kitchen Julie kitchen the the in either is.
+12 Is bedroom in Bill  the?	yes	7
+13 the in Bill office is.
+14 Julie to went school back the.
+15 Julie  Is school the in?	yes	14
+1 the to travelled Fred school.
+2 the office Fred in is.
+3  Is the cinema Fred in?	no	2
+4 the in Bill is bedroom.
+5 is the in kitchen Bill.
+6 Bill in the  kitchen Is?	yes	5
+7 Bill the to bedroom went.
+8 to school travelled the Julie.
+9 in  the Julie school Is?	yes	8
+10 cinema in Mary the is.
+11 the bedroom is in Mary.
+12 school Is Julie the in ?	yes	8
+13 cinema is in Mary the.
+14 Bill park journeyed to the.
+15 Bill cinema the Is in ?	no	14
+1 bedroom the moved Fred to.
+2 kitchen the is Julie in.
+3 Is in  the Julie kitchen?	yes	2
+4 the bedroom is or park either in the Fred.
+5 the is or in either the bedroom office Fred.
+6  Is Fred kitchen in the?	no	5
+7 back the went Julie cinema to.
+8 Mary moved park the to.
+9 office  in the Fred Is?	maybe	5
+10 cinema is the in Fred.
+11 the back cinema to Mary went.
+12 Julie the cinema Is  in?	yes	7
+13 cinema the Bill is in.
+14 to went Mary office back the.
+15 the office Is Mary in ?	yes	14
+1 is the Bill in school.
+2 kitchen travelled the to Mary.
+3  in Is cinema the Mary?	no	2
+4 in the park is Fred.
+5 the in Fred is school.
+6 the Mary  in office Is?	no	2
+7 cinema Bill the in is.
+8 office is in the Bill.
+9 the  Fred Is cinema in?	no	5
+10 kitchen Fred to the moved.
+11 the in Julie is bedroom.
+12 office in Is  Bill the?	yes	8
+13 is bedroom Fred the in.
+14 the travelled kitchen Julie to.
+15 bedroom Fred Is in  the?	yes	13
+1 the either or the Mary in park bedroom is.
+2 Bill the went park to.
+3 in bedroom the  Is Bill?	no	2
+4 office Mary the went to.
+5 Fred office to the journeyed.
+6 Is in  Fred the park?	no	5
+7 in the Mary bedroom is.
+8 is the Mary in school.
+9 Mary school  Is the in?	yes	8
+10 kitchen Fred to the moved.
+11 the to Fred journeyed cinema.
+12  Is Mary in the bedroom?	no	8
+13 the went kitchen to Bill.
+14 school in either is park Bill the or the.
+15  Is Fred in school the?	no	11
+1 office went Julie to the.
+2 in is the Bill park.
+3 the Bill cinema in Is ?	no	2
+4 the park journeyed to Julie.
+5 Bill cinema to the journeyed.
+6 bedroom in the  Julie Is?	no	4
+7 moved the Mary to kitchen.
+8 Mary office the is in.
+9  the office Mary in Is?	yes	8
+10 in cinema Fred is the.
+11 park to Mary journeyed the.
+12 cinema in  Is the Bill?	yes	5
+13 Julie moved office the to.
+14 the bedroom to Julie went.
+15 in  office Julie Is the?	no	14
+1 is Mary the the park bedroom either in or.
+2 the to school Fred travelled.
+3 in office  Mary the Is?	no	1
+4 in is Mary the bedroom.
+5 in Julie bedroom is the.
+6 bedroom Mary  in the Is?	yes	4
+7 went cinema the to Bill.
+8 office in the either Bill or is the school.
+9 in Mary Is kitchen the ?	no	4
+10 travelled to the Bill cinema.
+11 Fred cinema is the or either in kitchen the.
+12 kitchen  Is Fred the in?	maybe	11
+13 either the office or cinema Julie is the in.
+14 the Fred park travelled to.
+15  cinema the Is in Bill?	yes	10
+1 to went park the Mary.
+2 to the Mary went kitchen.
+3 cinema in Mary Is  the?	no	2
+4 is cinema in Bill the.
+5 Bill back went office the to.
+6  the Is in kitchen Bill?	no	5
+7 to park Mary the journeyed.
+8 the to Mary journeyed cinema.
+9 Bill Is office in  the?	yes	5
+10 or the Julie the bedroom is either office in.
+11 the in is Mary park.
+12 in Is the bedroom Julie ?	maybe	10
+13 the Julie cinema in is.
+14 school Julie the either is kitchen the in or.
+15 office in  the Is Julie?	no	14
+1 journeyed the Mary to office.
+2 kitchen either the is or in school Bill the.
+3 school  Is in Bill the?	maybe	2
+4 journeyed Mary cinema the to.
+5 in cinema Julie is the.
+6  cinema the Mary Is in?	yes	4
+7 the Bill travelled to cinema.
+8 the is school or kitchen Bill in the either.
+9 Is in cinema the Bill ?	no	8
+10 Bill in cinema is the.
+11 the either park the school Bill is in or.
+12  office in the Bill Is?	no	11
+13 bedroom the in Mary is.
+14 or is bedroom office the in either Mary the.
+15  in Is the Bill park?	maybe	11
+1 to park the journeyed Julie.
+2 moved kitchen the to Julie.
+3 kitchen the  Julie Is in?	yes	2
+4 Fred moved to kitchen the.
+5 or the the is office either bedroom Fred in.
+6 the park  Is Fred in?	no	5
+7 to kitchen went Bill the back.
+8 Mary is kitchen in the.
+9 the Mary in Is bedroom ?	no	8
+10 Fred journeyed to park the.
+11 the journeyed bedroom Julie to.
+12 school in the Is Fred ?	no	10
+13 cinema is the in Julie.
+14 to travelled Julie the office.
+15  kitchen Fred Is the in?	no	10
+1 the went office Mary to.
+2 kitchen back the went Fred to.
+3  in the Fred Is bedroom?	no	2
+4 the bedroom travelled to Bill.
+5 to Fred school journeyed the.
+6 cinema  Is in the Fred?	no	5
+7 in is park Mary the.
+8 to cinema Fred the travelled.
+9 the Is in  office Bill?	no	4
+10 Mary the is cinema in.
+11 is or the park in Mary office either the.
+12 Is Fred the in cinema ?	yes	8
+13 to office the Mary moved.
+14 either in the is Bill the or school school.
+15  the Is office in Mary?	yes	13
+1 travelled kitchen the Julie to.
+2 the office in Julie is.
+3 Julie Is  the office in?	yes	2
+4 office to Mary journeyed the.
+5 Fred is park the or park either in the.
+6 office in  the Is Mary?	yes	4
+7 bedroom the is in Mary.
+8 to bedroom the Fred went.
+9 in bedroom Mary Is the ?	yes	7
+10 the went kitchen to Bill.
+11 the to cinema Bill travelled.
+12 Bill  cinema in the Is?	yes	11
+13 park either cinema is the in or Julie the.
+14 Fred in kitchen the is.
+15 the Is Bill cinema in ?	yes	11
+1 Julie in bedroom either or school is the the.
+2 cinema Bill to journeyed the.
+3 Is in the office  Julie?	no	1
+4 went to Bill kitchen the.
+5 to Fred school the journeyed.
+6  Julie in bedroom Is the?	maybe	1
+7 in is bedroom Fred the.
+8 bedroom to the Bill journeyed.
+9 the Is in  Bill bedroom?	yes	8
+10 park in Mary either is park the or the.
+11 in the Fred is cinema.
+12 the in office  Mary Is?	no	10
+13 to the Fred went back park.
+14 school in the is Bill.
+15 Is in the  Bill school?	yes	14
+1 kitchen either school or in Fred is the the.
+2 office or the is either Julie the in school.
+3 cinema the in Fred Is ?	no	1
+4 Julie park in the is.
+5 in Mary kitchen the is.
+6 Julie the in  kitchen Is?	no	4
+7 Fred journeyed to the park.
+8 to Bill the school went.
+9 park  Is the Fred in?	yes	7
+10 the is in Julie cinema.
+11 went the to Fred back bedroom.
+12 kitchen in the  Is Mary?	yes	5
+13 the office travelled Mary to.
+14 the park or Fred either office is in the.
+15 school Is the  Mary in?	no	13
+1 the Bill kitchen is either in the or office.
+2 the went school Julie to.
+3 in the office  Is Bill?	maybe	1
+4 travelled to office Julie the.
+5 Julie went kitchen to the.
+6 bedroom in Is Bill  the?	no	1
+7 the in Bill school is.
+8 bedroom went the Bill to back.
+9 Is in the bedroom  Bill?	yes	8
+10 school the went Julie to.
+11 Mary kitchen the to travelled.
+12 in bedroom  Is the Bill?	yes	8
+13 is the school in Bill.
+14 to went kitchen Bill the.
+15  park Is Bill in the?	no	14
+1 went Mary back the to park.
+2 either or Fred the is kitchen the bedroom in.
+3 in the Is Fred cinema ?	no	2
+4 the to travelled Julie office.
+5 the Bill cinema travelled to.
+6 kitchen  Bill Is the in?	no	5
+7 is Bill bedroom in the.
+8 either office the Fred in the or is park.
+9 school the Is Julie  in?	no	4
+10 the cinema Bill travelled to.
+11 back to the went school Bill.
+12 kitchen in  the Bill Is?	no	11
+13 to kitchen the travelled Bill.
+14 moved bedroom the to Mary.
+15 kitchen the in Bill Is ?	yes	13
+1 or the in is office either bedroom the Bill.
+2 office is bedroom either in the Bill the or.
+3  Is the Bill in school?	no	2
+4 journeyed cinema to the Julie.
+5 is bedroom the or in either kitchen Bill the.
+6 the in Is Bill  bedroom?	maybe	5
+7 bedroom travelled to Mary the.
+8 kitchen to Mary the journeyed.
+9 bedroom in the Is  Bill?	maybe	5
+10 is in the office Bill.
+11 Fred to park the journeyed.
+12  park Fred in the Is?	yes	11
+13 to the went bedroom Fred.
+14 journeyed to bedroom the Bill.
+15  in Is the school Fred?	no	13
+1 the or either the cinema Bill bedroom is in.
+2 Mary park to travelled the.
+3 in Is  park Mary the?	yes	2
+4 the Fred to moved park.
+5 to office Mary journeyed the.
+6 kitchen Bill  the Is in?	no	1
+7 in Bill school either cinema the the is or.
+8 to the office Fred went.
+9  Is the Bill in school?	maybe	7
+10 is Bill or the in either kitchen kitchen the.
+11 the is in kitchen Mary.
+12 the  in Bill school Is?	no	10
+13 park or is in the cinema the Mary either.
+14 in school Fred is the.
+15 the kitchen  Is in Mary?	no	13
+1 kitchen the in Fred is.
+2 school Julie the to moved.
+3 school the in Fred  Is?	no	1
+4 the to moved Bill park.
+5 to back went cinema the Julie.
+6 in  the Julie cinema Is?	yes	5
+7 Mary office in the is.
+8 Fred school the to journeyed.
+9 Julie in Is office the ?	no	5
+10 went to back cinema Mary the.
+11 went to cinema the Fred.
+12 Is in  cinema the Fred?	yes	11
+13 moved the Bill to office.
+14 Bill to kitchen journeyed the.
+15  the Is Fred in kitchen?	no	11
+1 the school or either in the Fred is school.
+2 kitchen to journeyed the Bill.
+3  the kitchen Bill in Is?	yes	2
+4 travelled the Julie to park.
+5 park travelled to the Fred.
+6 cinema Bill Is in the ?	no	2
+7 is bedroom the either Bill or cinema the in.
+8 the bedroom moved to Julie.
+9 Bill the cinema  Is in?	maybe	7
+10 to Mary went school the.
+11 or the the either Mary park in cinema is.
+12 the cinema Is Mary in ?	maybe	11
+13 bedroom to Bill the went.
+14 office in is Mary the.
+15  in Mary office the Is?	yes	14
+1 in school Fred the is.
+2 kitchen back to the went Bill.
+3 in the kitchen Bill  Is?	yes	2
+4 Bill in cinema is the either or bedroom the.
+5 school the is Bill in.
+6 the in Is  Bill school?	yes	5
+7 the Julie to travelled school.
+8 Fred bedroom the to went.
+9 Is Bill the school in ?	yes	5
+10 office Bill journeyed to the.
+11 in the is kitchen Julie.
+12 Is the in  Bill office?	yes	10
+13 to the Mary office journeyed.
+14 the to journeyed bedroom Mary.
+15 Is in  Fred school the?	no	8
+1 office to went back the Bill.
+2 in the either the is cinema cinema or Fred.
+3 in Fred cinema  the Is?	maybe	2
+4 or either is in cinema the bedroom the Julie.
+5 the kitchen to travelled Bill.
+6 Fred  in cinema the Is?	maybe	2
+7 the the Mary in or either kitchen is park.
+8 Julie the office in is.
+9 in Mary  Is the cinema?	no	7
+10 in the Fred park is.
+11 the Mary is bedroom in.
+12 the bedroom Mary in Is ?	yes	11
+13 cinema school in the or Bill either is the.
+14 Fred office is in the.
+15 school Is  in Fred the?	no	14
+1 either bedroom bedroom the is or in Mary the.
+2 Julie the in cinema either the or is office.
+3 the kitchen Mary  in Is?	no	1
+4 went the back Julie park to.
+5 to moved school Mary the.
+6 Is Julie the  park in?	yes	4
+7 the park moved Bill to.
+8 the the is kitchen Bill or either bedroom in.
+9 in the  park Is Julie?	yes	4
+10 went kitchen the Mary to.
+11 back the Fred bedroom went to.
+12 the Is  in Fred bedroom?	yes	11
+13 to cinema went back the Julie.
+14 kitchen in either Bill or is cinema the the.
+15 Bill in the  kitchen Is?	maybe	14
+1 moved kitchen to Mary the.
+2 Mary the park in is.
+3 the park  in Mary Is?	yes	2
+4 is or in cinema bedroom the the either Mary.
+5 in school the Bill is the kitchen or either.
+6 Is in Mary bedroom  the?	maybe	4
+7 is Fred park in the.
+8 the in office either office is or Mary the.
+9 Fred  in the Is park?	yes	7
+10 bedroom the in Mary is.
+11 cinema Julie to journeyed the.
+12 in Bill Is the school ?	maybe	5
+13 is kitchen Mary the in.
+14 travelled the Julie bedroom to.
+15  in Mary kitchen the Is?	yes	13
+1 in is the kitchen Julie.
+2 Mary is in cinema the.
+3 Is office the in Julie ?	no	1
+4 in Mary is bedroom the.
+5 the or in school park is either Mary the.
+6 the school Julie  in Is?	no	1
+7 the back kitchen went Mary to.
+8 cinema journeyed the Mary to.
+9  Is cinema Mary in the?	yes	8
+10 in cinema is the Bill.
+11 in cinema is the Julie.
+12 Is Mary park  in the?	no	8
+13 Bill to park the went.
+14 Mary office the to journeyed.
+15 Bill  Is park in the?	yes	13
+1 the to journeyed school Bill.
+2 to Fred went kitchen the.
+3 in Is the Fred  park?	no	2
+4 the is park Fred in.
+5 travelled cinema to Fred the.
+6  school Bill the Is in?	yes	1
+7 the Fred office in is.
+8 moved Fred cinema the to.
+9 Is in Fred cinema the ?	yes	8
+10 office is Bill the in cinema the or either.
+11 bedroom to moved Mary the.
+12 the  in Is school Mary?	no	11
+13 the kitchen to journeyed Julie.
+14 office is in Mary the either office the or.
+15  park in the Is Bill?	no	10
+1 in bedroom the Fred is.
+2 the either the cinema or in Mary school is.
+3 school Is the  in Mary?	maybe	2
+4 to Mary the moved bedroom.
+5 or the either park in is Bill bedroom the.
+6 bedroom  Is Mary the in?	yes	4
+7 to travelled Julie the office.
+8 kitchen the Mary travelled to.
+9 Is bedroom Bill the in ?	maybe	5
+10 Mary in or park bedroom the either the is.
+11 cinema to Bill travelled the.
+12 Is  the Julie in bedroom?	no	7
+13 kitchen Julie bedroom the either or the is in.
+14 in the is school Fred.
+15 in the Is bedroom Julie ?	maybe	13
+1 to back went the Fred park.
+2 is in the school Mary.
+3 in the cinema  Fred Is?	no	1
+4 or either bedroom the in Bill cinema the is.
+5 either is the in or Fred park the office.
+6  Is the in Fred park?	maybe	5
+7 the journeyed to bedroom Julie.
+8 bedroom went Fred the to.
+9 bedroom Julie the  Is in?	yes	7
+10 either is the park office the or in Mary.
+11 the in or park Bill is office either the.
+12 the Is  in Mary kitchen?	no	10
+13 to the Bill cinema went.
+14 in either Bill is office the the park or.
+15 cinema in the Is Bill ?	no	14
+1 is Julie in the park.
+2 travelled park the Bill to.
+3 Bill  Is in bedroom the?	no	2
+4 the either park is or in Mary bedroom the.
+5 to cinema Fred the moved.
+6 in  the Is school Mary?	no	4
+7 the Fred or park the kitchen is either in.
+8 to moved cinema the Bill.
+9  cinema Bill in Is the?	yes	8
+10 went to bedroom the back Bill.
+11 Mary bedroom the to journeyed.
+12 Fred in school the  Is?	no	7
+13 the to Julie office went.
+14 is the park in Mary.
+15 Is  the in Bill bedroom?	yes	10
+1 the school Fred in is.
+2 is cinema in the Mary.
+3 in  Is the cinema Mary?	yes	2
+4 the back to went Bill office.
+5 school the in is Mary.
+6 in  Is office Fred the?	no	1
+7 cinema Mary back to the went.
+8 to journeyed Julie office the.
+9 the cinema  Is in Mary?	yes	7
+10 park to Mary went the.
+11 Fred to bedroom travelled the.
+12  in Julie office the Is?	yes	8
+13 the in is the or bedroom Mary park either.
+14 the Julie is bedroom in.
+15 Mary Is  in the school?	no	13
+1 school to the Mary travelled.
+2 bedroom the the in park or is either Mary.
+3 the office in Is  Mary?	no	2
+4 went Mary office back the to.
+5 Julie moved the kitchen to.
+6 in the Is bedroom  Mary?	no	4
+7 Julie in is the or bedroom the school either.
+8 Fred the either the park is in cinema or.
+9 cinema in Is Julie the ?	no	7
+10 to went Fred the back park.
+11 the is the cinema either in Bill or cinema.
+12 Julie in  school Is the?	maybe	7
+13 the in is bedroom Fred office either or the.
+14 Mary park travelled to the.
+15 in Is Fred the  bedroom?	maybe	13
+1 Fred the school to travelled.
+2 to journeyed the Fred bedroom.
+3 bedroom in the Is  Fred?	yes	2
+4 office or kitchen is in the the Bill either.
+5 the travelled Julie to park.
+6 in Is bedroom  the Fred?	yes	2
+7 Bill the school moved to.
+8 cinema back went to the Bill.
+9  Bill school in Is the?	no	8
+10 travelled cinema Julie to the.
+11 to school went Fred the.
+12 in Fred the  cinema Is?	no	11
+13 travelled the Mary to kitchen.
+14 park the Julie to travelled.
+15 kitchen Mary Is the  in?	yes	13
+1 the Mary to cinema journeyed.
+2 to moved the Mary park.
+3 Mary  Is in kitchen the?	no	2
+4 kitchen the moved to Julie.
+5 Mary travelled the school to.
+6 Mary bedroom the in Is ?	no	5
+7 or in the either office is Bill kitchen the.
+8 Fred the bedroom travelled to.
+9 in bedroom Is Fred  the?	yes	8
+10 Fred is the kitchen in.
+11 bedroom travelled the to Bill.
+12 Is the in Mary cinema ?	no	5
+13 office Julie is in the.
+14 to park Julie went the.
+15  cinema Bill in Is the?	no	11
+1 the in either the office or is bedroom Bill.
+2 the Fred went to office back.
+3 Bill in  office Is the?	maybe	1
+4 the went kitchen back to Bill.
+5 park or office either the Bill in is the.
+6 in the Bill office Is ?	maybe	5
+7 Mary to journeyed kitchen the.
+8 to bedroom the Fred went.
+9  Fred bedroom Is the in?	yes	8
+10 moved to the park Bill.
+11 Bill is in the bedroom.
+12  the kitchen Bill in Is?	no	11
+13 Fred kitchen the in is.
+14 to back the Fred office went.
+15 the Is  kitchen in Bill?	no	11
+1 is park Julie in the.
+2 the Fred bedroom in is.
+3 Is the  in park Julie?	yes	1
+4 went park Mary to the.
+5 travelled to office Bill the.
+6 Is in  Bill the office?	yes	5
+7 went Bill the to park.
+8 the to Fred went office.
+9 Is  the in office Fred?	yes	8
+10 is the in bedroom Mary.
+11 the either cinema office in is the or Julie.
+12  office Julie the in Is?	maybe	11
+13 Fred the moved to park.
+14 the Julie is bedroom in.
+15 in the bedroom  Is Mary?	yes	10
+1 Mary is the cinema in.
+2 moved school Bill to the.
+3  the Is cinema Bill in?	no	2
+4 school or bedroom is in the Bill the either.
+5 the in bedroom either Fred is or office the.
+6 cinema Mary  in the Is?	yes	1
+7 in the either school Bill office is or the.
+8 Julie back the to went office.
+9  office Is the in Julie?	yes	8
+10 is Mary office the in.
+11 Fred to kitchen the went.
+12 Mary in  school Is the?	no	10
+13 Mary the went back to school.
+14 the either is in the or kitchen park Mary.
+15  the Fred park in Is?	no	11
+1 Mary to the moved bedroom.
+2 back the to park Julie went.
+3 in Mary Is school the ?	no	1
+4 kitchen Julie the is in.
+5 or in the Julie the is cinema either office.
+6 Is Julie in school the ?	no	5
+7 travelled to school Fred the.
+8 to the school Bill journeyed.
+9 Is in school Fred the ?	yes	7
+10 Mary went the to school.
+11 either office is the bedroom Fred or the in.
+12 Is  in Fred kitchen the?	no	11
+13 office Julie to the moved.
+14 Mary either cinema or the in is the park.
+15 Is school  in Bill the?	yes	8
+1 the the office in either or Julie school is.
+2 park the to Julie moved.
+3 Is park in Julie  the?	yes	2
+4 school travelled the to Julie.
+5 is either Mary office the the cinema or in.
+6 Is the  school Julie in?	yes	4
+7 the to journeyed school Bill.
+8 the cinema Mary in is.
+9 the  Julie in Is school?	yes	4
+10 in bedroom Bill the is.
+11 the park is Bill in.
+12 Bill Is the bedroom  in?	no	11
+13 Bill the to school travelled.
+14 is kitchen in the Mary.
+15 the  Bill Is in kitchen?	no	13
+1 Fred is the office in.
+2 back the kitchen went to Mary.
+3 in the park Is  Fred?	no	1
+4 travelled the park to Bill.
+5 in cinema is the Mary.
+6 in the cinema Is Mary ?	yes	5
+7 the to Julie travelled school.
+8 went the back park Julie to.
+9 Is the Julie park  in?	yes	8
+10 is in Mary school the.
+11 to went Mary the kitchen.
+12 Mary kitchen Is  the in?	yes	11
+13 cinema is cinema either the or in Bill the.
+14 Fred the to travelled cinema.
+15 Mary Is school  the in?	no	11
+1 Bill to the went park.
+2 Bill office the in is.
+3 the Is  office Bill in?	yes	2
+4 is in school Fred the.
+5 went to cinema the Fred.
+6  cinema Fred in the Is?	yes	5
+7 the to Julie park travelled.
+8 bedroom Fred in is the.
+9 cinema in Is the Fred ?	no	8
+10 travelled the office to Mary.
+11 Mary to moved bedroom the.
+12 the  cinema in Is Mary?	no	11
+13 Mary either the cinema the is or in office.
+14 bedroom is school either the Fred the in or.
+15 the Is Fred in  park?	no	14
+1 the bedroom is Fred bedroom the either in or.
+2 went Julie the back school to.
+3 the  Julie Is in school?	yes	2
+4 journeyed kitchen to the Julie.
+5 bedroom Julie the is in.
+6  bedroom the Julie in Is?	yes	5
+7 or the the school Fred in either bedroom is.
+8 kitchen Julie in is the.
+9 in the school  Is Fred?	maybe	7
+10 went office to the Julie.
+11 the kitchen or either the is school in Bill.
+12 the cinema Bill  in Is?	no	11
+13 office in is the Fred.
+14 the Fred travelled to kitchen.
+15 in Is  Bill the school?	maybe	11
+1 the park to went Julie.
+2 to moved the Julie office.
+3  Is office Julie in the?	yes	2
+4 to went kitchen the Fred.
+5 the either in is the park bedroom Mary or.
+6 park the Julie in Is ?	no	2
+7 either the or is bedroom in Bill school the.
+8 Mary office to the travelled.
+9  Mary in the Is school?	no	8
+10 Fred moved school to the.
+11 either park the Bill the or is in school.
+12 in Fred Is  the school?	yes	10
+13 kitchen the is Julie in.
+14 school to moved Julie the.
+15 Is in Bill  the park?	maybe	11
+1 in Fred the is park.
+2 the in is Julie bedroom.
+3 in Julie  the Is cinema?	no	2
+4 Bill travelled the school to.
+5 the Mary school to went.
+6 Mary the Is kitchen in ?	no	5
+7 the bedroom Fred journeyed to.
+8 Julie the park journeyed to.
+9 Julie  in the park Is?	yes	8
+10 travelled kitchen Mary the to.
+11 is the Fred in kitchen.
+12 the  Is kitchen Mary in?	yes	10
+13 Mary the cinema is in.
+14 kitchen Julie in the is.
+15 the  Julie cinema in Is?	no	14
+1 to went the Fred kitchen.
+2 the park went to Bill.
+3 the Fred in kitchen Is ?	yes	1
+4 travelled the Mary kitchen to.
+5 is cinema in the Fred.
+6 Is cinema Fred the  in?	yes	5
+7 school in either Fred the is or the school.
+8 is school Mary in the.
+9  in bedroom the Is Fred?	no	7
+10 in park school the is the either Mary or.
+11 bedroom is the Fred in.
+12 Fred school the Is in ?	no	11
+13 is either Julie kitchen in or school the the.
+14 journeyed Mary kitchen to the.
+15 in the Is kitchen  Mary?	yes	14
+1 the bedroom Fred in is.
+2 office is in Bill the.
+3 the Is  Fred in park?	no	1
+4 the park is Julie in.
+5 in the cinema Bill is.
+6 cinema Is in the Fred ?	no	1
+7 to the moved Julie school.
+8 or the kitchen the either in is Fred kitchen.
+9 Is the Julie  in cinema?	no	7
+10 the cinema moved to Mary.
+11 in the the is school or either Mary park.
+12 Is the in  cinema Mary?	no	11
+13 in either the park the Mary is office or.
+14 office the Bill to went.
+15 Is in office Mary  the?	maybe	13
+1 school Fred to journeyed the.
+2 Bill the office in is.
+3 school Is in Fred the ?	yes	1
+4 Fred cinema travelled the to.
+5 went Julie the to kitchen.
+6 Is the in  bedroom Julie?	no	5
+7 kitchen Fred the went to.
+8 went the Bill park to.
+9 kitchen Julie the Is  in?	yes	5
+10 Fred the journeyed bedroom to.
+11 in park the is Julie.
+12 Julie  Is school in the?	no	11
+13 to moved the Bill school.
+14 office Julie the moved to.
+15 Fred the bedroom Is in ?	yes	10
+1 the Julie bedroom is in.
+2 is in the Mary kitchen.
+3 Is Julie the in  bedroom?	yes	1
+4 park is in the Fred.
+5 to kitchen the Fred moved.
+6 in  Is office Fred the?	no	5
+7 moved Bill the to school.
+8 or either Fred the is the office office in.
+9  in Fred office Is the?	maybe	8
+10 Bill the went to office.
+11 kitchen Julie to moved the.
+12 in Is Fred the  office?	maybe	8
+13 the Julie to moved cinema.
+14 the back to school Mary went.
+15 Bill  Is the in cinema?	no	10
+1 the travelled to bedroom Bill.
+2 is kitchen in the Fred.
+3 in  Is the bedroom Bill?	yes	1
+4 the park is in Julie.
+5 to the Julie travelled kitchen.
+6 Is the in Bill  cinema?	no	1
+7 the is school in school the or Julie either.
+8 the office to went Bill.
+9 Julie  Is in the school?	maybe	7
+10 Bill to school the went.
+11 Julie bedroom the to moved.
+12 the  kitchen Is in Bill?	no	10
+13 cinema Fred to went the.
+14 in Mary the cinema is.
+15 the  Mary in Is cinema?	yes	14
+1 Mary in the is school.
+2 to the bedroom went Julie.
+3 Julie bedroom in  the Is?	yes	2
+4 is Julie the in school.
+5 to went the Fred park.
+6 in the kitchen  Julie Is?	no	4
+7 the went Fred to office.
+8 either is in school the or Fred the cinema.
+9 Is the Fred in school ?	maybe	8
+10 moved the Julie to park.
+11 kitchen is the in Fred.
+12 in school  the Is Julie?	no	10
+13 back went Bill bedroom to the.
+14 is the Fred office the office either or in.
+15 Is in Fred office the ?	maybe	14
+1 Fred school the journeyed to.
+2 the is in Bill cinema.
+3 in  Fred bedroom Is the?	no	1
+4 the Julie back went to office.
+5 travelled the to park Julie.
+6 in Fred school  Is the?	yes	1
+7 the Fred office travelled to.
+8 to the school Julie moved.
+9 in Julie  Is the school?	yes	8
+10 to went school the Bill.
+11 is in Bill the school or cinema the either.
+12 Julie bedroom Is  the in?	no	8
+13 back went the Fred bedroom to.
+14 to travelled the school Mary.
+15 the school Mary  Is in?	yes	14
+1 the back to went Bill bedroom.
+2 went to bedroom back Mary the.
+3 in  cinema the Is Bill?	no	1
+4 Bill in is park the.
+5 is the kitchen in Bill.
+6  Bill the Is kitchen in?	yes	5
+7 is in the school Bill.
+8 office Fred to moved the.
+9 the in cinema Fred  Is?	no	8
+10 Bill in is bedroom the.
+11 the kitchen the in cinema either or is Julie.
+12  the park in Is Bill?	no	10
+13 in cinema the is Mary.
+14 journeyed to kitchen the Julie.
+15 Mary in the office Is ?	no	13
+1 cinema in the Bill is the park either or.
+2 Julie the is cinema in.
+3 in  Bill the park Is?	maybe	1
+4 the in is kitchen Julie.
+5 in is school Mary the.
+6 Bill Is cinema in  the?	maybe	1
+7 Julie is the in office.
+8 to journeyed the bedroom Fred.
+9 Is the Julie in office ?	yes	7
+10 journeyed to Fred kitchen the.
+11 is school Bill the in.
+12 the  Julie office in Is?	yes	7
+13 the to moved school Fred.
+14 the Fred cinema moved to.
+15 cinema the Is in Fred ?	yes	14
+1 to went Bill the park.
+2 or in is the office either the Fred school.
+3 the park  Bill in Is?	yes	1
+4 cinema the travelled to Bill.
+5 is in Bill either office school or the the.
+6  in the office Bill Is?	maybe	5
+7 the Bill went to park.
+8 is office in Mary the.
+9 cinema in Bill  Is the?	no	7
+10 or Mary the either park is in school the.
+11 either Fred the or cinema is bedroom in the.
+12 Mary the Is park  in?	maybe	10
+13 office cinema in either the Bill the or is.
+14 either the in the office is Mary or bedroom.
+15 Is kitchen Mary  the in?	no	14
+1 Bill the back went kitchen to.
+2 bedroom Julie either is or school the in the.
+3 Bill the kitchen  in Is?	yes	1
+4 the Bill to travelled office.
+5 bedroom school Bill the or the in either is.
+6 Julie Is the bedroom in ?	maybe	2
+7 in the Mary is park.
+8 the office to journeyed Julie.
+9 Is the office  in Julie?	yes	8
+10 office to back Fred went the.
+11 school in either the is the or Bill office.
+12 Is in park Mary the ?	yes	7
+13 to the went bedroom Mary.
+14 the in the or Julie either is bedroom bedroom.
+15 in  Julie the cinema Is?	no	14
+1 to moved the Mary school.
+2 to went Bill the cinema.
+3 Is Mary school  in the?	yes	1
+4 the to Julie went back park.
+5 Julie cinema is the in.
+6 Bill  Is the school in?	no	2
+7 the Bill school either the kitchen in is or.
+8 office Julie the in is.
+9 Bill  Is the school in?	maybe	7
+10 went back office the to Bill.
+11 is the either kitchen the in bedroom or Julie.
+12 kitchen in the Is  Julie?	maybe	11
+13 office cinema either is or the in Fred the.
+14 or the in either kitchen Mary is cinema the.
+15 kitchen in  the Julie Is?	maybe	11
+1 the cinema Bill is in.
+2 in kitchen the Bill is.
+3  Bill in kitchen Is the?	yes	2
+4 office Mary the or the either is in kitchen.
+5 the or cinema in either school is Julie the.
+6 in the school Julie  Is?	maybe	5
+7 to the travelled bedroom Fred.
+8 to the park Julie went back.
+9 Julie Is the in park ?	yes	8
+10 Julie went kitchen to the.
+11 the to Bill travelled cinema.
+12 in  school Is the Julie?	no	10
+13 kitchen in the is office the Bill either or.
+14 moved park to Julie the.
+15 bedroom in the Bill  Is?	no	13
+1 in or the the is cinema either bedroom Julie.
+2 to the cinema Bill journeyed.
+3 the in Bill cinema  Is?	yes	2
+4 Bill in is office the.
+5 the school Julie to went.
+6 park Julie Is  the in?	no	5
+7 the travelled Julie to office.
+8 the Mary school is in.
+9  Bill park the in Is?	no	4
+10 Mary park is the in.
+11 office is either or in the Bill kitchen the.
+12 in the kitchen  Mary Is?	no	10
+13 travelled the to Fred office.
+14 Mary the back went to kitchen.
+15 in Is the  kitchen Mary?	yes	14
+1 office Fred the to moved.
+2 the to Julie park journeyed.
+3 park  the Is in Julie?	yes	2
+4 the either bedroom in the is Mary office or.
+5 Mary in or the is the office either cinema.
+6 the Mary in  school Is?	no	5
+7 the park in is Fred.
+8 cinema Bill is in the.
+9 Bill Is bedroom  the in?	no	8
+10 cinema the travelled Julie to.
+11 or the either the in school Bill is office.
+12 Is the Fred  cinema in?	no	7
+13 kitchen Bill the went to.
+14 to the bedroom Bill travelled.
+15 school  Bill Is the in?	no	14
+1 to Mary went school the.
+2 the to travelled Fred school.
+3 Is in Fred  school the?	yes	2
+4 to Julie travelled office the.
+5 the Mary to kitchen moved.
+6 Julie the in  Is office?	yes	4
+7 the is the Mary bedroom or either in park.
+8 to the Fred moved cinema.
+9 Mary the  bedroom Is in?	maybe	7
+10 the either in the bedroom Fred school or is.
+11 kitchen in Bill is the.
+12  the Bill kitchen Is in?	yes	11
+13 the is in cinema Julie.
+14 in Fred office is the.
+15 cinema in Julie the Is ?	yes	13
+1 back Bill the to kitchen went.
+2 office Bill in the is.
+3 in the Is Bill  office?	yes	2
+4 Julie kitchen the moved to.
+5 is or the park either the kitchen Bill in.
+6 Julie park in Is  the?	no	4
+7 went back to Fred park the.
+8 or the office kitchen either in is Mary the.
+9 Julie  Is kitchen in the?	yes	4
+10 either the bedroom cinema is or in Bill the.
+11 cinema to went the Julie.
+12 Is in cinema the  Bill?	maybe	10
+13 Fred cinema in the is.
+14 school to Mary journeyed the.
+15 school  in Is Mary the?	yes	14
+1 school the moved to Fred.
+2 park cinema Bill or is in the either the.
+3 Bill park  in Is the?	maybe	2
+4 the bedroom to Bill moved.
+5 Mary the school to went back.
+6  in park Is Bill the?	no	4
+7 in Bill the is cinema.
+8 moved Julie the to office.
+9 in cinema  Is the Bill?	yes	7
+10 the Bill the park bedroom either or is in.
+11 Bill moved to kitchen the.
+12 Is Bill  the in bedroom?	no	11
+13 went the to Mary office.
+14 either is the Fred the in or kitchen park.
+15 in kitchen Bill Is  the?	yes	11
+1 or park in the either Fred is the school.
+2 kitchen to the went Bill.
+3 Is in  Fred the park?	maybe	1
+4 bedroom is in office Fred the either the or.
+5 office or the is in the Bill either cinema.
+6 Is  Fred in the bedroom?	maybe	4
+7 the in is office Mary.
+8 to Mary journeyed the school.
+9 Bill  the in kitchen Is?	no	5
+10 Fred the school to moved.
+11 is kitchen in the Bill.
+12 Mary school Is the in ?	yes	8
+13 the went bedroom Fred to.
+14 either the bedroom bedroom Mary in is or the.
+15 in the  Fred park Is?	no	13
+1 the Fred kitchen travelled to.
+2 either Bill the school or in the office is.
+3 Fred in the  Is kitchen?	yes	1
+4 the office Mary to journeyed.
+5 or Bill the either in is school the office.
+6 in Mary Is office the ?	yes	4
+7 moved Julie cinema the to.
+8 the park in is Julie.
+9 the Is  park in Julie?	yes	8
+10 Fred is in the park.
+11 Mary park to back went the.
+12  school Julie in Is the?	no	8
+13 or kitchen in park the the Bill is either.
+14 to school travelled Julie the.
+15 cinema Is  the Mary in?	no	11
+1 is the park Bill in.
+2 went back park the Julie to.
+3 Is the bedroom  Julie in?	no	2
+4 school moved the Bill to.
+5 in the is the Bill kitchen either park or.
+6  Is the in park Bill?	maybe	5
+7 is bedroom either in the or kitchen the Bill.
+8 travelled cinema Julie to the.
+9 Julie  the in cinema Is?	yes	8
+10 office the is Julie school or in either the.
+11 the went to Julie kitchen.
+12 school Bill Is in the ?	no	7
+13 cinema travelled Fred to the.
+14 the is or the either office in school Julie.
+15 the in Julie  Is bedroom?	no	14
+1 either cinema in bedroom Fred or the the is.
+2 office in the or Mary is either school the.
+3 cinema Is the in Fred ?	maybe	1
+4 Mary the is cinema in.
+5 in is or Bill the office either the park.
+6 Is  cinema the in Fred?	maybe	1
+7 travelled to Bill school the.
+8 the to Mary went office.
+9 Is the  in office Mary?	yes	8
+10 Julie to the kitchen moved.
+11 the is in school Mary.
+12  Mary the in Is bedroom?	no	11
+13 office in Fred or the is either office the.
+14 in Julie the the kitchen is park or either.
+15 in Is school Mary  the?	yes	11
+1 the Julie park travelled to.
+2 the to went Bill cinema back.
+3 the  in Bill Is cinema?	yes	2
+4 Bill the school journeyed to.
+5 Julie the kitchen to went.
+6 Bill school in Is  the?	yes	4
+7 Bill to journeyed office the.
+8 went back cinema Fred to the.
+9 in Is Julie kitchen  the?	yes	5
+10 Bill to the travelled kitchen.
+11 Mary bedroom the to moved.
+12 Is in Mary the bedroom ?	yes	11
+13 park in Mary is the.
+14 in the Julie is office.
+15 Is the Bill school in ?	no	10
+1 Bill kitchen the in is.
+2 school Mary in the is.
+3 the in Is Bill kitchen ?	yes	1
+4 the Fred to kitchen travelled.
+5 Fred to the went office.
+6  Fred Is in the office?	yes	5
+7 Julie travelled the park to.
+8 or park either the kitchen the is in Bill.
+9 office Is the in  Fred?	yes	5
+10 the travelled Julie to bedroom.
+11 Bill is kitchen or the either office in the.
+12  Julie Is bedroom the in?	yes	10
+13 to the moved Julie kitchen.
+14 school the either park the in Julie is or.
+15 the bedroom Julie Is in ?	no	14
+1 park the to Bill went.
+2 Mary is cinema or the the in either cinema.
+3 Is kitchen  in the Mary?	no	2
+4 travelled school to the Bill.
+5 cinema Julie the moved to.
+6 in Bill  park Is the?	no	4
+7 the Julie bedroom is in.
+8 moved the to Mary park.
+9 bedroom Julie  in Is the?	yes	7
+10 the to office travelled Julie.
+11 bedroom the the in either park Fred or is.
+12 in the office Is  Julie?	yes	10
+13 in Julie park is the.
+14 is in cinema Fred the.
+15 the in Mary Is  park?	yes	8
+1 Bill in park kitchen or is the the either.
+2 to went park back the Julie.
+3 the Bill Is  in kitchen?	maybe	1
+4 the journeyed bedroom to Fred.
+5 Mary the travelled to park.
+6 park the Is Mary in ?	yes	5
+7 the to bedroom Mary went.
+8 is Bill kitchen the in.
+9 Julie the in Is  park?	yes	2
+10 to Mary the travelled park.
+11 is or park either Bill in the the school.
+12 the  Is Bill park in?	maybe	11
+13 cinema the Mary is in.
+14 went to park the Fred back.
+15 the  park in Fred Is?	yes	14
+1 cinema Bill journeyed to the.
+2 is the bedroom Bill in.
+3 in  the Bill Is cinema?	no	2
+4 the to went cinema Julie.
+5 either the Julie park is or in the bedroom.
+6 in the  bedroom Is Bill?	yes	2
+7 to journeyed office the Mary.
+8 the the park in Bill either park is or.
+9 Is in the  Julie bedroom?	maybe	5
+10 office in the either bedroom is Fred the or.
+11 cinema Mary in is the.
+12  Julie office the Is in?	no	5
+13 either the park school is or Fred the in.
+14 the to went office Fred.
+15 office Fred  in Is the?	yes	14
+1 journeyed to Mary park the.
+2 the kitchen went Mary to back.
+3 the  Is in cinema Mary?	no	2
+4 is in Mary the bedroom.
+5 Bill the the kitchen either or school is in.
+6 the in Is  bedroom Mary?	yes	4
+7 to the went back cinema Bill.
+8 is kitchen the the or in either Julie office.
+9 Is Bill cinema the in ?	yes	7
+10 is school in Bill the the either bedroom or.
+11 in kitchen is the Bill.
+12  in Bill the kitchen Is?	yes	11
+13 in is office the Bill.
+14 the the either office Mary in is kitchen or.
+15 Bill  Is in the kitchen?	no	13
+1 the or Julie is park the school either in.
+2 Fred went school back to the.
+3  park the in Is Julie?	maybe	1
+4 the Julie went back kitchen to.
+5 bedroom is or bedroom the Bill the either in.
+6 Julie  kitchen Is in the?	yes	4
+7 is kitchen either bedroom in Fred the the or.
+8 office in Fred is the.
+9 the Is Fred in office ?	yes	8
+10 in Bill the is office.
+11 is either bedroom the the Fred or office in.
+12 bedroom Is Fred the  in?	maybe	11
+13 school moved Bill to the.
+14 is kitchen the Mary in.
+15 Is Bill cinema  the in?	no	13
+1 either Julie the bedroom is bedroom or the in.
+2 either is or office kitchen Julie in the the.
+3 Julie  in park Is the?	no	2
+4 bedroom in Mary the is.
+5 either office Fred park the is or in the.
+6 Julie  park Is in the?	no	2
+7 Mary to went the office.
+8 school to Mary the journeyed.
+9 Fred Is park in  the?	maybe	5
+10 the either in Bill the school bedroom is or.
+11 cinema Julie or the school either the in is.
+12 Is Mary  the in cinema?	no	8
+13 Mary is the cinema in.
+14 the Fred kitchen in park or the is either.
+15  Mary in the bedroom Is?	no	13
+1 the office Mary journeyed to.
+2 Bill the kitchen in is.
+3 the in Is school  Bill?	no	2
+4 is kitchen Fred in the.
+5 Julie or in is either school bedroom the the.
+6  kitchen Fred in the Is?	yes	4
+7 in Fred is the park.
+8 is the park in Bill.
+9  Julie in bedroom Is the?	maybe	5
+10 office the Julie travelled to.
+11 went Mary bedroom to the.
+12 the  office Is Julie in?	yes	10
+13 the Fred travelled to kitchen.
+14 the in the or either Bill kitchen is bedroom.
+15 the bedroom  Bill Is in?	maybe	14
+1 kitchen Fred the in is.
+2 Bill the to travelled kitchen.
+3  school Is the in Fred?	no	1
+4 the in office Mary is.
+5 the or the either Fred cinema park is in.
+6 Bill the kitchen in  Is?	yes	2
+7 is park in Mary the.
+8 the school either in or the is cinema Julie.
+9 Fred the Is in  kitchen?	no	5
+10 is the the in either bedroom Julie office or.
+11 is in the park Julie.
+12 the office in Is Fred ?	no	5
+13 the bedroom Julie either school in or is the.
+14 Mary is in the either the school school or.
+15 in bedroom Julie Is  the?	maybe	13
+1 in Bill is the office.
+2 school journeyed the Bill to.
+3 the  school Is in Bill?	yes	2
+4 the travelled to Fred school.
+5 in the Fred cinema is.
+6 in the Fred Is cinema ?	yes	5
+7 to the cinema moved Mary.
+8 travelled bedroom Bill to the.
+9  cinema Is Fred the in?	yes	5
+10 the school Fred went to.
+11 the park is Mary in.
+12 school in Bill Is the ?	no	8
+13 in the Julie cinema is.
+14 to the journeyed Fred office.
+15 bedroom the Fred Is  in?	no	14
+1 in either the park Julie is or bedroom the.
+2 park travelled the to Fred.
+3 bedroom Is Julie the in ?	maybe	1
+4 in is office the Fred.
+5 the or office the cinema either in Julie is.
+6 Is  in the Julie park?	no	5
+7 is in park the Fred.
+8 to travelled Julie the office.
+9 Is  in the school Fred?	no	7
+10 or is either the kitchen Bill in park the.
+11 cinema journeyed to the Mary.
+12 the  Fred park Is in?	yes	7
+13 Fred to the office travelled.
+14 the cinema in either or bedroom is Julie the.
+15 Mary in  the Is park?	no	11
+1 school the in Fred is.
+2 in Fred either the kitchen or is the school.
+3 in Fred Is the  kitchen?	maybe	2
+4 moved Mary the bedroom to.
+5 travelled the Mary to cinema.
+6 bedroom Is the  in Mary?	no	5
+7 journeyed to office the Julie.
+8 is in the the school or office either Bill.
+9 Is office Julie in  the?	yes	7
+10 the kitchen Bill is in.
+11 Mary the in kitchen is.
+12 school  Is in Mary the?	no	11
+13 the Mary office moved to.
+14 travelled to Julie kitchen the.
+15 cinema  Is Mary the in?	no	13
+1 kitchen in Julie is the.
+2 Mary the in bedroom or either the school is.
+3 Mary  park the in Is?	no	2
+4 the is the or either in school Mary office.
+5 to kitchen went back Bill the.
+6  Is Bill the in kitchen?	yes	5
+7 Julie the cinema is in.
+8 travelled Mary to the bedroom.
+9  Mary in the Is bedroom?	yes	8
+10 or Mary office either in park the the is.
+11 or the is the either cinema cinema in Fred.
+12  the cinema in Is Julie?	yes	7
+13 office went the to Julie.
+14 Fred the bedroom moved to.
+15 the in Mary  Is kitchen?	no	10
+1 in cinema is the Fred.
+2 in is office Bill the.
+3  Is kitchen the Fred in?	no	1
+4 went to back school Mary the.
+5 Bill in is kitchen the.
+6 in Fred  Is bedroom the?	no	1
+7 office the or Julie either park in is the.
+8 back the to went Fred park.
+9 Is office the in  Julie?	maybe	7
+10 went the to Bill cinema.
+11 the school or is Fred office the in either.
+12  Fred in the bedroom Is?	no	11
+13 is in or the the kitchen park either Bill.
+14 kitchen the or in either the bedroom is Mary.
+15 office  in Fred the Is?	maybe	11
+1 kitchen Bill bedroom is the the in or either.
+2 to journeyed Julie park the.
+3 Is in  kitchen Bill the?	maybe	1
+4 Julie in the is school.
+5 in office is the Bill.
+6 kitchen in Is the  Bill?	no	5
+7 to cinema moved the Mary.
+8 the is in kitchen Mary.
+9 kitchen Is the  in Mary?	yes	8
+10 is Bill the school in.
+11 bedroom in the Bill is.
+12  the Mary in Is park?	no	8
+13 in office is Julie the.
+14 the went cinema back to Mary.
+15 Is in Bill bedroom the ?	yes	11
+1 in the bedroom is Fred.
+2 to Mary the moved park.
+3 in Mary Is the  cinema?	no	2
+4 Julie the moved school to.
+5 school to the journeyed Fred.
+6 Julie in Is  the school?	yes	4
+7 in the Mary cinema is.
+8 cinema the is in Julie.
+9 the in cinema Is Mary ?	yes	7
+10 to travelled Julie the school.
+11 moved Julie the cinema to.
+12 Is in Julie the cinema ?	yes	11
+13 park went Bill the to.
+14 back the bedroom to Mary went.
+15 in  the Is office Julie?	no	11
+1 to Mary the went cinema.
+2 office is in Fred the.
+3 Is in Fred the bedroom ?	no	2
+4 school to the travelled Julie.
+5 the park to Julie went.
+6 office the Fred in  Is?	yes	2
+7 is office in the Julie.
+8 Fred cinema the to travelled.
+9 in Fred cinema the  Is?	yes	8
+10 kitchen moved Fred to the.
+11 Fred school the to journeyed.
+12 in Is park  the Julie?	no	7
+13 to school travelled Bill the.
+14 park Fred to went the.
+15  park the Fred in Is?	yes	14
+1 went Fred office the to.
+2 is in or either cinema the kitchen the Julie.
+3 Is Fred bedroom the in ?	no	1
+4 to cinema the Fred went.
+5 Julie park the in is.
+6 Julie  in park the Is?	yes	5
+7 Julie is the in bedroom.
+8 or in the the office is office either Fred.
+9 the in Julie  Is bedroom?	yes	7
+10 is in the Fred bedroom.
+11 Mary the journeyed to school.
+12 in park the  Mary Is?	no	11
+13 is or the kitchen in office either the Mary.
+14 to the school Bill went.
+15 Is Fred  the school in?	no	10
+1 the went school Fred to.
+2 kitchen Fred to the travelled.
+3 the in  kitchen Fred Is?	yes	2
+4 to school back the went Fred.
+5 to moved bedroom Fred the.
+6 Fred  school Is the in?	no	5
+7 in office the Mary is.
+8 is the either in Mary kitchen or the kitchen.
+9  in school the Is Mary?	no	8
+10 Julie went to the office.
+11 the cinema to Julie moved.
+12 in Mary  Is kitchen the?	maybe	8
+13 the went back Bill to office.
+14 is Fred the kitchen in.
+15 in Is the Mary kitchen ?	maybe	8
+1 to cinema the Julie went back.
+2 to Bill the travelled kitchen.
+3 the  cinema Julie Is in?	yes	1
+4 to the moved bedroom Fred.
+5 back went kitchen the to Julie.
+6 the park Is  in Julie?	no	5
+7 in kitchen the is Mary.
+8 back Bill park to the went.
+9 the  Mary in Is kitchen?	yes	7
+10 the Mary in is bedroom.
+11 either Fred the the park is or in office.
+12  Is Fred office in the?	maybe	11
+13 Fred in is park the.
+14 the Mary cinema or the is in cinema either.
+15 the Is in  Fred park?	yes	13
+1 is the Fred in office.
+2 park is in the Mary.
+3  Is bedroom the Mary in?	no	2
+4 bedroom back Fred the to went.
+5 the office Mary either the or is in school.
+6 in  Mary office the Is?	maybe	5
+7 Fred school the went back to.
+8 in is Fred or bedroom bedroom the the either.
+9  Is Mary office in the?	maybe	5
+10 the to journeyed school Bill.
+11 either is in kitchen Mary or the the park.
+12 in  park Mary the Is?	maybe	11
+13 in Fred either the or school the cinema is.
+14 cinema or either is the the Bill in cinema.
+15 Fred school in Is  the?	maybe	13
+1 in kitchen is the Bill.
+2 the bedroom to Bill moved.
+3 Is in the school  Bill?	no	2
+4 Mary the is in park.
+5 Mary kitchen the school in either is the or.
+6 Bill the  bedroom Is in?	yes	2
+7 Julie to bedroom the travelled.
+8 the went Bill to office.
+9 Is in  cinema the Mary?	no	5
+10 moved cinema the Julie to.
+11 Fred cinema to the journeyed.
+12 Bill Is the in office ?	yes	8
+13 in the park is Fred.
+14 is either Mary or in the bedroom the office.
+15  the Bill Is office in?	yes	8
+1 to the Julie cinema moved.
+2 in either the bedroom or the Bill is office.
+3 in the Is Julie bedroom ?	no	1
+4 moved to Bill the office.
+5 Fred in bedroom the either the is or school.
+6 the office in Is Fred ?	no	5
+7 or kitchen Julie is in the park either the.
+8 to travelled Bill the school.
+9 Is  the kitchen Julie in?	maybe	7
+10 the in Mary is cinema.
+11 the is Mary in bedroom.
+12 in Is Mary bedroom the ?	yes	11
+13 to Fred journeyed the park.
+14 in is park Bill the.
+15 in the  Is school Mary?	no	11
+1 the park Mary is in.
+2 the Julie kitchen travelled to.
+3 Is in  office Mary the?	no	1
+4 the either or in bedroom the bedroom is Julie.
+5 the to cinema Bill travelled.
+6  in Julie park the Is?	no	4
+7 park journeyed the to Julie.
+8 school the to journeyed Julie.
+9 the Julie  in school Is?	yes	8
+10 to the Julie journeyed kitchen.
+11 is in school the Bill.
+12 school Is  the Bill in?	yes	11
+13 in is Bill the kitchen.
+14 the is in Julie office.
+15 the in Is school  Bill?	no	13
+1 Bill is bedroom in bedroom either the or the.
+2 the school travelled to Fred.
+3 Is the Fred school in ?	yes	2
+4 journeyed Fred to park the.
+5 cinema journeyed Julie to the.
+6 Is the Bill  school in?	no	1
+7 moved school to Julie the.
+8 the Bill travelled cinema to.
+9 school  in the Julie Is?	yes	7
+10 the journeyed school Mary to.
+11 back went the office Bill to.
+12 Is  the school Julie in?	yes	7
+13 the is either kitchen or in office Fred the.
+14 the is in Bill school.
+15 the Is  in Fred park?	no	13
+1 the to park went Mary.
+2 went Bill to kitchen the.
+3 Bill Is  the in bedroom?	no	2
+4 cinema Fred the to travelled.
+5 is in cinema Mary the.
+6 in the cinema Is  Mary?	yes	5
+7 Mary bedroom moved the to.
+8 journeyed kitchen Mary to the.
+9 kitchen  the Is in Fred?	no	4
+10 office is Fred in the.
+11 is or either the in the kitchen Julie park.
+12 the Mary Is in  kitchen?	yes	8
+13 to Bill the bedroom travelled.
+14 moved Bill school to the.
+15 the  school Is in Bill?	yes	14
+1 the Mary office or kitchen either in is the.
+2 moved to kitchen Bill the.
+3 in the office Mary  Is?	maybe	1
+4 to went Bill back the office.
+5 the bedroom Bill to went back.
+6 the Bill  bedroom in Is?	yes	5
+7 the to office moved Fred.
+8 either the or cinema kitchen in Julie is the.
+9  in the kitchen Is Bill?	no	5
+10 Julie is the school in.
+11 Mary travelled cinema the to.
+12  in Is Fred the park?	no	7
+13 Fred the in cinema is.
+14 Fred the in is school.
+15 in Fred Is cinema the ?	no	14
+1 the cinema to went Bill.
+2 school to Julie moved the.
+3 in cinema Bill the  Is?	yes	1
+4 Julie bedroom in the the or either is office.
+5 Julie moved the to office.
+6 Is the  bedroom Bill in?	no	1
+7 the Bill went bedroom to.
+8 the to Julie kitchen travelled.
+9  Bill the office in Is?	no	7
+10 in cinema the Julie is.
+11 the school either the or is Bill kitchen in.
+12 in Bill office the Is ?	no	11
+13 office Bill in the is.
+14 to office back Fred the went.
+15 in Is  Julie cinema the?	yes	10
+1 kitchen is Mary the in.
+2 park went the to Mary.
+3 the  in Is Mary kitchen?	no	2
+4 office back Mary the to went.
+5 went kitchen the to Mary.
+6 Is Mary  school the in?	no	5
+7 Mary either or in office bedroom the the is.
+8 either Mary or is office the in the cinema.
+9  Is cinema the Mary in?	maybe	8
+10 is Fred the in office.
+11 went park Mary to the.
+12 in  office Mary Is the?	no	11
+13 kitchen the Mary in is.
+14 Julie kitchen the to moved.
+15 cinema Mary Is  the in?	no	13
+1 the or the Julie is either bedroom in kitchen.
+2 is or Fred either the kitchen in bedroom the.
+3  in Is school the Julie?	no	1
+4 to Mary travelled park the.
+5 is Bill in the bedroom.
+6 park in the Julie Is ?	no	1
+7 the is school in Bill.
+8 is kitchen the kitchen Bill either or the in.
+9 the in Bill Is  school?	no	8
+10 cinema or the the in either is kitchen Mary.
+11 kitchen is Mary in the.
+12 the kitchen in  Is Bill?	maybe	8
+13 the Mary in kitchen or the park either is.
+14 is the in school Fred.
+15 the in kitchen Is  Bill?	maybe	8
+1 to Mary kitchen back the went.
+2 is the in or Julie kitchen kitchen the either.
+3  the in Is Mary bedroom?	no	1
+4 or office in is the either the Mary school.
+5 school travelled the to Julie.
+6  Mary park Is the in?	no	4
+7 is the the Fred office or park either in.
+8 the to journeyed Mary bedroom.
+9 bedroom Is  the Julie in?	no	5
+10 Julie is bedroom in the.
+11 to kitchen the journeyed Julie.
+12 the kitchen  Is Julie in?	yes	11
+13 to back went the Julie school.
+14 Julie to the moved bedroom.
+15  in school the Julie Is?	no	14
+1 bedroom the is Fred in.
+2 the to kitchen Julie journeyed.
+3 the in Is Fred  school?	no	1
+4 the school the park is either Fred in or.
+5 Mary to kitchen travelled the.
+6  Is Mary in kitchen the?	yes	5
+7 is cinema in the Bill.
+8 travelled Fred to office the.
+9  Mary the in school Is?	no	5
+10 is cinema in Julie the.
+11 to Julie the kitchen travelled.
+12 Mary  Is kitchen the in?	yes	5
+13 Julie to the office journeyed.
+14 or kitchen the either in the is kitchen Bill.
+15 the in office Is Julie ?	yes	13
+1 moved kitchen Fred the to.
+2 the Bill kitchen moved to.
+3 Is in the Fred  cinema?	no	1
+4 Fred to the journeyed park.
+5 the in is the or bedroom Julie either cinema.
+6 Fred Is kitchen  the in?	no	4
+7 or the the is either school park Bill in.
+8 the Mary in is kitchen.
+9 the cinema Bill  Is in?	no	7
+10 Bill cinema to the went.
+11 the Bill or the park either kitchen is in.
+12 Is the  park Bill in?	maybe	11
+13 in is school Mary the.
+14 office Mary to moved the.
+15 Mary in the office Is ?	yes	14
+1 the Fred in kitchen is.
+2 to went Mary office the.
+3 Fred kitchen  Is the in?	yes	1
+4 school Fred the moved to.
+5 to Mary the moved kitchen.
+6 Mary the kitchen  Is in?	yes	5
+7 park or park in Bill is either the the.
+8 or the either park is Bill school the in.
+9 Is Fred the  in kitchen?	no	4
+10 moved to Bill park the.
+11 moved the bedroom Fred to.
+12 cinema Fred in Is  the?	no	11
+13 to Fred the moved kitchen.
+14 either park or park Fred is in the the.
+15 kitchen Fred Is  in the?	no	14
+1 in the park Julie is.
+2 the Bill went kitchen to.
+3 the in Is Julie cinema ?	no	1
+4 cinema or the in school is either Mary the.
+5 Fred park either school or the the in is.
+6 the Fred in  school Is?	maybe	5
+7 or is bedroom the in Fred either park the.
+8 kitchen Bill or is either cinema the in the.
+9 Is in  kitchen Fred the?	no	7
+10 the in bedroom Bill is.
+11 is in the kitchen Fred.
+12 in Is Bill park  the?	no	10
+13 in cinema is the Bill.
+14 the went to Mary back park.
+15 in Fred kitchen Is the ?	yes	11
+1 Bill the cinema journeyed to.
+2 Mary journeyed to park the.
+3 cinema the  Bill Is in?	yes	1
+4 the bedroom Julie is in.
+5 moved the Mary to school.
+6 the Bill Is cinema  in?	yes	1
+7 Bill bedroom the moved to.
+8 Julie the to school moved.
+9 Bill  Is the bedroom in?	yes	7
+10 Bill the to kitchen travelled.
+11 the either is office the in Julie bedroom or.
+12 the  bedroom Julie in Is?	maybe	11
+13 in the is Fred office office either the or.
+14 the back bedroom Bill went to.
+15 bedroom the  Is Bill in?	yes	14
+1 to Fred the school went back.
+2 journeyed the Bill to office.
+3  school Is Fred in the?	yes	1
+4 park moved to Fred the.
+5 office Julie to journeyed the.
+6 the in Is Fred park ?	yes	4
+7 the bedroom to went Bill.
+8 the moved to cinema Mary.
+9 Bill the Is in cinema ?	no	7
+10 or school the is Bill the either school in.
+11 the school Fred is in.
+12 the kitchen Is  in Bill?	no	10
+13 kitchen is Bill in the.
+14 went Julie the back park to.
+15 the  Is park Julie in?	yes	14
+1 to Julie the school went.
+2 in is Fred the school.
+3 in Is  the Julie cinema?	no	1
+4 to Fred park went the.
+5 went Julie office to the.
+6 Julie bedroom the Is  in?	no	5
+7 or either Julie cinema the the kitchen in is.
+8 to kitchen the back went Bill.
+9 bedroom Fred  Is in the?	no	4
+10 in cinema the is Fred.
+11 moved Bill the park to.
+12  the Bill park Is in?	yes	11
+13 bedroom moved Julie the to.
+14 bedroom the in is Fred.
+15  the Is Fred bedroom in?	yes	14
+1 Fred went office the back to.
+2 to the cinema moved Mary.
+3 the Fred in office Is ?	yes	1
+4 journeyed to park Julie the.
+5 Julie kitchen the is in.
+6 in office  the Is Fred?	yes	1
+7 travelled Mary to the park.
+8 to moved park Fred the.
+9  kitchen in the Is Mary?	no	7
+10 moved bedroom the to Julie.
+11 is Julie kitchen the in.
+12 the school Is  Julie in?	no	11
+13 moved to bedroom the Julie.
+14 park the is Julie in.
+15 the  Is park in Julie?	yes	14
+1 back went bedroom Julie to the.
+2 park Fred the in is.
+3  Is the in Fred park?	yes	2
+4 bedroom is the in cinema the or Julie either.
+5 school in is the Mary.
+6 the  in Mary Is school?	yes	5
+7 is the cinema in or either the cinema Mary.
+8 is the Mary in office.
+9 Is the  in office Mary?	yes	8
+10 Bill the school in office the either or is.
+11 is Bill the in bedroom.
+12 in school the Is  Mary?	no	8
+13 or either cinema the the is school in Bill.
+14 park the to Mary travelled.
+15 Is the  in school Bill?	maybe	13
+1 Bill the to journeyed bedroom.
+2 Julie back the went to cinema.
+3 Is bedroom in  Bill the?	yes	1
+4 went park Fred the to.
+5 the cinema in or Fred is the bedroom either.
+6  Is Fred bedroom in the?	maybe	5
+7 cinema in is Fred the.
+8 is Bill kitchen the in.
+9  the Fred kitchen Is in?	no	7
+10 the in office either is the cinema Mary or.
+11 Bill the moved to school.
+12 cinema  Fred in Is the?	yes	7
+13 to the moved office Fred.
+14 cinema Julie in kitchen either or is the the.
+15 kitchen the Mary in Is ?	no	10
+1 to park the Julie went.
+2 in the is Fred cinema.
+3 school Julie Is in the ?	no	1
+4 Bill back the bedroom went to.
+5 in the bedroom is Fred.
+6 Is the office  Julie in?	no	1
+7 the is or either school the Bill school in.
+8 journeyed Julie the to kitchen.
+9  bedroom Is in the Fred?	yes	5
+10 the office to went Julie.
+11 Fred the office to journeyed.
+12 office the Fred Is  in?	yes	11
+13 either the bedroom Bill is or office in the.
+14 is Fred either the cinema bedroom the or in.
+15  the Fred Is bedroom in?	maybe	14
+1 moved to Bill park the.
+2 is school Julie in the.
+3 Bill in the  Is park?	yes	1
+4 to the school Mary went back.
+5 or is park in the the either bedroom Fred.
+6 the  Julie in park Is?	no	2
+7 in the cinema Bill the is or park either.
+8 the to Fred back office went.
+9 the in office Fred  Is?	yes	8
+10 in park is Fred the.
+11 the to cinema Fred travelled.
+12 office  in Fred the Is?	no	11
+13 is Bill the office the in or either bedroom.
+14 Julie in bedroom is the.
+15  in Is school Bill the?	no	13
+1 journeyed Mary school the to.
+2 to the went Bill school back.
+3 Is  the school Mary in?	yes	1
+4 the to Fred office travelled.
+5 Julie the bedroom travelled to.
+6  cinema Is the in Fred?	no	4
+7 the office Julie to went.
+8 in is kitchen the Fred.
+9 Fred  the kitchen in Is?	yes	8
+10 the is in Fred office.
+11 cinema the Fred is in.
+12 Is in Julie bedroom the ?	no	7
+13 bedroom the to Julie went.
+14 kitchen in the is Bill.
+15  Fred in Is the cinema?	yes	11
+1 the is Fred park either park the or in.
+2 Mary is the or in the office either kitchen.
+3 Fred  in park Is the?	maybe	1
+4 is Fred the in bedroom.
+5 park in Mary the is.
+6  the in Mary Is cinema?	no	5
+7 the cinema Mary is in.
+8 to the cinema Fred travelled.
+9 cinema Mary Is  the in?	yes	7
+10 is school Bill in the.
+11 to journeyed bedroom the Mary.
+12 Fred cinema  Is the in?	yes	8
+13 to park Bill went back the.
+14 either Bill in or the bedroom the bedroom is.
+15  Mary cinema the Is in?	no	11
+1 cinema the Mary to journeyed.
+2 in Bill is the school.
+3 cinema Mary the  in Is?	yes	1
+4 the is kitchen Bill in.
+5 the is park Mary in.
+6 the in office Is Bill ?	no	4
+7 the in is Julie bedroom.
+8 is Bill in the school.
+9 Is  Bill school the in?	yes	8
+10 to the went Fred bedroom.
+11 journeyed to the Bill kitchen.
+12 the Is in  kitchen Bill?	yes	11
+13 journeyed the park Bill to.
+14 either Mary kitchen or school the the is in.
+15 the in park  Is Bill?	yes	13
+1 Fred to went back the kitchen.
+2 office the travelled to Fred.
+3  the bedroom Is in Fred?	no	2
+4 the kitchen is in Fred.
+5 the in either the office is or park Julie.
+6 cinema the in  Is Fred?	no	4
+7 the Bill to bedroom went.
+8 Bill travelled the office to.
+9 Fred school  in the Is?	no	4
+10 to the Fred journeyed cinema.
+11 Julie the park travelled to.
+12 Julie the Is park  in?	yes	11
+13 in office Mary is the.
+14 office in is the Fred.
+15 in Bill the park Is ?	no	8
+1 or the park either in is the office Fred.
+2 went the to Julie back school.
+3 Fred office in  the Is?	maybe	1
+4 Fred the in or either the cinema kitchen is.
+5 is Julie cinema in the.
+6  in Is Julie the bedroom?	no	5
+7 the travelled Mary cinema to.
+8 Bill the to kitchen moved.
+9 Bill bedroom in Is the ?	no	8
+10 Fred the to journeyed park.
+11 Julie the in bedroom is.
+12 Is in cinema Mary the ?	yes	7
+13 Fred is office the in.
+14 in is Fred the school.
+15 school the  in Fred Is?	yes	14
+1 Julie the went school to.
+2 to the bedroom Bill journeyed.
+3 in school  Is the Bill?	no	2
+4 kitchen to Fred the moved.
+5 is in Mary cinema the.
+6 in Bill the Is park ?	no	2
+7 office the in Mary is.
+8 journeyed the kitchen to Mary.
+9 kitchen the Is in Mary ?	yes	8
+10 in is office either or Mary the office the.
+11 the cinema Bill in is.
+12 Is in the Mary  office?	maybe	10
+13 to Fred the school went back.
+14 bedroom either in the is or park the Bill.
+15  bedroom Bill Is the in?	maybe	14
+1 kitchen either in the Fred kitchen is the or.
+2 is Mary cinema the school or in either the.
+3 cinema Fred in Is  the?	no	1
+4 the the either is school in Julie or office.
+5 back school the to went Fred.
+6 in Is school Fred the ?	yes	5
+7 the is either or the Bill in kitchen park.
+8 or the is in Mary either the park bedroom.
+9 bedroom Mary the in Is ?	maybe	8
+10 to travelled Mary school the.
+11 back to went the Fred office.
+12 Fred the park in  Is?	no	11
+13 the office Bill back to went.
+14 kitchen the to Bill went.
+15 in  Fred the Is office?	yes	11
+1 Fred kitchen in the school either or the is.
+2 Julie in the is kitchen.
+3 in Is  office Julie the?	no	2
+4 in either is school the the or cinema Fred.
+5 office back the went to Mary.
+6 in Mary the  Is kitchen?	no	5
+7 the Bill in the kitchen park is or either.
+8 office to the went Fred.
+9 Is in  Bill kitchen the?	maybe	7
+10 is in the Mary cinema.
+11 the back kitchen to went Fred.
+12 in Fred  Is the kitchen?	yes	11
+13 back the went to school Bill.
+14 the bedroom is Bill in.
+15 Is the Bill in  bedroom?	yes	14
+1 or in is either cinema the the kitchen Fred.
+2 the is in office Julie.
+3  Fred the in school Is?	no	1
+4 the is kitchen Mary in.
+5 went office the Mary to.
+6  Mary Is in the kitchen?	no	5
+7 the Mary cinema to travelled.
+8 travelled Julie the to cinema.
+9 in Mary the  office Is?	no	7
+10 to back office Fred the went.
+11 journeyed to Fred park the.
+12 Mary Is cinema  in the?	yes	7
+13 moved office the Mary to.
+14 to Fred kitchen went the.
+15 bedroom in  the Is Mary?	no	13
+1 Bill in is the kitchen.
+2 Fred moved to the cinema.
+3 Is in  the cinema Fred?	yes	2
+4 went Bill to the cinema.
+5 is cinema or Julie either the in the park.
+6 Julie the in bedroom  Is?	no	5
+7 the journeyed Mary kitchen to.
+8 to the Julie office moved.
+9 cinema Is Fred the in ?	yes	2
+10 in is the cinema Mary.
+11 the Julie is park in.
+12 the  Is Julie office in?	no	11
+13 Bill moved the to kitchen.
+14 or the park either in Fred the is office.
+15 the  Julie Is school in?	no	11
+1 the went park Mary to.
+2 is or the in office Bill either the school.
+3 Mary in Is park  the?	yes	1
+4 to office the Fred journeyed.
+5 cinema to moved the Bill.
+6 the school in Bill  Is?	no	5
+7 to travelled Mary bedroom the.
+8 Mary journeyed the to cinema.
+9  Is school in the Bill?	no	5
+10 kitchen in Julie is the.
+11 the or is in either the Julie park park.
+12 the Is  Mary cinema in?	yes	8
+13 to school journeyed the Fred.
+14 is the or either in bedroom bedroom the Bill.
+15  Is the Bill bedroom in?	maybe	14
+1 Bill in the kitchen is.
+2 kitchen in is Julie the.
+3 Julie Is kitchen  the in?	yes	2
+4 is bedroom the either Bill park the in or.
+5 school the Mary in is.
+6 in the  Mary Is cinema?	no	5
+7 to Bill office went the.
+8 or Mary the in either cinema the cinema is.
+9 Is Bill kitchen the in ?	no	7
+10 went to park Julie back the.
+11 Fred bedroom to the went.
+12  Mary in school Is the?	no	8
+13 Bill to the bedroom journeyed.
+14 bedroom either is Fred the or the cinema in.
+15 the in  Is Fred kitchen?	no	14
+1 the is either office the office or in Mary.
+2 kitchen either is Julie the or in the park.
+3 the Julie cinema in Is ?	no	2
+4 Bill bedroom journeyed to the.
+5 in the park Fred is.
+6 in Fred  Is park the?	yes	5
+7 is Bill the cinema in.
+8 to back school the Bill went.
+9  school Is Bill in the?	yes	8
+10 office either or the office Julie the in is.
+11 either the Julie or in school bedroom is the.
+12 cinema  in Is the Julie?	no	11
+13 went the back Mary to school.
+14 bedroom Mary is the in.
+15 Is the in bedroom Julie ?	maybe	11
+1 bedroom travelled Bill the to.
+2 is school Mary in the.
+3  in the Is Mary school?	yes	2
+4 the in is Julie office.
+5 Mary to cinema went the.
+6  bedroom the Is in Bill?	yes	1
+7 in bedroom the Julie is.
+8 Julie the to kitchen travelled.
+9 cinema the in Is Julie ?	no	8
+10 the Julie to bedroom journeyed.
+11 park or Mary the either is the office in.
+12 park  the Is in Mary?	maybe	11
+13 the went back bedroom Mary to.
+14 the Fred kitchen to journeyed.
+15 Julie in bedroom Is the ?	yes	10
+1 is the Fred in office.
+2 journeyed Fred kitchen the to.
+3 the  Fred Is park in?	no	2
+4 Fred is the in office.
+5 in the school is Fred.
+6  Fred Is school in the?	yes	5
+7 the to Bill park travelled.
+8 travelled the kitchen Mary to.
+9 in  Fred Is office the?	no	5
+10 Fred the to kitchen moved.
+11 the Mary to office went.
+12 the kitchen in Is Fred ?	yes	10
+13 the the cinema is or in either school Fred.
+14 the Bill school is in.
+15 the in Mary Is office ?	yes	11
+1 park Bill to the went.
+2 the Fred journeyed park to.
+3 Is Fred in  park the?	yes	2
+4 is in park Julie the.
+5 bedroom the Mary in is.
+6 park the in Is  Fred?	yes	2
+7 Bill to school the moved.
+8 back to the went Julie cinema.
+9 in Bill  Is school the?	yes	7
+10 the kitchen Bill journeyed to.
+11 to the park Mary went.
+12 Is in kitchen  Bill the?	yes	10
+13 school the to Fred moved.
+14 went to Mary school the.
+15  Fred school in the Is?	yes	13
+1 the travelled office to Bill.
+2 to office the moved Fred.
+3 Is  in Fred the kitchen?	no	2
+4 to Julie the office moved.
+5 Julie park the travelled to.
+6 in school Bill the  Is?	no	1
+7 or office Fred the park either is the in.
+8 moved kitchen Fred to the.
+9  park Julie the in Is?	yes	5
+10 Bill in is kitchen the.
+11 the school is park in the Fred either or.
+12 Is in  park Julie the?	yes	5
+13 bedroom the in or is the either office Fred.
+14 is cinema Fred the in.
+15 Fred park the in  Is?	no	14
+1 in the either kitchen is Fred or school the.
+2 travelled the bedroom to Mary.
+3 in the Is Fred  school?	maybe	1
+4 moved cinema Bill to the.
+5 school the in Mary is.
+6 Is the in  Mary school?	yes	5
+7 Fred in is bedroom the.
+8 the or office in Julie either kitchen the is.
+9 Bill  bedroom in Is the?	no	4
+10 the or in school is either Julie the park.
+11 to the kitchen Bill moved.
+12 the Julie office Is  in?	no	10
+13 or the Julie either cinema is the in park.
+14 is Fred the office cinema in or either the.
+15 the  Julie Is in kitchen?	no	13
+1 travelled to office the Julie.
+2 the cinema journeyed Julie to.
+3 Julie the cinema  in Is?	yes	2
+4 in bedroom Julie the is.
+5 cinema the office the in either is or Fred.
+6 school  the Is Fred in?	no	5
+7 Mary back went cinema the to.
+8 moved bedroom to the Mary.
+9  the Julie bedroom in Is?	yes	4
+10 the Bill in is either the cinema park or.
+11 kitchen to Bill the journeyed.
+12  in Is Mary the bedroom?	yes	8
+13 school in the Mary is.
+14 the to Julie went cinema.
+15 in Mary school Is  the?	yes	13
+1 Julie travelled park to the.
+2 the in Fred cinema is.
+3 in Is Fred  office the?	no	2
+4 the either or the office Mary in cinema is.
+5 Mary cinema either is the in the school or.
+6  cinema Mary Is the in?	maybe	5
+7 travelled to office Julie the.
+8 travelled Bill to the bedroom.
+9 office in Is Julie the ?	yes	7
+10 Julie to travelled the park.
+11 to Bill office the went.
+12 park Julie in Is  the?	yes	10
+13 school in is Fred the.
+14 Fred is cinema in the.
+15 Is in Bill school the ?	no	11
+1 or in either school Bill kitchen the the is.
+2 the bedroom or in is either Mary the school.
+3 Bill Is in park the ?	no	1
+4 Bill the is kitchen in.
+5 to Julie moved park the.
+6 Is Bill the kitchen in ?	yes	4
+7 in the office or Fred the either is school.
+8 to the went office Mary.
+9 the Is  kitchen Bill in?	yes	4
+10 Fred office the moved to.
+11 or cinema in Bill the is the bedroom either.
+12 the  in Fred school Is?	no	10
+13 to the bedroom went back Mary.
+14 park journeyed to Mary the.
+15  the Mary park in Is?	yes	14
+1 the to Fred travelled park.
+2 Fred in the cinema is.
+3  the cinema Is Fred in?	yes	2
+4 travelled park to the Bill.
+5 bedroom to went Fred the.
+6 Is  kitchen in the Fred?	no	5
+7 office the moved to Bill.
+8 cinema Mary to the travelled.
+9 in Is  park the Fred?	no	5
+10 cinema in the Fred is.
+11 school the Mary to journeyed.
+12 the cinema Is in  Fred?	yes	10
+13 the bedroom either in or office Julie is the.
+14 is the or office Julie in cinema either the.
+15 Fred Is the cinema in ?	yes	10
+1 the is Fred bedroom in.
+2 is in Fred the cinema.
+3  Fred kitchen the in Is?	no	2
+4 the school moved Bill to.
+5 cinema in the Bill is.
+6 the in Bill Is  kitchen?	no	5
+7 the in Bill park is.
+8 the cinema is Mary in.
+9 park in the Bill  Is?	yes	7
+10 to went the office Bill back.
+11 cinema went the Bill to.
+12 Is in Bill the  office?	no	11
+13 or in park the either Mary kitchen is the.
+14 the is cinema in Julie.
+15 in Bill the Is cinema ?	yes	11
+1 bedroom Fred in is the.
+2 either in or the Fred office the park is.
+3 office  in the Is Fred?	maybe	2
+4 bedroom the or either bedroom the is in Julie.
+5 Julie is either the cinema or cinema the in.
+6  Is Julie kitchen in the?	no	5
+7 Fred school the is in.
+8 either the Fred in or is park the school.
+9 Is in Fred the  kitchen?	no	8
+10 Fred travelled school the to.
+11 in bedroom Fred is the.
+12  in Fred bedroom the Is?	yes	11
+13 Fred in is the park.
+14 the the in Mary bedroom kitchen or is either.
+15 Fred the Is  park in?	yes	13
+1 the Mary school moved to.
+2 Bill office to the journeyed.
+3 Mary Is in the  park?	no	1
+4 Fred is office the in either the bedroom or.
+5 or the Fred in is cinema the either school.
+6 the in school Is  Mary?	yes	1
+7 in school Julie the is.
+8 Bill to went the back bedroom.
+9 the Bill Is  bedroom in?	yes	8
+10 office Julie went back to the.
+11 bedroom is in the Julie.
+12 bedroom  Is Julie the in?	yes	11
+13 park the Fred journeyed to.
+14 is either kitchen or Fred the the in kitchen.
+15 Is  the in park Bill?	no	8
+1 in the school is Mary.
+2 Fred the in is school.
+3 Mary the school in Is ?	yes	1
+4 is the school bedroom Mary the or in either.
+5 the cinema cinema is either or in Mary the.
+6  Mary office Is in the?	no	5
+7 Mary is in the park.
+8 to travelled the office Mary.
+9 Mary in office  the Is?	yes	8
+10 Fred the is in cinema.
+11 Bill the to park went.
+12 office Bill in Is  the?	no	11
+13 the Bill to journeyed school.
+14 the Julie is in bedroom.
+15 kitchen Bill Is in the ?	no	13
+1 Julie the is school in.
+2 the park to Bill moved.
+3  the office Bill Is in?	no	2
+4 to the moved park Julie.
+5 the to Bill school went.
+6 Julie Is in the  school?	no	4
+7 Julie to school the journeyed.
+8 the went to Mary kitchen.
+9 school Julie  the Is in?	yes	7
+10 in Julie cinema the or either school the is.
+11 in either Fred bedroom is the or school the.
+12 Is  in the Julie cinema?	maybe	10
+13 went the to Fred park.
+14 park Julie to the travelled.
+15 park  in the Mary Is?	no	8
+1 the is cinema Mary in.
+2 kitchen in the school is either the Fred or.
+3  Is the school in Fred?	maybe	2
+4 Bill the school is in.
+5 or kitchen in the is bedroom Bill either the.
+6 Is  cinema the in Mary?	yes	1
+7 Bill in school is the.
+8 or cinema in the Fred bedroom is the either.
+9 Bill Is school in  the?	yes	7
+10 the to office moved Mary.
+11 is Mary the kitchen in.
+12  bedroom in Is the Fred?	maybe	8
+13 moved to Julie kitchen the.
+14 park the the or in either park Fred is.
+15 bedroom  in the Is Mary?	no	11
+1 Fred the park is in.
+2 either Mary the is the park in or office.
+3 park  Mary the in Is?	maybe	2
+4 to back the went park Julie.
+5 or Mary the office bedroom the either in is.
+6 the Mary kitchen  in Is?	no	5
+7 to went cinema back Mary the.
+8 the or is Julie in the bedroom kitchen either.
+9  school in Is Mary the?	no	7
+10 to Julie bedroom journeyed the.
+11 is or kitchen either the office in the Fred.
+12 Is the kitchen in  Fred?	maybe	11
+13 travelled to kitchen the Mary.
+14 either is in the the Fred or park school.
+15 Fred  in kitchen the Is?	no	14
+1 in bedroom the is either or Julie the kitchen.
+2 Mary school the to journeyed.
+3 Is Julie bedroom the in ?	maybe	1
+4 bedroom kitchen either Julie or the is the in.
+5 the Fred park or the either is in bedroom.
+6 the  Is Julie kitchen in?	maybe	4
+7 Julie school the to went.
+8 bedroom Bill is in the.
+9 office Mary the Is in ?	no	2
+10 went back Mary park to the.
+11 bedroom Julie to journeyed the.
+12 in the  bedroom Is Bill?	yes	8
+13 park the either is or the office Fred in.
+14 the Bill to journeyed park.
+15 Bill in the Is park ?	yes	14
+1 either the school in is or office Mary the.
+2 the is in Mary bedroom.
+3 the Mary in Is  office?	no	2
+4 kitchen is Fred the in.
+5 Fred travelled to cinema the.
+6 the cinema in Is  Fred?	yes	5
+7 cinema the in is Mary.
+8 Fred in either is the or school kitchen the.
+9 Mary Is kitchen  the in?	no	7
+10 the Bill in kitchen is.
+11 either the in is park school or Mary the.
+12  Is the Fred cinema in?	no	8
+13 office Fred the is in.
+14 office the went to back Mary.
+15  office in Is the Fred?	yes	13
+1 Mary to the journeyed school.
+2 journeyed Mary kitchen the to.
+3 office  in Is Mary the?	no	2
+4 the went to office Julie.
+5 the Bill bedroom journeyed to.
+6 in Mary  the kitchen Is?	yes	2
+7 is cinema the in Bill.
+8 or is kitchen the Bill the in school either.
+9  in the Bill Is school?	maybe	8
+10 to the moved school Mary.
+11 the went Fred to school.
+12 Mary  in the Is park?	no	10
+13 the to Mary went park back.
+14 is cinema the in or the Bill cinema either.
+15 in park Is the  Mary?	yes	13
+1 office in the Julie is.
+2 back went school to the Mary.
+3 in office Mary Is the ?	no	2
+4 went the school to Fred.
+5 the journeyed Fred bedroom to.
+6  in bedroom the Is Fred?	yes	5
+7 the Mary to moved kitchen.
+8 went back the Mary cinema to.
+9 in  Is bedroom the Fred?	yes	5
+10 cinema the travelled to Bill.
+11 to park Julie travelled the.
+12 Julie the Is  in school?	no	11
+13 Julie in the is cinema.
+14 travelled Fred to the cinema.
+15 cinema  in the Julie Is?	yes	13
+1 to office moved Fred the.
+2 park went to the Mary.
+3 in Fred the Is office ?	yes	1
+4 journeyed the school to Julie.
+5 the Julie office to went.
+6 Mary the Is kitchen in ?	no	2
+7 school moved to the Bill.
+8 Bill in the is cinema.
+9 Is the park  Mary in?	yes	2
+10 the Julie in is school.
+11 the school back went Bill to.
+12  school in Bill the Is?	yes	11
+13 kitchen is the or Fred either bedroom the in.
+14 bedroom journeyed to the Fred.
+15 in  office the Bill Is?	no	11
+1 the moved Julie to cinema.
+2 the kitchen the in Fred is either or kitchen.
+3  in the Is kitchen Fred?	maybe	2
+4 Fred cinema to went the.
+5 kitchen Fred to travelled the.
+6 Is the in  Fred cinema?	no	5
+7 is Fred in the office.
+8 or the Mary kitchen is in either the cinema.
+9 the Is Fred in park ?	no	7
+10 journeyed school to Fred the.
+11 back Julie park the went to.
+12 the cinema Is  in Fred?	no	10
+13 Fred the kitchen is in.
+14 in is Fred park the.
+15 the kitchen Is Mary in ?	maybe	8
+1 in cinema is Mary the.
+2 park travelled the Julie to.
+3 Julie Is bedroom the in ?	no	2
+4 Fred went the to park.
+5 school bedroom the the or is in either Mary.
+6  in Is park the Julie?	yes	2
+7 in bedroom Julie either the office is the or.
+8 is either the the or kitchen in Fred kitchen.
+9 Fred Is  in the school?	no	8
+10 in Julie is park or either the school the.
+11 the Julie office to travelled.
+12 the  in bedroom Is Mary?	maybe	5
+13 either office in the is bedroom the Fred or.
+14 to journeyed the Mary school.
+15  in Is office the Julie?	yes	11
+1 is the office in Bill.
+2 is in or the Fred school either cinema the.
+3 in  Bill Is the bedroom?	no	1
+4 Bill school the journeyed to.
+5 kitchen went to Fred back the.
+6 cinema in Is the  Fred?	no	5
+7 the went Fred office to.
+8 is Bill in the bedroom.
+9 bedroom Bill in Is  the?	yes	8
+10 the Mary park either is in bedroom the or.
+11 is kitchen the Fred in.
+12 Bill Is park  the in?	no	8
+13 the or school the in Fred either is park.
+14 Julie the in is school.
+15 bedroom the Is Mary  in?	maybe	10
+1 travelled to Fred kitchen the.
+2 to school the travelled Mary.
+3 bedroom the Fred Is in ?	no	1
+4 to bedroom went the back Bill.
+5 park or in the the is either Bill school.
+6  Is the Mary office in?	no	2
+7 kitchen to Bill the moved.
+8 Fred journeyed bedroom the to.
+9 park in Is  the Fred?	no	8
+10 or the is Julie bedroom park in either the.
+11 is park in Bill the.
+12  the Is in cinema Bill?	no	11
+13 cinema the journeyed to Mary.
+14 journeyed to the Julie bedroom.
+15 Mary Is  cinema the in?	yes	13
+1 is the kitchen Mary in.
+2 school to Bill the moved.
+3 in kitchen Mary  Is the?	yes	1
+4 the Julie in or kitchen either is office the.
+5 to the moved Mary bedroom.
+6  Is Mary the park in?	no	5
+7 the is or the in cinema cinema Mary either.
+8 went Bill the to back bedroom.
+9 in  the bedroom Is Bill?	yes	8
+10 office park the or in either the is Bill.
+11 to bedroom Fred journeyed the.
+12 Is Bill in  the park?	maybe	10
+13 the Julie bedroom in is.
+14 the is the cinema in office or Fred either.
+15 office in  Julie Is the?	no	13
+1 journeyed Julie to cinema the.
+2 the cinema Mary in is.
+3 Mary cinema Is in the ?	yes	2
+4 to Julie park went the.
+5 went park Mary the to.
+6 cinema  Is Julie the in?	no	4
+7 in is the Fred bedroom.
+8 went Fred to office the.
+9  Is cinema in the Mary?	no	5
+10 Julie went kitchen to the.
+11 to Bill the school went.
+12 the Is in school Bill ?	yes	11
+13 Bill bedroom the in is.
+14 school the kitchen in Mary either is or the.
+15 kitchen in Is  Fred the?	no	8
+1 Mary moved the park to.
+2 is the Bill park in.
+3 the Bill Is  in park?	yes	2
+4 Fred bedroom the in is.
+5 the to Julie journeyed cinema.
+6 the cinema Is in Julie ?	yes	5
+7 Julie cinema school the either in or the is.
+8 Julie office the the kitchen or in is either.
+9 in  Julie the Is school?	no	8
+10 the is in park Fred.
+11 school Bill went the to.
+12 Julie Is in the  office?	maybe	8
+13 to school Julie the moved.
+14 kitchen Bill in the is.
+15 Julie the in  Is park?	no	13
+1 went the Fred bedroom to.
+2 the school is either bedroom Mary or in the.
+3 Fred Is school the in ?	no	1
+4 Bill the bedroom to travelled.
+5 to office back went the Fred.
+6 Fred in kitchen Is the ?	no	5
+7 bedroom travelled Julie to the.
+8 the in is park Mary.
+9 Mary the Is in park ?	yes	8
+10 to the travelled cinema Fred.
+11 park the either or Bill is school in the.
+12 in Fred  Is cinema the?	yes	10
+13 or Fred the is the school either in bedroom.
+14 to Fred journeyed the office.
+15  Is Fred office the in?	yes	14
+1 journeyed park Fred to the.
+2 bedroom or Bill the is either the in park.
+3 in  park Fred the Is?	yes	1
+4 to office travelled the Bill.
+5 to Julie moved the park.
+6  Bill kitchen the in Is?	no	4
+7 the to journeyed school Bill.
+8 to journeyed Fred the school.
+9  in Bill kitchen the Is?	no	7
+10 Fred went the to kitchen back.
+11 school either or the Julie is in school the.
+12 Is  office in Julie the?	no	11
+13 park the travelled Bill to.
+14 the is in park Julie.
+15 Is Julie the in cinema ?	no	14
+1 the is in park Mary.
+2 Julie office the to travelled.
+3 Is kitchen Julie  the in?	no	2
+4 school Julie the to went back.
+5 office Mary the went to.
+6 office Mary Is in  the?	yes	5
+7 the Fred is in cinema.
+8 kitchen or is in either bedroom Julie the the.
+9 Is the in Julie  bedroom?	maybe	8
+10 is in the kitchen Fred.
+11 Bill is in the cinema.
+12 the Julie in  park Is?	no	8
+13 is in the cinema the or office Julie either.
+14 Julie the went back to kitchen.
+15 in  Julie Is the kitchen?	yes	14
+1 is Mary either in the or the school office.
+2 is either office office or Mary in the the.
+3 Mary park the  in Is?	no	2
+4 the kitchen to journeyed Mary.
+5 the journeyed Bill to cinema.
+6 in the Is Mary office ?	no	4
+7 moved the to bedroom Julie.
+8 kitchen or the school either Julie in is the.
+9  Is Bill the in cinema?	yes	5
+10 cinema Julie to the moved.
+11 to the travelled Mary cinema.
+12 cinema in Bill Is the ?	yes	5
+13 kitchen either in bedroom Julie or the the is.
+14 went to kitchen Julie the.
+15  Julie in bedroom the Is?	no	14
+1 moved office to the Julie.
+2 went to bedroom Fred the.
+3 bedroom Is  in Fred the?	yes	2
+4 the to Fred office travelled.
+5 the park is in Julie.
+6 the Is office  in Fred?	yes	4
+7 kitchen the to went Mary.
+8 cinema journeyed the to Fred.
+9 cinema the  in Mary Is?	no	7
+10 moved to park Bill the.
+11 park the Mary or in the either is park.
+12 the cinema Julie Is  in?	no	5
+13 school Mary bedroom the the is in or either.
+14 to the journeyed Bill kitchen.
+15 in kitchen  the Bill Is?	yes	14
+1 or either in bedroom Julie the school is the.
+2 or the in Julie either park the cinema is.
+3 Is in Julie the park ?	maybe	2
+4 is Bill in park the.
+5 or office is Bill the in either the office.
+6 Bill in office Is the ?	maybe	5
+7 Mary travelled park the to.
+8 the to went school Bill.
+9 Is in the Bill park ?	no	8
+10 park journeyed Fred to the.
+11 Julie kitchen the to moved.
+12 park in Is  Fred the?	yes	10
+13 office Fred in or office the either the is.
+14 the park to Bill moved.
+15  Bill Is park in the?	yes	14
+1 the in Fred the office either or is kitchen.
+2 the is Julie in cinema.
+3  Is Julie park the in?	no	2
+4 went kitchen back to the Bill.
+5 the Fred is cinema either in or kitchen the.
+6 the Fred kitchen  in Is?	maybe	5
+7 Bill office moved the to.
+8 the is in kitchen Bill.
+9 Is the cinema in  Bill?	no	8
+10 is the Julie in kitchen.
+11 in Julie is office the.
+12 Is kitchen the Fred  in?	maybe	5
+13 the school Fred or school in is the either.
+14 went the to school Julie back.
+15  the in Is Julie school?	yes	14
+1 the Mary either school or in is the office.
+2 the either school or Julie is the office in.
+3 the Mary school Is in ?	maybe	1
+4 to journeyed the park Mary.
+5 the Mary in is bedroom.
+6 Julie  the in Is school?	maybe	2
+7 the Julie travelled park to.
+8 in Bill the or school park either is the.
+9 Is park the in Julie ?	yes	7
+10 to moved school Bill the.
+11 is Fred the in park.
+12 the  in Julie kitchen Is?	no	7
+13 school the kitchen either Mary is or the in.
+14 cinema the is Fred in.
+15 cinema Fred in  Is the?	yes	14
+1 went Bill to the back office.
+2 Julie to kitchen journeyed the.
+3 kitchen  the in Julie Is?	yes	2
+4 went the kitchen Mary to back.
+5 the in bedroom is Julie.
+6 park Is  the in Bill?	no	1
+7 park journeyed Mary to the.
+8 the Bill went school to.
+9 in Julie bedroom  the Is?	yes	5
+10 Fred the or park the kitchen in is either.
+11 the to bedroom Bill went.
+12 the  Fred Is park in?	maybe	10
+13 cinema is in either the or Mary the office.
+14 kitchen or in the kitchen either Fred is the.
+15 office  the in Is Mary?	maybe	13
+1 or cinema in the is Mary either park the.
+2 is the kitchen in Fred.
+3 Is the  Mary in kitchen?	no	1
+4 to the moved Bill school.
+5 the bedroom in is the either kitchen Bill or.
+6 Bill in kitchen Is the ?	maybe	5
+7 is the in Bill school.
+8 is Fred the office in.
+9 in bedroom  the Is Bill?	no	7
+10 the Julie in kitchen is.
+11 the is in Julie bedroom.
+12 the Is Bill in  school?	yes	7
+13 park Fred to moved the.
+14 went kitchen the to Mary.
+15 Fred in  the park Is?	yes	13
+1 Julie is the park in.
+2 back the to went office Bill.
+3 Is Bill the in office ?	yes	2
+4 park the in Fred is.
+5 bedroom back Mary the went to.
+6 Bill Is office the in ?	yes	2
+7 went school back Julie to the.
+8 the Bill park is in.
+9 the Bill in Is park ?	yes	8
+10 the is Fred in office.
+11 kitchen Bill the is in.
+12 park the  in Is Bill?	no	11
+13 Mary went the to kitchen back.
+14 in the bedroom is Fred.
+15 the in school  Fred Is?	no	14
+1 to kitchen back went Mary the.
+2 Julie the office travelled to.
+3 the in office Is  Julie?	yes	2
+4 the or either Mary is the bedroom school in.
+5 Julie moved kitchen to the.
+6 Julie cinema the Is in ?	no	5
+7 Julie the to journeyed school.
+8 bedroom is in the Julie.
+9  Is in Julie the bedroom?	yes	8
+10 kitchen Bill travelled the to.
+11 kitchen or the the in school is Bill either.
+12  school Is Bill the in?	maybe	11
+13 school went Fred to the.
+14 Mary journeyed to office the.
+15 Is school in the Mary ?	no	14
+1 journeyed Bill to the kitchen.
+2 to school travelled the Julie.
+3 Julie school the Is in ?	yes	2
+4 park is in Fred either the or park the.
+5 the kitchen in either Fred park is the or.
+6 Fred  the Is park in?	maybe	5
+7 went Fred the school back to.
+8 either the or the is Julie cinema park in.
+9 kitchen Julie Is  in the?	no	8
+10 kitchen in either the the bedroom Julie is or.
+11 to the park journeyed Bill.
+12 the Is in  Julie kitchen?	maybe	10
+13 bedroom is in Bill the.
+14 in kitchen the Bill is.
+15 the in bedroom Is Julie ?	maybe	10

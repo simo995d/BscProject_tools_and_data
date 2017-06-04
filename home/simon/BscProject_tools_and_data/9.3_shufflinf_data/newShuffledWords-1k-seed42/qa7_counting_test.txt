@@ -1,0 +1,3470 @@
+1 the there milk got Mary.
+2 moved to bedroom the John.
+3 Mary many carrying How  objects is?	one	1
+4 went bathroom Sandra to the back.
+5 John there got the football.
+6  is objects carrying many Mary How?	one	1
+7 journeyed to the Mary bathroom.
+8 Sandra milk to Mary the gave.
+9 is carrying objects Mary How  many?	none	1 8
+10 back bathroom the went to John.
+11 the football John left.
+12 is many How John carrying objects ?	none	5 11
+13 the John milk gave Sandra to.
+14 to John journeyed the garden.
+15 John  objects carrying How many is?	one	5 11 13
+1 the Daniel milk there took.
+2 moved hallway to the John.
+3 objects  is How many Daniel carrying?	one	1
+4 the left milk Daniel.
+5 office journeyed Daniel the to.
+6 How  many carrying is Daniel objects?	none	1 4
+7 John to the office went back.
+8 went hallway John to the.
+9 carrying How  is Daniel objects many?	none	1 4
+10 bedroom the to travelled Mary.
+11 got there Mary the football.
+12 is How many  Mary objects carrying?	one	11
+13 kitchen Sandra went the back to.
+14 to Daniel the kitchen moved.
+15 objects is How many Mary carrying ?	one	11
+1 to went hallway Sandra the.
+2 the there grabbed Sandra apple.
+3 many Sandra is objects How carrying ?	one	2
+4 the moved kitchen to Daniel.
+5 there got Sandra milk the.
+6 objects carrying many How Sandra  is?	two	2 5
+7 football the Mary got there.
+8 to office the Sandra back went.
+9 How objects many is Mary  carrying?	one	7
+10 the Sandra apple put down.
+11 journeyed to the hallway Daniel.
+12  How objects many carrying is Sandra?	one	2 5 10
+13 the to kitchen Daniel went back.
+14 Mary hallway travelled to the.
+15 Sandra carrying  objects many How is?	one	2 5 10
+1 the bathroom to travelled Sandra.
+2 journeyed Daniel bedroom to the.
+3 Daniel went hallway to the.
+4 to the journeyed Sandra hallway.
+5 to bedroom went Daniel the back.
+6 moved John to the garden.
+7 Daniel the journeyed to hallway.
+8 the John grabbed apple there.
+9 carrying many objects John is How ?	one	8
+10 the to apple John Mary gave.
+11 the John Mary to apple passed.
+12 John objects carrying is  How many?	one	8 10 11
+13 Mary journeyed hallway the to.
+14 John dropped the there apple.
+15  is John many How objects carrying?	none	8 10 11 14
+16 Sandra went garden the to.
+17 to the went kitchen Mary.
+18 Mary many objects carrying  is How?	none	10 11
+19 up there the Mary football picked.
+20 picked milk there the Mary up.
+21 objects Mary carrying many  is How?	two	10 11 19 20
+1 hallway the moved John to.
+2 grabbed Mary the there milk.
+3 many carrying Mary  objects How is?	one	2
+4 back John went to kitchen the.
+5 got football Sandra the there.
+6 is  Sandra How many objects carrying?	one	5
+7 there picked apple up Mary the.
+8 milk the dropped Mary.
+9  objects How many Mary carrying is?	one	2 7 8
+10 hallway the to John travelled.
+11 left the Sandra football.
+12  carrying objects many Mary How is?	one	2 7 8
+13 John the to garden moved.
+14 back the kitchen went John to.
+15 objects is Sandra How carrying many ?	none	5 11
+1 to bathroom the went Daniel.
+2 moved John office the to.
+3 went kitchen to the Daniel.
+4 apple the got there John.
+5 John objects is  carrying many How?	one	4
+6 John apple left the.
+7 the Mary got there football.
+8 carrying objects  many Mary How is?	one	7
+9 John hallway to moved the.
+10 football the Mary dropped.
+11 objects carrying  many is How Mary?	none	7 10
+12 went Daniel the to hallway.
+13 to the hallway journeyed Sandra.
+14 objects Mary carrying How  many is?	none	7 10
+15 football the Mary got there.
+16 Mary football left the.
+17 How  Mary many carrying is objects?	none	7 10 15 16
+1 Mary to went garden the.
+2 Sandra back the bathroom to went.
+3 went the to Sandra kitchen.
+4 back to bedroom went the Sandra.
+5 apple got Mary there the.
+6 the left Mary apple.
+7 How carrying many  Mary is objects?	none	5 6
+8 the back to Sandra went kitchen.
+9 the Mary there got apple.
+10 many  Mary How is objects carrying?	one	5 6 9
+11 moved to Mary the bedroom.
+12 hallway the journeyed to Mary.
+13 Mary objects How many carrying is ?	one	5 6 9
+14 to the Daniel went bedroom.
+15 the there milk got Mary.
+16  How many is objects Mary carrying?	two	5 6 9 15
+17 office moved Sandra the to.
+18 Sandra journeyed to bedroom the.
+19 many carrying How  Mary objects is?	two	5 6 9 15
+1 grabbed apple the there John.
+2 Mary the John apple to gave.
+3 objects carrying How is John  many?	none	1 2
+4 to apple John Mary passed the.
+5 the apple John discarded.
+6 John objects carrying is How many ?	none	1 2 4 5
+7 the back to John went office.
+8 the to journeyed Daniel hallway.
+9  is How objects John many carrying?	none	1 2 4 5
+10 Mary got apple there the.
+11 gave to apple the Daniel Mary.
+12 carrying Mary How many  objects is?	none	2 4 10 11
+13 Mary apple Daniel passed to the.
+14 Mary to Daniel apple the passed.
+15  Mary objects is many carrying How?	none	2 4 10 11 13 14
+1 the up apple Sandra there picked.
+2 to moved the office Daniel.
+3 Sandra many How  objects is carrying?	one	1
+4 discarded the there apple Sandra.
+5 to back kitchen Daniel went the.
+6 How is many objects  Sandra carrying?	none	1 4
+7 Sandra to bedroom the moved.
+8 Sandra hallway to back the went.
+9 many How Sandra carrying is objects ?	none	1 4
+10 to travelled Mary kitchen the.
+11 travelled to Sandra office the.
+12 travelled the John to office.
+13 the Sandra back bathroom went to.
+14 bathroom went the John back to.
+15 Sandra journeyed bedroom to the.
+16 to went the Sandra hallway back.
+17 Daniel garden the to travelled.
+18 hallway to the Mary journeyed.
+19 picked football there the up John.
+20 John is carrying many objects How ?	one	19
+21 back went kitchen the Mary to.
+22 football the John discarded.
+23 is many carrying John objects  How?	none	19 22
+1 hallway John to journeyed the.
+2 the Mary back garden to went.
+3 the went Mary bedroom to.
+4 grabbed Daniel milk there the.
+5 is How objects many  carrying Daniel?	one	4
+6 bathroom to John went the.
+7 picked apple up there John the.
+8 many is objects Daniel  How carrying?	one	4
+9 hallway to journeyed the Sandra.
+10 Daniel the milk discarded.
+11 Daniel objects many How carrying  is?	none	4 10
+12 the Daniel to bathroom travelled.
+13 the back went Daniel kitchen to.
+14 How is many objects carrying Daniel ?	none	4 10
+15 went the Mary back to bathroom.
+16 John to the apple passed Mary.
+17 Daniel is many  carrying How objects?	none	4 10
+1 to garden Mary the travelled.
+2 the journeyed to kitchen John.
+3 the hallway travelled John to.
+4 to went back the Daniel garden.
+5 journeyed the office to Daniel.
+6 Mary grabbed the there football.
+7 How carrying  many objects Mary is?	one	6
+8 went to John the garden.
+9 football the handed to Mary John.
+10 many is objects Mary How carrying ?	none	6 9
+11 Daniel to the hallway moved.
+12 the Mary John to football handed.
+13 many How  Mary objects is carrying?	one	6 9 12
+14 the moved Sandra to bedroom.
+15 the Mary John gave football to.
+16 How is objects carrying Mary many ?	none	6 9 12 15
+17 moved the John to kitchen.
+18 bathroom went to Mary the.
+19 carrying many  is Mary objects How?	none	6 9 12 15
+1 garden the to travelled Sandra.
+2 John apple the took there.
+3 John objects many How carrying is ?	one	2
+4 Mary back hallway to the went.
+5 to the travelled John hallway.
+6 John  many How objects carrying is?	one	2
+7 John journeyed to the garden.
+8 bathroom went the to Daniel.
+9 objects carrying John How  is many?	one	2
+10 Sandra apple John to passed the.
+11 to John passed apple the Sandra.
+12 is Sandra objects How many carrying ?	none	10 11
+13 to Sandra gave John apple the.
+14 office the to went Sandra.
+15 carrying is  How many Sandra objects?	one	10 11 13
+1 travelled Sandra office the to.
+2 back Mary the went to bedroom.
+3 Mary kitchen moved to the.
+4 Mary the hallway journeyed to.
+5 apple there took Mary the.
+6 dropped the apple Mary.
+7  is carrying How Mary objects many?	none	5 6
+8 to office Daniel the journeyed.
+9 the bedroom went to back Sandra.
+10 many Mary carrying is objects How ?	none	5 6
+11 football there took Mary the.
+12 football Mary the left.
+13 Mary is many  objects carrying How?	none	5 6 11 12
+14 garden the back Sandra went to.
+15 the to went kitchen John.
+16 How many carrying Mary objects is ?	none	5 6 11 12
+17 to John journeyed hallway the.
+18 bedroom Mary the back to went.
+19  is objects carrying many How Mary?	none	5 6 11 12
+1 the kitchen journeyed to John.
+2 there apple Sandra grabbed the.
+3 objects Sandra many How is  carrying?	one	2
+4 Sandra handed to Daniel the apple.
+5 Daniel the apple discarded.
+6 How  Sandra many is carrying objects?	none	2 4
+7 there picked the Daniel apple up.
+8 to apple the gave Daniel Sandra.
+9 carrying How is many objects  Sandra?	one	2 4 8
+10 the Sandra went to kitchen.
+11 apple John passed to the Sandra.
+12 How Daniel is carrying objects many ?	none	4 5 7 8
+13 apple John gave Sandra the to.
+14 to garden travelled the John.
+15 is carrying How objects many Sandra ?	one	2 4 8 11 13
+1 milk the grabbed Sandra there.
+2 to back the John hallway went.
+3 Sandra is  many How carrying objects?	one	1
+4 to Sandra garden moved the.
+5 there milk the discarded Sandra.
+6 many How  carrying is Sandra objects?	none	1 5
+7 there got milk Sandra the.
+8 the bedroom Mary moved to.
+9 many Sandra is carrying  objects How?	one	1 5 7
+10 the hallway Sandra went to.
+11 the apple there Daniel got.
+12 How carrying many Daniel is  objects?	one	11
+13 the office Daniel to moved.
+14 John passed milk to the Sandra.
+15 How  objects many carrying is Daniel?	one	11
+1 Mary there took milk the.
+2 got football John the there.
+3 How John  carrying objects many is?	one	2
+4 Sandra the went bathroom to.
+5 down put the milk Mary.
+6 How  objects many is John carrying?	one	2
+7 back Sandra the to went garden.
+8 milk Sandra there took the.
+9 carrying objects is many How  Sandra?	one	8
+10 milk dropped the Sandra there.
+11 journeyed to bedroom the Mary.
+12 carrying Sandra is How  many objects?	none	8 10
+13 John went to office the.
+14 the apple grabbed there John.
+15 many  Sandra carrying objects How is?	none	8 10
+1 grabbed the milk there Mary.
+2 moved bathroom to the Mary.
+3 Mary carrying How  is many objects?	one	1
+4 to went the John hallway back.
+5 the Mary grabbed apple there.
+6  How Mary many objects carrying is?	two	1 5
+7 journeyed the Daniel hallway to.
+8 bedroom to went back the Sandra.
+9  How many is carrying objects Mary?	two	1 5
+10 Mary apple the discarded.
+11 Mary took the there apple.
+12 carrying How is  many objects Mary?	two	1 5 10 11
+13 Mary office the travelled to.
+14 the there Mary left apple.
+15 many objects Mary carrying  How is?	one	1 5 10 11 14
+1 up there Mary picked football the.
+2 Daniel to back the bedroom went.
+3 carrying Mary How objects is  many?	one	1
+4 Daniel went bathroom to the back.
+5 bedroom the Mary to journeyed.
+6 carrying is Mary How  objects many?	one	1
+7 dropped the football Mary.
+8 kitchen John to went the.
+9  is carrying How objects Mary many?	none	1 7
+10 travelled Mary office the to.
+11 bedroom Daniel went to the.
+12 How  Mary objects is many carrying?	none	1 7
+13 Mary journeyed hallway the to.
+14 the to Mary bathroom travelled.
+15 Daniel to kitchen moved the.
+16 milk there grabbed the Mary.
+17 Mary many How objects carrying is ?	one	1 7 16
+1 garden to travelled Sandra the.
+2 the Daniel journeyed garden to.
+3 Daniel bathroom to the journeyed.
+4 the travelled John to garden.
+5 to travelled the Daniel bedroom.
+6 Sandra to went the back office.
+7 the to John travelled kitchen.
+8 there Daniel took the milk.
+9 many How  is objects Daniel carrying?	one	8
+10 to moved the Daniel garden.
+11 the travelled kitchen to Mary.
+12 carrying How many Daniel is objects ?	one	8
+13 to Sandra hallway the travelled.
+14 to bedroom the journeyed Mary.
+15  many objects Daniel carrying is How?	one	8
+16 Daniel moved to the kitchen.
+17 the milk Daniel left.
+18 Daniel carrying is objects many How ?	none	8 17
+19 back bathroom went Daniel the to.
+20 moved bedroom to the Sandra.
+21  carrying many How is objects Daniel?	none	8 17
+1 to the bedroom Sandra travelled.
+2 the grabbed Sandra there football.
+3 Sandra is  objects carrying many How?	one	2
+4 journeyed John to the hallway.
+5 garden to went the Mary.
+6 How is objects  Sandra carrying many?	one	2
+7 back office the Sandra went to.
+8 bedroom John to journeyed the.
+9 is  many Sandra How carrying objects?	one	2
+10 got there Sandra milk the.
+11 moved Mary to hallway the.
+12 is many How carrying objects Sandra ?	two	2 10
+13 to the office John went.
+14 passed to football John Sandra the.
+15 many is Sandra  objects How carrying?	one	2 10 14
+1 there the Mary milk took.
+2 the went to Mary office.
+3 many How Mary is objects  carrying?	one	1
+4 hallway to the Mary travelled.
+5 Sandra to kitchen journeyed the.
+6 carrying Mary How is  objects many?	one	1
+7 the went Sandra to garden back.
+8 Daniel there grabbed apple the.
+9 How  Daniel carrying objects many is?	one	8
+10 the discarded apple Daniel.
+11 Sandra bedroom to moved the.
+12 is carrying  objects many How Daniel?	none	8 10
+13 Daniel the hallway to travelled.
+14 to Mary the journeyed bedroom.
+15 is How objects carrying  many Daniel?	none	8 10
+1 the to bathroom John went.
+2 John there grabbed football the.
+3 John  objects How is many carrying?	one	2
+4 travelled Daniel to hallway the.
+5 the Mary hallway moved to.
+6  many John carrying objects is How?	one	2
+7 up there apple Sandra picked the.
+8 dropped football John the.
+9 many carrying objects John is  How?	none	2 8
+10 travelled to bedroom the Mary.
+11 the Sandra kitchen went to.
+12 Sandra many  is How objects carrying?	one	7
+13 up football there John the picked.
+14 milk got the Mary there.
+15 carrying  How objects is many Mary?	one	14
+1 there Mary picked up milk the.
+2 Sandra office to the travelled.
+3 is carrying  objects Mary How many?	one	1
+4 Mary milk handed Sandra the to.
+5 Sandra dropped the milk.
+6  objects carrying is many Mary How?	none	1 4
+7 went John to office the.
+8 grabbed milk there the John.
+9 objects Mary How is carrying  many?	none	1 4
+10 Daniel went bedroom to the.
+11 the to Mary passed milk John.
+12 many is objects Sandra  How carrying?	none	4 5
+13 Mary to John gave the milk.
+14 the Daniel garden to went.
+15 is  Mary carrying objects How many?	none	1 4 11 13
+1 back the John to office went.
+2 garden travelled Daniel the to.
+3 Mary the bathroom to moved.
+4 Mary journeyed to the bedroom.
+5 bathroom the to went Mary.
+6 the hallway travelled to Mary.
+7 to the Mary journeyed office.
+8 went hallway Mary back to the.
+9 there Mary apple up the picked.
+10 to hallway journeyed the Sandra.
+11 objects carrying  How many is Mary?	one	9
+12 Mary Sandra to the apple handed.
+13 passed to apple the Sandra Mary.
+14 is many  Mary objects How carrying?	one	9 12 13
+15 journeyed to kitchen the Sandra.
+16 to hallway Sandra the travelled.
+17  Mary How many carrying objects is?	one	9 12 13
+18 there the put down apple Mary.
+19 up Sandra picked there the apple.
+20 is carrying How  objects Sandra many?	one	12 13 19
+21 the Sandra to handed Mary apple.
+22 the dropped there Mary apple.
+23 is  Mary many How objects carrying?	none	9 12 13 18 21 22
+1 got the Mary there football.
+2 to bathroom Daniel the journeyed.
+3 Mary many carrying  objects How is?	one	1
+4 moved to John hallway the.
+5 Sandra there milk the grabbed.
+6 objects is many carrying  Mary How?	one	1
+7 apple there picked Daniel the up.
+8 the dropped apple Daniel.
+9 objects is How carrying Daniel  many?	none	7 8
+10 apple the Daniel there grabbed.
+11 apple left Daniel the.
+12  objects carrying Daniel is How many?	none	7 8 10 11
+13 went office to the Mary.
+14 the Sandra milk left.
+15 Sandra carrying How is  objects many?	none	5 14
+1 office to Mary the journeyed.
+2 there picked football up the John.
+3  John How is carrying many objects?	one	2
+4 football discarded the John.
+5 the to Sandra went bathroom.
+6 How is  John many carrying objects?	none	2 4
+7 milk picked the Sandra there up.
+8 got the there apple Daniel.
+9  carrying John How is many objects?	none	2 4
+10 apple the discarded there Daniel.
+11 up the picked apple there Daniel.
+12 carrying How  objects is many Sandra?	one	7
+13 Sandra the there left milk.
+14 to Sandra journeyed the office.
+15 is carrying How many objects  Daniel?	one	8 10 11
+1 the John to went back garden.
+2 grabbed the Daniel milk there.
+3 How objects  is Daniel carrying many?	one	2
+4 to Daniel the John passed milk.
+5 the milk gave John Daniel to.
+6 carrying is objects Daniel How  many?	one	2 4 5
+7 Daniel to John milk the gave.
+8 apple picked there the up John.
+9 is carrying objects How Daniel many ?	none	2 4 5 7
+10 John apple the passed Daniel to.
+11 to apple John the handed Daniel.
+12 How John objects carrying is  many?	two	4 5 7 8 10 11
+13 to moved kitchen Sandra the.
+14 Daniel passed apple the John to.
+15 objects carrying How John many  is?	one	4 5 7 8 10 11 14
+1 the there milk John took.
+2 travelled garden Daniel the to.
+3 many  How John carrying objects is?	one	1
+4 office the to went John.
+5 dropped milk John the.
+6 objects  many John carrying How is?	none	1 5
+7 Mary there grabbed the apple.
+8 put apple Mary the down.
+9 Mary  objects carrying How is many?	none	7 8
+10 Mary the to hallway back went.
+11 the Mary there football grabbed.
+12 many Mary objects  carrying How is?	one	7 8 11
+13 the there John milk got.
+14 Mary football down put the.
+15 carrying How Mary  is objects many?	none	7 8 11 14
+1 to hallway Mary travelled the.
+2 to moved the John hallway.
+3 the to hallway Sandra went.
+4 Sandra milk took there the.
+5 carrying objects Sandra  many How is?	one	4
+6 John passed Sandra the milk to.
+7 John there the up picked football.
+8  carrying many Sandra is objects How?	none	4 6
+9 to kitchen John travelled the.
+10 office back to the Mary went.
+11 is objects John  carrying many How?	two	6 7
+12 Daniel the football passed to John.
+13 Mary travelled the to hallway.
+14 many John  carrying objects How is?	one	6 7 12
+15 got John there the apple.
+16 apple discarded the John.
+17 is John How many objects  carrying?	one	6 7 12 15 16
+1 the office to John back went.
+2 went Daniel the kitchen to.
+3 travelled bathroom to the Sandra.
+4 the to kitchen moved Sandra.
+5 the to Mary office journeyed.
+6 Sandra to went the bathroom.
+7 moved garden the to John.
+8 the bathroom went John to back.
+9 picked up John there the football.
+10 apple up picked Daniel there the.
+11 carrying is How many  Daniel objects?	one	10
+12 journeyed to the bedroom John.
+13 journeyed the hallway to Daniel.
+14 How many is carrying objects Daniel ?	one	10
+15 travelled bathroom to Daniel the.
+16 John milk there took the.
+17 carrying  many objects Daniel is How?	one	10
+18 Daniel journeyed the to garden.
+19 Daniel the apple discarded.
+20 is objects John carrying How many ?	two	9 16
+21 to went garden John the.
+22 football passed to John the Daniel.
+23 John carrying is objects How  many?	one	9 16 22
+1 to Daniel went kitchen the.
+2 travelled hallway Daniel to the.
+3 to the moved John office.
+4 to the John kitchen moved.
+5 bathroom to Daniel the moved.
+6 moved the John to bathroom.
+7 the Daniel football got there.
+8 football to Daniel handed the John.
+9 Daniel many carrying objects  How is?	none	7 8
+10 football John Sandra to passed the.
+11 the Sandra handed to football John.
+12  is objects many carrying Daniel How?	none	7 8
+13 to football John the Sandra handed.
+14 went Sandra back to the hallway.
+15 objects Daniel is carrying many  How?	none	7 8
+16 left the Sandra football.
+17 went back the John to bedroom.
+18 objects  is many How John carrying?	none	8 10 11 13
+19 went the to office John.
+20 the picked up Sandra football there.
+21 carrying many is How objects  Sandra?	one	10 11 13 16 20
+1 football took Daniel the there.
+2 to Daniel office moved the.
+3  many objects Daniel is How carrying?	one	1
+4 the handed to football Sandra Daniel.
+5 John apple grabbed there the.
+6  is objects carrying How Daniel many?	none	1 4
+7 football the Daniel handed Sandra to.
+8 John dropped the apple.
+9  Daniel is objects many How carrying?	one	1 4 7
+10 football to the handed Sandra Daniel.
+11 to the back went Mary bedroom.
+12 carrying is  objects How many John?	none	5 8
+13 the to kitchen Sandra journeyed.
+14 there picked apple Mary the up.
+15  many objects Mary carrying How is?	one	14
+1 the kitchen moved Sandra to.
+2 bedroom the John to travelled.
+3 Sandra moved the garden to.
+4 picked the Sandra football there up.
+5 How  objects is carrying Sandra many?	one	4
+6 the Sandra went bedroom to.
+7 Sandra passed the to John football.
+8 is objects Sandra carrying  How many?	none	4 7
+9 to passed Sandra John football the.
+10 Sandra handed football to John the.
+11 is How John many objects  carrying?	one	7 9 10
+12 the there John football discarded.
+13 picked there football up John the.
+14 objects John many How carrying  is?	one	7 9 10 12 13
+15 gave John the football to Sandra.
+16 John to the journeyed hallway.
+17 How many objects carrying  Sandra is?	one	4 7 9 10 15
+1 hallway the to travelled Sandra.
+2 office back to John the went.
+3 bedroom the John to moved.
+4 John office moved the to.
+5 the travelled to Daniel bedroom.
+6 the Daniel to bathroom journeyed.
+7 to the garden Mary journeyed.
+8 travelled the to Mary bedroom.
+9 to bathroom went the Sandra.
+10 Daniel the moved to hallway.
+11 to back Sandra the hallway went.
+12 to the Sandra bedroom journeyed.
+13 Sandra went bathroom to the back.
+14 moved John to the bedroom.
+15 journeyed to hallway the John.
+16 Mary there the grabbed football.
+17 objects carrying many Mary is  How?	one	16
+18 left football Mary the.
+19 Daniel the garden went to.
+20 carrying  many is objects Mary How?	none	16 18
+21 there the took Sandra apple.
+22 Sandra milk there the took.
+23 many Sandra is  carrying How objects?	two	21 22
+24 John bathroom to journeyed the.
+25 went office Daniel to back the.
+26 is How Sandra objects carrying  many?	two	21 22
+27 journeyed the bedroom Daniel to.
+28 the office to John journeyed.
+29  many How objects is Sandra carrying?	two	21 22
+1 there football the John up picked.
+2 the football John dropped.
+3 is How carrying objects John many ?	none	1 2
+4 to office the moved Mary.
+5 Daniel back bedroom went the to.
+6 objects carrying How John  many is?	none	1 2
+7 Sandra journeyed garden the to.
+8 garden Daniel the went to.
+9 How is John carrying many  objects?	none	1 2
+10 the Daniel to went bedroom back.
+11 the John took football there.
+12 many objects How carrying  John is?	one	1 2 11
+13 moved kitchen John to the.
+14 Sandra office moved the to.
+15 many carrying objects  John is How?	one	1 2 11
+1 to Daniel went back the garden.
+2 the kitchen journeyed to Daniel.
+3 office to journeyed the Mary.
+4 to John the went bedroom.
+5 there up John picked the football.
+6 Sandra office the journeyed to.
+7 objects many  How is John carrying?	one	5
+8 to hallway the Mary went.
+9 milk John there the took.
+10 objects  many is carrying How John?	two	5 9
+11 travelled hallway the Daniel to.
+12 to kitchen John the journeyed.
+13 is carrying How  objects John many?	two	5 9
+14 the John football dropped.
+15 garden Daniel the travelled to.
+16 John How objects many  carrying is?	one	5 9 14
+17 Daniel there took the apple.
+18 down the apple Daniel put.
+19 objects  many John How is carrying?	one	5 9 14
+1 moved Sandra garden the to.
+2 picked the Sandra up football there.
+3 Sandra  is How carrying many objects?	one	2
+4 football Sandra there discarded the.
+5 journeyed hallway the John to.
+6  is carrying objects Sandra How many?	none	2 4
+7 grabbed milk Mary there the.
+8 the John bedroom went to back.
+9 Sandra carrying  objects many How is?	none	2 4
+10 to went office the back Daniel.
+11 Sandra went back bathroom to the.
+12  objects is How Mary carrying many?	one	7
+13 hallway to moved Daniel the.
+14 milk to the handed Mary Sandra.
+15 carrying objects  How many is Mary?	none	7 14
+1 the travelled Sandra to garden.
+2 travelled the to Sandra bedroom.
+3 to bathroom Mary the travelled.
+4 the milk there John got.
+5  carrying objects How is many John?	one	4
+6 passed milk the Daniel to John.
+7 went the bedroom John to.
+8 How objects is many carrying John ?	none	4 6
+9 the to Mary went back bedroom.
+10 Daniel dropped the milk.
+11 How carrying objects John is many ?	none	4 6
+12 back Daniel went to the bathroom.
+13 garden the to moved Sandra.
+14 How Daniel is many objects  carrying?	none	6 10
+15 Sandra the travelled hallway to.
+16 to the back went bathroom Sandra.
+17  carrying Daniel many How is objects?	none	6 10
+1 Daniel up there the picked apple.
+2 hallway went to the John.
+3 Daniel  many is How carrying objects?	one	1
+4 bedroom John travelled to the.
+5 Daniel the apple left.
+6 objects many Daniel  carrying How is?	none	1 5
+7 travelled to the John kitchen.
+8 took football Mary the there.
+9 How Mary carrying objects  many is?	one	8
+10 Sandra garden to moved the.
+11 put football down the Mary.
+12  objects Mary is many How carrying?	none	8 11
+13 the Sandra journeyed office to.
+14 garden moved the to Sandra.
+15 Mary is many objects How  carrying?	none	8 11
+1 hallway back went to John the.
+2 to Mary office back the went.
+3 the went Sandra to kitchen back.
+4 bathroom the Sandra travelled to.
+5 the Sandra got there milk.
+6 left Sandra milk the.
+7 objects many Sandra is  carrying How?	none	5 6
+8 Daniel the bedroom went to.
+9 went bathroom the Daniel to.
+10 objects Sandra many is carrying How ?	none	5 6
+11 the milk there got Daniel.
+12 Daniel the milk dropped.
+13  carrying How Sandra objects many is?	none	5 6
+14 bathroom John the journeyed to.
+15 went the to Daniel back office.
+16 many objects Daniel carrying is  How?	none	11 12
+17 to the journeyed office John.
+18 to the hallway travelled Mary.
+19 objects carrying How many  is Daniel?	none	11 12
+1 to Sandra went office the.
+2 kitchen the to travelled Mary.
+3 grabbed John the apple there.
+4 Sandra John handed apple to the.
+5 How many John is  objects carrying?	none	3 4
+6 travelled Mary the to hallway.
+7 the to John went garden back.
+8 is objects carrying many How John ?	none	3 4
+9 the grabbed Sandra football there.
+10 the Sandra Daniel apple passed to.
+11 John  is carrying objects many How?	none	3 4
+12 Daniel apple to passed Sandra the.
+13 passed apple Daniel to Sandra the.
+14 is How carrying objects Daniel many ?	one	10 12 13
+15 the left football Sandra.
+16 Daniel the apple gave Sandra to.
+17 is  objects Daniel many carrying How?	none	10 12 13 16
+1 to Mary office journeyed the.
+2 the to Mary back went bathroom.
+3 there the John milk got.
+4 hallway the to moved Sandra.
+5 many  John How objects carrying is?	one	3
+6 the football there Mary took.
+7 to the hallway Mary journeyed.
+8 carrying  is John many How objects?	one	3
+9 hallway the to moved John.
+10 to the passed football John Mary.
+11 many carrying is objects  How Mary?	none	6 10
+12 the John to handed Mary football.
+13 the bedroom to travelled Sandra.
+14 carrying John How objects many is ?	one	3 10 12
+15 journeyed Sandra to office the.
+16 office to the went Daniel.
+17 objects carrying  How Mary is many?	one	6 10 12
+1 to hallway the Daniel journeyed.
+2 to the Daniel journeyed garden.
+3 went to back the Mary kitchen.
+4 apple took the John there.
+5 John carrying  many How is objects?	one	4
+6 to the garden moved John.
+7 Daniel back the office went to.
+8 is  objects carrying many John How?	one	4
+9 John hallway to the travelled.
+10 put apple down John the.
+11 is carrying objects many How  John?	none	4 10
+12 football the took there Daniel.
+13 Sandra the office to travelled.
+14  carrying many How John objects is?	none	4 10
+15 to the gave Daniel football Sandra.
+16 football the to gave Sandra Daniel.
+17 How Daniel carrying is objects many ?	one	12 15 16
+1 the Mary travelled bedroom to.
+2 journeyed Mary office the to.
+3 milk grabbed the there Sandra.
+4 went John to back the garden.
+5 is objects How many  Sandra carrying?	one	3
+6 to moved garden Sandra the.
+7 handed milk the to John Sandra.
+8  Sandra many objects carrying How is?	none	3 7
+9 John to the kitchen travelled.
+10 to Mary moved hallway the.
+11 Sandra objects How  carrying many is?	none	3 7
+12 moved hallway the to Sandra.
+13 Daniel the moved kitchen to.
+14 carrying is How Sandra  objects many?	none	3 7
+15 gave Daniel to the John milk.
+16 Daniel the milk discarded.
+17 How is carrying John  objects many?	none	7 15
+1 to John journeyed bathroom the.
+2 the office travelled to Mary.
+3 back to Sandra the went bathroom.
+4 to John bedroom the went.
+5 hallway went the Mary to.
+6 apple the took there Mary.
+7 objects How is  many carrying Mary?	one	6
+8 Sandra to the kitchen went.
+9 there up picked the Sandra football.
+10 carrying Mary objects many is How ?	one	6
+11 John the travelled office to.
+12 football Sandra dropped the.
+13 Sandra How  carrying many is objects?	none	9 12
+14 dropped Mary the apple.
+15 bathroom the to Sandra went.
+16 How is many objects  carrying Sandra?	none	9 12
+17 to back the Sandra went kitchen.
+18 Sandra grabbed there the football.
+19 Sandra  is objects carrying many How?	one	9 12 18
+1 office Sandra the to went.
+2 football the Sandra there grabbed.
+3 carrying How many Sandra is  objects?	one	2
+4 the to journeyed Mary bedroom.
+5 Mary to went bathroom the.
+6 Sandra  is carrying many How objects?	one	2
+7 to went Sandra bedroom back the.
+8 the there John grabbed milk.
+9 How carrying  many Sandra objects is?	one	2
+10 passed the Sandra to football John.
+11 the there down John milk put.
+12  Sandra carrying objects many is How?	none	2 10
+13 milk the picked there John up.
+14 Sandra passed football to John the.
+15 objects many carrying John How  is?	one	8 10 11 13 14
+1 to Daniel bedroom the travelled.
+2 kitchen to Sandra went the.
+3 back garden to the went Sandra.
+4 the went back to kitchen Mary.
+5 the went Daniel kitchen to.
+6 picked the up apple there Mary.
+7 How is carrying  objects many Mary?	one	6
+8 bathroom journeyed to Daniel the.
+9 the went to Sandra kitchen.
+10 objects carrying  How many is Mary?	one	6
+11 Sandra there took the football.
+12 bathroom the Sandra to travelled.
+13 Mary  carrying objects How is many?	one	6
+14 the Sandra football put down.
+15 office Daniel to moved the.
+16 many  How Sandra is carrying objects?	none	11 14
+17 the Mary to bathroom journeyed.
+18 Sandra apple to handed the Mary.
+19 Sandra many objects  carrying How is?	one	11 14 18
+1 the to garden travelled Daniel.
+2 to the Sandra hallway went.
+3 up apple Sandra there the picked.
+4 went John to garden the.
+5 is carrying How  many Sandra objects?	one	3
+6 John to bathroom journeyed the.
+7 the John to moved office.
+8 is  How objects many carrying Sandra?	one	3
+9 moved the Sandra to office.
+10 the there got Daniel milk.
+11 many objects carrying Daniel  How is?	one	10
+12 the there got Sandra football.
+13 Sandra apple to handed the John.
+14 Daniel objects is many  How carrying?	one	10
+15 to bathroom the Mary went.
+16 the bathroom Sandra travelled to.
+17 many carrying is Daniel objects  How?	one	10
+1 to moved bedroom John the.
+2 back the to went John kitchen.
+3 kitchen journeyed the Mary to.
+4 Daniel bathroom went the to.
+5 hallway back went John the to.
+6 milk took the Daniel there.
+7 objects  carrying is many How Daniel?	one	6
+8 the Sandra moved to bathroom.
+9 Mary the back to hallway went.
+10  many How is carrying objects Daniel?	one	6
+11 the Daniel to office moved.
+12 Mary to the office went.
+13 objects  How is many Daniel carrying?	one	6
+14 apple got there the Mary.
+15 milk the discarded Daniel.
+16 How  Daniel carrying many is objects?	none	6 15
+17 Daniel travelled to garden the.
+18 to moved garden the John.
+19 is  carrying How objects Daniel many?	none	6 15
+1 there got the Sandra apple.
+2 to gave the Daniel apple Sandra.
+3 carrying is How many Sandra  objects?	none	1 2
+4 back the to bathroom Mary went.
+5 took the Sandra football there.
+6 objects carrying Sandra How is  many?	one	1 2 5
+7 garden Mary to the went.
+8 the John to garden moved.
+9 is carrying How objects many Sandra ?	one	1 2 5
+10 Daniel the apple to gave Sandra.
+11 left football the Sandra.
+12 Sandra many How  is objects carrying?	one	1 2 5 10 11
+13 Daniel office went to the.
+14 apple discarded there the Sandra.
+15  objects many Sandra is carrying How?	none	1 2 5 10 11 14
+1 to Sandra travelled office the.
+2 there Sandra up the picked apple.
+3 carrying objects many  Sandra is How?	one	2
+4 football the picked up there John.
+5 Sandra the Daniel apple to gave.
+6 How is  carrying Sandra many objects?	none	2 5
+7 Daniel dropped the apple.
+8 Daniel the took there apple.
+9  Daniel is objects carrying How many?	one	5 7 8
+10 to Daniel apple handed the Sandra.
+11 Sandra gave to Daniel apple the.
+12 carrying How objects many  Daniel is?	one	5 7 8 10 11
+13 went to the John bathroom back.
+14 moved the John hallway to.
+15 is How objects Daniel  carrying many?	one	5 7 8 10 11
+1 Daniel travelled to the bathroom.
+2 went the bedroom Mary back to.
+3 the back to Mary went hallway.
+4 got the there apple John.
+5  carrying objects is John How many?	one	4
+6 the hallway Daniel to went.
+7 the Mary kitchen to moved.
+8  many John carrying How is objects?	one	4
+9 the down apple John put.
+10 to the garden John travelled.
+11 carrying John  is objects many How?	none	4 9
+12 Mary moved the office to.
+13 Daniel moved garden to the.
+14 many carrying is  How John objects?	none	4 9
+15 to bathroom the went John.
+16 the journeyed Sandra hallway to.
+17 Daniel went to office the.
+18 there picked John up the apple.
+19 many  is John How objects carrying?	one	4 9 18
+1 hallway went to the Sandra.
+2 to garden John the went.
+3 moved the John to hallway.
+4 the to John bathroom back went.
+5 apple John got the there.
+6 the Daniel to bathroom went.
+7 objects How is John  carrying many?	one	5
+8 apple John to Daniel handed the.
+9 to apple John Daniel the passed.
+10 many carrying How  John is objects?	one	5 8 9
+11 to Daniel garden went the.
+12 Sandra the bathroom moved to.
+13 many Daniel How  carrying objects is?	none	8 9
+14 bedroom journeyed to the John.
+15 went back to the hallway Daniel.
+16 objects is  Daniel many How carrying?	none	8 9
+17 football John the up picked there.
+18 office John travelled the to.
+19 carrying objects  How many is John?	two	5 8 9 17
+1 John the garden moved to.
+2 the Sandra there apple grabbed.
+3 is How carrying Sandra objects many ?	one	2
+4 the travelled to Mary hallway.
+5 to went back the John bedroom.
+6 carrying How  objects is many Sandra?	one	2
+7 garden the Sandra moved to.
+8 dropped apple the Sandra.
+9 objects is How  Sandra carrying many?	none	2 8
+10 travelled to bathroom the Sandra.
+11 Daniel kitchen to moved the.
+12 carrying How objects is Sandra many ?	none	2 8
+13 to journeyed office Sandra the.
+14 back the garden to John went.
+15 many carrying  How objects is Sandra?	none	2 8
+1 went hallway the Sandra to.
+2 kitchen Mary the travelled to.
+3 the hallway to journeyed Daniel.
+4 there took John the apple.
+5 many carrying How John objects is ?	one	4
+6 John left apple the.
+7 the got Mary there milk.
+8 carrying How Mary is many objects ?	one	7
+9 down the milk Mary put.
+10 to the went John bedroom.
+11 How John many objects  carrying is?	none	4 6
+12 bedroom to travelled Sandra the.
+13 football grabbed there the John.
+14 How objects Mary is  many carrying?	none	7 9
+15 John Sandra to passed the football.
+16 went the back John hallway to.
+17 John objects How many  is carrying?	none	4 6 13 15
+1 to moved bedroom Daniel the.
+2 to hallway Mary the moved.
+3 the to went Mary kitchen back.
+4 the garden journeyed to Mary.
+5 garden went to the Daniel.
+6 there the Daniel apple took.
+7 objects Daniel carrying is  How many?	one	6
+8 to kitchen the travelled Sandra.
+9 Sandra to travelled the garden.
+10 is carrying How Daniel objects  many?	one	6
+11 apple Daniel Mary passed the to.
+12 bedroom moved the to John.
+13 many objects carrying How Daniel is ?	none	6 11
+14 back went to kitchen the Mary.
+15 apple the Mary discarded.
+16 many carrying How objects Mary is ?	none	11 15
+17 hallway the John travelled to.
+18 went office the to John.
+19 Mary  How many is carrying objects?	none	11 15
+1 to journeyed kitchen the Mary.
+2 there John took the apple.
+3 objects How John carrying many  is?	one	2
+4 Mary the apple John passed to.
+5 John Mary handed the to apple.
+6 Mary How  objects is many carrying?	none	4 5
+7 Mary John apple to passed the.
+8 apple Mary John the handed to.
+9 carrying many How  objects is Mary?	none	4 5 7 8
+10 to handed John apple Mary the.
+11 back Mary the bedroom went to.
+12 objects many carrying  is Mary How?	one	4 5 7 8 10
+13 to Sandra the apple Mary gave.
+14 office the Sandra to travelled.
+15 many carrying is objects Mary How ?	none	4 5 7 8 10 13
+1 back Daniel went to hallway the.
+2 kitchen the to Mary journeyed.
+3 apple the grabbed there Mary.
+4 to office Mary moved the.
+5 many objects How is Mary  carrying?	one	3
+6 to Sandra Mary the apple handed.
+7 to the apple Sandra passed Mary.
+8  carrying Sandra is objects many How?	none	6 7
+9 garden went John to back the.
+10 the football Sandra took there.
+11 Sandra is How  carrying objects many?	one	6 7 10
+12 moved to Daniel bathroom the.
+13 the Sandra Mary to apple passed.
+14 objects Mary How  many carrying is?	none	3 6 7 13
+15 Mary picked milk up the there.
+16 the kitchen John to moved.
+17 Mary objects many How carrying  is?	one	3 6 7 13 15
+1 the Mary to bedroom travelled.
+2 the to John travelled garden.
+3 to journeyed the bathroom Mary.
+4 back the bathroom to went Sandra.
+5 the Sandra to hallway moved.
+6 moved John to the office.
+7 milk got the there Mary.
+8 bedroom Sandra went to the.
+9 many is objects How Mary carrying ?	one	7
+10 Daniel went bedroom to back the.
+11 got apple the Daniel there.
+12  How Daniel carrying objects is many?	one	11
+13 Sandra apple the to Daniel passed.
+14 moved to the kitchen Sandra.
+15 objects  How Daniel carrying many is?	none	11 13
+16 Mary to the went bedroom.
+17 Mary Daniel milk to handed the.
+18 How many Daniel  objects is carrying?	one	11 13 17
+19 office Sandra journeyed to the.
+20 to hallway the Sandra moved.
+21 How Mary carrying many is  objects?	none	7 17
+1 there picked Sandra football the up.
+2 John to went the back bathroom.
+3 is How objects carrying Sandra  many?	one	1
+4 Daniel bedroom journeyed the to.
+5 the Daniel kitchen journeyed to.
+6  objects is Sandra How many carrying?	one	1
+7 the passed Sandra Daniel to football.
+8 football passed Daniel Sandra the to.
+9 carrying How objects is  many Sandra?	one	1 7 8
+10 journeyed kitchen the John to.
+11 bedroom to John the went.
+12  many carrying How is Sandra objects?	one	1 7 8
+13 the to football Daniel gave Sandra.
+14 Sandra football to passed Daniel the.
+15 many carrying objects Daniel How is ?	none	7 8 13 14
+1 John took there the milk.
+2 travelled to garden Daniel the.
+3 is objects carrying John many  How?	one	1
+4 Sandra the office to journeyed.
+5 Mary to hallway journeyed the.
+6 John carrying objects many  How is?	one	1
+7 gave John milk to the Mary.
+8 passed milk Mary to the John.
+9 many  carrying How objects John is?	one	1 7 8
+10 went Mary the kitchen to.
+11 Mary moved the to office.
+12  carrying objects many How John is?	one	1 7 8
+13 garden went the back Sandra to.
+14 Mary moved to hallway the.
+15 How is objects carrying  Mary many?	none	7 8
+1 bedroom Sandra went to the.
+2 there up John the football picked.
+3 objects carrying John is  many How?	one	2
+4 bathroom went the John back to.
+5 down John the football put there.
+6 many  John is objects How carrying?	none	2 5
+7 the John football picked up there.
+8 the John dropped football.
+9  John objects carrying How is many?	none	2 5 7 8
+10 garden travelled to Mary the.
+11 office the to went Daniel.
+12 many is carrying  How objects John?	none	2 5 7 8
+13 up Daniel milk the there picked.
+14 the to Mary went kitchen.
+15 How objects is John carrying  many?	none	2 5 7 8
+1 the apple took there Mary.
+2 the back Sandra to office went.
+3 objects is many How  carrying Mary?	one	1
+4 the Mary apple down put.
+5 moved John the to office.
+6 Mary objects carrying  many is How?	none	1 4
+7 Daniel the to kitchen went.
+8 journeyed to the garden John.
+9 is carrying many  objects Mary How?	none	1 4
+10 the to moved bathroom Daniel.
+11 kitchen journeyed the Sandra to.
+12 John hallway the to journeyed.
+13 Mary the there apple got.
+14 many Mary objects  is carrying How?	one	1 4 13
+15 apple Mary there the discarded.
+16 the journeyed to John garden.
+17  many is objects Mary carrying How?	none	1 4 13 15
+1 Mary to garden back the went.
+2 journeyed Sandra the to hallway.
+3 went office Mary to the.
+4 to journeyed bedroom the Sandra.
+5 there the Sandra football grabbed.
+6 the to journeyed kitchen Mary.
+7 many  Sandra How is objects carrying?	one	5
+8 took milk Sandra the there.
+9 Sandra dropped milk the.
+10 many carrying  How is objects Sandra?	one	5 8 9
+11 Mary travelled office to the.
+12 to went the Daniel garden.
+13 many  Sandra carrying is objects How?	one	5 8 9
+14 Daniel back to went office the.
+15 hallway went Sandra the to.
+16 carrying Sandra many  objects is How?	one	5 8 9
+17 the there grabbed apple Sandra.
+18 bedroom moved the to John.
+19 is many Sandra  How carrying objects?	two	5 8 9 17
+1 got Daniel the there milk.
+2 Sandra to bathroom the moved.
+3 objects is carrying many Daniel  How?	one	1
+4 travelled office the to Sandra.
+5 gave John the to Daniel milk.
+6 objects How  many is carrying Daniel?	none	1 5
+7 the discarded John milk there.
+8 the garden went John to back.
+9 carrying John many  How objects is?	none	5 7
+10 Sandra to went the kitchen.
+11 the bathroom back to Sandra went.
+12 many objects is carrying Daniel How ?	none	1 5
+13 went John the to kitchen.
+14 Daniel there the up milk picked.
+15  is many How objects carrying Daniel?	one	1 5 14
+1 to bedroom journeyed the Mary.
+2 went the Daniel back to hallway.
+3 to Mary hallway the moved.
+4 the office back went Mary to.
+5 the bathroom Mary went back to.
+6 bedroom to Sandra went the.
+7 the Mary kitchen to went.
+8 to garden back Daniel the went.
+9 Daniel to bedroom the journeyed.
+10 moved to John the kitchen.
+11 the back Daniel to went kitchen.
+12 travelled to garden John the.
+13 moved kitchen the to John.
+14 to Daniel garden went back the.
+15 garden moved the John to.
+16 Sandra the back hallway to went.
+17 the Sandra to travelled office.
+18 took Sandra there the football.
+19 objects many is Sandra  carrying How?	one	18
+20 discarded football Sandra the.
+21 hallway John to went the.
+22  carrying How objects many Sandra is?	none	18 20
+23 up there apple Sandra the picked.
+24 Mary to journeyed the hallway.
+25 objects carrying many Sandra  How is?	one	18 20 23
+26 went the Sandra kitchen to.
+27 to office John the went.
+28 is many  Sandra How objects carrying?	one	18 20 23
+29 went to back John bedroom the.
+30 to journeyed the Mary office.
+31 John went back the garden to.
+32 to the travelled garden Sandra.
+33 discarded Sandra there the apple.
+34 Daniel the there apple grabbed.
+35 How Daniel  is carrying objects many?	one	34
+1 went the back hallway John to.
+2 Mary travelled the to hallway.
+3 to the went back office Sandra.
+4 Sandra to went back bedroom the.
+5 Mary moved kitchen to the.
+6 went Mary bedroom to the.
+7 kitchen to the journeyed Daniel.
+8 moved the bathroom Sandra to.
+9 to back the bedroom Sandra went.
+10 the travelled hallway Daniel to.
+11 John garden the went to.
+12 the to Daniel travelled kitchen.
+13 to went the back Mary bathroom.
+14 Daniel went bathroom to the.
+15 up milk picked there the Daniel.
+16 milk Daniel gave to the Mary.
+17  is Daniel How many objects carrying?	none	15 16
+18 the handed to Mary Daniel milk.
+19 there the apple got John.
+20 is  Mary objects carrying many How?	none	16 18
+21 the Daniel left milk.
+22 apple John discarded the.
+23 Daniel  carrying is many How objects?	none	15 16 18 21
+24 there picked Mary milk up the.
+25 John went kitchen to the.
+26  is Daniel carrying many objects How?	none	15 16 18 21
+27 the garden went to back Daniel.
+28 Daniel bedroom moved to the.
+29  How is objects Mary carrying many?	one	16 18 24
+1 grabbed there Sandra the milk.
+2 Sandra the went to garden.
+3 Sandra many carrying  How objects is?	one	1
+4 milk handed John the to Sandra.
+5 the Sandra gave John to milk.
+6 carrying objects many  is How Sandra?	one	1 4 5
+7 the to Sandra travelled bathroom.
+8 went hallway the Daniel to.
+9 objects many  How carrying is Sandra?	one	1 4 5
+10 Sandra milk the discarded.
+11 there milk took Sandra the.
+12 Sandra many is carrying How objects ?	one	1 4 5 10 11
+13 milk Sandra left the.
+14 to kitchen the moved Mary.
+15 Sandra carrying is How many  objects?	none	1 4 5 10 11 13
+1 kitchen Mary the to went.
+2 garden journeyed to the John.
+3 the went kitchen Sandra back to.
+4 to Sandra moved the bathroom.
+5 to the moved Daniel hallway.
+6 Daniel to garden travelled the.
+7 there got John milk the.
+8 the Mary journeyed garden to.
+9 many John How objects is carrying ?	one	7
+10 John there down put the milk.
+11 milk Daniel there got the.
+12 objects carrying John many  How is?	none	7 10
+13 gave Daniel the to John milk.
+14 the Sandra hallway journeyed to.
+15 objects How Daniel is carrying many ?	none	11 13
+16 the John milk to Mary passed.
+17 Mary milk John to passed the.
+18 many  carrying is How John objects?	one	7 10 13 16 17
+19 to Daniel office travelled the.
+20 John moved kitchen the to.
+21 carrying Mary How is  objects many?	none	16 17
+1 to bedroom Sandra moved the.
+2 football the got there Mary.
+3 carrying  objects many Mary How is?	one	2
+4 back the to Daniel garden went.
+5 Mary kitchen the to travelled.
+6 is How  objects many carrying Mary?	one	2
+7 Mary dropped the football.
+8 travelled John hallway the to.
+9 is How many Mary objects  carrying?	none	2 7
+10 Mary garden the went back to.
+11 to hallway the journeyed Mary.
+12 objects is carrying How  Mary many?	none	2 7
+13 Daniel the bathroom to journeyed.
+14 there apple the Daniel grabbed.
+15  many How is carrying objects Daniel?	one	14
+1 to moved the Mary kitchen.
+2 there the Sandra grabbed apple.
+3 many Sandra is carrying objects  How?	one	2
+4 hallway back to the John went.
+5 back kitchen went Daniel to the.
+6  many How carrying Sandra objects is?	one	2
+7 back Sandra the office went to.
+8 the garden travelled to John.
+9 is many objects  carrying Sandra How?	one	2
+10 office to the Daniel journeyed.
+11 moved to Daniel kitchen the.
+12 bathroom went John the back to.
+13 the picked there John milk up.
+14 objects is John  How many carrying?	one	13
+15 John to office the journeyed.
+16 apple the left Sandra.
+17 carrying John is objects How many ?	one	13
+1 bedroom the to went back John.
+2 the to moved bedroom Daniel.
+3 office Mary moved the to.
+4 moved the office Daniel to.
+5 Daniel the hallway to travelled.
+6 Mary there apple the picked up.
+7 carrying is objects Mary many How ?	one	6
+8 the there up football picked John.
+9 the Daniel went bedroom to.
+10 How John is carrying  many objects?	one	8
+11 football Daniel the John handed to.
+12 bathroom the Daniel went to.
+13 carrying many is John  How objects?	none	8 11
+14 apple Mary the dropped.
+15 Daniel milk the there took.
+16 John  is objects many carrying How?	none	8 11
+17 John office moved the to.
+18 John there picked apple up the.
+19 is How many  carrying Mary objects?	none	6 14
+1 to the journeyed garden Sandra.
+2 the journeyed to John hallway.
+3 to back the went Mary office.
+4 to journeyed hallway the Daniel.
+5 milk the grabbed there Daniel.
+6 Daniel down milk the put.
+7 How  objects is carrying many Daniel?	none	5 6
+8 milk the Daniel there got.
+9 travelled bedroom Daniel to the.
+10 carrying is  Daniel objects many How?	one	5 6 8
+11 up there football Mary picked the.
+12 Daniel the garden went to.
+13 Daniel How  is objects many carrying?	one	5 6 8
+14 the to went Daniel bathroom back.
+15 moved John the bathroom to.
+16 is Mary many carrying  How objects?	one	11
+17 Daniel there grabbed apple the.
+18 Daniel to the apple John gave.
+19 Daniel How carrying  objects is many?	one	5 6 8 17 18
+1 Daniel football there the got.
+2 garden the to went Daniel.
+3 many is  How carrying objects Daniel?	one	1
+4 discarded Daniel football the.
+5 travelled the to bathroom Mary.
+6 is Daniel How  objects many carrying?	none	1 4
+7 to office journeyed Sandra the.
+8 went garden Mary the back to.
+9 many Daniel How  objects is carrying?	none	1 4
+10 the garden to travelled John.
+11 there picked Daniel football up the.
+12 Daniel  is objects carrying many How?	one	1 4 11
+13 Daniel John football the passed to.
+14 the there football John dropped.
+15 John  many is How objects carrying?	none	13 14
+1 Mary there up picked the apple.
+2 the went kitchen to Sandra.
+3 How is objects many  carrying Mary?	one	1
+4 grabbed the there football Daniel.
+5 the garden to journeyed Sandra.
+6 How Mary many objects carrying  is?	one	1
+7 Mary the left apple.
+8 kitchen went Sandra to the.
+9 many How is Daniel objects carrying ?	one	4
+10 Daniel the discarded football.
+11 the garden to John went.
+12 Daniel How  many carrying is objects?	none	4 10
+13 went Mary to the garden.
+14 went the Daniel kitchen to.
+15 Daniel  carrying is many objects How?	none	4 10
+1 Sandra the journeyed to bedroom.
+2 the hallway Mary to travelled.
+3 the to garden moved John.
+4 travelled hallway Sandra the to.
+5 moved bathroom the Daniel to.
+6 garden went to Mary the back.
+7 apple got the Mary there.
+8 Sandra bathroom to journeyed the.
+9 Mary is objects carrying  many How?	one	7
+10 to hallway back went the Daniel.
+11 the left Mary apple.
+12 Mary objects  carrying is How many?	none	7 11
+13 moved Daniel office the to.
+14 John the journeyed to bedroom.
+15 Mary objects many is How  carrying?	none	7 11
+16 there milk up the Sandra picked.
+17 there apple got Mary the.
+18 is carrying Mary  many objects How?	one	7 11 17
+19 discarded the apple Mary.
+20 there grabbed Mary apple the.
+21 Sandra How objects many carrying  is?	one	16
+1 to office went the John.
+2 Sandra up apple picked the there.
+3 is many How objects carrying  Sandra?	one	2
+4 journeyed to bedroom Daniel the.
+5 Daniel the milk got there.
+6 many objects is  How Daniel carrying?	one	5
+7 the Daniel milk dropped.
+8 down apple the Sandra put.
+9 Sandra is  carrying many How objects?	none	2 8
+10 to kitchen journeyed John the.
+11 milk up picked the Sandra there.
+12 is many  objects How carrying Daniel?	none	5 7
+13 gave Daniel to milk the Sandra.
+14 to John back the went bedroom.
+15 carrying objects  Sandra How many is?	none	2 8 11 13
+1 picked up milk John there the.
+2 milk John handed to Mary the.
+3 How is objects  many carrying John?	none	1 2
+4 there put Mary down milk the.
+5 to journeyed garden the Mary.
+6 carrying is John many  objects How?	none	1 2
+7 bedroom John went the to back.
+8 garden John journeyed to the.
+9 How objects John  many is carrying?	none	1 2
+10 Sandra garden moved the to.
+11 up the Daniel picked milk there.
+12  is How many Daniel carrying objects?	one	11
+13 the milk dropped Daniel.
+14 Sandra to back the kitchen went.
+15 carrying is objects How many Daniel ?	none	11 13
+1 the apple grabbed John there.
+2 the Daniel took there football.
+3 objects John is  carrying How many?	one	1
+4 Daniel to bathroom the moved.
+5 football Daniel put down the.
+6 objects is many carrying Daniel How ?	none	2 5
+7 Sandra to hallway the moved.
+8 to apple Sandra John the handed.
+9 objects many is carrying  How Daniel?	none	2 5
+10 journeyed the garden Sandra to.
+11 office Sandra travelled to the.
+12 is many  How Daniel carrying objects?	none	2 5
+13 back the to went Sandra bathroom.
+14 Mary Sandra to the gave apple.
+15  objects carrying John many How is?	none	1 8
+1 Mary to bedroom the travelled.
+2 office to back John went the.
+3 picked there John football up the.
+4 went back garden to the Daniel.
+5 objects many is How  John carrying?	one	3
+6 the kitchen moved to Sandra.
+7 got Mary the there apple.
+8 many is John  objects How carrying?	one	3
+9 the went to bedroom Sandra.
+10 bedroom to the journeyed John.
+11 is many objects Mary carrying How ?	one	7
+12 apple Mary to handed the John.
+13 discarded the football John.
+14 objects carrying  Mary How is many?	none	7 12
+15 garden the moved John to.
+16 John the to apple gave Daniel.
+17 is  many objects carrying Mary How?	none	7 12
+1 got milk Daniel the there.
+2 John to bathroom the moved.
+3  carrying objects is How Daniel many?	one	1
+4 Mary went the to bedroom.
+5 to kitchen the Sandra moved.
+6 Daniel How  carrying is objects many?	one	1
+7 got there Sandra football the.
+8 bedroom travelled John the to.
+9 many carrying  is How objects Sandra?	one	7
+10 John went bathroom the to.
+11 went the back hallway John to.
+12 carrying How is many  Sandra objects?	one	7
+13 Sandra bedroom moved to the.
+14 the handed football Sandra Mary to.
+15 objects is carrying many How Sandra ?	none	7 14
+1 grabbed John there apple the.
+2 the there Sandra grabbed milk.
+3 How carrying  objects is John many?	one	1
+4 Mary there football the got.
+5 put John apple the down.
+6 carrying objects How John is many ?	none	1 5
+7 bathroom John journeyed the to.
+8 Mary football the down put.
+9 objects How  many is carrying Mary?	none	4 8
+10 to Sandra the passed milk John.
+11 there left milk the John.
+12 objects carrying How many is John ?	none	1 5 10 11
+13 Sandra there the got milk.
+14 left the milk Sandra.
+15 How many Sandra is carrying objects ?	none	2 10 13 14
+1 garden Mary the to moved.
+2 to journeyed hallway the Daniel.
+3 up the there John football picked.
+4 John the journeyed garden to.
+5 John is How objects  many carrying?	one	3
+6 football John handed the Mary to.
+7 to football handed the Mary John.
+8 How John carrying  is many objects?	one	3 6 7
+9 John to hallway moved the.
+10 gave to the Daniel John football.
+11 many is How carrying  objects John?	none	3 6 7 10
+12 to back kitchen Sandra went the.
+13 football to Daniel John the passed.
+14 many is How  objects carrying Mary?	none	6 7
+15 the Daniel to passed football John.
+16 to the hallway back Mary went.
+17 many Daniel  is objects How carrying?	one	10 13 15
+1 back went John the to bedroom.
+2 the bathroom John went to.
+3 the back office went Mary to.
+4 the moved Sandra kitchen to.
+5 the grabbed Sandra there football.
+6 moved hallway Daniel to the.
+7 carrying is many objects Sandra How ?	one	5
+8 moved to Daniel garden the.
+9 football dropped Sandra the.
+10 many carrying Sandra is objects  How?	none	5 9
+11 picked the apple there up Daniel.
+12 the picked Sandra there up football.
+13  carrying is How Sandra objects many?	one	5 9 12
+14 Sandra there left football the.
+15 journeyed bedroom Mary the to.
+16 many How carrying  objects Sandra is?	none	5 9 12 14
+17 the office to John journeyed.
+18 football the there Sandra picked up.
+19 How objects Sandra is carrying  many?	one	5 9 12 14 18
+1 John back the went hallway to.
+2 went the to hallway Daniel.
+3 went the Mary back to kitchen.
+4 went to bedroom John the.
+5 moved the garden to Daniel.
+6 apple there got the Mary.
+7 objects Mary many How is carrying ?	one	6
+8 Sandra to apple Mary handed the.
+9 the Mary there football got.
+10  carrying objects is Mary How many?	one	6 8 9
+11 the Mary apple Sandra to handed.
+12 gave Sandra the apple to Mary.
+13 objects Sandra many How is  carrying?	one	8 11 12
+14 to office John went the.
+15 apple to Sandra the Mary gave.
+16  carrying Sandra is objects How many?	none	8 11 12 15
+17 Mary the apple gave to Sandra.
+18 back the to office went Sandra.
+19 objects How carrying  Mary many is?	one	6 8 9 11 12 15 17
+1 Daniel travelled the hallway to.
+2 picked the Daniel there up milk.
+3 Daniel many objects  How carrying is?	one	2
+4 the Sandra took there football.
+5 kitchen to Sandra moved the.
+6 carrying objects many is How Daniel ?	one	2
+7 apple there the picked John up.
+8 handed Daniel to Mary milk the.
+9 How Daniel carrying  many objects is?	none	2 8
+10 to milk handed Mary the Daniel.
+11 the Mary to office journeyed.
+12 How  objects many carrying is John?	one	7
+13 Mary to apple the John gave.
+14 the bathroom travelled to Daniel.
+15 John objects How many carrying is ?	none	7 13
+1 bedroom to John the went.
+2 the went hallway to Sandra.
+3 hallway the went Mary to.
+4 Sandra there got milk the.
+5 is many carrying How objects  Sandra?	one	4
+6 Mary milk to Sandra gave the.
+7 to the moved kitchen John.
+8 objects carrying is many  Sandra How?	none	4 6
+9 picked the up there Sandra football.
+10 the to passed football Mary Sandra.
+11 How  is many Sandra carrying objects?	none	4 6 9 10
+12 the down put milk Mary.
+13 the handed Mary to football Sandra.
+14 carrying  many Sandra is How objects?	one	4 6 9 10 13
+15 to Mary the Sandra handed football.
+16 Sandra Mary handed the to football.
+17 is carrying objects Mary many How ?	none	6 10 12 13 15 16
+1 there milk the got Mary.
+2 grabbed the Sandra there football.
+3 objects How carrying many Sandra is ?	one	2
+4 to went the John hallway.
+5 left there football the Sandra.
+6 How  carrying many is Sandra objects?	none	2 5
+7 moved Mary the hallway to.
+8 the handed to Mary milk John.
+9 many Sandra objects  carrying is How?	none	2 5
+10 bathroom the moved to Mary.
+11 the to hallway moved Mary.
+12 objects How is many carrying Sandra ?	none	2 5
+13 to journeyed the John bedroom.
+14 handed milk John Daniel to the.
+15 How is many objects carrying  John?	none	8 14
+1 the travelled to bedroom Sandra.
+2 hallway moved Sandra to the.
+3 John the to bedroom journeyed.
+4 to hallway the back went John.
+5 to the kitchen Mary moved.
+6 Daniel went the to bathroom.
+7 back to went the office Sandra.
+8 moved bedroom to the Daniel.
+9 Sandra football there the grabbed.
+10 Mary journeyed bathroom the to.
+11 carrying is Sandra How many  objects?	one	9
+12 to office Daniel travelled the.
+13 John to office moved the.
+14 How many Sandra carrying objects is ?	one	9
+15 handed Sandra football John the to.
+16 hallway the moved to Daniel.
+17 Sandra objects is  carrying many How?	none	9 15
+18 kitchen went back Daniel the to.
+19 discarded John football the.
+20  carrying objects is How many Sandra?	none	9 15
+21 John went hallway to the.
+22 John went the bathroom to.
+23 objects carrying many John How is ?	none	15 19
+1 took there Mary milk the.
+2 the to journeyed bedroom Sandra.
+3 is How  objects Mary many carrying?	one	1
+4 milk to Mary passed Daniel the.
+5 to Mary Daniel milk gave the.
+6 many carrying  objects How is Mary?	one	1 4 5
+7 the Daniel to kitchen moved.
+8 put down milk the Mary.
+9 carrying is Daniel  many objects How?	none	4 5
+10 up there the picked football Daniel.
+11 Daniel office to travelled the.
+12 How many  objects Daniel carrying is?	one	4 5 10
+13 left football the Daniel.
+14 there took milk the Mary.
+15 Daniel many How carrying  is objects?	none	4 5 10 13
+1 Daniel there milk grabbed the.
+2 the to back office Sandra went.
+3  Daniel carrying objects many How is?	one	1
+4 the there apple Daniel grabbed.
+5 Daniel the to handed apple Sandra.
+6 objects Daniel many carrying  is How?	one	1 4 5
+7 the to apple Daniel handed Sandra.
+8 passed apple Sandra to the Daniel.
+9 is objects carrying How  Daniel many?	one	1 4 5 7 8
+10 Sandra kitchen back to went the.
+11 Sandra handed apple John to the.
+12  How is objects many Sandra carrying?	none	5 7 8 11
+13 John the dropped apple.
+14 hallway to Daniel went the.
+15 objects  How is many carrying John?	none	11 13
+1 the bedroom to went John.
+2 bathroom John to the went back.
+3 the Mary travelled hallway to.
+4 went Sandra back office the to.
+5 to back Daniel went the garden.
+6 to the Daniel journeyed office.
+7 went Mary bathroom to the.
+8 to travelled garden the Mary.
+9 the to back hallway went Daniel.
+10 Sandra grabbed there the apple.
+11 How is many carrying objects Sandra ?	one	10
+12 to the journeyed bathroom Sandra.
+13 John the Sandra to apple handed.
+14 objects carrying How Sandra many is ?	none	10 13
+15 passed John to Sandra apple the.
+16 John the apple gave to Sandra.
+17  How Sandra carrying is objects many?	none	10 13 15 16
+18 the John to Sandra apple passed.
+19 passed Sandra the John to apple.
+20 is Sandra carrying  How objects many?	none	10 13 15 16 18 19
+21 apple the to John Sandra passed.
+22 the to apple Sandra gave John.
+23 How is objects Sandra  many carrying?	none	10 13 15 16 18 19 21 22
+1 kitchen to travelled the Mary.
+2 the Daniel went garden to.
+3 the went Mary bedroom to.
+4 Mary to the journeyed bathroom.
+5 went hallway back to Sandra the.
+6 Daniel travelled the bedroom to.
+7 there the football Mary got.
+8 Daniel got there the milk.
+9 How Mary  carrying is objects many?	one	7
+10 milk left Daniel the.
+11 apple there grabbed Sandra the.
+12 is  How Daniel carrying many objects?	none	8 10
+13 the apple Sandra to gave John.
+14 John the to apple Sandra handed.
+15 many is objects Daniel carrying How ?	none	8 10
+16 to the went kitchen back Mary.
+17 Mary bedroom the to went back.
+18 carrying  many objects How is Sandra?	one	11 13 14
+19 apple left the Sandra.
+20 Mary Daniel the football gave to.
+21 How is carrying objects  Sandra many?	none	11 13 14 19
+1 got there Mary football the.
+2 went bathroom John to back the.
+3 objects How many is carrying  Mary?	one	1
+4 Sandra got the there milk.
+5 the John Sandra milk to passed.
+6 carrying  Sandra How many is objects?	none	4 5
+7 to John passed milk the Sandra.
+8 the John milk to Sandra passed.
+9 objects is carrying How many Sandra ?	none	4 5 7 8
+10 to passed milk the Sandra John.
+11 hallway travelled the Mary to.
+12 carrying  many How Sandra is objects?	one	4 5 7 8 10
+13 to travelled bathroom the Mary.
+14 bedroom Daniel moved the to.
+15 carrying objects is many  John How?	none	5 7 8 10
+1 to travelled hallway Sandra the.
+2 Mary to office went the.
+3 milk John there grabbed the.
+4 the John left milk.
+5  How objects John carrying many is?	none	3 4
+6 to the journeyed garden Sandra.
+7 moved Daniel the garden to.
+8 How  John is many carrying objects?	none	3 4
+9 John to the office journeyed.
+10 there football John the took.
+11 many objects carrying John  is How?	one	3 4 10
+12 hallway travelled the to John.
+13 to moved the bathroom John.
+14 many  carrying How is objects John?	one	3 4 10
+15 apple the grabbed there Daniel.
+16 bathroom the Daniel moved to.
+17 How  is objects Daniel many carrying?	one	15
+1 to went Daniel office the.
+2 the grabbed there Daniel apple.
+3 is many  How carrying Daniel objects?	one	2
+4 office to moved the Sandra.
+5 Daniel to apple gave Sandra the.
+6 How  objects carrying many is Daniel?	none	2 5
+7 John garden to went the.
+8 the apple Sandra gave Daniel to.
+9 carrying How many is objects Daniel ?	one	2 5 8
+10 Daniel to passed the Sandra apple.
+11 to back went the bedroom Daniel.
+12 objects is carrying Sandra many  How?	one	5 8 10
+13 Sandra garden the went to back.
+14 apple Sandra passed to the John.
+15 Sandra How  objects carrying many is?	none	5 8 10 14
+1 there Sandra took football the.
+2 the travelled Daniel to hallway.
+3 is carrying many objects How  Sandra?	one	1
+4 John the milk grabbed there.
+5 garden journeyed to the John.
+6 How objects Sandra  carrying many is?	one	1
+7 apple Daniel the there grabbed.
+8 Daniel to Mary passed the apple.
+9 many is objects  carrying How Daniel?	none	7 8
+10 Daniel the bathroom to went.
+11 went John hallway the to.
+12 is How many objects carrying  Daniel?	none	7 8
+13 Mary apple passed to John the.
+14 to bedroom Sandra went the.
+15 Mary many objects carrying How is ?	none	8 13
+1 up there Mary the picked football.
+2 grabbed Sandra the there apple.
+3 is many Sandra objects  How carrying?	one	2
+4 the Mary football left.
+5 grabbed there the Mary football.
+6  many is Mary How carrying objects?	one	1 4 5
+7 apple Daniel Sandra the passed to.
+8 to the John bedroom moved.
+9 carrying How objects is many  Sandra?	none	2 7
+10 Daniel Sandra apple to gave the.
+11 to moved John garden the.
+12 is How many objects Mary  carrying?	one	1 4 5
+13 went bathroom to Sandra the.
+14 Mary left football the.
+15 objects How Mary  many carrying is?	none	1 4 5 14
+1 went bedroom Daniel the to.
+2 the apple Daniel got there.
+3 How  Daniel carrying objects many is?	one	2
+4 picked up the milk Daniel there.
+5 to Sandra Daniel gave apple the.
+6 How many carrying  objects is Daniel?	one	2 4 5
+7 to Sandra gave Daniel apple the.
+8 bathroom the Sandra to journeyed.
+9 carrying How  objects Daniel many is?	two	2 4 5 7
+10 Daniel to went the office.
+11 Daniel milk the discarded.
+12 How Daniel many is objects carrying ?	one	2 4 5 7 11
+13 up Daniel milk picked there the.
+14 hallway to moved the John.
+15 carrying  is Daniel How many objects?	two	2 4 5 7 11 13
+1 apple Sandra picked up there the.
+2 Sandra apple dropped the.
+3 objects Sandra is  How many carrying?	none	1 2
+4 there the football got Sandra.
+5 journeyed John to the bathroom.
+6  objects many carrying is Sandra How?	one	1 2 4
+7 to Sandra John football handed the.
+8 went the back Sandra garden to.
+9 Sandra carrying objects How many  is?	none	1 2 4 7
+10 the went kitchen back Daniel to.
+11 got there milk the Daniel.
+12 carrying Sandra objects is  How many?	none	1 2 4 7
+13 apple there the John got.
+14 John the apple dropped.
+15 How many Daniel is carrying objects ?	one	11
+1 apple grabbed there the Mary.
+2 apple John to Mary the gave.
+3 objects many How Mary is carrying ?	none	1 2
+4 football got there the John.
+5 went the to Mary back office.
+6 How objects many is Mary carrying ?	none	1 2
+7 the hallway to moved Daniel.
+8 garden to Sandra moved the.
+9 How John carrying objects is  many?	two	2 4
+10 went back to kitchen Daniel the.
+11 hallway the journeyed Daniel to.
+12 the kitchen went to Daniel.
+13 John to went garden the.
+14 to apple the Sandra gave John.
+15 to Sandra John apple handed the.
+16 many carrying  John objects How is?	two	2 4 14 15
+17 Sandra to bathroom back went the.
+18 bathroom John to the went.
+19 carrying many Sandra  objects is How?	none	14 15
+1 there got Mary the football.
+2 Sandra went the back garden to.
+3 objects carrying many How is Mary ?	one	1
+4 Mary there football dropped the.
+5 bedroom moved the Daniel to.
+6 is How Mary  objects carrying many?	none	1 4
+7 to went back hallway the Mary.
+8 there picked the apple Daniel up.
+9 is  Mary objects How carrying many?	none	1 4
+10 Sandra moved the to office.
+11 to the Sandra went bedroom.
+12 is  objects many Daniel How carrying?	one	8
+13 the to Daniel apple passed Sandra.
+14 Daniel handed Sandra the to apple.
+15 objects is carrying many How  Sandra?	none	13 14
+1 Mary the took milk there.
+2 the up there Daniel picked apple.
+3 many is Mary How carrying  objects?	one	1
+4 kitchen to the Mary travelled.
+5 apple Mary Daniel the to handed.
+6 How is objects Daniel carrying many ?	none	2 5
+7 the Sandra apple Mary to gave.
+8 the apple Sandra dropped.
+9 Sandra is How many objects carrying ?	none	7 8
+10 milk the put Mary down.
+11 went the bedroom Daniel to.
+12 objects How is many Mary  carrying?	none	1 5 7 10
+13 there milk the got Sandra.
+14 garden to the Mary journeyed.
+15 many How objects is carrying Sandra ?	one	7 8 13
+1 Sandra bathroom the moved to.
+2 to Sandra office the moved.
+3 journeyed Daniel bathroom the to.
+4 the to Daniel moved hallway.
+5 got there the Daniel milk.
+6 the John there took apple.
+7 How  is many John objects carrying?	one	6
+8 to office went the Mary.
+9 to the bathroom moved John.
+10 How is objects carrying  Daniel many?	one	5
+11 to hallway went Mary the back.
+12 office back went Mary the to.
+13 carrying many  How objects John is?	one	6
+14 went Mary the garden to back.
+15 discarded the milk Daniel.
+16 objects carrying How many is Daniel ?	none	5 15
+17 to the office went Mary.
+18 apple the discarded John.
+19 carrying How many objects John  is?	none	6 18
+1 apple John the up there picked.
+2 bathroom journeyed to John the.
+3 How John  is objects carrying many?	one	1
+4 office Daniel the to went.
+5 to journeyed Mary the garden.
+6 many is  carrying John objects How?	one	1
+7 to bathroom the back Daniel went.
+8 hallway moved the to Sandra.
+9 took football the there Mary.
+10 Mary the office went to.
+11 Mary carrying many objects How  is?	one	9
+12 apple to gave Daniel the John.
+13 went bedroom to the back John.
+14 many carrying  objects How Mary is?	one	9
+15 the football left Mary.
+16 there milk got the Mary.
+17 Mary How many is carrying  objects?	one	9 15 16
+1 Sandra back the office went to.
+2 garden the Daniel travelled to.
+3 Daniel to journeyed the hallway.
+4 to the garden Mary moved.
+5 Sandra the to back went bathroom.
+6 milk the Sandra there grabbed.
+7 is Sandra objects  How many carrying?	one	6
+8 travelled to Sandra the office.
+9 to the milk Sandra handed John.
+10 is many Sandra carrying  How objects?	none	6 9
+11 milk passed Sandra the to John.
+12 Mary back to went the bathroom.
+13 How is carrying Sandra objects  many?	one	6 9 11
+14 kitchen moved the to John.
+15 back office to Daniel went the.
+16  carrying How many objects is Sandra?	one	6 9 11
+17 to the John journeyed hallway.
+18 Daniel the Sandra handed to milk.
+19 objects many is  Sandra carrying How?	none	6 9 11 18
+1 the to hallway Mary went.
+2 the Daniel there apple up picked.
+3  is carrying many How objects Daniel?	one	2
+4 to travelled Daniel the bathroom.
+5 discarded apple the Daniel.
+6  objects carrying is many Daniel How?	none	2 5
+7 travelled hallway to the John.
+8 got there the apple Daniel.
+9 Daniel objects many  carrying is How?	one	2 5 8
+10 took there milk Mary the.
+11 passed Mary to milk John the.
+12 is carrying Daniel How objects many ?	one	2 5 8
+13 milk John Mary gave the to.
+14 moved the John to bathroom.
+15  many objects carrying Mary How is?	one	10 11 13
+1 the John journeyed to garden.
+2 to garden the Sandra went.
+3 to Mary journeyed office the.
+4 apple the there Sandra up picked.
+5 carrying  Sandra many How objects is?	one	4
+6 handed John to the apple Sandra.
+7 the John apple left.
+8 Sandra How objects many is carrying ?	none	4 6
+9 Sandra the took apple there.
+10 John apple Sandra to the gave.
+11 Sandra  carrying many How objects is?	none	4 6 9 10
+12 John bathroom journeyed the to.
+13 the there John apple dropped.
+14 John many is How  carrying objects?	none	6 7 10 13
+15 the apple there got John.
+16 John the put down apple.
+17 How is carrying many objects  John?	none	6 7 10 13 15 16
+1 the to Sandra garden went.
+2 Sandra the moved office to.
+3 the travelled to Mary office.
+4 kitchen moved the to John.
+5 Sandra to the hallway travelled.
+6 bedroom Daniel the journeyed to.
+7 the to Mary went kitchen.
+8 Daniel the to travelled kitchen.
+9 there apple Sandra the grabbed.
+10 apple Sandra down the put.
+11  objects How many Sandra carrying is?	none	9 10
+12 to the Sandra moved bedroom.
+13 the Mary went office to.
+14 many objects carrying is  Sandra How?	none	9 10
+15 to Daniel moved the hallway.
+16 picked there Sandra football up the.
+17  is Sandra How many objects carrying?	one	9 10 16
+18 to the Mary back went bedroom.
+19 Mary football the Sandra passed to.
+20 How objects Sandra  many carrying is?	none	9 10 16 19
+21 Mary the Sandra to football passed.
+22 Sandra football the discarded.
+23 objects many is Sandra How carrying ?	none	9 10 16 19 21 22
+1 the football there Daniel got.
+2 the football John Daniel passed to.
+3 many How is objects  carrying Daniel?	none	1 2
+4 journeyed Sandra the garden to.
+5 Daniel gave John to football the.
+6  How many carrying John is objects?	none	2 5
+7 kitchen Mary travelled to the.
+8 back bedroom went the John to.
+9  is How John many objects carrying?	none	2 5
+10 the Daniel discarded football.
+11 to bathroom the Daniel journeyed.
+12 is carrying How  John objects many?	none	2 5
+13 garden the travelled Daniel to.
+14 to Sandra went the bedroom back.
+15 Daniel is How  objects carrying many?	none	1 2 5 10
+1 the garden back went to John.
+2 travelled bathroom John the to.
+3 Daniel took there milk the.
+4 to bathroom Sandra the moved.
+5 many How Daniel carrying objects  is?	one	3
+6 Daniel milk the left.
+7 to Daniel journeyed kitchen the.
+8 many How objects Daniel carrying  is?	none	3 6
+9 Mary bedroom went the to.
+10 bathroom to Daniel the went.
+11  Daniel is objects How carrying many?	none	3 6
+12 the travelled hallway Sandra to.
+13 up milk Sandra the there picked.
+14 many objects carrying  Sandra is How?	one	13
+15 Sandra took there apple the.
+16 Mary garden to travelled the.
+17 objects carrying many  How is Sandra?	two	13 15
+1 there the Sandra grabbed milk.
+2 John the up apple picked there.
+3 How carrying many Sandra is objects ?	one	1
+4 John apple the there discarded.
+5 there apple grabbed the John.
+6 How many carrying John objects is ?	one	2 4 5
+7 the John Daniel to passed apple.
+8 Mary the to hallway travelled.
+9 carrying is objects How  John many?	none	2 4 5 7
+10 apple Daniel discarded the.
+11 the Mary passed Sandra to milk.
+12  carrying John many objects How is?	none	2 4 5 7
+13 garden Daniel the to moved.
+14 office Daniel the went to back.
+15 Sandra How  many is objects carrying?	none	1 11
+1 the to Sandra moved kitchen.
+2 picked Daniel up the apple there.
+3 carrying is many Daniel How  objects?	one	2
+4 Daniel dropped the there apple.
+5 the there apple Daniel took.
+6 Daniel  objects How is many carrying?	one	2 4 5
+7 football Sandra there took the.
+8 John milk the there picked up.
+9 carrying  many is Daniel objects How?	one	2 4 5
+10 apple put Daniel down the.
+11 the to hallway Sandra went.
+12 objects How carrying many Daniel  is?	none	2 4 5 10
+13 the Mary to garden travelled.
+14 to John passed football the Sandra.
+15 How Daniel  carrying many objects is?	none	2 4 5 10
+1 to went John back the garden.
+2 apple there Daniel the took.
+3 is How Daniel many  carrying objects?	one	2
+4 the apple discarded Daniel.
+5 to Sandra the bathroom journeyed.
+6 Daniel  is objects carrying How many?	none	2 4
+7 back went to the Daniel kitchen.
+8 back the went Mary to bathroom.
+9 How Daniel is carrying objects many ?	none	2 4
+10 Sandra up picked there apple the.
+11 to garden Sandra the travelled.
+12 Sandra How objects is carrying  many?	one	10
+13 bedroom John the journeyed to.
+14 Sandra apple left the.
+15  How is objects Sandra carrying many?	none	10 14
+1 to the Mary travelled garden.
+2 Mary bathroom the to went back.
+3 the football John grabbed there.
+4 took milk John the there.
+5 is carrying many How John objects ?	two	3 4
+6 journeyed the to Mary hallway.
+7 back went the to bathroom Mary.
+8 many carrying objects John  is How?	two	3 4
+9 put the down milk John.
+10 kitchen Daniel the to went.
+11  is many John carrying objects How?	one	3 4 9
+12 John the office to went back.
+13 John left the football.
+14 John How many  is objects carrying?	none	3 4 9 13
+15 the travelled to Sandra garden.
+16 the got there apple Daniel.
+17 objects is many  carrying Daniel How?	one	16
+1 to the journeyed garden Sandra.
+2 the to bedroom travelled Mary.
+3 John hallway went to the.
+4 journeyed to the hallway Daniel.
+5 went back Daniel to the office.
+6 to garden Daniel the went.
+7 bathroom John the to moved.
+8 Mary hallway the journeyed to.
+9 the to went office Daniel.
+10 journeyed to bedroom the Daniel.
+11 Mary to journeyed garden the.
+12 the John back went garden to.
+13 the went John to bedroom.
+14 garden the to Daniel went back.
+15 Mary went to kitchen the.
+16 hallway the Mary to went.
+17 to the Mary went back garden.
+18 to the garden John went.
+19 to moved the Mary kitchen.
+20 went bathroom Daniel to the.
+21 went the back office to John.
+22 garden travelled John to the.
+23 Daniel to bedroom went the.
+24 Mary travelled the bathroom to.
+25 to journeyed bathroom the Daniel.
+26 milk took the there Mary.
+27 objects many Mary  carrying How is?	one	26
+28 passed milk to Daniel Mary the.
+29 Daniel Mary the to milk passed.
+30 How carrying many objects is Mary ?	one	26 28 29
+31 Daniel the handed Mary to milk.
+32 gave the milk to Daniel Mary.
+33  carrying Mary many is How objects?	one	26 28 29 31 32
+34 bedroom Sandra to the went.
+35 the to moved Daniel kitchen.
+36 objects How many Daniel carrying  is?	none	28 29 31 32
+37 the to moved hallway Daniel.
+38 the to John went office.
+39 How carrying  Daniel many objects is?	none	28 29 31 32
+1 Mary apple the got there.
+2 to John kitchen back went the.
+3 carrying objects many  is How Mary?	one	1
+4 the John moved to garden.
+5 Mary apple the left there.
+6 carrying How objects  many is Mary?	none	1 5
+7 the John to bathroom moved.
+8 there the apple grabbed Mary.
+9 objects  is Mary How many carrying?	one	1 5 8
+10 to the went John garden.
+11 dropped the apple Mary.
+12 is How Mary objects  many carrying?	none	1 5 8 11
+13 the to journeyed bedroom Sandra.
+14 kitchen to the Mary moved.
+15 is  objects many Mary carrying How?	none	1 5 8 11
+1 journeyed Mary the hallway to.
+2 milk took the there John.
+3 is carrying many John  objects How?	one	2
+4 the John passed Mary milk to.
+5 to John the milk Mary gave.
+6 many objects  is How John carrying?	one	2 4 5
+7 travelled Daniel the to bedroom.
+8 journeyed to Mary the bedroom.
+9  How carrying is many John objects?	one	2 4 5
+10 journeyed garden John the to.
+11 the milk left John.
+12 How  carrying is objects many John?	none	2 4 5 11
+13 office the went back Sandra to.
+14 Daniel moved to the office.
+15 is How objects  carrying many John?	none	2 4 5 11
+1 Sandra moved the garden to.
+2 milk grabbed there the John.
+3 is  objects many John carrying How?	one	2
+4 the apple Daniel there grabbed.
+5 Mary garden the to moved.
+6 How carrying is objects John many ?	one	2
+7 Mary the went back to bathroom.
+8 the apple dropped Daniel.
+9 Daniel carrying objects many How  is?	none	4 8
+10 gave to Daniel the John milk.
+11 apple the there grabbed Daniel.
+12 many Daniel objects carrying How is ?	two	4 8 10 11
+13 apple gave Daniel the to John.
+14 Daniel apple to the handed John.
+15 many  carrying How John is objects?	none	2 10 13 14
+1 the got Daniel football there.
+2 the apple Daniel there grabbed.
+3  objects carrying many Daniel is How?	two	1 2
+4 apple Daniel discarded the.
+5 dropped the Daniel football.
+6 objects is  How carrying Daniel many?	none	1 2 4 5
+7 moved the Daniel to bathroom.
+8 garden Sandra to moved the.
+9 How is objects carrying Daniel  many?	none	1 2 4 5
+10 to the John journeyed garden.
+11 the John travelled to kitchen.
+12 Daniel many carrying How  objects is?	none	1 2 4 5
+13 to journeyed bedroom Mary the.
+14 bathroom to went Mary the.
+15 Daniel went to back garden the.
+16 hallway Sandra went to the.
+17 the hallway to went back John.
+18 travelled to garden John the.
+19 to office the journeyed John.
+20 to moved Mary hallway the.
+21 the John bedroom to went.
+22 milk Mary grabbed the there.
+23 objects carrying many  is Mary How?	one	22
+1 the Mary got there milk.
+2 office to the Daniel moved.
+3 objects is Mary How  carrying many?	one	1
+4 the Mary milk left.
+5 garden back to went Daniel the.
+6 Mary carrying is objects  many How?	none	1 4
+7 Mary milk took there the.
+8 Daniel football up the there picked.
+9 How Daniel is carrying many objects ?	one	8
+10 the dropped Daniel football.
+11 to John the journeyed bathroom.
+12 Mary How is many objects  carrying?	one	1 4 7
+13 kitchen to Mary the journeyed.
+14 travelled hallway Daniel the to.
+15 objects How is carrying Daniel  many?	none	8 10
+1 office the to back John went.
+2 apple Sandra the there got.
+3 is objects  How Sandra carrying many?	one	2
+4 back hallway the to went Mary.
+5 football got Daniel the there.
+6 How objects Sandra is  many carrying?	one	2
+7 John bathroom journeyed to the.
+8 hallway to went back the John.
+9  many objects carrying is How Sandra?	one	2
+10 went bathroom to the Daniel.
+11 football Daniel the there discarded.
+12 How is carrying objects Daniel many ?	none	5 11
+13 grabbed there the Sandra milk.
+14 passed the Sandra to Daniel apple.
+15 carrying is objects  Sandra many How?	one	2 13 14
+1 to travelled the bedroom Mary.
+2 the there grabbed Daniel apple.
+3 carrying  objects is Daniel How many?	one	2
+4 there Daniel grabbed football the.
+5 John the to apple Daniel gave.
+6 Daniel objects How is  many carrying?	one	2 4 5
+7 hallway went to the back Mary.
+8 Daniel the football put down.
+9 many How Daniel is objects carrying ?	none	2 4 5 8
+10 put down apple there the John.
+11 the Sandra kitchen to went.
+12 John many objects carrying is How ?	none	5 10
+13 apple there got the Mary.
+14 the apple Mary to John handed.
+15 many  carrying Mary How objects is?	none	13 14
+1 to travelled hallway the Daniel.
+2 travelled the to bathroom Sandra.
+3 travelled to the hallway Sandra.
+4 John bathroom the travelled to.
+5 Sandra to went back the bedroom.
+6 travelled Daniel bedroom to the.
+7 bathroom back the to went Sandra.
+8 Mary moved the bedroom to.
+9 moved Mary to the bathroom.
+10 to went the garden John back.
+11 Sandra to back hallway went the.
+12 John to bathroom the journeyed.
+13 to garden the John journeyed.
+14 John up there the picked football.
+15 many objects  carrying is How John?	one	14
+16 Sandra bathroom to the journeyed.
+17 John put the football there down.
+18 How objects  is many carrying John?	none	14 17
+19 the there John football got.
+20 grabbed the apple Daniel there.
+21 John  How carrying many is objects?	one	14 17 19
+22 apple discarded the Daniel there.
+23 hallway to journeyed Daniel the.
+24 is  objects How carrying many John?	one	14 17 19
+25 moved the to Mary office.
+26 the put football John down.
+27 objects John carrying many  How is?	none	14 17 19 26
+1 Sandra apple the took there.
+2 apple the discarded Sandra.
+3 many objects How  is Sandra carrying?	none	1 2
+4 apple the there picked up Sandra.
+5 Sandra the discarded apple.
+6 How many Sandra carrying is  objects?	none	1 2 4 5
+7 Daniel the to moved garden.
+8 John the hallway went to.
+9 many Sandra is How  objects carrying?	none	1 2 4 5
+10 the took apple there Sandra.
+11 apple Sandra left the.
+12 Sandra objects How many carrying  is?	none	1 2 4 5 10 11
+13 back Sandra went garden to the.
+14 Daniel to bedroom the travelled.
+15 is  Sandra objects many carrying How?	none	1 2 4 5 10 11
+1 Daniel to the hallway journeyed.
+2 the went Mary office to.
+3 Daniel to the went back garden.
+4 picked football Daniel up the there.
+5 How  carrying Daniel objects is many?	one	4
+6 to bathroom Daniel journeyed the.
+7 the John got milk there.
+8  many is objects Daniel How carrying?	one	4
+9 Daniel went the to office.
+10 the hallway John moved to.
+11  objects carrying many How Daniel is?	one	4
+12 Daniel gave Mary to football the.
+13 bedroom the Mary travelled to.
+14  is objects carrying John many How?	one	7
+15 John milk discarded the.
+16 apple John the picked up there.
+17 many is How objects carrying John ?	one	7 15 16
+1 went the Sandra to hallway.
+2 John there grabbed apple the.
+3 carrying objects  How John many is?	one	2
+4 Sandra apple the John to gave.
+5 Sandra to the John handed apple.
+6  How is many carrying objects John?	one	2 4 5
+7 apple Sandra the passed John to.
+8 Sandra journeyed to bathroom the.
+9 is How John objects carrying  many?	none	2 4 5 7
+10 to the office John went.
+11 Daniel hallway the travelled to.
+12 is many How John objects  carrying?	none	2 4 5 7
+13 Mary to journeyed the bathroom.
+14 went the garden Sandra to back.
+15 to John journeyed kitchen the.
+16 Sandra left apple the.
+17 many carrying is  How objects Sandra?	none	4 5 7 16
+1 bedroom journeyed the Sandra to.
+2 the bathroom journeyed to Sandra.
+3 hallway to the Daniel journeyed.
+4 bedroom Mary journeyed the to.
+5 to went Mary the kitchen.
+6 bedroom travelled the Mary to.
+7 the to travelled John bathroom.
+8 the Mary took milk there.
+9 many  objects is carrying Mary How?	one	8
+10 went John to back office the.
+11 to kitchen the Mary travelled.
+12 Mary many carrying  objects is How?	one	8
+13 milk Mary dropped the.
+14 Mary went bedroom to the.
+15 carrying  How Mary is many objects?	none	8 13
+16 Daniel the journeyed office to.
+17 Mary bathroom journeyed to the.
+18 many Mary carrying objects is How ?	none	8 13
+19 the bedroom to Mary journeyed.
+20 back kitchen Sandra to went the.
+21 journeyed bedroom to the John.
+22 Sandra the grabbed there apple.
+23 is  How Sandra many carrying objects?	one	22
+1 to bedroom the Daniel moved.
+2 football took there Mary the.
+3 How many Mary objects  is carrying?	one	2
+4 took there John milk the.
+5 football the to passed John Mary.
+6 many carrying is objects How  Mary?	none	2 5
+7 John the football discarded.
+8 went back Daniel kitchen to the.
+9 many objects carrying Mary  How is?	none	2 5
+10 Daniel football picked the up there.
+11 Daniel to handed football John the.
+12 many is How carrying objects  John?	two	4 5 7 11
+13 John gave to the Mary football.
+14 football Mary to John the handed.
+15 is How many  carrying objects Daniel?	none	10 11
+1 journeyed the office Mary to.
+2 Daniel milk grabbed the there.
+3 is How many  carrying objects Daniel?	one	2
+4 hallway John to went the.
+5 moved the to bedroom Daniel.
+6 is  many How objects Daniel carrying?	one	2
+7 milk the gave Daniel Sandra to.
+8 garden the to travelled Mary.
+9 is objects  many How carrying Daniel?	none	2 7
+10 travelled garden the to Daniel.
+11 bathroom the travelled Daniel to.
+12 Daniel many carrying objects How is ?	none	2 7
+13 milk the Sandra down put.
+14 moved John to bathroom the.
+15 many How  carrying objects Sandra is?	none	7 13
+1 grabbed the Sandra there football.
+2 garden the to John journeyed.
+3 is many How objects  carrying Sandra?	one	1
+4 went Daniel the back to hallway.
+5 to the kitchen Mary moved.
+6 many Sandra is objects carrying  How?	one	1
+7 Mary picked apple there up the.
+8 discarded the Sandra football.
+9  carrying many is How Sandra objects?	none	1 8
+10 put down Mary apple the.
+11 took Sandra the football there.
+12  carrying objects is How Mary many?	none	7 10
+13 kitchen the journeyed Daniel to.
+14 there took Daniel the apple.
+15 is  Daniel objects How carrying many?	one	14
+1 the to John journeyed office.
+2 got the there John football.
+3 objects carrying How is  John many?	one	2
+4 discarded football John the.
+5 football grabbed the there John.
+6 John How  objects carrying is many?	one	2 4 5
+7 the moved John to kitchen.
+8 to the office Sandra moved.
+9 John is  How carrying objects many?	one	2 4 5
+10 apple the Daniel got there.
+11 football the discarded John.
+12 How carrying  John is objects many?	none	2 4 5 11
+13 journeyed to Mary garden the.
+14 discarded Daniel apple the.
+15 objects carrying Daniel is  How many?	none	10 14
+1 office the Sandra travelled to.
+2 to John the hallway journeyed.
+3 Sandra there the football took.
+4 went to garden the Daniel.
+5 is many How Sandra objects carrying ?	one	3
+6 picked up the John apple there.
+7 Sandra football Mary the passed to.
+8 How Sandra  objects many is carrying?	none	3 7
+9 discarded John there apple the.
+10 gave Mary Sandra to the football.
+11 many Sandra  is carrying objects How?	one	3 7 10
+12 John there the picked milk up.
+13 Sandra the left football.
+14 How many  carrying Mary is objects?	none	7 10
+15 journeyed to Mary kitchen the.
+16 the kitchen John to journeyed.
+17 is carrying objects Sandra  How many?	none	3 7 10 13
+1 to the garden went Sandra.
+2 kitchen to went Mary the.
+3 Sandra to moved the hallway.
+4 bedroom Daniel to the went.
+5 John went to bathroom the.
+6 hallway Mary the to went back.
+7 back went Mary the to garden.
+8 to John the garden moved.
+9 went hallway the John to back.
+10 bedroom journeyed the Sandra to.
+11 there Mary took the milk.
+12 the to moved John office.
+13 objects Mary carrying many  is How?	one	11
+14 went Sandra garden to the.
+15 down the milk Mary put.
+16 objects Mary is How carrying many ?	none	11 15
+17 the there grabbed Mary milk.
+18 gave milk the Sandra Mary to.
+19 Mary objects How carrying is many ?	none	11 15 17 18
+20 milk the there Sandra left.
+21 moved Daniel office the to.
+22 How many  is Mary objects carrying?	none	11 15 17 18
+23 football the Daniel up picked there.
+24 grabbed there Sandra milk the.
+25 carrying many Sandra  objects How is?	one	18 20 24
+1 Daniel to bathroom moved the.
+2 the John journeyed to hallway.
+3 to the office went Mary.
+4 apple there grabbed the John.
+5 carrying is  John objects many How?	one	4
+6 John milk the took there.
+7 the put down John apple.
+8 is carrying objects  John many How?	one	4 6 7
+9 grabbed Mary there football the.
+10 to went hallway Daniel the.
+11 objects many John is How  carrying?	one	4 6 7
+12 moved bedroom to the Mary.
+13 grabbed John apple the there.
+14  is many John objects carrying How?	two	4 6 7 13
+15 went John office the to.
+16 to the garden Sandra travelled.
+17  carrying objects many How John is?	two	4 6 7 13
+1 Mary journeyed bathroom the to.
+2 bathroom the to travelled Daniel.
+3 John the football got there.
+4 discarded football John the.
+5 How many  objects is John carrying?	none	3 4
+6 Sandra to the went hallway.
+7 football there John got the.
+8 How  many carrying John is objects?	one	3 4 7
+9 grabbed John there apple the.
+10 to Sandra moved garden the.
+11 many carrying John is How objects ?	two	3 4 7 9
+12 the office journeyed John to.
+13 the moved to hallway Mary.
+14 many carrying objects is  How John?	two	3 4 7 9
+15 the bedroom back to Daniel went.
+16 John the to hallway went.
+17 Mary travelled to the bathroom.
+18 the Daniel moved hallway to.
+19 the moved to Sandra bedroom.
+20 to Daniel John gave the apple.
+21 How John carrying many objects is ?	one	3 4 7 9 20
+1 the to Sandra moved garden.
+2 moved garden to Mary the.
+3 the Mary there apple grabbed.
+4 football Sandra took there the.
+5 is carrying How Mary many  objects?	one	3
+6 passed the to Mary Sandra apple.
+7 office Daniel travelled to the.
+8 Sandra How is carrying  many objects?	two	4 6
+9 put down apple Sandra the.
+10 Sandra football discarded the.
+11 Sandra  How many is carrying objects?	none	4 6 9 10
+12 Sandra apple grabbed there the.
+13 the apple Sandra put down.
+14  many is Sandra objects carrying How?	none	4 6 9 10 12 13
+15 grabbed Sandra the football there.
+16 the took there Sandra apple.
+17 objects Sandra How carrying  is many?	two	4 6 9 10 12 13 15 16
+1 Daniel the hallway back went to.
+2 Sandra to the bedroom moved.
+3 football John there took the.
+4 Sandra there milk grabbed the.
+5 many John carrying objects  is How?	one	3
+6 handed Mary to the John football.
+7 football Mary left the.
+8 many  objects carrying How is John?	none	3 6
+9 moved to bathroom Mary the.
+10 the went garden Sandra to.
+11 carrying John  is objects many How?	none	3 6
+12 bathroom the to went Daniel.
+13 there football Sandra grabbed the.
+14 is objects Sandra carrying  How many?	two	4 13
+15 the Sandra bedroom to travelled.
+16 went the Mary to office.
+17 How Sandra carrying is  objects many?	two	4 13
+1 travelled garden Sandra to the.
+2 Sandra the hallway journeyed to.
+3 the to moved Daniel garden.
+4 there grabbed John the football.
+5 objects John How is  many carrying?	one	4
+6 went the to Mary garden.
+7 John there dropped football the.
+8  John objects many is carrying How?	none	4 7
+9 the to travelled kitchen Daniel.
+10 the travelled bathroom Sandra to.
+11 John is How carrying objects  many?	none	4 7
+12 apple Sandra the there got.
+13 dropped apple the Sandra.
+14 many is objects  carrying Sandra How?	none	12 13
+15 the there milk took Mary.
+16 Daniel the hallway to went back.
+17  objects Sandra How many is carrying?	none	12 13
+1 travelled Mary to bedroom the.
+2 milk the took there Sandra.
+3 is carrying objects  Sandra How many?	one	2
+4 the milk dropped there Sandra.
+5 to the went Mary kitchen.
+6 How Sandra carrying is many  objects?	none	2 4
+7 the journeyed to bathroom Daniel.
+8 to office the John moved.
+9 many Sandra carrying objects is  How?	none	2 4
+10 bathroom Sandra went the to.
+11 to the Mary bathroom went back.
+12 Daniel to travelled the kitchen.
+13 there apple got the Mary.
+14 Mary many objects  carrying is How?	one	13
+15 the hallway to back Sandra went.
+16 took Sandra football there the.
+17 carrying is  many How objects Sandra?	one	2 4 16
+1 bedroom back went to Mary the.
+2 to journeyed Sandra the office.
+3 Mary back the garden to went.
+4 back went the Sandra to bathroom.
+5 picked the Sandra up there apple.
+6 the moved to hallway Daniel.
+7  is How objects Sandra carrying many?	one	5
+8 dropped the apple Sandra.
+9 to the back went kitchen Daniel.
+10 objects How many carrying is Sandra ?	none	5 8
+11 there Sandra apple the took.
+12 Sandra hallway went to the.
+13 carrying Sandra is many objects  How?	one	5 8 11
+14 to bathroom Daniel the moved.
+15 kitchen to moved Mary the.
+16 many is carrying objects Sandra  How?	one	5 8 11
+17 put the down Sandra apple.
+18 took apple John the there.
+19 many How  Sandra objects is carrying?	none	5 8 11 17
+1 Daniel to the bedroom moved.
+2 went bathroom to the Mary.
+3 moved the Sandra hallway to.
+4 back went kitchen the Daniel to.
+5 journeyed to bathroom the Sandra.
+6 Mary the went to hallway back.
+7 back Mary went to bedroom the.
+8 the journeyed to bedroom Sandra.
+9 to hallway went Sandra the.
+10 went Sandra the bathroom to.
+11 to moved bathroom Daniel the.
+12 the travelled Daniel to hallway.
+13 the John to travelled garden.
+14 the to travelled John kitchen.
+15 to bedroom moved Daniel the.
+16 moved Mary to bathroom the.
+17 to journeyed the Sandra bedroom.
+18 the bathroom travelled Daniel to.
+19 Daniel the garden travelled to.
+20 Sandra bathroom to went back the.
+21 went Sandra hallway the to.
+22 got there Daniel the apple.
+23 carrying  How many is Daniel objects?	one	22
+24 Sandra back office to went the.
+25 there football the Daniel took.
+26 Daniel objects  is How many carrying?	two	22 25
+27 there the took milk Daniel.
+28 Daniel to the hallway went back.
+29 many carrying is How objects Daniel ?	three	22 25 27
+30 bathroom went the John back to.
+31 bedroom Sandra went to the.
+32 Daniel objects many carrying  How is?	three	22 25 27
+33 the office to Daniel journeyed.
+34 football Daniel the dropped.
+35 objects many  How is carrying Daniel?	two	22 25 27 34
+1 football John there the grabbed.
+2 the John to handed Daniel football.
+3 objects carrying John many  How is?	none	1 2
+4 John to Daniel the football handed.
+5 passed football to the John Daniel.
+6 many How is  objects John carrying?	none	1 2 4 5
+7 Daniel football John to gave the.
+8 Daniel John the handed football to.
+9 John is How  many objects carrying?	none	1 2 4 5 7 8
+10 passed John Daniel the to football.
+11 Mary travelled garden to the.
+12  John objects carrying many How is?	one	1 2 4 5 7 8 10
+13 John the football discarded.
+14 Sandra the moved hallway to.
+15 is How objects many Daniel  carrying?	none	2 4 5 7 8 10
+1 journeyed office the John to.
+2 John there the milk got.
+3 many  is John How objects carrying?	one	2
+4 grabbed apple there Daniel the.
+5 dropped milk John the.
+6  How is objects John carrying many?	none	2 5
+7 to travelled Sandra the bedroom.
+8 bathroom the to Daniel journeyed.
+9 is How  many carrying John objects?	none	2 5
+10 went to Sandra garden the.
+11 took the milk John there.
+12 carrying objects many John How  is?	one	2 5 11
+13 milk John the discarded.
+14 apple Daniel the put down.
+15 many carrying  is John How objects?	none	2 5 11 13
+1 the to went Sandra hallway.
+2 kitchen journeyed Mary the to.
+3 bathroom the Daniel to journeyed.
+4 Sandra the to office back went.
+5 Mary got the there football.
+6 Mary the dropped football.
+7 How carrying  is Mary objects many?	none	5 6
+8 the office journeyed to Daniel.
+9 there Sandra milk grabbed the.
+10 carrying is many Sandra  How objects?	one	9
+11 Mary football there got the.
+12 to milk passed Daniel Sandra the.
+13 Mary objects many carrying  How is?	one	5 6 11
+14 handed to Daniel the milk Sandra.
+15 milk gave to the Sandra Daniel.
+16 many is How objects  Daniel carrying?	one	12 14 15
+17 milk the gave Sandra Daniel to.
+18 John to went back office the.
+19  many Daniel How carrying objects is?	none	12 14 15 17
+1 moved garden the Sandra to.
+2 Daniel football there the grabbed.
+3 is Daniel objects  many carrying How?	one	2
+4 the garden to journeyed Daniel.
+5 Sandra to football the Daniel handed.
+6 many  How carrying Daniel is objects?	none	2 5
+7 Daniel to football the passed Sandra.
+8 gave Daniel Sandra the football to.
+9 many carrying objects Sandra  How is?	one	5 7 8
+10 John to went the garden.
+11 passed John to football Sandra the.
+12 objects  is Sandra How many carrying?	none	5 7 8 11
+13 Sandra journeyed to the kitchen.
+14 to Daniel handed John football the.
+15  objects is Daniel carrying How many?	one	2 5 7 8 14
+1 there apple the Mary took.
+2 apple to the Sandra passed Mary.
+3 many  Mary is carrying objects How?	none	1 2
+4 Sandra the to garden went.
+5 the to back bathroom went John.
+6 many How objects is Mary  carrying?	none	1 2
+7 John moved the to hallway.
+8 moved to the John kitchen.
+9 objects carrying many is  Mary How?	none	1 2
+10 John to garden went the.
+11 Mary to kitchen the travelled.
+12 the handed to John Sandra apple.
+13 apple the to John handed Sandra.
+14 carrying  objects is many John How?	none	12 13
+15 Mary the football got there.
+16 the apple Sandra John handed to.
+17 How  many objects carrying Sandra is?	none	2 12 13 16
+1 Mary went bedroom to the.
+2 office to the John travelled.
+3 back Daniel to went the garden.
+4 picked the there milk John up.
+5 How carrying is  objects many John?	one	4
+6 the bedroom to travelled John.
+7 handed milk Mary to John the.
+8 is carrying  many John How objects?	none	4 7
+9 Daniel moved to kitchen the.
+10 travelled to the garden Sandra.
+11 objects How is  carrying many John?	none	4 7
+12 milk to passed the John Mary.
+13 to the Mary John milk handed.
+14 is John many carrying objects How ?	none	4 7 12 13
+15 John Mary handed the milk to.
+16 up apple the Sandra picked there.
+17 carrying Sandra is How objects  many?	one	16
+1 the bathroom Daniel to travelled.
+2 the picked up Mary there milk.
+3 objects carrying How many is  Mary?	one	2
+4 bathroom John to back went the.
+5 to office journeyed the Daniel.
+6 Mary is How many carrying  objects?	one	2
+7 the apple Daniel grabbed there.
+8 Daniel to went the kitchen.
+9  is many How Daniel objects carrying?	one	7
+10 milk Mary the left.
+11 John back kitchen went the to.
+12  carrying Daniel is objects How many?	one	7
+13 went office to Mary back the.
+14 apple Daniel the discarded.
+15 objects is How many Mary carrying ?	none	2 10
+1 John got there milk the.
+2 Sandra passed to the milk John.
+3 How  is carrying many objects John?	none	1 2
+4 to the bedroom Mary went.
+5 to Sandra handed John milk the.
+6 is objects  How carrying many John?	one	1 2 5
+7 to milk handed the Sandra John.
+8 to moved bathroom Daniel the.
+9 objects is carrying How John  many?	none	1 2 5 7
+10 John gave to Sandra the milk.
+11 milk John left the.
+12 John How  is many objects carrying?	none	1 2 5 7 10 11
+13 office Mary went to the.
+14 Sandra kitchen the went to back.
+15 many objects Sandra  How carrying is?	none	2 5 7 10
+1 Daniel the milk grabbed there.
+2 bedroom to John the moved.
+3  objects How carrying is many Daniel?	one	1
+4 bedroom Sandra travelled the to.
+5 there apple the Mary took.
+6 carrying objects Mary many is  How?	one	5
+7 Sandra the travelled bathroom to.
+8 the to went Daniel bathroom.
+9 How many objects Mary  is carrying?	one	5
+10 down there Daniel put the milk.
+11 journeyed to the Daniel bedroom.
+12 How Daniel is  many objects carrying?	none	1 10
+13 football picked Sandra there the up.
+14 to the travelled Mary office.
+15  objects How is many carrying Daniel?	none	1 10
+1 journeyed John the kitchen to.
+2 football the Mary got there.
+3  Mary objects How carrying many is?	one	2
+4 travelled the to hallway John.
+5 the to bathroom Daniel journeyed.
+6 carrying many  is How Mary objects?	one	2
+7 left Mary the football.
+8 travelled to garden the Daniel.
+9 Mary  carrying How objects is many?	none	2 7
+10 bathroom Sandra went the to.
+11 kitchen to John the travelled.
+12 carrying many is objects  Mary How?	none	2 7
+13 journeyed Daniel the office to.
+14 John the to office moved.
+15 the garden to back went Sandra.
+16 Mary there the football got.
+17 Mary many objects How is carrying ?	one	2 7 16
+1 got there the football Mary.
+2 the John grabbed milk there.
+3 carrying  John How is objects many?	one	2
+4 Daniel the hallway to travelled.
+5 there dropped the John milk.
+6 carrying is How objects Mary  many?	one	1
+7 back the John to went bathroom.
+8 went the to Sandra kitchen.
+9 objects How is  John many carrying?	none	2 5
+10 Sandra took apple the there.
+11 moved Sandra to garden the.
+12  carrying many Sandra objects How is?	one	10
+13 Daniel the to bedroom travelled.
+14 gave Daniel football Mary to the.
+15 carrying  many objects is How Mary?	none	1 14
+1 the went garden to Daniel back.
+2 John to the travelled bedroom.
+3 Sandra garden the journeyed to.
+4 the up there Sandra picked milk.
+5 is How carrying objects Sandra  many?	one	4
+6 kitchen the John moved to.
+7 milk gave Mary the Sandra to.
+8 is Sandra carrying How objects many ?	none	4 7
+9 to gave Sandra Mary the milk.
+10 to the Daniel moved bathroom.
+11 Sandra is  many How objects carrying?	one	4 7 9
+12 the milk handed Sandra to Mary.
+13 the Mary milk passed to Sandra.
+14 Mary many is How objects  carrying?	none	7 9 12 13
+15 dropped milk the Sandra.
+16 moved Daniel kitchen the to.
+17  objects many carrying Mary How is?	none	7 9 12 13
+1 office went to John the.
+2 the milk there John got.
+3 How objects carrying John  many is?	one	2
+4 grabbed football the there Mary.
+5 football the Mary gave Daniel to.
+6 John  many objects is How carrying?	one	2
+7 to kitchen back went the Daniel.
+8 went to bathroom Sandra the.
+9 is How  many Mary carrying objects?	none	4 5
+10 travelled Sandra the kitchen to.
+11 journeyed the Daniel bedroom to.
+12 How objects is Mary carrying many ?	none	4 5
+13 moved hallway to the Sandra.
+14 Daniel the bathroom went back to.
+15 the went back bathroom to John.
+16 dropped the milk John.
+17 How objects John many is  carrying?	none	2 16
+1 bedroom to the Sandra travelled.
+2 office Mary to the travelled.
+3 John milk picked up the there.
+4 to John gave the milk Mary.
+5 How carrying objects John  many is?	none	3 4
+6 kitchen to the Sandra went back.
+7 the milk Mary discarded.
+8 is How  objects many John carrying?	none	3 4
+9 took the milk there Mary.
+10 the milk to John gave Mary.
+11 carrying is Mary How objects many ?	none	4 7 9 10
+12 Daniel kitchen went to the.
+13 the milk Mary John gave to.
+14 many How  Mary objects carrying is?	one	4 7 9 10 13
+15 Mary handed to John milk the.
+16 to the back John garden went.
+17 How  carrying many is Mary objects?	none	4 7 9 10 13 15
+1 the to kitchen went Daniel.
+2 moved Sandra garden to the.
+3 garden journeyed to the Mary.
+4 went John to office the.
+5 back to bedroom Daniel went the.
+6 the there up milk picked Sandra.
+7 objects is Sandra carrying How many ?	one	6
+8 passed Mary the milk Sandra to.
+9 the Sandra to bathroom journeyed.
+10 is many  carrying How objects Sandra?	none	6 8
+11 to the Daniel travelled office.
+12 office Sandra the to journeyed.
+13 carrying  objects is many How Sandra?	none	6 8
+14 Sandra kitchen the to travelled.
+15 took the there John football.
+16 is many John objects carrying How ?	one	15
+17 football to handed the John Daniel.
+18 Mary there milk left the.
+19 John many is  objects How carrying?	none	15 17
+1 Daniel hallway to the moved.
+2 back went Daniel to bedroom the.
+3 Daniel journeyed garden the to.
+4 the John travelled to hallway.
+5 the Sandra garden to back went.
+6 the office John to went.
+7 football John the got there.
+8 Daniel hallway to went the.
+9 How objects John  carrying is many?	one	7
+10 apple Daniel the took there.
+11 milk Daniel the there up picked.
+12 carrying many How objects Daniel  is?	two	10 11
+13 the to Sandra journeyed kitchen.
+14 milk the Daniel discarded.
+15 How  carrying is Daniel objects many?	one	10 11 14
+16 travelled Sandra to the hallway.
+17 Sandra garden to travelled the.
+18  objects carrying is How Daniel many?	one	10 11 14
+19 kitchen to the Sandra moved.
+20 the went back bathroom to Sandra.
+21 objects many How  carrying Daniel is?	one	10 11 14
+1 football the took there John.
+2 to kitchen went Mary the.
+3 objects is How John  carrying many?	one	1
+4 Daniel bedroom the to moved.
+5 garden the Daniel moved to.
+6  many objects John carrying How is?	one	1
+7 the there milk grabbed Daniel.
+8 football gave John the Sandra to.
+9 John carrying objects many How  is?	none	1 8
+10 left the milk Daniel.
+11 the there football down Sandra put.
+12 How objects  John many carrying is?	none	1 8
+13 John the to journeyed bedroom.
+14 milk there the up Daniel picked.
+15 How John is  objects carrying many?	none	1 8
+1 milk the grabbed there Sandra.
+2 milk the down put Sandra.
+3 is many objects  How Sandra carrying?	none	1 2
+4 garden to moved the Daniel.
+5 the football grabbed Mary there.
+6  many Sandra How is objects carrying?	none	1 2
+7 the football dropped Mary.
+8 the took there football Mary.
+9 Mary How is many objects  carrying?	one	5 7 8
+10 journeyed the bathroom to Mary.
+11 hallway the to Sandra journeyed.
+12  is objects Mary carrying How many?	one	5 7 8
+13 down football the put Mary.
+14 up football picked the there Mary.
+15 many carrying objects How is Mary ?	one	5 7 8 13 14
+1 got Sandra there the football.
+2 the up there John picked apple.
+3 John many carrying  How objects is?	one	2
+4 football Sandra there dropped the.
+5 to the went Sandra bedroom.
+6 How objects carrying  many is John?	one	2
+7 to gave Sandra the John apple.
+8 put Sandra apple the down.
+9  carrying Sandra many objects is How?	none	1 4 7 8
+10 went to Mary kitchen the.
+11 Sandra went the office back to.
+12 objects many carrying  How John is?	none	2 7
+13 grabbed milk there Mary the.
+14 Mary there milk the left.
+15 many How objects Mary is carrying ?	none	13 14
+1 bathroom the John travelled to.
+2 there Mary got milk the.
+3 many  carrying How is Mary objects?	one	2
+4 the took football there Sandra.
+5 office the journeyed Daniel to.
+6  many objects is Mary How carrying?	one	2
+7 the moved garden to Sandra.
+8 kitchen back the went Sandra to.
+9 carrying  many objects How Mary is?	one	2
+10 the milk Mary dropped.
+11 Mary handed the to Sandra football.
+12  carrying objects Sandra many How is?	none	4 11
+13 football the gave Mary to Sandra.
+14 the to Mary travelled garden.
+15 Mary carrying many objects  How is?	none	2 10 11 13
+1 bathroom the John moved to.
+2 hallway the travelled to John.
+3 to the bedroom went John.
+4 kitchen the Daniel journeyed to.
+5 Sandra there took the football.
+6 journeyed kitchen the Sandra to.
+7  Sandra How many carrying is objects?	one	5
+8 to the went bedroom Sandra.
+9 Sandra to the football John handed.
+10 many is  carrying objects Sandra How?	none	5 9
+11 to John the handed Mary football.
+12 John Mary to the football gave.
+13 many carrying John is  objects How?	one	9 11 12
+14 back Daniel went to the office.
+15 the Mary passed John football to.
+16 Mary many objects How carrying is ?	one	11 12 15
+17 to handed football John the Mary.
+18 passed football the Mary John to.
+19 is  How many carrying objects Mary?	one	11 12 15 17 18
+1 John to the bathroom back went.
+2 hallway to John the went back.
+3 to Mary moved the hallway.
+4 went to Daniel back bathroom the.
+5 the John football there grabbed.
+6 Mary went bathroom to the.
+7 objects carrying many is How  John?	one	5
+8 discarded the there John football.
+9 to travelled Sandra garden the.
+10 How many is John  carrying objects?	none	5 8
+11 took the football John there.
+12 went to Sandra the bedroom back.
+13 is  objects many carrying John How?	one	5 8 11
+14 journeyed office to the Mary.
+15 bedroom back Daniel went the to.
+16 John objects is How carrying many ?	one	5 8 11
+17 left football John the.
+18 Sandra bathroom back went the to.
+19 objects  How many John carrying is?	none	5 8 11 17
+1 the there Mary milk grabbed.
+2 handed milk the to Mary Daniel.
+3 How Mary objects  carrying is many?	none	1 2
+4 went back bedroom to Mary the.
+5 kitchen to Mary the journeyed.
+6 objects How carrying many  is Mary?	none	1 2
+7 to moved Mary the bathroom.
+8 the Daniel milk dropped.
+9 carrying  is many How objects Daniel?	none	2 8
+10 to the Sandra moved office.
+11 Daniel grabbed milk the there.
+12 How  is carrying objects Daniel many?	one	2 8 11
+13 to hallway went John the.
+14 Sandra Daniel to passed the milk.
+15 objects carrying many  How Daniel is?	none	2 8 11 14
+1 Mary bathroom the journeyed to.
+2 there grabbed milk Sandra the.
+3 carrying How  objects is many Sandra?	one	2
+4 milk left Sandra the.
+5 to Mary the kitchen went.
+6 How many is objects  Sandra carrying?	none	2 4
+7 the garden to John moved.
+8 the took there football John.
+9 How many carrying is  objects John?	one	8
+10 John the left there football.
+11 to the Mary hallway journeyed.
+12 How John objects many is  carrying?	none	8 10
+13 to went Daniel the office.
+14 the bedroom Daniel to moved.
+15 How John carrying many is  objects?	none	8 10
+1 the to moved kitchen Daniel.
+2 to garden John went the.
+3 journeyed to hallway Daniel the.
+4 moved to Daniel kitchen the.
+5 to went Daniel the hallway.
+6 football grabbed there the Mary.
+7 objects  Mary many How carrying is?	one	6
+8 football the dropped Mary there.
+9 Daniel journeyed the to bedroom.
+10 many objects Mary  carrying is How?	none	6 8
+11 garden the journeyed Sandra to.
+12 Sandra to the journeyed hallway.
+13 many How objects is carrying  Mary?	none	6 8
+14 apple there got Daniel the.
+15 bathroom went to Sandra the.
+16 carrying many objects How is Daniel ?	one	14
+17 Sandra the milk there grabbed.
+18 the dropped Daniel apple.
+19  How carrying objects is Daniel many?	none	14 18
+1 the Sandra went to bedroom back.
+2 to went the kitchen Daniel.
+3 to went the Daniel bedroom.
+4 the hallway back to went Mary.
+5 John went to the office.
+6 the moved Mary to bedroom.
+7 moved Daniel office the to.
+8 the to Daniel went garden.
+9 bathroom travelled to Sandra the.
+10 the took Daniel there football.
+11 carrying  Daniel How is objects many?	one	10
+12 Sandra to travelled the garden.
+13 the Daniel football handed Sandra to.
+14 is objects How Daniel  many carrying?	none	10 13
+15 Daniel football passed the to Sandra.
+16 passed football Sandra to the Daniel.
+17 objects How  Sandra many carrying is?	one	13 15 16
+18 to passed Sandra Daniel the football.
+19 Daniel football the passed to Sandra.
+20 many How carrying Daniel  is objects?	none	10 13 15 16 18 19
+21 football the Daniel Sandra handed to.
+22 handed the football Sandra Daniel to.
+23  How is objects many carrying Daniel?	none	10 13 15 16 18 19 21 22
+1 the moved to Sandra hallway.
+2 back to Daniel the went hallway.
+3 Daniel the moved to kitchen.
+4 the picked up John there apple.
+5 John  many objects carrying is How?	one	4
+6 to handed Mary John apple the.
+7 down Mary apple put the.
+8  objects many is Mary carrying How?	none	6 7
+9 apple Mary there the grabbed.
+10 got Sandra there the football.
+11 How objects many is Mary  carrying?	one	6 7 9
+12 bathroom John moved the to.
+13 to back went bedroom the John.
+14 is How carrying  Mary objects many?	one	6 7 9
+15 the Mary left there apple.
+16 there left football Sandra the.
+17 carrying many How objects is Sandra ?	none	10 16
+1 travelled to the garden Mary.
+2 Daniel to bathroom the journeyed.
+3 the journeyed to Daniel garden.
+4 journeyed to the garden John.
+5 moved office to Mary the.
+6 the kitchen moved Sandra to.
+7 Mary to the garden travelled.
+8 there the Sandra took football.
+9 How  Sandra objects is carrying many?	one	8
+10 to Mary the went bathroom.
+11 to moved Sandra bathroom the.
+12  carrying How Sandra objects is many?	one	8
+13 the moved garden Sandra to.
+14 John passed Sandra the football to.
+15 carrying is How many objects Sandra ?	none	8 14
+16 John Sandra the football to passed.
+17 to Sandra football the John handed.
+18 objects Sandra many is carrying  How?	none	8 14 16 17
+19 kitchen to Sandra the travelled.
+20 passed John to Daniel the football.
+21 Sandra is objects carrying  How many?	none	8 14 16 17
+1 football got the Daniel there.
+2 hallway the to Sandra moved.
+3  is How Daniel many carrying objects?	one	1
+4 Daniel to the travelled bathroom.
+5 Daniel the grabbed apple there.
+6 carrying many is Daniel  How objects?	two	1 5
+7 Mary moved to bedroom the.
+8 bedroom the went John to.
+9 objects How  many carrying is Daniel?	two	1 5
+10 John kitchen the journeyed to.
+11 the Daniel football there put down.
+12 How Daniel is many objects carrying ?	one	1 5 11
+13 journeyed to John office the.
+14 to moved the office Sandra.
+15 is carrying How many Daniel  objects?	one	1 5 11
+1 the got milk there Sandra.
+2 to the bathroom went John.
+3 is  carrying Sandra objects How many?	one	1
+4 Sandra milk the discarded.
+5 Sandra milk there got the.
+6 objects How is many carrying  Sandra?	one	1 4 5
+7 John there took the apple.
+8 milk put Sandra the down.
+9  carrying How Sandra objects is many?	none	1 4 5 8
+10 Sandra the football grabbed there.
+11 Daniel apple handed to John the.
+12 objects carrying How is John many ?	none	7 11
+13 office back the went to Sandra.
+14 to John apple the Daniel gave.
+15 objects many How carrying Sandra  is?	one	1 4 5 8 10
+1 the journeyed hallway to Sandra.
+2 garden journeyed to Sandra the.
+3 Sandra back kitchen went to the.
+4 the went back to kitchen Mary.
+5 Sandra the apple took there.
+6 to the Daniel hallway travelled.
+7 many carrying Sandra How objects is ?	one	5
+8 Sandra Mary apple passed to the.
+9 apple the Mary gave Sandra to.
+10 How carrying objects  many is Sandra?	one	5 8 9
+11 hallway Sandra the to back went.
+12 kitchen back the to Daniel went.
+13 Sandra carrying  many How is objects?	one	5 8 9
+14 to went the back office Mary.
+15 the Mary to moved kitchen.
+16  many carrying How is Mary objects?	none	8 9
+17 the travelled John bedroom to.
+18 went the to John bathroom.
+19 the went to kitchen Sandra.
+20 the gave apple Mary to Sandra.
+21 How objects many is  carrying Sandra?	none	5 8 9 20
+1 Mary milk the took there.
+2 Daniel the football there took.
+3 is How carrying Mary objects  many?	one	1
+4 left milk Mary the.
+5 milk the Mary there grabbed.
+6 many Daniel is  carrying objects How?	one	2
+7 the Daniel football discarded.
+8 to bathroom John the journeyed.
+9 is  carrying Daniel How objects many?	none	2 7
+10 the there got Daniel football.
+11 the Daniel went office to.
+12 objects is carrying  Daniel many How?	one	2 7 10
+13 the Daniel to handed Mary football.
+14 the passed Daniel Mary football to.
+15 carrying objects  is How many Daniel?	one	2 7 10 13 14
+1 up the apple there Daniel picked.
+2 the took John milk there.
+3 John carrying is  objects many How?	one	2
+4 Daniel passed the to Mary apple.
+5 to Mary the Daniel apple handed.
+6 objects  How is carrying many John?	one	2
+7 apple Daniel the left.
+8 John the Sandra gave to milk.
+9 carrying How many  John is objects?	none	2 8
+10 milk John Sandra to the passed.
+11 bedroom to Daniel went back the.
+12 objects Sandra carrying How is many ?	none	8 10
+13 moved garden the to Sandra.
+14 moved the garden to John.
+15 objects How carrying is  many Sandra?	none	8 10
+1 apple the picked Sandra up there.
+2 the to John went bedroom back.
+3 Sandra objects How carrying  many is?	one	1
+4 Sandra office moved the to.
+5 to moved Mary the kitchen.
+6 is many objects carrying Sandra How ?	one	1
+7 the took milk Sandra there.
+8 milk the Sandra discarded.
+9 How Sandra carrying  objects many is?	one	1 7 8
+10 travelled bathroom the Daniel to.
+11 the went John hallway to.
+12 objects carrying Sandra  is How many?	one	1 7 8
+13 to bedroom journeyed the John.
+14 apple discarded the Sandra.
+15 objects carrying is  How many Sandra?	none	1 7 8 14
+1 the there John milk got.
+2 milk John the left.
+3 many John is carrying How objects ?	none	1 2
+4 there football the got Daniel.
+5 Sandra went to back the hallway.
+6 How Daniel is objects  many carrying?	one	4
+7 bedroom the moved Sandra to.
+8 travelled hallway John to the.
+9 many carrying  John is How objects?	none	1 2
+10 Daniel Sandra passed to the football.
+11 football the Sandra discarded.
+12 carrying is Sandra objects  How many?	none	10 11
+13 the bathroom journeyed to Mary.
+14 went the to office Mary.
+15 carrying many objects  Sandra is How?	none	10 11
+1 took John the football there.
+2 down there John the put football.
+3  objects How carrying is John many?	none	1 2
+4 Daniel the garden to moved.
+5 there up football the Daniel picked.
+6 How objects is John many carrying ?	none	1 2
+7 dropped Daniel football the.
+8 to went hallway the John.
+9 How objects carrying is many  Daniel?	none	5 7
+10 to the office Sandra journeyed.
+11 John to went the back bedroom.
+12 carrying objects How is  Daniel many?	none	5 7
+13 office John to the moved.
+14 travelled to John the bathroom.
+15 to Sandra journeyed hallway the.
+16 travelled office the to Mary.
+17 there Sandra the grabbed apple.
+18 there Daniel grabbed football the.
+19 many Daniel How carrying  objects is?	one	5 7 18
+1 the John there football picked up.
+2 John to Mary passed the football.
+3 carrying John many How is objects ?	none	1 2
+4 Sandra the travelled hallway to.
+5 Mary football the dropped there.
+6 many carrying objects Mary is  How?	none	2 5
+7 took the Mary there football.
+8 the to back went Sandra office.
+9 How John  carrying is objects many?	none	1 2
+10 Mary John to handed the football.
+11 passed John the Mary football to.
+12  John many How objects carrying is?	none	1 2 10 11
+13 the Mary gave John to football.
+14 football the left John.
+15 is many carrying  Mary How objects?	none	2 5 7 10 11 13
+1 back to the kitchen Daniel went.
+2 the Mary bathroom to travelled.
+3 John moved office to the.
+4 travelled Daniel the bedroom to.
+5 kitchen the to Daniel moved.
+6 bathroom to went back the Daniel.
+7 journeyed to the John hallway.
+8 apple got Mary the there.
+9 is carrying many How  objects Mary?	one	8
+10 Daniel handed the apple Mary to.
+11 bathroom Sandra to journeyed the.
+12 many Mary How objects  is carrying?	none	8 10
+13 the to Daniel passed Mary apple.
+14 passed apple to Sandra Mary the.
+15 Daniel carrying  objects How is many?	none	10 13
+16 Daniel to kitchen moved the.
+17 hallway Mary the to went.
+18 Daniel many objects How  is carrying?	none	10 13
+19 to Daniel garden the went.
+20 John office to journeyed the.
+21 many is  How Mary objects carrying?	none	8 10 13 14
+1 journeyed the to bedroom Sandra.
+2 the grabbed football Sandra there.
+3 carrying  is How Sandra many objects?	one	2
+4 to football Daniel the Sandra passed.
+5 Daniel the football to handed Sandra.
+6  carrying objects How is many Sandra?	one	2 4 5
+7 football Daniel gave to the Sandra.
+8 travelled the Mary to bathroom.
+9 How many is carrying  objects Sandra?	none	2 4 5 7
+10 the to went hallway Sandra.
+11 bedroom Mary to moved the.
+12  Sandra many How carrying is objects?	none	2 4 5 7
+13 to Mary the football gave Daniel.
+14 to the office Daniel journeyed.
+15 How objects carrying Daniel many  is?	none	4 5 7 13
+1 to Daniel travelled bedroom the.
+2 the John bathroom to went.
+3 the Daniel there got milk.
+4 the John moved hallway to.
+5 Daniel How many objects carrying is ?	one	3
+6 moved Daniel kitchen the to.
+7 the back Sandra office to went.
+8 carrying  many is Daniel How objects?	one	3
+9 put down milk the Daniel.
+10 back the to Daniel went garden.
+11  many Daniel How carrying objects is?	none	3 9
+12 the Daniel kitchen went back to.
+13 went the office to John.
+14 carrying  How objects is many Daniel?	none	3 9
+15 grabbed there John apple the.
+16 John left there apple the.
+17  How objects is John carrying many?	none	15 16
+1 the went John to bedroom.
+2 Sandra the got there milk.
+3 objects  Sandra many How carrying is?	one	2
+4 John the kitchen moved to.
+5 took football Sandra there the.
+6 How  many Sandra objects is carrying?	two	2 5
+7 left milk the Sandra.
+8 garden the journeyed to John.
+9  many is objects carrying How Sandra?	one	2 5 7
+10 office Daniel to back went the.
+11 apple picked up the Daniel there.
+12 How carrying is objects many  Sandra?	one	2 5 7
+13 Sandra dropped football the.
+14 office back to went the Mary.
+15 many is  Sandra carrying How objects?	none	2 5 7 13
+1 garden the John moved to.
+2 the there Mary took apple.
+3  carrying Mary many How objects is?	one	2
+4 to bedroom moved the John.
+5 discarded the Mary apple.
+6 Mary many objects carrying How is ?	none	2 5
+7 there apple took Mary the.
+8 travelled to bedroom Mary the.
+9  many Mary objects is How carrying?	one	2 5 7
+10 to gave apple Mary John the.
+11 to kitchen Daniel journeyed the.
+12  Mary objects is How carrying many?	none	2 5 7 10
+13 back hallway the Mary went to.
+14 Mary to went bathroom the.
+15 Mary carrying objects many How is ?	none	2 5 7 10
+1 the travelled John to bathroom.
+2 Daniel travelled hallway the to.
+3 to Mary the kitchen journeyed.
+4 the football Daniel grabbed there.
+5 is Daniel How carrying objects many ?	one	4
+6 Sandra to hallway journeyed the.
+7 Daniel handed football Sandra to the.
+8 carrying objects is  How many Daniel?	none	4 7
+9 the to Sandra handed football Daniel.
+10 gave Daniel Sandra to the football.
+11 objects Daniel many is How  carrying?	none	4 7 9 10
+12 to Sandra the Daniel football gave.
+13 garden went the to Mary.
+14 How objects  is Daniel carrying many?	one	4 7 9 10 12
+15 football Daniel to handed Sandra the.
+16 picked there John milk up the.
+17 carrying objects Daniel How is many ?	none	4 7 9 10 12 15
+1 Mary moved the bathroom to.
+2 there apple took the Sandra.
+3 many  Sandra carrying is How objects?	one	2
+4 the apple Sandra discarded there.
+5 went hallway Mary to the.
+6 is  carrying objects many Sandra How?	none	2 4
+7 picked there the Mary apple up.
+8 to the Sandra Mary handed apple.
+9  many carrying is objects How Mary?	none	7 8
+10 Sandra to the apple Mary handed.
+11 the to Mary office journeyed.
+12 is carrying How  objects Sandra many?	none	2 4 8 10
+13 to Daniel bedroom the went.
+14 to Sandra the kitchen journeyed.
+15 is carrying Sandra objects  many How?	none	2 4 8 10
+1 the Mary picked there up milk.
+2 Sandra to the went back office.
+3 How is  many carrying Mary objects?	one	1
+4 got there Sandra the football.
+5 there apple the took Daniel.
+6 How many objects is carrying  Mary?	one	1
+7 the to hallway journeyed John.
+8 the hallway to journeyed Sandra.
+9 carrying  Daniel is How many objects?	one	5
+10 the milk Mary left.
+11 football Sandra the left.
+12  How Sandra is many carrying objects?	none	4 11
+13 picked Sandra up the there milk.
+14 the Sandra dropped milk.
+15 How is Mary objects carrying many ?	none	1 10
+1 the journeyed bathroom to John.
+2 Mary to journeyed the bedroom.
+3 Daniel to went the office.
+4 apple the Mary took there.
+5 objects carrying Mary many is How ?	one	4
+6 moved Sandra to the garden.
+7 the apple left Mary.
+8 Mary objects is How carrying many ?	none	4 7
+9 there the picked up apple Mary.
+10 the there took milk John.
+11 How many John  carrying is objects?	one	10
+12 milk down put John the.
+13 went back Sandra kitchen the to.
+14 many  Mary objects carrying is How?	one	4 7 9
+15 the travelled to John garden.
+16 Mary put apple down the.
+17  many objects is carrying How John?	none	10 12
+1 office Daniel to went the.
+2 Sandra the to bedroom moved.
+3 went to John the back bedroom.
+4 Sandra got the milk there.
+5 carrying objects many  is How Sandra?	one	4
+6 Sandra the put down milk.
+7 journeyed the bathroom Daniel to.
+8  many How carrying is Sandra objects?	none	4 6
+9 milk there Sandra got the.
+10 passed to John the Sandra milk.
+11 How many Sandra carrying  objects is?	none	4 6 9 10
+12 the Daniel to office journeyed.
+13 bathroom journeyed Mary the to.
+14 many carrying objects How is  Sandra?	none	4 6 9 10
+15 the office Sandra travelled to.
+16 Daniel the to journeyed bedroom.
+17 is carrying objects How Sandra  many?	none	4 6 9 10
+1 apple picked up Sandra the there.
+2 Sandra the apple left.
+3 How many is  objects carrying Sandra?	none	1 2
+4 apple there grabbed John the.
+5 the there milk took Daniel.
+6  John carrying How objects many is?	one	4
+7 to passed apple Sandra the John.
+8 Sandra to passed the John apple.
+9 Daniel How  many is objects carrying?	one	5
+10 gave apple to Sandra the John.
+11 milk the put down Daniel.
+12 Daniel is objects  many How carrying?	none	5 11
+13 Daniel bedroom the journeyed to.
+14 apple handed John the to Sandra.
+15 is How objects  carrying Sandra many?	none	1 2 7 8 10 14
+1 John milk there the grabbed.
+2 the John milk down put.
+3 objects John How carrying many  is?	none	1 2
+4 Mary bedroom travelled to the.
+5 Daniel to journeyed office the.
+6 objects John many carrying  is How?	none	1 2
+7 the John went hallway to back.
+8 journeyed bedroom to the Daniel.
+9 John  many is objects How carrying?	none	1 2
+10 to John journeyed kitchen the.
+11 the milk John got there.
+12 How many carrying is  John objects?	one	1 2 11
+13 John the put down milk.
+14 kitchen the moved to Daniel.
+15 How carrying is  objects John many?	none	1 2 11 13
+1 Daniel the bedroom went to.
+2 took there John the football.
+3 many objects is How  John carrying?	one	2
+4 to John passed the football Sandra.
+5 football Sandra the dropped.
+6 John objects carrying is How many ?	none	2 4
+7 John the travelled to hallway.
+8 bedroom the journeyed to Mary.
+9 carrying many How is objects John ?	none	2 4
+10 office went to the Sandra.
+11 the John milk up there picked.
+12 many objects  is John carrying How?	one	2 4 11
+13 to kitchen Mary the went.
+14 travelled bedroom to the Mary.
+15 many is  objects carrying How John?	one	2 4 11
+1 the bedroom John travelled to.
+2 picked Sandra there milk the up.
+3 objects many carrying How Sandra  is?	one	2
+4 milk Sandra dropped the.
+5 the apple grabbed there John.
+6 many  How is objects John carrying?	one	5
+7 hallway John journeyed to the.
+8 journeyed kitchen to John the.
+9 is John carrying many How  objects?	one	5
+10 to back went Daniel the bedroom.
+11 John hallway the to travelled.
+12 How  is John objects carrying many?	one	5
+13 John kitchen went the to.
+14 to the journeyed hallway John.
+15 there the got Sandra milk.
+16 the milk Sandra dropped.
+17  objects Sandra How many is carrying?	none	2 4 15 16
+1 to moved Daniel office the.
+2 Mary the to office moved.
+3 there apple Sandra picked the up.
+4 the dropped Sandra apple.
+5 objects carrying Sandra How many is ?	none	3 4
+6 took Sandra the apple there.
+7 went John the to bedroom.
+8 objects Sandra is many  How carrying?	one	3 4 6
+9 Sandra moved the hallway to.
+10 John the got milk there.
+11  is objects Sandra How many carrying?	one	3 4 6
+12 John the milk down put.
+13 the apple Sandra down put.
+14 carrying John many is objects  How?	none	10 12
+15 bathroom the to Mary journeyed.
+16 to travelled the kitchen Mary.
+17 Sandra many  carrying is How objects?	none	3 4 6 13
+1 bathroom the journeyed Sandra to.
+2 the grabbed apple John there.
+3 How objects carrying  John is many?	one	2
+4 to garden the journeyed John.
+5 to journeyed Daniel kitchen the.
+6 carrying  How John is objects many?	one	2
+7 office journeyed to the Mary.
+8 garden Daniel the travelled to.
+9 How John objects is carrying  many?	one	2
+10 Mary there got milk the.
+11 Daniel apple John passed to the.
+12 Mary carrying many How  objects is?	one	10
+13 the there grabbed Mary football.
+14 the John Daniel gave apple to.
+15 objects is carrying many How  Daniel?	none	11 14
+1 Sandra the bathroom journeyed to.
+2 journeyed Daniel to kitchen the.
+3 journeyed to Daniel hallway the.
+4 there the football got Daniel.
+5 is many objects How carrying  Daniel?	one	4
+6 gave Mary the Daniel football to.
+7 handed football Mary the to Daniel.
+8 is many Daniel  How carrying objects?	one	4 6 7
+9 the handed football Mary Daniel to.
+10 the there down football Mary put.
+11 carrying  is objects How many Daniel?	none	4 6 7 9
+12 bathroom back the went to John.
+13 the picked there up football Mary.
+14 many objects  is Mary carrying How?	one	6 7 9 10 13
+15 got there Sandra milk the.
+16 took Daniel the there apple.
+17 How carrying many is  Mary objects?	one	6 7 9 10 13
+1 to the journeyed office Mary.
+2 the hallway to travelled John.
+3 John the went bathroom to.
+4 Mary back bathroom went to the.
+5 grabbed the apple John there.
+6 the Mary to gave apple John.
+7 many  is How John carrying objects?	none	5 6
+8 the Mary left apple.
+9 journeyed the to Daniel office.
+10  John How is many objects carrying?	none	5 6
+11 apple there the up John picked.
+12 apple to Mary handed the John.
+13 John How carrying is objects  many?	none	5 6 11 12
+14 Sandra kitchen back the to went.
+15 Mary to kitchen travelled the.
+16 How is  carrying many objects John?	none	5 6 11 12
+17 Mary apple the Sandra to passed.
+18 to Daniel journeyed garden the.
+19 is How  objects Mary carrying many?	none	6 8 12 17
+1 back Daniel the went bathroom to.
+2 the journeyed Mary to bedroom.
+3 to went the bedroom back John.
+4 went office the to Daniel.
+5 the Mary to journeyed kitchen.
+6 football there up picked Mary the.
+7 Mary objects is many How  carrying?	one	6
+8 milk the grabbed John there.
+9 to went bedroom Mary the.
+10  John carrying objects many is How?	one	8
+11 Mary discarded the football.
+12 Mary the bathroom travelled to.
+13 is objects How John carrying many ?	one	8
+14 bedroom the moved Mary to.
+15 to gave John the milk Mary.
+16 carrying many objects  is How John?	none	8 15
+17 milk the passed to Mary John.
+18 John milk handed to the Mary.
+19 is many carrying  How objects John?	none	8 15 17 18
+1 Sandra back went the kitchen to.
+2 bedroom Mary the travelled to.
+3 Daniel to bedroom moved the.
+4 went to kitchen the back Mary.
+5 John the to travelled bedroom.
+6 the football Daniel got there.
+7 is Daniel  many objects carrying How?	one	6
+8 Daniel to the kitchen journeyed.
+9 the Mary football to handed Daniel.
+10 is many carrying  How Daniel objects?	none	6 9
+11 Mary gave football Sandra to the.
+12 football handed to Sandra the Mary.
+13 carrying Daniel many How is  objects?	none	6 9
+14 Daniel to went bathroom the.
+15 Mary to journeyed the garden.
+16 carrying How Mary objects  many is?	one	9 11 12
+17 the milk Mary there took.
+18 journeyed John to office the.
+19 many  Sandra How carrying is objects?	none	11 12
+1 the Daniel went kitchen to.
+2 to travelled Mary hallway the.
+3 Mary to the went back bedroom.
+4 garden journeyed the John to.
+5 up picked the there apple Daniel.
+6 to the garden travelled Mary.
+7 is  How objects carrying many Daniel?	one	5
+8 to moved bedroom the Mary.
+9 the to journeyed John kitchen.
+10 How objects  carrying many is Daniel?	one	5
+11 bedroom went Daniel to the.
+12 office to Daniel travelled the.
+13 the down put apple Daniel.
+14 the garden travelled to John.
+15 is How many objects Daniel  carrying?	none	5 13
+16 Daniel journeyed the to bathroom.
+17 grabbed football Mary the there.
+18 objects many is carrying How  Mary?	one	17
+19 the football discarded Mary.
+20 travelled the Daniel to hallway.
+21 is  How Mary objects carrying many?	none	17 19

@@ -1,0 +1,336 @@
+1 Mary moved to the bathroom.
+2 Sandra journeyed to the bedroom.
+3 Mary got the football there.
+4 John went to the kitchen.
+5 What is Mary carrying? 	football	3
+6 John went to the bedroom.
+7 Mary dropped the football.
+8 What is Mary carrying? 	nothing	3 7
+9 Mary took the football there.
+10 Sandra went back to the office.
+11 What is Mary carrying? 	football	3 7 9
+12 Sandra got the milk there.
+13 Mary went to the bedroom.
+14 What is Sandra carrying? 	milk	12
+15 Sandra moved to the garden.
+16 Daniel journeyed to the hallway.
+17 What is Sandra carrying? 	milk	12
+1 Sandra went back to the bedroom.
+2 Daniel got the football there.
+3 What is Daniel carrying? 	football	2
+4 John went back to the office.
+5 Mary got the milk there.
+6 What is Mary carrying? 	milk	5
+7 Mary travelled to the kitchen.
+8 John got the apple there.
+9 What is Daniel carrying? 	football	2
+10 Daniel journeyed to the bedroom.
+11 Daniel journeyed to the bathroom.
+12 What is John carrying? 	apple	8
+13 John dropped the apple.
+14 John went to the garden.
+15 What is John carrying? 	nothing	8 13
+1 Sandra picked up the football there.
+2 Sandra dropped the football there.
+3 What is Sandra carrying? 	nothing	1 2
+4 Mary moved to the garden.
+5 John got the milk there.
+6 What is John carrying? 	milk	5
+7 John journeyed to the bathroom.
+8 Sandra went to the garden.
+9 What is Sandra carrying? 	nothing	1 2
+10 Daniel journeyed to the bedroom.
+11 John dropped the milk.
+12 What is John carrying? 	nothing	5 11
+13 Daniel went back to the bathroom.
+14 Daniel journeyed to the hallway.
+15 What is John carrying? 	nothing	5 11
+1 Daniel moved to the bathroom.
+2 Sandra journeyed to the office.
+3 John moved to the office.
+4 Mary picked up the milk there.
+5 What is Mary carrying? 	milk	4
+6 John journeyed to the kitchen.
+7 Daniel moved to the kitchen.
+8 What is Mary carrying? 	milk	4
+9 Mary discarded the milk.
+10 Daniel went to the office.
+11 What is Mary carrying? 	nothing	4 9
+12 Daniel went back to the garden.
+13 Mary went back to the garden.
+14 What is Mary carrying? 	nothing	4 9
+15 John moved to the bedroom.
+16 Sandra got the milk there.
+17 What is Sandra carrying? 	milk	16
+1 Daniel took the apple there.
+2 Daniel dropped the apple.
+3 What is Daniel carrying? 	nothing	1 2
+4 Mary grabbed the milk there.
+5 Daniel grabbed the apple there.
+6 What is Mary carrying? 	milk	4
+7 Mary left the milk there.
+8 John got the football there.
+9 What is Daniel carrying? 	apple	1 2 5
+10 Mary grabbed the milk there.
+11 John journeyed to the kitchen.
+12 What is Mary carrying? 	milk	4 7 10
+13 Mary left the milk.
+14 John put down the football.
+15 What is Mary carrying? 	nothing	4 7 10 13
+1 John travelled to the bedroom.
+2 Mary went to the office.
+3 John took the milk there.
+4 Sandra journeyed to the hallway.
+5 What is John carrying? 	milk	3
+6 Daniel moved to the bedroom.
+7 John left the milk.
+8 What is John carrying? 	nothing	3 7
+9 Sandra picked up the football there.
+10 Daniel picked up the milk there.
+11 What is Daniel carrying? 	milk	10
+12 Daniel dropped the milk.
+13 Daniel picked up the milk there.
+14 What is Daniel carrying? 	milk	10 12 13
+15 John travelled to the bathroom.
+16 Mary went back to the bathroom.
+17 What is Daniel carrying? 	milk	10 12 13
+1 Daniel journeyed to the bathroom.
+2 Daniel went back to the bedroom.
+3 Mary journeyed to the bedroom.
+4 Mary picked up the milk there.
+5 What is Mary carrying? 	milk	4
+6 Mary dropped the milk.
+7 Daniel grabbed the football there.
+8 What is Mary carrying? 	nothing	4 6
+9 Mary took the milk there.
+10 Mary left the milk.
+11 What is Daniel carrying? 	football	7
+12 Daniel discarded the football.
+13 Daniel picked up the football there.
+14 What is Daniel carrying? 	football	7 12 13
+15 Mary grabbed the milk there.
+16 Mary left the milk.
+17 What is Daniel carrying? 	football	7 12 13
+1 Daniel went to the kitchen.
+2 Daniel journeyed to the hallway.
+3 Mary went back to the garden.
+4 Daniel picked up the apple there.
+5 What is Daniel carrying? 	apple	4
+6 John moved to the bathroom.
+7 Sandra went back to the hallway.
+8 What is Daniel carrying? 	apple	4
+9 Mary took the football there.
+10 Daniel put down the apple.
+11 What is Daniel carrying? 	nothing	4 10
+12 John moved to the office.
+13 Mary left the football.
+14 What is Mary carrying? 	nothing	9 13
+15 Sandra took the apple there.
+16 Mary moved to the bathroom.
+17 What is Daniel carrying? 	nothing	4 10
+1 Mary travelled to the kitchen.
+2 Sandra journeyed to the kitchen.
+3 Daniel journeyed to the office.
+4 John took the football there.
+5 What is John carrying? 	football	4
+6 John dropped the football.
+7 John went back to the kitchen.
+8 What is John carrying? 	nothing	4 6
+9 Daniel got the football there.
+10 Sandra moved to the hallway.
+11 What is John carrying? 	nothing	4 6
+12 Mary went back to the bedroom.
+13 Mary picked up the apple there.
+14 What is Mary carrying? 	apple	13
+15 Mary discarded the apple.
+16 John travelled to the bedroom.
+17 What is Mary carrying? 	nothing	13 15
+1 Daniel moved to the office.
+2 Mary went back to the bedroom.
+3 Sandra travelled to the bathroom.
+4 Daniel journeyed to the garden.
+5 Daniel picked up the football there.
+6 Daniel left the football there.
+7 What is Daniel carrying? 	nothing	5 6
+8 Sandra journeyed to the garden.
+9 Sandra took the football there.
+10 What is Daniel carrying? 	nothing	5 6
+11 John journeyed to the bathroom.
+12 John journeyed to the office.
+13 What is Sandra carrying? 	football	9
+14 Sandra put down the football.
+15 Daniel picked up the football there.
+16 What is Daniel carrying? 	football	5 6 15
+17 Daniel discarded the football.
+18 Daniel picked up the football there.
+19 What is Daniel carrying? 	football	5 6 15 17 18
+1 Sandra journeyed to the hallway.
+2 John moved to the kitchen.
+3 Sandra moved to the bathroom.
+4 Daniel picked up the football there.
+5 What is Daniel carrying? 	football	4
+6 Daniel dropped the football there.
+7 Mary grabbed the football there.
+8 What is Mary carrying? 	football	7
+9 Mary travelled to the office.
+10 Mary took the apple there.
+11 What is Mary carrying? 	football,apple	7 10
+12 Daniel went back to the bedroom.
+13 Mary left the football.
+14 What is Mary carrying? 	apple	7 13 10
+15 Mary grabbed the football there.
+16 Daniel got the milk there.
+17 What is Mary carrying? 	football,apple	7 13 15 10
+1 Sandra journeyed to the office.
+2 Daniel journeyed to the office.
+3 Mary went to the office.
+4 Daniel journeyed to the bedroom.
+5 John went to the garden.
+6 Daniel went back to the hallway.
+7 John travelled to the hallway.
+8 John picked up the football there.
+9 What is John carrying? 	football	8
+10 Daniel took the milk there.
+11 John journeyed to the office.
+12 What is John carrying? 	football	8
+13 John put down the football there.
+14 Daniel left the milk.
+15 What is Daniel carrying? 	nothing	10 14
+16 Sandra went to the bedroom.
+17 Daniel picked up the milk there.
+18 What is Daniel carrying? 	milk	10 14 17
+19 Daniel went to the kitchen.
+20 Daniel went to the garden.
+21 What is Daniel carrying? 	milk	10 14 17
+1 Mary moved to the bathroom.
+2 John picked up the apple there.
+3 What is John carrying? 	apple	2
+4 Daniel moved to the office.
+5 Mary travelled to the kitchen.
+6 What is John carrying? 	apple	2
+7 Daniel went back to the garden.
+8 Mary got the football there.
+9 What is Mary carrying? 	football	8
+10 Daniel travelled to the kitchen.
+11 Mary moved to the garden.
+12 What is Mary carrying? 	football	8
+13 Mary dropped the football.
+14 Sandra went to the bathroom.
+15 What is Mary carrying? 	nothing	8 13
+1 Mary took the milk there.
+2 Mary went to the office.
+3 What is Mary carrying? 	milk	1
+4 Mary took the apple there.
+5 Sandra journeyed to the bedroom.
+6 What is Mary carrying? 	milk,apple	1 4
+7 Mary put down the milk.
+8 Mary discarded the apple.
+9 What is Mary carrying? 	nothing	1 7 4 8
+10 Sandra picked up the football there.
+11 Sandra journeyed to the office.
+12 What is Mary carrying? 	nothing	1 7 4 8
+13 Sandra took the apple there.
+14 Daniel got the milk there.
+15 What is Sandra carrying? 	football,apple	10 13
+1 Mary travelled to the hallway.
+2 Daniel went to the office.
+3 Mary took the football there.
+4 Mary moved to the garden.
+5 What is Mary carrying? 	football	3
+6 Mary went back to the office.
+7 Daniel travelled to the bathroom.
+8 What is Mary carrying? 	football	3
+9 Mary discarded the football.
+10 Mary took the apple there.
+11 What is Mary carrying? 	apple	3 9 10
+12 Daniel went back to the bedroom.
+13 Sandra moved to the hallway.
+14 What is Mary carrying? 	apple	3 9 10
+15 Daniel moved to the bathroom.
+16 John journeyed to the garden.
+17 What is Mary carrying? 	apple	3 9 10
+1 Sandra moved to the office.
+2 Mary went back to the office.
+3 Mary picked up the apple there.
+4 Mary went back to the hallway.
+5 What is Mary carrying? 	apple	3
+6 Daniel went back to the hallway.
+7 Mary went back to the garden.
+8 What is Mary carrying? 	apple	3
+9 Mary journeyed to the bedroom.
+10 John went to the bathroom.
+11 Mary went back to the hallway.
+12 Mary took the football there.
+13 What is Mary carrying? 	apple,football	3 12
+14 Sandra went to the bathroom.
+15 Mary travelled to the kitchen.
+16 What is Mary carrying? 	apple,football	3 12
+17 Mary left the football.
+18 Mary left the apple.
+19 What is Mary carrying? 	nothing	3 18 12 17
+1 Mary went to the garden.
+2 Daniel went to the hallway.
+3 Sandra grabbed the milk there.
+4 John travelled to the bathroom.
+5 What is Sandra carrying? 	milk	3
+6 Sandra put down the milk.
+7 Sandra grabbed the milk there.
+8 What is Sandra carrying? 	milk	3 6 7
+9 Mary journeyed to the bathroom.
+10 Sandra discarded the milk.
+11 What is Sandra carrying? 	nothing	3 6 7 10
+12 John went back to the bedroom.
+13 Mary went back to the kitchen.
+14 What is Sandra carrying? 	nothing	3 6 7 10
+15 Mary moved to the garden.
+16 John took the football there.
+17 What is Sandra carrying? 	nothing	3 6 7 10
+1 Daniel went back to the kitchen.
+2 Mary took the apple there.
+3 What is Mary carrying? 	apple	2
+4 Sandra went back to the kitchen.
+5 Mary put down the apple.
+6 What is Mary carrying? 	nothing	2 5
+7 John moved to the office.
+8 John journeyed to the hallway.
+9 What is Mary carrying? 	nothing	2 5
+10 Daniel went back to the bathroom.
+11 Daniel picked up the apple there.
+12 What is Daniel carrying? 	apple	11
+13 Daniel left the apple.
+14 Daniel went to the kitchen.
+15 What is Daniel carrying? 	nothing	11 13
+1 John went to the office.
+2 Daniel travelled to the garden.
+3 Sandra grabbed the milk there.
+4 Mary journeyed to the office.
+5 What is Sandra carrying? 	milk	3
+6 Sandra discarded the milk.
+7 Mary travelled to the kitchen.
+8 What is Sandra carrying? 	nothing	3 6
+9 Sandra picked up the milk there.
+10 Daniel went back to the bathroom.
+11 What is Sandra carrying? 	milk	3 6 9
+12 Sandra took the football there.
+13 Sandra put down the football.
+14 What is Sandra carrying? 	milk	3 6 9 12 13
+15 Mary went to the bedroom.
+16 Mary grabbed the football there.
+17 What is Mary carrying? 	football	16
+1 Mary travelled to the bedroom.
+2 Mary grabbed the apple there.
+3 What is Mary carrying? 	apple	2
+4 Daniel went to the bathroom.
+5 Mary travelled to the office.
+6 What is Mary carrying? 	apple	2
+7 Mary went to the hallway.
+8 Mary moved to the garden.
+9 What is Mary carrying? 	apple	2
+10 John went back to the office.
+11 John went back to the hallway.
+12 Sandra went to the kitchen.
+13 Mary discarded the apple.
+14 What is Mary carrying? 	nothing	2 13
+15 John journeyed to the office.
+16 Mary travelled to the bathroom.
+17 What is Mary carrying? 	nothing	2 13

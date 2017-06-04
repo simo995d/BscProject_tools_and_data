@@ -1,0 +1,3000 @@
+1 of hallway bathroom The the east is.
+2 bedroom the of The west is bathroom.
+3 is What of east the bathroom?	bedroom	2
+1 the is kitchen west bedroom The of.
+2 is bedroom west The of hallway the.
+3 of What the kitchen is west?	bedroom	1
+1 of the bathroom The garden is north.
+2 bathroom hallway the is of north The.
+3 of garden What the is north?	bathroom	1
+1 kitchen of is south The the bathroom.
+2 is bedroom the south kitchen of The.
+3 of is kitchen the What south?	bedroom	2
+1 bedroom is The kitchen east the of.
+2 is bedroom of the The office east.
+3 the east of is kitchen What?	bedroom	1
+1 garden of is east the The bathroom.
+2 hallway of The the garden west is.
+3 of is bathroom west What the?	garden	1
+1 east The kitchen the of is bedroom.
+2 The garden is bedroom west the of.
+3 of bedroom east the What is?	kitchen	1
+1 garden is bedroom north The the of.
+2 The the of bathroom garden north is.
+3 of south is the garden What?	bathroom	2
+1 The the kitchen south office is of.
+2 The garden is of south kitchen the.
+3 office the What of is south?	kitchen	1
+1 of office is The hallway east the.
+2 east garden The hallway is the of.
+3 is the of east hallway What?	office	1
+1 the office is The south of hallway.
+2 of office is garden north The the.
+3 north What is the of office?	garden	2
+1 is The garden south of kitchen the.
+2 The is kitchen north office of the.
+3 What kitchen south is the of?	garden	1
+1 the kitchen east is bathroom The of.
+2 the bathroom is of bedroom east The.
+3 kitchen What the east is of?	bathroom	1
+1 kitchen of east The the bathroom is.
+2 kitchen garden The the west is of.
+3 is the kitchen west What of?	garden	2
+1 of garden the north The is bedroom.
+2 is the of The north bedroom office.
+3 north What the is of bedroom?	garden	1
+1 is bathroom the of The garden west.
+2 of The the is hallway east garden.
+3 east of hallway What is the?	garden	2
+1 hallway The of office east the is.
+2 of is The bathroom the west hallway.
+3 is of What the east office?	hallway	1
+1 of The office the is bathroom south.
+2 is kitchen the The of bathroom north.
+3 the is south What of bathroom?	office	1
+1 bedroom of The the kitchen north is.
+2 the south is bedroom The garden of.
+3 is What the of north bedroom?	garden	2
+1 The garden of east is the kitchen.
+2 kitchen is of west The bedroom the.
+3 the is west kitchen What of?	garden	1
+1 east is hallway of the office The.
+2 of is The garden west the office.
+3 east of office the What is?	garden	2
+1 south the The is of bathroom kitchen.
+2 The the garden is of bathroom north.
+3 the of is What south bathroom?	garden	2
+1 south The kitchen the bedroom is of.
+2 bathroom of bedroom north The is the.
+3 north of the bedroom is What?	bathroom	2
+1 office the The of north is bathroom.
+2 bathroom The bedroom of is north the.
+3 the south of What bedroom is?	bathroom	2
+1 the hallway east is The of bedroom.
+2 bedroom office the The of is west.
+3 west is of What bedroom the?	hallway	1
+1 west the kitchen bathroom is The of.
+2 bathroom is office the The east of.
+3 of east What is the bathroom?	office	2
+1 north is the bedroom of office The.
+2 is bedroom hallway of the The north.
+3 of is the north What bedroom?	office	1
+1 of The is east office the bathroom.
+2 The bathroom hallway the of west is.
+3 the of is west What bathroom?	hallway	2
+1 the south is of garden The bathroom.
+2 is of the office bathroom north The.
+3 What north bathroom the of is?	garden	1
+1 is north the The garden of office.
+2 The south the garden bathroom of is.
+3 office is of north the What?	garden	1
+1 east is of bedroom kitchen the The.
+2 the The is east bedroom office of.
+3 the kitchen is What east of?	bedroom	1
+1 hallway is kitchen the The east of.
+2 of is The the bathroom west kitchen.
+3 bathroom What of the east is?	kitchen	2
+1 north of The the is garden bathroom.
+2 The the garden bedroom of south is.
+3 the north garden is What of?	bathroom	1
+1 is The the of kitchen bedroom east.
+2 is west the The bedroom hallway of.
+3 What of bedroom west is the?	kitchen	1
+1 of the kitchen south is The hallway.
+2 is The the kitchen bedroom north of.
+3 What the south is of kitchen?	bedroom	2
+1 is the garden The west bathroom of.
+2 of The west bedroom the garden is.
+3 What bathroom the of is east?	garden	1
+1 office hallway south of The the is.
+2 hallway bathroom south of the The is.
+3 south the is hallway What of?	office	1
+1 the bathroom is south The of hallway.
+2 bathroom the The is bedroom of north.
+3 What bathroom north is the of?	bedroom	2
+1 bathroom bedroom The the of is west.
+2 the bathroom of west is The office.
+3 is What of east bathroom the?	bedroom	1
+1 The of the is south kitchen office.
+2 bedroom the of office The north is.
+3 the north What bedroom is of?	office	2
+1 bathroom of south the is The kitchen.
+2 The of is hallway the south bathroom.
+3 What is the of kitchen south?	bathroom	1
+1 The office bedroom west the is of.
+2 The is bedroom of west bathroom the.
+3 the west is office of What?	bedroom	1
+1 of garden is The kitchen the north.
+2 the bedroom kitchen The north of is.
+3 of garden is south the What?	kitchen	1
+1 of north is garden bathroom the The.
+2 of is The south bedroom the garden.
+3 bedroom the is of What south?	garden	2
+1 office is garden of north the The.
+2 of hallway the south The office is.
+3 What of the is office south?	garden	1
+1 office west is The of bedroom the.
+2 of the The west office hallway is.
+3 What east is the office of?	hallway	2
+1 of south garden The the office is.
+2 the is bedroom The garden south of.
+3 What of is office south the?	garden	1
+1 west garden bedroom is the of The.
+2 bathroom bedroom is The the west of.
+3 bedroom the west What of is?	garden	1
+1 the hallway east is The garden of.
+2 the The west is bedroom hallway of.
+3 What is hallway the east of?	garden	1
+1 is the The of office garden north.
+2 the south is The of office hallway.
+3 office south the is of What?	garden	1
+1 The south the bedroom is hallway of.
+2 of the hallway south is The garden.
+3 north hallway is of the What?	bedroom	1
+1 office The north of is garden the.
+2 bathroom the north garden of The is.
+3 is north of the What bathroom?	garden	2
+1 bedroom hallway The is of the south.
+2 is The the south garden bedroom of.
+3 north What bedroom of is the?	hallway	1
+1 bathroom the of The kitchen is east.
+2 garden bathroom is of east The the.
+3 garden is What the east of?	bathroom	2
+1 The of the bedroom office is east.
+2 the bedroom of bathroom west The is.
+3 is the west of bedroom What?	bathroom	2
+1 The east of is the garden hallway.
+2 the hallway west is of bedroom The.
+3 What is east hallway of the?	garden	1
+1 the is hallway of The west bedroom.
+2 The hallway kitchen east of the is.
+3 bedroom What east of is the?	hallway	1
+1 is hallway The garden east the of.
+2 of hallway The kitchen is the west.
+3 of is west the hallway What?	kitchen	2
+1 garden south The the hallway is of.
+2 bedroom The south of the is hallway.
+3 south of What bedroom is the?	hallway	2
+1 of The bathroom garden the is north.
+2 kitchen The the is garden of south.
+3 garden of north What is the?	kitchen	2
+1 bedroom hallway is of the south The.
+2 bathroom hallway south is the of The.
+3 What the is north bedroom of?	hallway	1
+1 south is the of office The bedroom.
+2 The bedroom of the hallway is south.
+3 of hallway What south the is?	bedroom	2
+1 The north the of hallway garden is.
+2 south The is the hallway of kitchen.
+3 of north the is What hallway?	kitchen	2
+1 west bedroom is The of hallway the.
+2 west is the hallway of garden The.
+3 is west of What the bedroom?	hallway	1
+1 is of office garden east The the.
+2 of garden east is The bedroom the.
+3 garden of the What east is?	bedroom	2
+1 The office the is of bedroom south.
+2 garden the south The is bedroom of.
+3 the is bedroom north What of?	office	1
+1 hallway is of bedroom the north The.
+2 of south is bedroom The bathroom the.
+3 the What north is bedroom of?	bathroom	2
+1 is bedroom the south of The garden.
+2 north the The office garden of is.
+3 is south of the What garden?	office	2
+1 of the The is bathroom west garden.
+2 of bathroom is The the kitchen east.
+3 of is What the bathroom west?	kitchen	2
+1 is garden the west of hallway The.
+2 of east is The hallway bathroom the.
+3 What is east of hallway the?	garden	1
+1 north the The bedroom of hallway is.
+2 the is The bathroom of south bedroom.
+3 is south What the of bedroom?	bathroom	2
+1 kitchen of The north garden is the.
+2 The is office garden south the of.
+3 the What is garden south of?	kitchen	1
+1 garden the The is hallway of south.
+2 garden is north The of bedroom the.
+3 is south of bedroom What the?	garden	2
+1 the of office south hallway is The.
+2 bathroom north of is the The office.
+3 What office north is of the?	bathroom	2
+1 office hallway of The is the south.
+2 bathroom is The of south hallway the.
+3 north of hallway What is the?	bathroom	2
+1 the bedroom The of south is garden.
+2 of south bedroom hallway the is The.
+3 the is hallway of What south?	bedroom	2
+1 west is of bedroom The the hallway.
+2 is east of hallway The the bathroom.
+3 What the of is hallway east?	bedroom	1
+1 north office the bathroom is The of.
+2 the office is The garden of north.
+3 What of the is north office?	bathroom	1
+1 The of east kitchen the garden is.
+2 east kitchen the bathroom of is The.
+3 garden What east is the of?	kitchen	1
+1 of The the kitchen is south office.
+2 hallway is kitchen the north of The.
+3 of the south What kitchen is?	hallway	2
+1 east office The the of is bedroom.
+2 west office garden is of the The.
+3 the What of is office west?	garden	2
+1 the bedroom office east of The is.
+2 The is of the east hallway office.
+3 bedroom is west What of the?	office	1
+1 the bathroom is south of hallway The.
+2 north the is of The kitchen hallway.
+3 of south hallway is the What?	kitchen	2
+1 the The east is of garden office.
+2 The east bedroom garden is of the.
+3 office is the west of What?	garden	1
+1 is hallway The the office south of.
+2 The hallway of bathroom north is the.
+3 of is north the What hallway?	bathroom	2
+1 west garden is the The of office.
+2 the The office west is of bathroom.
+3 west What is of the garden?	office	1
+1 The garden hallway west of is the.
+2 the of The is west office garden.
+3 the west What is garden of?	office	2
+1 the bathroom east is of The garden.
+2 kitchen garden of The east is the.
+3 What east of bathroom is the?	garden	1
+1 bathroom The kitchen of the north is.
+2 of north The is the office bathroom.
+3 north is of the office What?	bathroom	2
+1 the of east kitchen The bedroom is.
+2 of west The hallway is bedroom the.
+3 west of the What bedroom is?	kitchen	1
+1 north of is The the bathroom office.
+2 of The hallway office north is the.
+3 bathroom the is What of south?	office	1
+1 kitchen of is the The west bedroom.
+2 the bedroom east office of is The.
+3 the bedroom east What of is?	office	2
+1 The office of is the south bedroom.
+2 the hallway The north of is bedroom.
+3 What south the office is of?	bedroom	1
+1 east The kitchen of the is bathroom.
+2 is east the garden of The bathroom.
+3 the garden is of What west?	bathroom	2
+1 the of The west bedroom hallway is.
+2 the garden is The of east bedroom.
+3 of is west What bedroom the?	garden	2
+1 the The garden is of north kitchen.
+2 the is of The hallway garden north.
+3 What is of garden north the?	hallway	2
+1 east the of The bedroom is kitchen.
+2 The of the bathroom kitchen west is.
+3 of the is west kitchen What?	bedroom	1
+1 the office west is of The kitchen.
+2 is west bedroom the of kitchen The.
+3 is What of bedroom the west?	kitchen	2
+1 kitchen bathroom the south is The of.
+2 bathroom The is of the office south.
+3 is kitchen the north of What?	bathroom	1
+1 the north bedroom office is of The.
+2 garden is The south the office of.
+3 What is of office north the?	garden	2
+1 hallway the bedroom east of is The.
+2 west bedroom garden of the is The.
+3 of is east the hallway What?	bedroom	1
+1 is hallway north The of the garden.
+2 south hallway kitchen The is of the.
+3 of hallway the is What south?	kitchen	2
+1 west bathroom of is the The office.
+2 east of office The bedroom is the.
+3 office What is west the of?	bedroom	2
+1 south the kitchen garden is The of.
+2 the south The bathroom of is kitchen.
+3 north kitchen is What of the?	bathroom	2
+1 is the hallway west The bedroom of.
+2 kitchen of The east bedroom the is.
+3 west the bedroom What is of?	hallway	1
+1 west The bedroom the kitchen is of.
+2 east kitchen of The the garden is.
+3 kitchen the of west What is?	bedroom	1
+1 The is office of the kitchen north.
+2 office The is hallway of south the.
+3 of the What south kitchen is?	office	1
+1 the The west bathroom is bedroom of.
+2 of the garden west The bathroom is.
+3 is the of west garden What?	bathroom	2
+1 bedroom is hallway north the of The.
+2 The bedroom the of north bathroom is.
+3 bathroom What is of the south?	bedroom	2
+1 of the The east kitchen is garden.
+2 The the bathroom of east kitchen is.
+3 of kitchen west the is What?	bathroom	2
+1 hallway is east the of garden The.
+2 the is east hallway The of bathroom.
+3 is of west What the hallway?	garden	1
+1 of north The the is kitchen hallway.
+2 bathroom north the is of The kitchen.
+3 south the is What kitchen of?	hallway	1
+1 bathroom office of south The is the.
+2 north is of bathroom the The bedroom.
+3 south the is of bathroom What?	office	1
+1 west bedroom of office is the The.
+2 hallway office is The of the east.
+3 the office is west of What?	hallway	2
+1 garden kitchen south the is The of.
+2 is south kitchen the of The bedroom.
+3 kitchen north What the is of?	bedroom	2
+1 the is of office garden The west.
+2 hallway garden The east of is the.
+3 is What garden the of east?	office	1
+1 The of is the north bedroom hallway.
+2 the is The office of hallway south.
+3 the is south of hallway What?	bedroom	1
+1 of garden the is east The bedroom.
+2 west is hallway the of bedroom The.
+3 What the west is garden of?	bedroom	1
+1 of office is hallway north the The.
+2 of the kitchen office is The south.
+3 is the north What of office?	hallway	1
+1 the The office hallway west of is.
+2 office The of east is kitchen the.
+3 of west What the is hallway?	office	1
+1 south is The bathroom the bedroom of.
+2 the south of bedroom The hallway is.
+3 north of is bathroom the What?	bedroom	1
+1 bedroom The is of kitchen the south.
+2 is hallway of the kitchen The south.
+3 is of hallway the What north?	kitchen	2
+1 bathroom of kitchen The west is the.
+2 east bathroom the The is of office.
+3 is What bathroom east of the?	office	2
+1 hallway The bathroom north is the of.
+2 is bathroom The the office south of.
+3 north the hallway What is of?	bathroom	1
+1 is bedroom the The north of hallway.
+2 bathroom bedroom the south The is of.
+3 of What the is north bedroom?	bathroom	2
+1 The of is garden kitchen the west.
+2 kitchen office of is the The west.
+3 What garden the west of is?	kitchen	1
+1 the bathroom is The of garden north.
+2 kitchen The is the of north bathroom.
+3 kitchen What of the is north?	bathroom	2
+1 the of The east bedroom is garden.
+2 bedroom of the is west The hallway.
+3 bedroom the What east is of?	hallway	2
+1 bedroom the is kitchen The north of.
+2 of the is The north garden bedroom.
+3 bedroom of south What the is?	garden	2
+1 the bedroom bathroom The is west of.
+2 bathroom hallway the of The east is.
+3 east What the is bathroom of?	hallway	2
+1 bedroom The the hallway is east of.
+2 garden The of the west bedroom is.
+3 is east the bedroom What of?	garden	2
+1 The of south kitchen bathroom is the.
+2 bedroom the south The is bathroom of.
+3 bathroom What is of the south?	kitchen	1
+1 garden of The the bathroom is west.
+2 garden the The kitchen of east is.
+3 garden What east the is of?	kitchen	2
+1 of bathroom is office the east The.
+2 is hallway the The west of bathroom.
+3 of east the hallway What is?	bathroom	2
+1 the of is west The hallway bedroom.
+2 of The the hallway is office west.
+3 east hallway of What is the?	office	2
+1 of The is west kitchen garden the.
+2 is west The the kitchen bedroom of.
+3 of is garden the What east?	kitchen	1
+1 The is the kitchen north bedroom of.
+2 The is of the bathroom north bedroom.
+3 bedroom What the south is of?	bathroom	2
+1 hallway the is of The west kitchen.
+2 hallway of is west garden The the.
+3 the garden east of is What?	hallway	2
+1 The the of is hallway garden south.
+2 the south kitchen is of hallway The.
+3 the south is hallway of What?	kitchen	2
+1 is of the The hallway garden west.
+2 kitchen hallway The of the is west.
+3 What west kitchen the is of?	hallway	2
+1 north The kitchen of garden is the.
+2 is the kitchen of bathroom The north.
+3 the is What garden north of?	kitchen	1
+1 of office kitchen the The east is.
+2 of west bathroom is the The kitchen.
+3 What of kitchen the west is?	office	1
+1 kitchen The north of garden is the.
+2 bathroom south is kitchen the of The.
+3 is the of What north kitchen?	bathroom	2
+1 is The bathroom the kitchen of east.
+2 garden is The bathroom east the of.
+3 is east the of kitchen What?	bathroom	1
+1 the is of garden west bedroom The.
+2 garden of The bathroom east the is.
+3 the is east What garden of?	bathroom	2
+1 office is The the north of kitchen.
+2 kitchen garden of the The is south.
+3 What is the south of office?	kitchen	1
+1 south of the hallway The is kitchen.
+2 south the garden is The of hallway.
+3 is the of kitchen north What?	hallway	1
+1 kitchen east The is bedroom of the.
+2 east is of The the bedroom hallway.
+3 bedroom of What west is the?	hallway	2
+1 The the bathroom of office is east.
+2 The kitchen is the east bathroom of.
+3 the is west of What office?	bathroom	1
+1 of is bathroom hallway the The north.
+2 hallway office The is north of the.
+3 What the office of south is?	hallway	2
+1 is bathroom of the The hallway north.
+2 north is garden of The bathroom the.
+3 hallway the is north of What?	bathroom	1
+1 hallway east the of is The bathroom.
+2 the west The bathroom is garden of.
+3 the of is bathroom east What?	garden	2
+1 of is west the bathroom kitchen The.
+2 The the garden east is kitchen of.
+3 is east What of bathroom the?	kitchen	1
+1 of kitchen south The is hallway the.
+2 is office the of The north kitchen.
+3 kitchen of the south is What?	hallway	1
+1 north is bedroom of office The the.
+2 is of office south The hallway the.
+3 What the is of office south?	hallway	2
+1 the east bedroom The is garden of.
+2 of is bedroom The the hallway east.
+3 What bedroom of west the is?	garden	1
+1 bedroom The bathroom is north of the.
+2 office of The is south the bedroom.
+3 is What the of south bedroom?	office	2
+1 the of bathroom garden The north is.
+2 The of north the is hallway bathroom.
+3 is What north garden the of?	bathroom	1
+1 of bedroom the garden The west is.
+2 the of is office bedroom east The.
+3 of What is bedroom the east?	garden	1
+1 the bathroom kitchen north is The of.
+2 of kitchen south bedroom The is the.
+3 of kitchen What is south the?	bedroom	2
+1 is the office The hallway north of.
+2 The the office is south of bedroom.
+3 south is the office of What?	hallway	1
+1 The is north bathroom of garden the.
+2 The is bedroom the garden of south.
+3 garden the What of north is?	bathroom	1
+1 of east the is hallway bathroom The.
+2 west bathroom is The garden the of.
+3 the bathroom is east What of?	hallway	1
+1 hallway the west bathroom The of is.
+2 The the of west is hallway office.
+3 of the What east office is?	hallway	2
+1 of is office east bathroom The the.
+2 The the is of west office garden.
+3 west What the office is of?	bathroom	1
+1 kitchen the bedroom of The is west.
+2 hallway is The the kitchen of west.
+3 of What west the bedroom is?	kitchen	1
+1 the of north office is hallway The.
+2 office The of north is bedroom the.
+3 is the of north hallway What?	office	1
+1 the garden south is office of The.
+2 is the north office The bathroom of.
+3 office the What of is north?	garden	1
+1 is of The the east office hallway.
+2 is hallway kitchen of The west the.
+3 is of What west hallway the?	kitchen	2
+1 is The of garden north the hallway.
+2 is the of north bedroom The garden.
+3 garden is south of What the?	bedroom	2
+1 bedroom of north The is office the.
+2 bedroom the is hallway The south of.
+3 is the What bedroom of north?	hallway	2
+1 The of the east is hallway bathroom.
+2 hallway bedroom is east of The the.
+3 is What hallway the of west?	bathroom	1
+1 north the of The is kitchen office.
+2 is of garden kitchen north The the.
+3 What of the is north garden?	kitchen	2
+1 is The south bathroom hallway of the.
+2 the bathroom The garden of is south.
+3 the bathroom What is north of?	hallway	1
+1 of hallway office The the is south.
+2 the bathroom office is south The of.
+3 of south office the is What?	bathroom	2
+1 bathroom kitchen is The the west of.
+2 east office the bathroom of is The.
+3 of bathroom What the east is?	office	2
+1 is garden the bedroom of west The.
+2 east bedroom is the hallway The of.
+3 of is What the bedroom west?	hallway	2
+1 the of office The south kitchen is.
+2 hallway of the office north The is.
+3 office south the What is of?	hallway	2
+1 the The office is north of bathroom.
+2 The the of office south is kitchen.
+3 south is office of the What?	kitchen	2
+1 office the of south garden is The.
+2 garden north of is bathroom the The.
+3 What is garden of the south?	bathroom	2
+1 hallway The is the south bedroom of.
+2 the south bathroom is bedroom of The.
+3 of north bedroom What the is?	hallway	1
+1 east hallway the of is bathroom The.
+2 is The west of garden hallway the.
+3 hallway the is east of What?	bathroom	1
+1 bathroom the east The of is hallway.
+2 the east is The hallway bedroom of.
+3 west is of the hallway What?	bedroom	2
+1 the The bathroom south garden of is.
+2 The the of office is garden south.
+3 south garden the What of is?	bathroom	1
+1 is The office of the garden east.
+2 of is the office bedroom The east.
+3 office west What of the is?	bedroom	2
+1 The is west kitchen of the bathroom.
+2 the The bathroom west bedroom is of.
+3 the is west bedroom of What?	bathroom	2
+1 office The is the east of garden.
+2 west of is The garden bathroom the.
+3 west is office of the What?	garden	1
+1 The of hallway garden south is the.
+2 the is garden of The south bedroom.
+3 south of What bedroom the is?	garden	2
+1 of is The kitchen the south garden.
+2 office of is kitchen the The south.
+3 the of office What is south?	kitchen	2
+1 bathroom of is hallway the east The.
+2 office The bathroom west is of the.
+3 is bathroom of the east What?	hallway	1
+1 of is The hallway west the bathroom.
+2 is of bathroom west kitchen The the.
+3 kitchen the is What east of?	bathroom	2
+1 bedroom The of office the is west.
+2 of is west bathroom The office the.
+3 of office the east is What?	bathroom	2
+1 The the is south of hallway office.
+2 of north is the office The bedroom.
+3 the What south of office is?	bedroom	2
+1 office of the north is kitchen The.
+2 is The hallway the south kitchen of.
+3 What of kitchen the is south?	office	1
+1 The the bedroom east garden is of.
+2 of The garden hallway east the is.
+3 of is the east garden What?	bedroom	1
+1 of bathroom bedroom east is The the.
+2 the of The office bathroom is east.
+3 the bathroom of What east is?	office	2
+1 is hallway The of kitchen north the.
+2 of the The hallway garden south is.
+3 What north hallway of the is?	kitchen	1
+1 kitchen the of The office is north.
+2 of bedroom is office the north The.
+3 is south of What the kitchen?	office	1
+1 south is the garden The hallway of.
+2 The bedroom south the is garden of.
+3 is the hallway south What of?	garden	1
+1 the kitchen The of is office south.
+2 is kitchen bathroom the The of north.
+3 south bathroom What of is the?	kitchen	2
+1 south garden hallway the of is The.
+2 north hallway bedroom the of The is.
+3 south the is What of hallway?	bedroom	2
+1 is The the east garden of kitchen.
+2 of is hallway The garden the east.
+3 east the What of garden is?	hallway	2
+1 The south of bathroom is office the.
+2 south of the office The is hallway.
+3 What is bathroom of north the?	office	1
+1 is of kitchen The the bedroom east.
+2 hallway is of The west the kitchen.
+3 west of the hallway What is?	kitchen	2
+1 The is bathroom of office west the.
+2 of the garden is east The bathroom.
+3 of east is the bathroom What?	office	1
+1 of bathroom bedroom the east The is.
+2 The garden west is the of bedroom.
+3 east is What of the bedroom?	garden	2
+1 the of office The is hallway north.
+2 The south of garden the is office.
+3 is of What north office the?	garden	2
+1 The of garden hallway is the south.
+2 south the office The garden of is.
+3 What of north the office is?	garden	2
+1 The the south of office garden is.
+2 The bathroom the is of office north.
+3 the south office is What of?	garden	1
+1 bathroom The south is kitchen the of.
+2 the kitchen The of south garden is.
+3 is south the of What kitchen?	bathroom	1
+1 the is The of garden bedroom north.
+2 is the bedroom The south office of.
+3 What south of is bedroom the?	office	2
+1 The kitchen hallway east is the of.
+2 is The office the west kitchen of.
+3 east the office of is What?	kitchen	2
+1 of office is bedroom west the The.
+2 west the bedroom is The kitchen of.
+3 What is west bedroom the of?	office	1
+1 is north hallway bedroom The of the.
+2 the The of south bedroom is bathroom.
+3 the of What south bedroom is?	hallway	1
+1 north is hallway kitchen the The of.
+2 the is The south of bathroom kitchen.
+3 What the south kitchen is of?	hallway	1
+1 hallway The of the west is bedroom.
+2 hallway The is of bathroom west the.
+3 What the west hallway of is?	bedroom	1
+1 The bedroom the west office of is.
+2 bedroom of garden The is the east.
+3 the west What is office of?	bedroom	1
+1 of is hallway The the east garden.
+2 of the The is hallway bathroom east.
+3 is east of What bathroom the?	hallway	2
+1 the is garden south The of bathroom.
+2 of garden north office The the is.
+3 garden of is south What the?	office	2
+1 hallway the east The of garden is.
+2 the hallway east The office is of.
+3 What the east of is office?	hallway	2
+1 bedroom is kitchen The north the of.
+2 is the of bedroom office The south.
+3 of south the is What bedroom?	office	2
+1 of kitchen The west is the bedroom.
+2 bedroom The is the hallway west of.
+3 the What of west bedroom is?	kitchen	1
+1 of kitchen garden The west the is.
+2 west The is the bathroom garden of.
+3 What is the west garden of?	kitchen	1
+1 hallway east The of bathroom the is.
+2 the bathroom is east of bedroom The.
+3 the What bathroom is of west?	bedroom	2
+1 office The garden west is of the.
+2 is office of kitchen the east The.
+3 of What office west is the?	kitchen	2
+1 garden the east kitchen The of is.
+2 garden the hallway of west is The.
+3 the is garden east What of?	hallway	2
+1 the north of hallway kitchen is The.
+2 the is of hallway bathroom north The.
+3 What the of is kitchen north?	hallway	1
+1 is of garden The north the bedroom.
+2 the is The of kitchen south garden.
+3 is north the What of garden?	kitchen	2
+1 is north kitchen the garden of The.
+2 of the garden south hallway is The.
+3 What is garden the north of?	hallway	2
+1 of kitchen bedroom the The west is.
+2 The is bathroom bedroom east of the.
+3 is bedroom of the What west?	kitchen	1
+1 of north The the garden hallway is.
+2 The bedroom hallway the south is of.
+3 the north What of hallway is?	garden	1
+1 garden is The bedroom of the east.
+2 The of garden hallway is the east.
+3 west What of the hallway is?	garden	2
+1 bathroom is office The of the east.
+2 hallway bathroom west The the is of.
+3 the of What bathroom is east?	hallway	2
+1 is the of kitchen bathroom north The.
+2 is of kitchen The bedroom north the.
+3 of is kitchen the south What?	bedroom	2
+1 of bathroom is The the garden east.
+2 office bathroom The east the is of.
+3 the What of is office west?	bathroom	2
+1 bedroom of kitchen The east the is.
+2 of is The bathroom east bedroom the.
+3 the east is What of bedroom?	kitchen	1
+1 of the is The west garden bedroom.
+2 The is east office the bedroom of.
+3 the bedroom east What of is?	office	2
+1 of garden kitchen west the The is.
+2 east is bathroom of kitchen The the.
+3 is of the east kitchen What?	bathroom	2
+1 The is garden bedroom east of the.
+2 is bedroom kitchen The the of west.
+3 west What is the of kitchen?	bedroom	2
+1 office is of the The south bathroom.
+2 office kitchen The south the is of.
+3 north the kitchen of What is?	office	2
+1 is The the north of hallway garden.
+2 is north The of bedroom garden the.
+3 the is bedroom of north What?	garden	2
+1 The bathroom the east of is kitchen.
+2 is east of The hallway kitchen the.
+3 is the kitchen of east What?	bathroom	1
+1 north garden of The is office the.
+2 the The south garden is bathroom of.
+3 garden the is north What of?	office	1
+1 is the bathroom hallway of The south.
+2 bedroom is north hallway the of The.
+3 of the is hallway south What?	bedroom	2
+1 of east the The bathroom is kitchen.
+2 The office kitchen the east of is.
+3 What of west kitchen the is?	office	2
+1 is garden of The kitchen the south.
+2 is south of bedroom the garden The.
+3 What bedroom of is the south?	garden	2
+1 office bathroom east is The the of.
+2 the The of is office garden west.
+3 of What west office is the?	garden	2
+1 of kitchen the south The is hallway.
+2 of is kitchen south The garden the.
+3 of north What garden is the?	kitchen	2
+1 The of west hallway office the is.
+2 is office The the of kitchen west.
+3 kitchen west the of What is?	office	2
+1 hallway is the The of east bedroom.
+2 The bedroom office of is east the.
+3 is hallway the west of What?	bedroom	1
+1 the south The bathroom office of is.
+2 the of is The bathroom bedroom north.
+3 What of is south the bathroom?	office	1
+1 of The garden the bedroom is east.
+2 kitchen The west of bedroom is the.
+3 the What of is west bedroom?	kitchen	2
+1 The kitchen of the north hallway is.
+2 of office The the hallway is south.
+3 the north is of What hallway?	office	2
+1 bedroom The garden the is of east.
+2 the is bedroom east The of hallway.
+3 hallway east of What is the?	bedroom	2
+1 the bathroom south of The is kitchen.
+2 The of south office is bathroom the.
+3 south bathroom of is What the?	office	2
+1 hallway The of is the bathroom south.
+2 is the south hallway The of bedroom.
+3 the of is north bedroom What?	hallway	2
+1 hallway is west garden The the of.
+2 west garden The of the is bathroom.
+3 the is What of east garden?	bathroom	2
+1 of is bathroom the north The hallway.
+2 bathroom The is kitchen the of south.
+3 of bathroom What north is the?	kitchen	2
+1 kitchen is of the The bedroom west.
+2 the of is The west bedroom office.
+3 west the bedroom is of What?	kitchen	1
+1 hallway the of office is The west.
+2 hallway garden The is of the west.
+3 is the What east of hallway?	garden	2
+1 The the is of north bedroom garden.
+2 The kitchen the of south garden is.
+3 south What is of garden the?	kitchen	2
+1 of is The the bedroom west hallway.
+2 the of bedroom The is west bathroom.
+3 east bedroom the of What is?	hallway	1
+1 of is office the west garden The.
+2 The office is hallway of east the.
+3 office of What the is west?	garden	1
+1 The north is the office of kitchen.
+2 the is south The kitchen of bedroom.
+3 is the of north kitchen What?	office	1
+1 the garden office is The south of.
+2 The of south the is bathroom garden.
+3 the of north office is What?	garden	1
+1 kitchen the bathroom of north is The.
+2 of north office the is kitchen The.
+3 is the office north of What?	kitchen	2
+1 the south of garden is bedroom The.
+2 south The garden is the hallway of.
+3 south is the of bedroom What?	garden	1
+1 garden south of The the hallway is.
+2 north The is the of garden kitchen.
+3 garden north the What of is?	hallway	1
+1 garden bedroom is of the west The.
+2 of bedroom the kitchen The east is.
+3 the bedroom What is east of?	garden	1
+1 bedroom The of east the bathroom is.
+2 bedroom The hallway west of is the.
+3 of What west hallway is the?	bedroom	2
+1 of hallway east bathroom the is The.
+2 east the is bedroom hallway The of.
+3 What east is of hallway the?	bathroom	1
+1 north bedroom The kitchen of is the.
+2 garden of bedroom north The is the.
+3 bedroom south of the What is?	kitchen	1
+1 garden is of the The hallway east.
+2 is office of the The garden west.
+3 east the garden of is What?	hallway	1
+1 kitchen of north hallway the The is.
+2 hallway south is the garden of The.
+3 the What hallway of south is?	kitchen	1
+1 The of kitchen bathroom the is east.
+2 office The bathroom is west of the.
+3 the east is What bathroom of?	office	2
+1 is of bathroom The south the garden.
+2 the bedroom garden of is north The.
+3 the garden What south of is?	bedroom	2
+1 west of is garden the kitchen The.
+2 kitchen the is of east bathroom The.
+3 west What of the kitchen is?	bathroom	2
+1 bathroom east of is garden The the.
+2 is office west of bathroom the The.
+3 What garden east of is the?	bathroom	1
+1 is the of south bedroom bathroom The.
+2 south The the is of bedroom hallway.
+3 of south bathroom is What the?	bedroom	1
+1 is The kitchen of bedroom west the.
+2 the of office The is bedroom east.
+3 bedroom the west What is of?	office	2
+1 kitchen the of garden is The south.
+2 The north garden the hallway of is.
+3 What of the is north garden?	hallway	2
+1 kitchen is east The the office of.
+2 office hallway the of west is The.
+3 is What office west of the?	hallway	2
+1 bathroom of bedroom is east the The.
+2 east bathroom of The the hallway is.
+3 is bathroom the What of east?	hallway	2
+1 of bedroom The kitchen west is the.
+2 The hallway is kitchen west of the.
+3 is bedroom of What the west?	kitchen	1
+1 north garden office the of is The.
+2 kitchen south of The garden the is.
+3 north What the of office is?	garden	1
+1 garden hallway the of The north is.
+2 is The bathroom of south the garden.
+3 What hallway of south the is?	garden	1
+1 The the west of is garden hallway.
+2 garden The bedroom the of is west.
+3 What garden is the east of?	hallway	1
+1 the is The east of bedroom bathroom.
+2 of bathroom the east is garden The.
+3 east bedroom the is of What?	bathroom	1
+1 office east The bedroom of is the.
+2 The garden the of office east is.
+3 is of What office east the?	garden	2
+1 east garden The hallway the is of.
+2 office of the east The is garden.
+3 is west garden What the of?	office	2
+1 bathroom the of The is garden east.
+2 east the bathroom kitchen is of The.
+3 east of What the is bathroom?	garden	1
+1 bedroom The is east the garden of.
+2 the kitchen of east The bedroom is.
+3 What of is west the bedroom?	garden	1
+1 of the is kitchen east The hallway.
+2 kitchen is The the west of garden.
+3 of kitchen the What is west?	garden	2
+1 kitchen west the of office is The.
+2 The west the of is office bathroom.
+3 of west bathroom What is the?	office	2
+1 is the The south bathroom of office.
+2 The is bathroom south the bedroom of.
+3 the What south is bedroom of?	bathroom	2
+1 is bathroom of The the bedroom south.
+2 the is The office bathroom of north.
+3 south is the What bedroom of?	bathroom	1
+1 north of bathroom The kitchen is the.
+2 the of The hallway is kitchen south.
+3 the What is of kitchen south?	bathroom	1
+1 the is east The of bedroom office.
+2 office the is of kitchen east The.
+3 of the is What east kitchen?	office	2
+1 kitchen hallway the of The is north.
+2 is the kitchen north garden of The.
+3 kitchen is What north of the?	hallway	1
+1 of is The office the bathroom east.
+2 west The is the kitchen bathroom of.
+3 What of east is bathroom the?	kitchen	2
+1 bathroom of The is the bedroom east.
+2 of bathroom The west hallway the is.
+3 west bathroom is of the What?	hallway	2
+1 is The hallway the north bathroom of.
+2 is of The south the hallway office.
+3 the of is hallway What south?	office	2
+1 of hallway kitchen west The the is.
+2 of is bathroom east the The hallway.
+3 hallway is the What of west?	bathroom	2
+1 The is the hallway of bedroom west.
+2 bedroom The is of bathroom east the.
+3 What is east the bathroom of?	bedroom	2
+1 the bathroom is north The office of.
+2 of garden office The the is north.
+3 is of office What the south?	garden	2
+1 east The of is office bedroom the.
+2 garden the of The west bedroom is.
+3 of office the is What east?	bedroom	1
+1 kitchen the north is The of hallway.
+2 is north of The hallway bedroom the.
+3 of north hallway the What is?	bedroom	2
+1 garden office is The the of west.
+2 bathroom west the The of garden is.
+3 office the is of east What?	garden	1
+1 hallway The the east kitchen of is.
+2 the east The is of kitchen bathroom.
+3 of hallway west is What the?	kitchen	1
+1 bathroom of is The west garden the.
+2 garden The west the of is office.
+3 of is What the bathroom west?	garden	1
+1 of The office east the is garden.
+2 garden of The the kitchen east is.
+3 kitchen west the of What is?	garden	2
+1 the office of bedroom is east The.
+2 is the of west office The garden.
+3 of the What office is west?	bedroom	1
+1 garden bedroom of the The is east.
+2 garden is The the of east bathroom.
+3 of garden What east the is?	bathroom	2
+1 garden kitchen The of the west is.
+2 bathroom kitchen The the is of east.
+3 the is east of What kitchen?	bathroom	2
+1 is south kitchen of the garden The.
+2 The the kitchen bedroom is of north.
+3 north What of the garden is?	kitchen	1
+1 hallway kitchen The of west is the.
+2 of is east bathroom The hallway the.
+3 What is the west hallway of?	kitchen	1
+1 west of The is the bathroom garden.
+2 is of office The the east garden.
+3 east is garden What of the?	office	2
+1 The garden of west is hallway the.
+2 is The hallway of office east the.
+3 What hallway the west is of?	office	2
+1 The garden bedroom the of is east.
+2 of west the is office The garden.
+3 east is garden What the of?	bedroom	1
+1 the is garden of The west hallway.
+2 bathroom is the west garden of The.
+3 garden What the of is east?	hallway	1
+1 of is bathroom the The east bedroom.
+2 east the bedroom The office is of.
+3 west office What of the is?	bedroom	2
+1 of is bathroom east hallway the The.
+2 is west The bathroom the office of.
+3 of What is bathroom west the?	hallway	1
+1 the office south The is of bedroom.
+2 of south The the bathroom is bedroom.
+3 of the north is What bedroom?	bathroom	2
+1 the bedroom garden west is The of.
+2 is bedroom east office the The of.
+3 of What east bedroom is the?	garden	1
+1 the of The bathroom is garden east.
+2 is the of east bathroom The bedroom.
+3 the of west garden What is?	bathroom	1
+1 of hallway south The the is bedroom.
+2 of is garden The the south hallway.
+3 is south What of the garden?	hallway	2
+1 is of south office The the bedroom.
+2 office The of is south hallway the.
+3 office is What of the south?	hallway	2
+1 the bedroom garden west The of is.
+2 kitchen The the is of garden west.
+3 east of What garden is the?	kitchen	2
+1 is of the The garden east bathroom.
+2 of the is hallway west garden The.
+3 the What west is garden of?	bathroom	1
+1 The the of east office is bathroom.
+2 hallway bathroom the is The of west.
+3 of the is What west bathroom?	office	1
+1 garden the west of is The hallway.
+2 kitchen hallway west the The is of.
+3 west the garden What of is?	hallway	1
+1 the is of north bathroom The kitchen.
+2 south is bathroom The of the hallway.
+3 What of south hallway is the?	bathroom	2
+1 of bedroom is The the hallway west.
+2 is bedroom east bathroom the The of.
+3 east is of the bedroom What?	hallway	1
+1 The south of the kitchen office is.
+2 kitchen the of The is bedroom north.
+3 south of is bedroom the What?	kitchen	2
+1 is garden hallway of the The north.
+2 is The garden kitchen the north of.
+3 the of is south What garden?	kitchen	2
+1 the of The west office bathroom is.
+2 west the of is garden The bathroom.
+3 west the of What is office?	bathroom	1
+1 is south of garden The the kitchen.
+2 of garden is The bathroom south the.
+3 bathroom What the of is south?	garden	2
+1 the bathroom garden of is west The.
+2 is the The west bedroom bathroom of.
+3 west the What is garden of?	bathroom	1
+1 office is north The of hallway the.
+2 bathroom is of the north office The.
+3 the is of north office What?	bathroom	2
+1 The of the office garden east is.
+2 is garden the east of bedroom The.
+3 What of office is east the?	garden	1
+1 is The east kitchen office the of.
+2 bathroom west kitchen is the of The.
+3 is west kitchen of the What?	bathroom	2
+1 garden office of The north is the.
+2 the of north is bedroom The garden.
+3 of is garden What south the?	office	1
+1 bedroom hallway the west of The is.
+2 is west of The bedroom bathroom the.
+3 What is bedroom the west of?	hallway	1
+1 of bedroom is hallway south The the.
+2 hallway of north bathroom the The is.
+3 the south is What of hallway?	bedroom	1
+1 of is kitchen the The east garden.
+2 The garden west is hallway the of.
+3 is east What hallway of the?	garden	2
+1 kitchen bathroom the The is north of.
+2 of is the north kitchen The hallway.
+3 What is north of kitchen the?	hallway	2
+1 is west the The garden of kitchen.
+2 the is The office garden west of.
+3 west is the office of What?	garden	2
+1 of is The office bathroom east the.
+2 is of office west The the kitchen.
+3 west office is What of the?	bathroom	1
+1 the bathroom The of is south garden.
+2 The office garden of is south the.
+3 What north garden is of the?	bathroom	1
+1 kitchen is the north of The garden.
+2 of office garden is The north the.
+3 office is of What south the?	garden	2
+1 is hallway garden south The of the.
+2 is The office of the south garden.
+3 north the hallway What is of?	garden	1
+1 The of office kitchen the is west.
+2 kitchen east is The the of hallway.
+3 of What the kitchen west is?	hallway	2
+1 The north the bathroom garden is of.
+2 is the hallway bathroom of The north.
+3 hallway What north the is of?	bathroom	2
+1 kitchen of The bedroom south the is.
+2 is garden of the The kitchen south.
+3 the What north kitchen is of?	bedroom	1
+1 of kitchen bathroom is The north the.
+2 office is the kitchen The south of.
+3 of is What kitchen south the?	bathroom	1
+1 is south of the The kitchen office.
+2 is of north bedroom The the office.
+3 is of north the office What?	bedroom	2
+1 bathroom is of east The hallway the.
+2 The west of is bathroom office the.
+3 is east of the What bathroom?	hallway	1
+1 hallway kitchen The south is of the.
+2 the of hallway is north office The.
+3 south What of the hallway is?	kitchen	1
+1 of hallway west office is the The.
+2 the west bedroom of is office The.
+3 What of west office is the?	hallway	1
+1 kitchen is office of north The the.
+2 The bedroom the south is of office.
+3 What the of office north is?	bedroom	2
+1 The of is north garden the kitchen.
+2 the of garden office north is The.
+3 is north garden of the What?	kitchen	1
+1 of is west The garden the hallway.
+2 hallway of bathroom the is The east.
+3 garden is the east What of?	hallway	1
+1 The of kitchen east bathroom the is.
+2 kitchen west the is hallway The of.
+3 kitchen What west is the of?	bathroom	1
+1 garden the hallway of is The west.
+2 hallway the east of is The kitchen.
+3 of east is hallway the What?	garden	1
+1 bedroom of The is north the bathroom.
+2 office south The is bedroom of the.
+3 of office is What the south?	bedroom	2
+1 of is bathroom The east the office.
+2 of the office east is hallway The.
+3 is What of office west the?	bathroom	1
+1 The hallway the east of is bedroom.
+2 garden of is west the The hallway.
+3 bedroom What is of east the?	hallway	1
+1 The of the bedroom is west garden.
+2 is bedroom west the kitchen The of.
+3 is the bedroom west What of?	garden	1
+1 is of the bathroom east The kitchen.
+2 bathroom The west garden the of is.
+3 is bathroom the west What of?	kitchen	1
+1 of north hallway is The bathroom the.
+2 The is north the of bathroom bedroom.
+3 of north is bedroom What the?	bathroom	2
+1 kitchen the is north The garden of.
+2 bathroom garden the The north of is.
+3 is the What south of garden?	bathroom	2
+1 east of The the garden hallway is.
+2 the hallway The east of bathroom is.
+3 the west is of hallway What?	bathroom	2
+1 of is hallway The bathroom the east.
+2 west hallway The the of is office.
+3 is hallway the east of What?	office	2
+1 the is office of east hallway The.
+2 The east of is kitchen the office.
+3 is kitchen of east the What?	office	2
+1 north the The of bathroom is kitchen.
+2 of north is bathroom the The office.
+3 kitchen is of north What the?	bathroom	1
+1 The bathroom is east the hallway of.
+2 the is office The of west bathroom.
+3 What west is of bathroom the?	office	2
+1 is of kitchen office the The east.
+2 kitchen of is the The garden west.
+3 is office west of the What?	kitchen	1
+1 bedroom is the south The office of.
+2 The south the bedroom garden of is.
+3 is south What of the bedroom?	garden	2
+1 north kitchen The of is the hallway.
+2 kitchen The garden of north the is.
+3 is the of What north kitchen?	garden	2
+1 garden the of is The bedroom south.
+2 office north is the bedroom of The.
+3 south What of bedroom the is?	office	2
+1 garden of is office the north The.
+2 of the south The kitchen office is.
+3 of office north What the is?	kitchen	2
+1 bedroom the west of is office The.
+2 hallway of bedroom east is the The.
+3 is the bedroom of west What?	hallway	2
+1 the of west The is bathroom office.
+2 The is office the east of kitchen.
+3 the west What is office of?	bathroom	1
+1 of The the north bedroom is garden.
+2 garden of south is the The bathroom.
+3 the of south What garden is?	bedroom	1
+1 The office of bathroom north the is.
+2 of office is north The the bedroom.
+3 the bathroom of is What north?	office	1
+1 east garden bedroom is The of the.
+2 The east office of is bedroom the.
+3 is the garden of What east?	bedroom	1
+1 The the is bathroom hallway of west.
+2 of the bathroom is west kitchen The.
+3 of the east What kitchen is?	bathroom	2
+1 north hallway The of is bedroom the.
+2 The of bedroom is the garden north.
+3 garden of is south What the?	bedroom	2
+1 is hallway south the The of bedroom.
+2 The office north is bedroom of the.
+3 office of What the south is?	bedroom	2
+1 of bedroom The south the is hallway.
+2 The north the bedroom garden is of.
+3 south bedroom What of is the?	hallway	1
+1 is the north garden of The hallway.
+2 hallway kitchen of the The south is.
+3 What the of is hallway north?	kitchen	2
+1 bathroom the is north of The garden.
+2 is of bathroom The bedroom north the.
+3 the What garden is of north?	bathroom	1
+1 The garden kitchen west the of is.
+2 the bedroom The garden is west of.
+3 west of What the is garden?	kitchen	1
+1 bedroom The is the hallway of north.
+2 the of south hallway The garden is.
+3 of south What hallway is the?	garden	2
+1 east the bathroom of is The office.
+2 bedroom of the office The west is.
+3 office east of the What is?	bedroom	2
+1 north The the is of garden bathroom.
+2 south The of the hallway is garden.
+3 is garden south What of the?	bathroom	1
+1 is east The the office bedroom of.
+2 of The garden the office is west.
+3 of is west the office What?	bedroom	1
+1 bedroom is the of The west bathroom.
+2 bedroom of kitchen the is west The.
+3 the bathroom is west of What?	bedroom	1
+1 kitchen hallway the The is of west.
+2 of the kitchen The office is west.
+3 is west office of What the?	kitchen	2
+1 The of is north garden the hallway.
+2 hallway south bedroom the of The is.
+3 What garden of the north is?	hallway	1
+1 south of is bathroom The the office.
+2 the is bedroom office The of north.
+3 bathroom is the south of What?	office	1
+1 is The of east the hallway office.
+2 is west garden the The of office.
+3 the office of is west What?	garden	2
+1 the hallway is The of west bedroom.
+2 hallway of east is The the garden.
+3 of is What the bedroom east?	hallway	1
+1 the office is The of garden east.
+2 of office bathroom is the The east.
+3 office west the is What of?	bathroom	2
+1 north bedroom The garden the of is.
+2 of garden south bathroom the The is.
+3 What north garden the is of?	bedroom	1
+1 south is of The bedroom the hallway.
+2 north The is of the garden bedroom.
+3 north bedroom the of What is?	hallway	1
+1 the bathroom west is The of hallway.
+2 is the hallway west office The of.
+3 of west What the hallway is?	bathroom	1
+1 is The bathroom of the east garden.
+2 is of west The bathroom bedroom the.
+3 bathroom east What of the is?	bedroom	2
+1 the east is office of kitchen The.
+2 the of is The west bedroom office.
+3 office the east is of What?	bedroom	2
+1 bedroom the of is The south bathroom.
+2 bathroom The south of the garden is.
+3 is the of What bathroom south?	garden	2
+1 bathroom The the north office is of.
+2 south The of is the bedroom office.
+3 the is of north What office?	bathroom	1
+1 the is of garden north The kitchen.
+2 the The north kitchen is hallway of.
+3 of the north What kitchen is?	hallway	2
+1 is the north of office The bathroom.
+2 bathroom of the kitchen is south The.
+3 of is bathroom the What south?	office	1
+1 bedroom The of bathroom south the is.
+2 bedroom is of north kitchen the The.
+3 the of north is What bedroom?	bathroom	1
+1 is the of The east kitchen bathroom.
+2 of bathroom the bedroom west is The.
+3 west is What the of bathroom?	kitchen	1
+1 is north office garden The the of.
+2 the is garden of The south hallway.
+3 of What is north hallway the?	garden	2
+1 The of bathroom the is south hallway.
+2 is The the bathroom north garden of.
+3 is the of What south bathroom?	hallway	1
+1 bathroom hallway the south of The is.
+2 is The south of office bathroom the.
+3 of hallway north is What the?	bathroom	1
+1 is office north of The hallway the.
+2 of bathroom is hallway The south the.
+3 office is What of the south?	hallway	1
+1 hallway the is of east The bedroom.
+2 hallway is the office west of The.
+3 What hallway of east the is?	office	2
+1 kitchen of The the office east is.
+2 bathroom The kitchen east the of is.
+3 of What bathroom is the east?	kitchen	2
+1 the north office The of hallway is.
+2 bedroom The is north the hallway of.
+3 north office is the What of?	hallway	1
+1 office of east The the bedroom is.
+2 of is east kitchen the bedroom The.
+3 is the of What west bedroom?	kitchen	2
+1 office of is the The east garden.
+2 is of The garden the hallway west.
+3 of is garden west What the?	office	1
+1 The is the of garden bedroom west.
+2 is of garden The west the kitchen.
+3 What kitchen is the east of?	garden	2
+1 is of bedroom the south The bathroom.
+2 bedroom of office The north the is.
+3 bedroom of south What is the?	office	2
+1 bathroom hallway north of the The is.
+2 hallway north the of The kitchen is.
+3 hallway south of the What is?	bathroom	1
+1 bathroom office The is the north of.
+2 bathroom north of The the garden is.
+3 What is the north of bathroom?	office	1
+1 hallway The south garden of the is.
+2 hallway is the of south kitchen The.
+3 of garden the What is north?	hallway	1
+1 east of is the kitchen garden The.
+2 is kitchen bedroom west of the The.
+3 What is kitchen of east the?	bedroom	2
+1 of kitchen east The the is bedroom.
+2 is west The hallway the of bedroom.
+3 the What bedroom east of is?	kitchen	1
+1 is bedroom south The bathroom the of.
+2 bedroom is The office of the south.
+3 the is bathroom of What south?	bedroom	1
+1 south is of The office the hallway.
+2 the The hallway of kitchen north is.
+3 south the hallway of is What?	kitchen	2
+1 The of garden west is the office.
+2 the office kitchen The is of west.
+3 office west of What the is?	kitchen	2
+1 is of the north The garden kitchen.
+2 of kitchen is bedroom The the north.
+3 the What of kitchen is north?	garden	1
+1 bathroom The the of is bedroom north.
+2 south garden The is bedroom the of.
+3 What the of is south bedroom?	bathroom	1
+1 kitchen bathroom the The of east is.
+2 kitchen garden the of is west The.
+3 What is west of the kitchen?	garden	2
+1 is bedroom of The the west bathroom.
+2 bedroom hallway The the is east of.
+3 bedroom is east of What the?	bathroom	1
+1 The bathroom is of east bedroom the.
+2 bedroom the kitchen of The is east.
+3 bathroom the west is What of?	bedroom	1
+1 of office the garden The is north.
+2 of the The is garden bathroom north.
+3 south What of is office the?	garden	1
+1 the kitchen bedroom west of The is.
+2 bathroom is kitchen The the west of.
+3 the kitchen of is east What?	bathroom	2
+1 of The hallway is the bedroom west.
+2 the kitchen The hallway is of west.
+3 hallway What is of the east?	kitchen	2
+1 the south bedroom of is The office.
+2 office is of south the The hallway.
+3 is south What of the office?	bedroom	1
+1 office The is the south of garden.
+2 of The bedroom the garden is north.
+3 is garden south of the What?	bedroom	2
+1 south office the of bathroom is The.
+2 hallway office is the of The north.
+3 What of is office the south?	bathroom	1
+1 bedroom bathroom the east of is The.
+2 hallway The bedroom of the is east.
+3 of What bathroom east is the?	bedroom	1
+1 of garden office is the The west.
+2 the west kitchen of is office The.
+3 east kitchen of is the What?	office	2
+1 The kitchen is garden south of the.
+2 The the is north bathroom of kitchen.
+3 What is kitchen the south of?	bathroom	2
+1 is kitchen the east garden The of.
+2 garden of hallway The west is the.
+3 the west What is hallway of?	garden	2
+1 the is bedroom The south bathroom of.
+2 is The garden bathroom of north the.
+3 is of bathroom What south the?	garden	2
+1 north the hallway office is The of.
+2 office of bathroom south The the is.
+3 north What office is the of?	hallway	1
+1 office The bathroom is the of south.
+2 The of south hallway bathroom the is.
+3 the of is south bathroom What?	hallway	2
+1 of The bedroom garden the is south.
+2 The the south office of is bedroom.
+3 south is bedroom of the What?	office	2
+1 east garden hallway of is The the.
+2 of the east is garden bathroom The.
+3 of hallway east is the What?	garden	1
+1 is of north bathroom bedroom The the.
+2 The the of office bedroom north is.
+3 is of the office south What?	bedroom	2
+1 west kitchen of office is The the.
+2 hallway is kitchen The the west of.
+3 What of hallway west the is?	kitchen	2
+1 south kitchen of hallway the The is.
+2 kitchen the south garden The is of.
+3 is of What south garden the?	kitchen	2
+1 bedroom of the bathroom east is The.
+2 east The the is bedroom of hallway.
+3 of is hallway the What east?	bedroom	2
+1 is The bedroom south kitchen the of.
+2 office is The the south bedroom of.
+3 south is kitchen What the of?	bedroom	1
+1 is the The kitchen office west of.
+2 kitchen is the of east The hallway.
+3 west hallway is the What of?	kitchen	2
+1 of is the The bedroom west hallway.
+2 bedroom is garden the The of east.
+3 the hallway west is of What?	bedroom	1
+1 is The of bathroom east the garden.
+2 the kitchen garden is east The of.
+3 What is garden west of the?	kitchen	2
+1 of the The west kitchen bathroom is.
+2 east The the is hallway of bathroom.
+3 of the east is What bathroom?	hallway	2
+1 The of is office west the garden.
+2 The the west is office kitchen of.
+3 What of the west is garden?	office	1
+1 The bathroom the office east of is.
+2 of garden the The is west bathroom.
+3 What bathroom of is west the?	garden	2
+1 the is of south garden office The.
+2 office south The of is the kitchen.
+3 garden of What the is north?	office	1
+1 west is garden the of The office.
+2 of the east office bathroom is The.
+3 office of What the is west?	garden	1
+1 the west of bedroom office The is.
+2 hallway bedroom the east is The of.
+3 What of bedroom the is east?	office	1
+1 south of kitchen The is the hallway.
+2 the kitchen The south bedroom is of.
+3 south What the bedroom of is?	kitchen	2
+1 The bathroom north of is the kitchen.
+2 hallway The the south bathroom is of.
+3 is the north What of bathroom?	hallway	2
+1 the of is The hallway east kitchen.
+2 of kitchen The bedroom is west the.
+3 west is the What kitchen of?	bedroom	2
+1 garden hallway east of is The the.
+2 the office of is The west garden.
+3 the garden of is What west?	office	2
+1 of bathroom east the is The hallway.
+2 east of office The is bathroom the.
+3 hallway is of the What east?	bathroom	1
+1 The garden is of bathroom east the.
+2 the The hallway east is of bathroom.
+3 of What west garden is the?	bathroom	1
+1 is east bedroom The office the of.
+2 office of kitchen the The is east.
+3 of What is office the east?	bedroom	1
+1 of east hallway the bathroom The is.
+2 of the office The hallway is east.
+3 office the is What west of?	hallway	2
+1 the The is of north bathroom bedroom.
+2 the is of kitchen The north bathroom.
+3 south of the is What bedroom?	bathroom	1
+1 west the is hallway The bathroom of.
+2 of kitchen The is bathroom west the.
+3 west the is of bathroom What?	kitchen	2
+1 garden of office is south The the.
+2 is kitchen north of office the The.
+3 is the of garden north What?	office	1
+1 the hallway is north of kitchen The.
+2 kitchen garden of north is the The.
+3 is garden north the of What?	kitchen	2
+1 bedroom of The the kitchen west is.
+2 The hallway of is bedroom the east.
+3 the kitchen is of What west?	bedroom	1
+1 garden of north is hallway the The.
+2 the is south The hallway of bathroom.
+3 is What hallway of south the?	bathroom	2
+1 is hallway north kitchen the of The.
+2 hallway the is north of bathroom The.
+3 is of kitchen the north What?	hallway	1
+1 is the The garden of bedroom south.
+2 The the of is office north garden.
+3 office north the What of is?	garden	2
+1 The west bedroom the is of kitchen.
+2 west bedroom is hallway the of The.
+3 What east is the of kitchen?	bedroom	1
+1 is The garden of hallway the east.
+2 the The west hallway bedroom is of.
+3 hallway east the What of is?	garden	1
+1 north is hallway office of The the.
+2 the bedroom south hallway is The of.
+3 of is the south What hallway?	bedroom	2
+1 hallway east kitchen the The is of.
+2 of the The bathroom west is kitchen.
+3 kitchen east What the of is?	hallway	1
+1 bathroom the north of The office is.
+2 kitchen is the north office The of.
+3 of office is What the south?	bathroom	1
+1 south the bathroom of The bedroom is.
+2 The north the hallway is of bedroom.
+3 south What the bedroom is of?	hallway	2
+1 is hallway south the The bedroom of.
+2 hallway the of bathroom The north is.
+3 the What of north bathroom is?	hallway	2
+1 west the of is bathroom The hallway.
+2 is the bathroom east The garden of.
+3 east is bathroom of What the?	garden	2
+1 is the of The kitchen south garden.
+2 The is hallway north kitchen the of.
+3 the is south of kitchen What?	garden	1
+1 The is the garden of office south.
+2 hallway the is of The south garden.
+3 is of the What garden south?	office	1
+1 hallway office The west is the of.
+2 east of the is bedroom The office.
+3 west is of the office What?	bedroom	2
+1 is of The north hallway the bedroom.
+2 south the kitchen is hallway The of.
+3 is of north bedroom What the?	hallway	1
+1 office of north is the The bedroom.
+2 of south bedroom the kitchen The is.
+3 bedroom north is of the What?	office	1
+1 south bedroom The of the is office.
+2 of is The bedroom kitchen the north.
+3 What the office north is of?	bedroom	1
+1 kitchen The is office of west the.
+2 the of kitchen garden is The east.
+3 of the office is What east?	kitchen	1
+1 north is the The hallway bathroom of.
+2 of is bathroom bedroom the north The.
+3 the bathroom What is south of?	hallway	1
+1 east is of hallway The garden the.
+2 is the The garden east bedroom of.
+3 is hallway the What east of?	garden	1
+1 the of is The hallway east kitchen.
+2 is the east office The of kitchen.
+3 What kitchen is the east of?	office	2
+1 bedroom north The garden the of is.
+2 the is south hallway garden The of.
+3 What north the is garden of?	bedroom	1
+1 west hallway bathroom of the The is.
+2 bedroom west of The the bathroom is.
+3 is of the east bathroom What?	hallway	1
+1 of east hallway is bedroom The the.
+2 east office The of bedroom is the.
+3 west of hallway is the What?	bedroom	1
+1 the west is bathroom The garden of.
+2 is kitchen east The bathroom of the.
+3 bathroom of west is What the?	garden	1
+1 the The north office of bedroom is.
+2 the office of is south The garden.
+3 office is of the north What?	bedroom	1
+1 the hallway bedroom The of south is.
+2 the of hallway The north is kitchen.
+3 north the hallway is What of?	bedroom	1
+1 The kitchen south is garden of the.
+2 bathroom the is The of south garden.
+3 of garden north the What is?	bathroom	2
+1 the hallway bathroom east The of is.
+2 hallway west The is office of the.
+3 is the What of hallway east?	office	2
+1 of is north bathroom The kitchen the.
+2 kitchen the of bedroom is The south.
+3 bedroom the is of What south?	kitchen	2
+1 the is of The west office hallway.
+2 west is garden The office of the.
+3 of What office is the east?	hallway	1
+1 bedroom the is north of The garden.
+2 garden hallway is The south the of.
+3 north the garden is of What?	hallway	2
+1 is office the north The of garden.
+2 of north the is The office bedroom.
+3 north office is the What of?	garden	1
+1 is the of hallway kitchen north The.
+2 The hallway of south the garden is.
+3 hallway of is What north the?	garden	2
+1 the office is south The of bedroom.
+2 the The of south bathroom is office.
+3 of the north What office is?	bathroom	2
+1 is hallway east the kitchen The of.
+2 hallway of garden The the is west.
+3 hallway the is What of west?	garden	2
+1 office The is of north the bathroom.
+2 of south kitchen is the bathroom The.
+3 bathroom south What of is the?	office	1
+1 The the is north of hallway office.
+2 The garden office is north of the.
+3 hallway What north of is the?	office	1
+1 of the east bathroom garden The is.
+2 hallway is the east The bathroom of.
+3 is What bathroom east of the?	hallway	2
+1 the of The bedroom is hallway north.
+2 south bedroom of The bathroom the is.
+3 south What of the is bedroom?	bathroom	2
+1 kitchen the The east bathroom of is.
+2 bathroom The is west the hallway of.
+3 of is west the What bathroom?	hallway	2
+1 south of The is the bedroom hallway.
+2 is The kitchen north the of bedroom.
+3 What of bedroom south is the?	kitchen	2
+1 the west garden bedroom of is The.
+2 the bathroom east The of bedroom is.
+3 west is bedroom the What of?	garden	1
+1 office the garden is south The of.
+2 of The the is office north kitchen.
+3 What is north the of office?	garden	1
+1 bedroom The of the south is bathroom.
+2 of bathroom north is garden the The.
+3 north is of the bathroom What?	garden	2
+1 The is of garden north the bedroom.
+2 of is The south office garden the.
+3 garden of the south What is?	office	2
+1 of is office the The garden east.
+2 of is the bathroom garden The west.
+3 of garden the What is west?	bathroom	2
+1 bedroom hallway west is of The the.
+2 of garden is The bedroom the west.
+3 What bedroom the of east is?	garden	2
+1 office the south of hallway The is.
+2 of The bedroom is the office south.
+3 What office south is of the?	hallway	1
+1 kitchen is of south The bathroom the.
+2 of The garden is the north kitchen.
+3 of south is garden What the?	kitchen	2
+1 the hallway of west is The bedroom.
+2 The garden hallway of is the west.
+3 is of the west What bedroom?	hallway	1
+1 of The the bedroom east bathroom is.
+2 is the office of The bedroom east.
+3 is of west What the bedroom?	office	2
+1 the is kitchen The hallway of west.
+2 of garden west kitchen The the is.
+3 is of east the garden What?	kitchen	2
+1 is garden The north the bathroom of.
+2 bedroom The the north of is garden.
+3 What bedroom south of the is?	garden	2
+1 east hallway of bedroom the The is.
+2 kitchen west hallway of the The is.
+3 What hallway east of the is?	kitchen	2
+1 is east hallway the kitchen of The.
+2 hallway is The the west garden of.
+3 the hallway of east What is?	garden	2
+1 the hallway of south is garden The.
+2 of north bedroom is garden the The.
+3 the of What is south garden?	bedroom	2
+1 office The bedroom the east is of.
+2 bedroom is garden The east of the.
+3 garden of is What east the?	bedroom	2
+1 The is hallway east the kitchen of.
+2 is west bedroom hallway The of the.
+3 west hallway is What the of?	kitchen	1
+1 the bedroom west of hallway is The.
+2 The west of the hallway office is.
+3 bedroom What east the of is?	hallway	1
+1 hallway north the The of is bathroom.
+2 bedroom The north of hallway is the.
+3 is What south bathroom of the?	hallway	1
+1 of north kitchen garden the The is.
+2 office of south The kitchen the is.
+3 is north of the What kitchen?	garden	1
+1 garden kitchen The of is the east.
+2 is the bathroom west garden of The.
+3 of kitchen east What is the?	garden	1
+1 garden of is north The the bathroom.
+2 of The south the bathroom office is.
+3 the north is What bathroom of?	office	2
+1 is hallway west The of the kitchen.
+2 is The hallway office of the west.
+3 What office east of the is?	hallway	2
+1 The is the east of bedroom office.
+2 hallway west the of is bedroom The.
+3 east What bedroom the is of?	hallway	2
+1 north office of The is the hallway.
+2 is hallway bedroom of The south the.
+3 hallway north the of What is?	office	1
+1 the bedroom west is of The kitchen.
+2 The office is of west the bedroom.
+3 of the kitchen west is What?	bedroom	1
+1 bathroom The the of south hallway is.
+2 of the The north is kitchen hallway.
+3 the What of bathroom south is?	hallway	1
+1 east of hallway the is The office.
+2 the garden hallway west is The of.
+3 east of hallway is the What?	office	1
+1 is of bathroom The hallway west the.
+2 is hallway of the bedroom The east.
+3 hallway east is the What of?	bathroom	1
+1 the of bedroom hallway The north is.
+2 is north kitchen The the of bedroom.
+3 north the What is bedroom of?	hallway	1
+1 north is the garden of The bedroom.
+2 of bedroom is north office the The.
+3 south is the What garden of?	bedroom	1
+1 of is bedroom The office south the.
+2 is the The hallway north bedroom of.
+3 bedroom of is the What south?	office	1
+1 bathroom east is the garden The of.
+2 hallway garden of is east The the.
+3 is the garden east of What?	bathroom	1
+1 is west the of The garden kitchen.
+2 garden The is east of the office.
+3 west garden the is of What?	kitchen	1
+1 the bathroom The is west garden of.
+2 The of bedroom bathroom west is the.
+3 the What of east bedroom is?	bathroom	2
+1 The bathroom is garden the of north.
+2 is office south The the bathroom of.
+3 bathroom the is of south What?	garden	1
+1 the The west is of garden office.
+2 garden east is kitchen the of The.
+3 What of the garden west is?	kitchen	2
+1 The the north bedroom is of bathroom.
+2 kitchen of The is north bedroom the.
+3 is What kitchen south the of?	bedroom	2
+1 The garden is the west of office.
+2 kitchen office is The of east the.
+3 is east of office What the?	kitchen	2
+1 bathroom the east of is garden The.
+2 west is the The bathroom of hallway.
+3 of is bathroom west the What?	hallway	2
+1 The west of is hallway the kitchen.
+2 hallway garden the The east of is.
+3 of is What west garden the?	hallway	2
+1 east the kitchen of is bedroom The.
+2 garden of the The kitchen west is.
+3 What of kitchen is west the?	bedroom	1
+1 kitchen The the is office east of.
+2 is west of The office bedroom the.
+3 west of What is office the?	kitchen	1
+1 bedroom of hallway west The is the.
+2 of The bedroom east the bathroom is.
+3 bedroom What is of west the?	bathroom	2
+1 is office bathroom The east the of.
+2 hallway west of bathroom is the The.
+3 of the is hallway west What?	bathroom	2
+1 is north The bedroom of garden the.
+2 the north hallway is garden of The.
+3 of is north the garden What?	bedroom	1
+1 The is kitchen of hallway the north.
+2 The of is kitchen bathroom south the.
+3 south bathroom What is the of?	kitchen	2
+1 east garden The the of is office.
+2 west is the The office kitchen of.
+3 the east of What is office?	kitchen	2
+1 The is office north the kitchen of.
+2 The office of the bathroom north is.
+3 of north is the office What?	bathroom	2
+1 hallway is north of The the bedroom.
+2 The hallway of north is the office.
+3 is north office What of the?	hallway	2
+1 The the bathroom is of garden east.
+2 garden west bedroom the of is The.
+3 the west of garden is What?	bedroom	2
+1 is office The east the kitchen of.
+2 the of west bedroom kitchen The is.
+3 is What the of kitchen west?	office	1
+1 is The bathroom of east bedroom the.
+2 The garden of the bedroom is west.
+3 the of is What bedroom west?	bathroom	1
+1 south of kitchen The is the bathroom.
+2 The north office of the is bathroom.
+3 south the bathroom What of is?	office	2
+1 office is south bathroom The of the.
+2 north the bathroom of is The hallway.
+3 is bathroom of north the What?	hallway	2
+1 the The kitchen of south office is.
+2 kitchen The of the garden is north.
+3 What the is south kitchen of?	garden	2
+1 hallway The north the office of is.
+2 of hallway north kitchen is The the.
+3 south is of What the hallway?	kitchen	2
+1 east The of bedroom office the is.
+2 of The bathroom the bedroom is east.
+3 west bedroom the What is of?	office	1
+1 kitchen hallway east The the of is.
+2 of is The garden west hallway the.
+3 the garden of east is What?	hallway	2
+1 office the of south is The bedroom.
+2 The north bedroom is of the kitchen.
+3 the bedroom of is What south?	kitchen	2
+1 of east the is office hallway The.
+2 is kitchen hallway of The west the.
+3 west of is hallway What the?	office	1
+1 north of The is bedroom garden the.
+2 is hallway The south the of bedroom.
+3 bedroom What the is north of?	hallway	2
+1 west The is the garden bedroom of.
+2 is west of garden The the bathroom.
+3 the What bedroom west is of?	garden	1
+1 south the of bedroom office is The.
+2 the south is hallway office of The.
+3 is office What south the of?	hallway	2
+1 The of kitchen south office the is.
+2 is south the garden The kitchen of.
+3 is the garden What of south?	kitchen	2
+1 the kitchen bedroom is of The west.
+2 the office is The bedroom west of.
+3 What bedroom the is east of?	office	2
+1 of The kitchen office is south the.
+2 bathroom the north is The kitchen of.
+3 of south kitchen What the is?	office	1
+1 bathroom of the The kitchen east is.
+2 The east of office is the kitchen.
+3 the west of kitchen What is?	bathroom	1
+1 of is south garden office the The.
+2 office is The south hallway of the.
+3 north office is of What the?	hallway	2
+1 bathroom of east the The is hallway.
+2 bathroom The the east is of kitchen.
+3 kitchen is What the of east?	bathroom	2
+1 the is east hallway office The of.
+2 kitchen The is of the east hallway.
+3 the is east of What hallway?	office	1
+1 west office The the is bedroom of.
+2 the kitchen of is west The bedroom.
+3 west is of the What bedroom?	kitchen	2
+1 office east of the is The garden.
+2 bedroom of is office west The the.
+3 is office west What of the?	garden	1
+1 the is east bedroom of The office.
+2 The the east of bedroom hallway is.
+3 east is What of the office?	bedroom	1
+1 office the bathroom west is The of.
+2 bathroom the The east is of garden.
+3 of west What the bathroom is?	office	1
+1 The east kitchen of the garden is.
+2 east kitchen bathroom the The is of.
+3 What the of is kitchen west?	bathroom	2
+1 garden The is south bedroom the of.
+2 The north garden bathroom of the is.
+3 the What is south of garden?	bathroom	2
+1 office of hallway The is the east.
+2 is of The bathroom hallway the west.
+3 the office is What of east?	hallway	1
+1 north the hallway is of bathroom The.
+2 The north the is of kitchen bathroom.
+3 bathroom of What the south is?	kitchen	2
+1 the kitchen is bedroom of The south.
+2 hallway the is The north of bedroom.
+3 bedroom is What north of the?	hallway	2
+1 The south kitchen garden of the is.
+2 the garden north The office of is.
+3 is the of north office What?	garden	2
+1 The is kitchen of south the bathroom.
+2 the is south The of bedroom kitchen.
+3 south of the kitchen What is?	bedroom	2
+1 The is west garden of hallway the.
+2 west The garden of the kitchen is.
+3 is garden What west the of?	hallway	1
+1 kitchen office the is of east The.
+2 east of bedroom is office the The.
+3 west of is kitchen What the?	office	1
+1 of bedroom kitchen is the north The.
+2 is of The bedroom the north bathroom.
+3 the of What north is bedroom?	kitchen	1
+1 north The bedroom hallway is of the.
+2 The kitchen of south hallway is the.
+3 bedroom What is of the south?	hallway	1
+1 garden kitchen east The the is of.
+2 west the of The is hallway kitchen.
+3 What of west kitchen is the?	hallway	2
+1 bedroom is south of kitchen the The.
+2 kitchen The is the north hallway of.
+3 bedroom What the of is north?	kitchen	1
+1 The is of garden bedroom the south.
+2 office bedroom the of The is south.
+3 the is north What bedroom of?	office	2
+1 the The is office west of garden.
+2 office The is the hallway of east.
+3 office What of is the east?	hallway	2
+1 is of hallway south The the office.
+2 garden hallway of the south is The.
+3 north is office What of the?	hallway	1
+1 office the The of is hallway east.
+2 of east is bedroom hallway The the.
+3 the east of is bedroom What?	hallway	2
+1 garden west office is of the The.
+2 The hallway office of east the is.
+3 office What of the is east?	garden	1
+1 The north bedroom office of the is.
+2 bedroom is of The the south bathroom.
+3 What north bedroom the of is?	office	1
+1 of bedroom garden north the The is.
+2 bedroom is kitchen north the The of.
+3 What the of is north bedroom?	kitchen	2
+1 is garden office of north the The.
+2 hallway of office is The south the.
+3 What of south office the is?	hallway	2
+1 east The kitchen the is of office.
+2 of is bathroom the office The east.
+3 west of is What office the?	bathroom	2
+1 garden is east The the kitchen of.
+2 is of The west bedroom the garden.
+3 garden east of is What the?	bedroom	2
+1 is the office The north kitchen of.
+2 the north of is bathroom office The.
+3 kitchen of What south is the?	office	1
+1 garden the south The of office is.
+2 north of office the The is kitchen.
+3 south office the is of What?	kitchen	2
+1 the south is office The bathroom of.
+2 The is of garden north the office.
+3 is What the north office of?	garden	2
+1 west the The kitchen is bathroom of.
+2 of bathroom is east the office The.
+3 the What kitchen is west of?	bathroom	1
+1 bedroom office of is east the The.
+2 office is The east kitchen the of.
+3 What east of bedroom the is?	office	1
+1 The north of the is garden bedroom.
+2 The office is the garden south of.
+3 the garden What of north is?	office	2
+1 the west of The hallway bedroom is.
+2 of east The the bedroom is bathroom.
+3 east of is bedroom What the?	bathroom	2
+1 The bedroom of bathroom is south the.
+2 the of is bathroom north The office.
+3 What bathroom is the of south?	office	2
+1 of east kitchen garden the The is.
+2 The bedroom west kitchen is of the.
+3 of is the What kitchen east?	garden	1
+1 The west is the bathroom of bedroom.
+2 kitchen of is the bathroom east The.
+3 the What kitchen is east of?	bathroom	2
+1 south bathroom office the is The of.
+2 The is of bedroom office north the.
+3 office What north the of is?	bathroom	1
+1 kitchen the is west The hallway of.
+2 bathroom is The the west of hallway.
+3 is hallway west of the What?	bathroom	2
+1 is the of garden east office The.
+2 is west the bedroom of The office.
+3 the east office of is What?	bedroom	2
+1 office the The is east of bedroom.
+2 The east the of office is bathroom.
+3 the What of office east is?	bedroom	1
+1 north the The of bathroom is bedroom.
+2 the of south is The bedroom kitchen.
+3 is What north of the kitchen?	bedroom	2
+1 of east kitchen bedroom is The the.
+2 is office west the of The kitchen.
+3 the of west What is kitchen?	bedroom	1
+1 the of east is garden bathroom The.
+2 The is kitchen of garden west the.
+3 garden of the east What is?	kitchen	2
+1 The is of office kitchen the west.
+2 office bedroom the The of is west.
+3 of What is east the office?	kitchen	1
+1 kitchen of the east is bedroom The.
+2 west kitchen hallway The is of the.
+3 bedroom of What is east the?	kitchen	1
+1 The the garden is kitchen of east.
+2 of is the garden bedroom The west.
+3 is garden What of east the?	bedroom	2
+1 the hallway west of The is office.
+2 bedroom the of is The hallway east.
+3 the What is east of hallway?	office	1
+1 The of west office is the bedroom.
+2 kitchen is The the west of office.
+3 What east of bedroom the is?	office	1
+1 hallway the of garden is The east.
+2 the office of west The is hallway.
+3 east the What hallway of is?	garden	1
+1 The of bedroom west bathroom the is.
+2 garden is The the bathroom of east.
+3 west of What is the bathroom?	garden	2
+1 the hallway The is office of east.
+2 office is the of west The bedroom.
+3 bedroom the west of is What?	office	2
+1 is The the east office of hallway.
+2 west is The the bedroom hallway of.
+3 hallway What is of east the?	bedroom	2
+1 the of east The bathroom bedroom is.
+2 the west of bedroom The kitchen is.
+3 is of the east What bedroom?	bathroom	1
+1 The office north is garden of the.
+2 of garden the north The bedroom is.
+3 north is bedroom What the of?	garden	2
+1 of The the is garden bedroom north.
+2 the south hallway of bedroom The is.
+3 is south What of bedroom the?	hallway	2
+1 south is of The the hallway office.
+2 of north is garden The hallway the.
+3 is north hallway of What the?	office	1
+1 office is The the west bedroom of.
+2 garden the The bedroom is east of.
+3 the of What east is bedroom?	garden	2
+1 is the The hallway north bedroom of.
+2 The south the hallway kitchen is of.
+3 the is south of What hallway?	kitchen	2
+1 hallway The west of the is garden.
+2 east the office is garden The of.
+3 west is What of garden the?	hallway	1
+1 the The office bathroom is of west.
+2 The the hallway west of bathroom is.
+3 is west What of bathroom the?	hallway	2
+1 The hallway east is of office the.
+2 the kitchen east The is office of.
+3 of the What kitchen west is?	office	2
+1 south bathroom garden The the is of.
+2 is bedroom the The of garden south.
+3 of the is What north garden?	bedroom	2
+1 kitchen the of is The garden east.
+2 The is the garden bedroom east of.
+3 What is garden of the east?	kitchen	1
+1 The the garden hallway south of is.
+2 of is south bedroom The the garden.
+3 is hallway south the of What?	garden	1
+1 east The kitchen the garden of is.
+2 west bedroom garden of is the The.
+3 kitchen What of the east is?	garden	1
+1 The of the kitchen is west garden.
+2 the of The is east office kitchen.
+3 of What the east garden is?	kitchen	1
+1 The the east bathroom of is garden.
+2 The west the is of bathroom office.
+3 the bathroom of What west is?	office	2
+1 office is the bedroom of south The.
+2 hallway The is the of office south.
+3 is of What south the office?	bedroom	1
+1 bathroom The is east of the garden.
+2 east bedroom of The is the bathroom.
+3 is What the east of garden?	bathroom	1
+1 the bedroom garden of The south is.
+2 The the of is office garden north.
+3 What the is south garden of?	office	2
+1 is hallway The the of south kitchen.
+2 the The of south bedroom is hallway.
+3 north is the of hallway What?	kitchen	1
+1 garden office the of south is The.
+2 garden the of is bedroom The south.
+3 the is north What of office?	garden	1
+1 is of west garden The the office.
+2 bathroom east office the The of is.
+3 What the east office is of?	garden	1
+1 hallway garden the of is north The.
+2 is south office of garden The the.
+3 the of garden south What is?	hallway	1
+1 is the of garden north hallway The.
+2 The the of is north garden bedroom.
+3 is of What the garden north?	hallway	1
+1 the garden bathroom west The is of.
+2 garden the is The east office of.
+3 the is garden west of What?	bathroom	1
+1 of kitchen west bedroom the The is.
+2 east The is of the bedroom garden.
+3 is the east of What bedroom?	garden	2
+1 kitchen of The south is the garden.
+2 kitchen is hallway The south the of.
+3 the garden is of What north?	kitchen	1
+1 the is garden kitchen north The of.
+2 is of The bathroom north the kitchen.
+3 What of is the south garden?	kitchen	1
+1 The office east is the bedroom of.
+2 The kitchen east the of is bedroom.
+3 bedroom west of the What is?	kitchen	2
+1 garden is bathroom of The the west.
+2 of bedroom garden is The the east.
+3 garden west of is the What?	bedroom	2
+1 the north garden kitchen of is The.
+2 hallway The is north of garden the.
+3 What is kitchen the of north?	garden	1
+1 north the is bedroom bathroom of The.
+2 bathroom is The office the of north.
+3 of the north What is bathroom?	bedroom	1
+1 is garden of north bedroom the The.
+2 north bathroom bedroom The is of the.
+3 What south of is the bedroom?	garden	1
+1 office is bedroom The south the of.
+2 south The of is kitchen office the.
+3 the of is What bedroom south?	office	1
+1 The of west the office is garden.
+2 hallway office east is of The the.
+3 is the of east office What?	hallway	2
+1 the The bedroom north of kitchen is.
+2 kitchen is office south of The the.
+3 south What is of kitchen the?	office	2
+1 is hallway north The of garden the.
+2 bathroom north is The hallway of the.
+3 hallway What is of the south?	garden	1
+1 The hallway north of office the is.
+2 garden The hallway of south is the.
+3 is What of the north hallway?	office	1
+1 bathroom is east of the The office.
+2 hallway The west of is the office.
+3 east of the hallway is What?	office	2
+1 The of the east is garden bathroom.
+2 The kitchen is of the west bathroom.
+3 bathroom east What of the is?	garden	1
+1 office is The of the east bedroom.
+2 office east hallway is The the of.
+3 of the What east is office?	hallway	2
+1 of west office the is The hallway.
+2 the office of bathroom west The is.
+3 is bathroom west the of What?	office	2
+1 south kitchen the is The office of.
+2 garden is north of kitchen the The.
+3 is the north garden of What?	kitchen	2
+1 The is kitchen south the bedroom of.
+2 bathroom the The is bedroom north of.
+3 north is of the What bathroom?	bedroom	2
+1 The of hallway is garden north the.
+2 south garden the is of office The.
+3 of is What garden south the?	office	2
+1 the kitchen south is bathroom The of.
+2 bedroom south kitchen of is The the.
+3 kitchen the of south is What?	bathroom	1
+1 kitchen bathroom east is The of the.
+2 garden bathroom is the The of west.
+3 of the west What is bathroom?	garden	2
+1 kitchen hallway of The is north the.
+2 south kitchen The of the is bedroom.
+3 the south of is hallway What?	kitchen	1
+1 hallway east The the of is bedroom.
+2 of The west bedroom the office is.
+3 the is bedroom What west of?	office	2
+1 the of bedroom east The office is.
+2 office is bathroom The east the of.
+3 is the west bathroom of What?	office	2
+1 south The of the kitchen office is.
+2 The is north office the bathroom of.
+3 north office the of is What?	kitchen	1
+1 east is of bedroom the hallway The.
+2 garden is of bedroom The the east.
+3 the is of hallway What west?	bedroom	1
+1 of the bathroom is south The garden.
+2 bathroom office the of south is The.
+3 north What of bathroom the is?	office	2
+1 of bedroom west the The kitchen is.
+2 The the office west is kitchen of.
+3 east the bedroom What of is?	kitchen	1
+1 office The west is hallway the of.
+2 office The the kitchen west of is.
+3 What the is of west kitchen?	office	2
+1 of is bedroom the office east The.
+2 east is of the office kitchen The.
+3 the bedroom east is What of?	office	1
+1 north The the is hallway of bedroom.
+2 The kitchen of is north bedroom the.
+3 of kitchen is What the north?	bedroom	2
+1 bedroom The of is the office south.
+2 hallway the south of is The bedroom.
+3 south What of office is the?	bedroom	1
+1 kitchen of is bedroom east The the.
+2 The is garden of west the kitchen.
+3 kitchen the What of is east?	bedroom	1
+1 bathroom west of The is office the.
+2 of east hallway office the is The.
+3 east the office is What of?	hallway	2
+1 the garden kitchen is north The of.
+2 the north The bedroom of garden is.
+3 garden the What north is of?	kitchen	1
+1 office of the The is garden south.
+2 hallway of north the is office The.
+3 is office What of south the?	hallway	2
+1 the east kitchen is garden of The.
+2 garden of hallway the The east is.
+3 the hallway What is of west?	garden	2
+1 north bedroom The the of is hallway.
+2 of is hallway south office the The.
+3 What north the is hallway of?	office	2
+1 The the bathroom north hallway is of.
+2 the is kitchen of bathroom north The.
+3 north What the is kitchen of?	bathroom	2
+1 is the west office of The hallway.
+2 The office of is west the bathroom.
+3 east of office the is What?	bathroom	2
+1 north is of bathroom garden the The.
+2 the south The garden of is office.
+3 south the What of is bathroom?	garden	1
+1 the is kitchen hallway The of south.
+2 hallway bedroom The is the of south.
+3 bedroom of What north is the?	hallway	2
+1 west office of is garden The the.
+2 office bedroom The east is of the.
+3 of east is the office What?	bedroom	2
+1 The garden of the north bedroom is.
+2 office of is the garden south The.
+3 of south is the What garden?	bedroom	1
+1 of north is the bathroom The hallway.
+2 The kitchen the hallway is north of.
+3 north the What of hallway is?	bathroom	1
+1 garden the hallway of The is west.
+2 of bathroom hallway the is east The.
+3 is east of What the hallway?	garden	1
+1 The hallway is the of east bedroom.
+2 is hallway kitchen The of the west.
+3 is west the What hallway of?	kitchen	2
+1 kitchen The of east the is bathroom.
+2 bathroom The garden west is of the.
+3 bathroom What the west of is?	garden	2
+1 the south bathroom is of The garden.
+2 hallway north is the The of bathroom.
+3 north is What of the bathroom?	hallway	2
+1 hallway south is the kitchen The of.
+2 north kitchen is bathroom the of The.
+3 kitchen is south the of What?	hallway	1
+1 the bedroom The south of kitchen is.
+2 south The of kitchen is the hallway.
+3 south is hallway the of What?	kitchen	2
+1 The the hallway east of garden is.
+2 garden is bedroom the of west The.
+3 the What west of garden is?	hallway	1
+1 The of bedroom east kitchen the is.
+2 is east bedroom the The of hallway.
+3 What hallway is of the east?	bedroom	2
+1 The is the south office kitchen of.
+2 hallway of is The the north kitchen.
+3 the of kitchen What south is?	hallway	2
+1 the The bedroom south of hallway is.
+2 of The north hallway is office the.
+3 is of the north What hallway?	bedroom	1
+1 of west the is The office bathroom.
+2 bathroom of kitchen east the is The.
+3 of is the bathroom What west?	kitchen	2
+1 garden south of the The office is.
+2 the of garden The is hallway south.
+3 of is garden What the south?	hallway	2
+1 east the is bedroom of garden The.
+2 the The of garden is east hallway.
+3 garden is the of What east?	bedroom	1
+1 bedroom the of office south is The.
+2 The of south bathroom bedroom is the.
+3 south is office the of What?	bedroom	1
+1 hallway south The bathroom the of is.
+2 The the north bathroom bedroom of is.
+3 bathroom is of What north the?	bedroom	2
+1 The the west is office hallway of.
+2 kitchen of office east is The the.
+3 is of What west the office?	kitchen	2
+1 the The garden of west office is.
+2 hallway The is west garden the of.
+3 of is What the west garden?	hallway	2
+1 The of the north is bedroom bathroom.
+2 north of bedroom is kitchen the The.
+3 the south What bedroom is of?	bathroom	1
+1 hallway is The of kitchen the north.
+2 north The is of the garden kitchen.
+3 the hallway What is north of?	kitchen	1
+1 bathroom The east hallway the of is.
+2 the of is west The garden bathroom.
+3 What is bathroom the of west?	garden	2
+1 the east bedroom The of hallway is.
+2 is west kitchen The of bedroom the.
+3 is kitchen of the west What?	bedroom	2
+1 office kitchen The the east of is.
+2 west The is office bathroom the of.
+3 west the of is What office?	kitchen	1
+1 hallway garden is The north the of.
+2 the hallway of The office south is.
+3 hallway is the What south of?	garden	1
+1 west garden hallway the is of The.
+2 office is garden the east of The.
+3 of east What garden is the?	hallway	1
+1 of bathroom bedroom the is east The.
+2 garden west The the bedroom of is.
+3 the is bedroom What of west?	bathroom	1
+1 the north bedroom kitchen of is The.
+2 bedroom is south the The office of.
+3 north the What of bedroom is?	kitchen	1
+1 west is of The bedroom the bathroom.
+2 east The is the of bedroom office.
+3 bedroom What the west of is?	bathroom	1
+1 bedroom is The hallway north of the.
+2 the hallway of The north is office.
+3 What the is hallway south of?	office	2
+1 is of The south bathroom hallway the.
+2 south is bathroom kitchen of The the.
+3 south the of kitchen What is?	bathroom	2
+1 west is bathroom of garden the The.
+2 The bedroom is bathroom the west of.
+3 the east What bathroom of is?	garden	1
+1 east the of The kitchen is garden.
+2 garden the of west The is hallway.
+3 of east kitchen the is What?	garden	1
+1 east bedroom the is of The hallway.
+2 bedroom the west is The office of.
+3 the office What of west is?	bedroom	2
+1 is hallway The east the kitchen of.
+2 the bedroom is hallway of east The.
+3 is west What of the hallway?	bedroom	2
+1 garden east of The bathroom the is.
+2 the bedroom The is east of bathroom.
+3 of is bathroom What the east?	bedroom	2
+1 is bedroom south bathroom of The the.
+2 The north the of office bathroom is.
+3 of What the south office is?	bathroom	2
+1 kitchen of The the is garden west.
+2 east the The of office is kitchen.
+3 What of is east kitchen the?	office	2
+1 bedroom is The the of north garden.
+2 of The bathroom garden south is the.
+3 garden of What is north the?	bedroom	1
+1 of bathroom west is The the bedroom.
+2 is west of kitchen the bathroom The.
+3 is the west What bedroom of?	bathroom	1
+1 south The of kitchen bathroom the is.
+2 the is The hallway kitchen of north.
+3 north What is of the hallway?	kitchen	2
+1 of hallway the The is office west.
+2 of The is east hallway kitchen the.
+3 is west What of the hallway?	kitchen	2
+1 kitchen The bathroom is the west of.
+2 is kitchen hallway west The the of.
+3 the of What east bathroom is?	kitchen	1
+1 The office is east bathroom of the.
+2 the west bathroom of garden The is.
+3 of the What west is office?	bathroom	1
+1 is the bathroom kitchen west The of.
+2 The kitchen the east is office of.
+3 the of is east kitchen What?	bathroom	1
+1 bedroom the north is garden The of.
+2 the is The north bedroom of bathroom.
+3 is of north What bedroom the?	garden	1
+1 garden the bedroom The is of east.
+2 hallway west bedroom of the is The.
+3 of west the What is garden?	bedroom	1
+1 the kitchen is The hallway of south.
+2 of office is The south the kitchen.
+3 of What is hallway the south?	kitchen	1
+1 kitchen office The is north of the.
+2 the garden of office is The south.
+3 of north the is garden What?	office	2
+1 bathroom is hallway the south The of.
+2 the of The bathroom is kitchen south.
+3 bathroom the north of is What?	hallway	1
+1 of south is the hallway bedroom The.
+2 the garden of is north The bedroom.
+3 is south the bedroom What of?	hallway	1
+1 The bedroom garden is of west the.
+2 east The garden is of bathroom the.
+3 of is the What garden east?	bedroom	1
+1 bedroom hallway south the is The of.
+2 the south is The hallway of kitchen.
+3 What is the of bedroom north?	hallway	1
+1 The bathroom of the west garden is.
+2 The office of is east garden the.
+3 the of west What is garden?	bathroom	1
+1 west is hallway of kitchen The the.
+2 is The the bathroom east kitchen of.
+3 What is kitchen the east of?	hallway	1
+1 the hallway The garden west is of.
+2 the hallway of is office west The.
+3 is What of west the hallway?	office	2
+1 north of is garden the bathroom The.
+2 south garden is of The the hallway.
+3 south of is the What garden?	bathroom	1
+1 of is the north bedroom The office.
+2 the south The office of is garden.
+3 What north is office the of?	garden	2
+1 bedroom north office of The the is.
+2 is north The of the bathroom office.
+3 is What of south the bathroom?	office	2
+1 bedroom The is east the of bathroom.
+2 The garden east the is of bathroom.
+3 east the What garden is of?	bathroom	2
+1 is of the bathroom garden south The.
+2 the bathroom is The of kitchen south.
+3 kitchen of the is south What?	bathroom	2
+1 garden bathroom the The of is east.
+2 west kitchen of bathroom is The the.
+3 What west of the is bathroom?	kitchen	2
+1 The north is bedroom the garden of.
+2 of the garden south office is The.
+3 What north is garden the of?	office	2
+1 of is the The hallway garden south.
+2 north office hallway of The the is.
+3 of is What north office the?	hallway	2
+1 kitchen of is the north bathroom The.
+2 bathroom of the bedroom north The is.
+3 of What bedroom the is south?	bathroom	2
+1 The of bathroom is the hallway north.
+2 bathroom south garden is of the The.
+3 north is What of bathroom the?	hallway	1
+1 The garden of bathroom the is east.
+2 bathroom The of is west the kitchen.
+3 What east of is bathroom the?	kitchen	2
+1 The the garden bathroom is west of.
+2 east bathroom hallway The of is the.
+3 the bathroom is of What west?	hallway	2
+1 the is garden of south The bathroom.
+2 the north The of bathroom bedroom is.
+3 is of What bathroom the north?	garden	1
+1 is the of The north kitchen hallway.
+2 kitchen The is south of bathroom the.
+3 the is kitchen of What north?	bathroom	2
+1 the office garden is of north The.
+2 hallway south garden of is the The.
+3 of is garden north the What?	hallway	2
+1 the hallway garden The north of is.
+2 the north is of The kitchen garden.
+3 is the of garden What north?	hallway	1
+1 of the The garden bedroom is west.
+2 of west The bedroom bathroom is the.
+3 What the bedroom west of is?	bathroom	2
+1 bedroom office the is of north The.
+2 the is bedroom of south kitchen The.
+3 of the north is bedroom What?	kitchen	2
+1 is bedroom kitchen The the north of.
+2 The bedroom of is the south office.
+3 What of the north is bedroom?	office	2
+1 bedroom kitchen of is west the The.
+2 kitchen of hallway west The is the.
+3 the What is east of kitchen?	bedroom	1
+1 hallway The the bathroom is of south.
+2 is south of the bathroom The office.
+3 What is south the bathroom of?	hallway	1
+1 hallway The is kitchen of the west.
+2 west hallway of office The is the.
+3 hallway the What is of west?	kitchen	1
+1 of the garden is kitchen south The.
+2 is garden south the of The bathroom.
+3 garden is of the north What?	kitchen	1
+1 bathroom office is the The of west.
+2 the of bedroom The west is office.
+3 bathroom the west of What is?	office	1
+1 the is office of bathroom The south.
+2 bedroom The the of south is bathroom.
+3 office north the is What of?	bathroom	1
+1 is The the garden bathroom west of.
+2 is bathroom The the west of bedroom.
+3 the is bathroom of east What?	garden	1
+1 bedroom The of is west the garden.
+2 of garden east The is the kitchen.
+3 is the What garden west of?	kitchen	2
+1 The is of garden the south bedroom.
+2 hallway north the garden of is The.
+3 of What north garden the is?	bedroom	1
+1 west bathroom garden the is The of.
+2 hallway east is The of the garden.
+3 west What garden is the of?	hallway	2
+1 is kitchen bathroom of north the The.
+2 The office south of the kitchen is.
+3 the of north office is What?	kitchen	2
+1 kitchen office of The west is the.
+2 hallway the kitchen is The east of.
+3 is of west the What kitchen?	office	1
+1 east the is of hallway kitchen The.
+2 of The east garden kitchen the is.
+3 west of hallway is the What?	kitchen	1
+1 is north office the bedroom of The.
+2 kitchen is The south the of office.
+3 south of is What office the?	kitchen	2
+1 of hallway south is the The office.
+2 the The is office south kitchen of.
+3 the What of hallway is north?	office	1
+1 of is the east bedroom garden The.
+2 east kitchen the The is of garden.
+3 east the kitchen is of What?	garden	2
+1 east hallway The the of garden is.
+2 is kitchen of The the west garden.
+3 is east What the of garden?	hallway	1
+1 of is north bedroom The hallway the.
+2 of The the bathroom is south bedroom.
+3 of bedroom the south is What?	hallway	1
+1 of the is The hallway garden east.
+2 hallway west The the bathroom of is.
+3 hallway What of east is the?	garden	1
+1 is the of west The bedroom office.
+2 the is The bedroom west hallway of.
+3 east the is What bedroom of?	hallway	2
+1 office hallway east The the is of.
+2 is the west of office kitchen The.
+3 east is What office of the?	hallway	1
+1 is bathroom of the The north hallway.
+2 bathroom The the of is south office.
+3 the of What office is north?	bathroom	2
+1 kitchen The north garden is of the.
+2 north of garden hallway is the The.
+3 What is garden south of the?	kitchen	1
+1 the of bedroom The bathroom is north.
+2 bathroom is The garden of the south.
+3 north is of garden the What?	bathroom	2
+1 is of garden east kitchen The the.
+2 the kitchen The west of is bedroom.
+3 west What the is kitchen of?	bedroom	2
+1 the east The of kitchen bedroom is.
+2 is east The of office the kitchen.
+3 west kitchen is the What of?	office	2
+1 The north the kitchen is of hallway.
+2 The hallway office is of the north.
+3 What of the kitchen is north?	hallway	1
+1 the bathroom garden is The of north.
+2 north hallway is The garden the of.
+3 bathroom north What is the of?	garden	1
+1 south is The the of bedroom kitchen.
+2 the of north The bathroom is kitchen.
+3 of north the kitchen is What?	bedroom	1
+1 north the hallway bedroom is The of.
+2 The the of south bedroom is bathroom.
+3 bathroom the What south of is?	bedroom	2
+1 is The the of bedroom west kitchen.
+2 garden the is The bedroom of east.
+3 of is west bedroom the What?	kitchen	1
+1 bathroom garden is of the The east.
+2 of is the bathroom bedroom west The.
+3 is the bathroom of west What?	garden	1
+1 of the north is kitchen bathroom The.
+2 kitchen bedroom north The the is of.
+3 What kitchen south of is the?	bedroom	2
+1 The of the is east hallway garden.
+2 bathroom the of east The hallway is.
+3 What of west is hallway the?	garden	1
+1 bathroom the The of garden west is.
+2 west The kitchen of is the garden.
+3 of the garden west What is?	bathroom	1
+1 east is bedroom the of The bathroom.
+2 is bathroom west of The office the.
+3 the bathroom What east is of?	bedroom	1
+1 garden is of office the east The.
+2 office the of bedroom The is east.
+3 the is What west garden of?	office	1
+1 bedroom is of The bathroom south the.
+2 of bedroom office The is the north.
+3 of south is bedroom the What?	bathroom	1
+1 of kitchen the is bedroom east The.
+2 office bedroom east the is of The.
+3 is bedroom of the east What?	kitchen	1
+1 is the The south bathroom bedroom of.
+2 bathroom The is garden the north of.
+3 the north bathroom What of is?	bedroom	1
+1 hallway The of is the south bedroom.
+2 south the bedroom garden of is The.
+3 the of bedroom What is south?	hallway	1
+1 is hallway The the east kitchen of.
+2 of is hallway the The garden west.
+3 What east hallway the of is?	kitchen	1
+1 the kitchen of office is The east.
+2 is the of bathroom office west The.
+3 office the What of west is?	bathroom	2
+1 south is the The hallway of garden.
+2 of is north The office the garden.
+3 is south What garden of the?	office	2
+1 is hallway The of east the garden.
+2 The of garden kitchen is west the.
+3 is garden What the of east?	kitchen	2
+1 The east the is garden bathroom of.
+2 The kitchen east bathroom the is of.
+3 the is kitchen west What of?	bathroom	2
+1 is bathroom bedroom of east the The.
+2 the of is east The hallway bathroom.
+3 of hallway is west the What?	bathroom	2
+1 the The of west bedroom bathroom is.
+2 kitchen bedroom The the of east is.
+3 bedroom What the east of is?	bathroom	1
+1 south the bathroom The bedroom of is.
+2 office is north of The bedroom the.
+3 the bedroom is What of south?	office	2
+1 the is The hallway north bedroom of.
+2 hallway of bathroom south The is the.
+3 of north the is hallway What?	bedroom	1
+1 south office kitchen of The is the.
+2 of is south office the hallway The.
+3 is the of What office south?	kitchen	1
+1 bedroom The of is west bathroom the.
+2 the west The kitchen of is bathroom.
+3 the is of east What bathroom?	bedroom	1
+1 is of south the The office kitchen.
+2 bedroom is the The office of north.
+3 the What is south office of?	bedroom	2
+1 east hallway The garden of the is.
+2 is the hallway of east kitchen The.
+3 of the hallway west is What?	kitchen	2
+1 west office of The the is kitchen.
+2 garden office The is of east the.
+3 garden of east What is the?	office	2
+1 the garden The of east is bedroom.
+2 the of kitchen The is west bedroom.
+3 the What is west bedroom of?	garden	1
+1 office is east bedroom the The of.
+2 the of The is west garden office.
+3 What the of is office east?	bedroom	1
+1 north office the of is The bathroom.
+2 is office north of The the kitchen.
+3 kitchen is north the of What?	office	2
+1 bathroom office north of is The the.
+2 bathroom is bedroom south The of the.
+3 north is bathroom the What of?	bedroom	2
+1 is The bathroom hallway of the south.
+2 of north The is kitchen hallway the.
+3 of the hallway What north is?	bathroom	1
+1 of garden the is north hallway The.
+2 kitchen hallway The the of south is.
+3 north kitchen is the What of?	hallway	2
+1 of kitchen The bedroom is north the.
+2 The is of south hallway the kitchen.
+3 kitchen is the of north What?	hallway	2
+1 The of hallway the south office is.
+2 The north of garden the is hallway.
+3 the south of hallway What is?	garden	2
+1 The is bathroom kitchen of west the.
+2 The the is bathroom east of garden.
+3 garden is What the east of?	bathroom	2
+1 garden of is east kitchen the The.
+2 is The the east garden bathroom of.
+3 What of west garden the is?	bathroom	2
+1 the east hallway of is The bedroom.
+2 kitchen of hallway is The the east.
+3 west bedroom is of What the?	hallway	1
+1 the is kitchen hallway of The east.
+2 bedroom kitchen of The east the is.
+3 east of the is kitchen What?	bedroom	2
+1 kitchen is The east office the of.
+2 bathroom east kitchen is the of The.
+3 What east the is of office?	kitchen	1
+1 of The is garden office the west.
+2 garden of the is west The hallway.
+3 office the east is What of?	garden	1
+1 east the office The is of hallway.
+2 of The west is the office bathroom.
+3 of office east the is What?	bathroom	2
+1 the The is of office bedroom west.
+2 The west hallway bedroom is the of.
+3 What is hallway west of the?	bedroom	2
+1 of bathroom office the east is The.
+2 is The hallway the of east bathroom.
+3 the bathroom of is east What?	office	1
+1 the of The is garden north bathroom.
+2 the garden south of The is hallway.
+3 is north garden the of What?	bathroom	1
+1 The garden of office is south the.
+2 of garden The the is north bedroom.
+3 What is of the north garden?	bedroom	2
+1 office bedroom east of the is The.
+2 of is west The office the kitchen.
+3 the What west is office of?	kitchen	2
+1 is north bedroom hallway of The the.
+2 is bedroom The kitchen of south the.
+3 What the of bedroom is south?	hallway	1
+1 bedroom east The is office the of.
+2 hallway the east bedroom is The of.
+3 bedroom of the What west is?	hallway	2
+1 the bedroom west is kitchen The of.
+2 of east The kitchen the garden is.
+3 kitchen west of the What is?	garden	2
+1 of The kitchen garden west is the.
+2 of kitchen east The the is bathroom.
+3 of kitchen What east the is?	garden	1
+1 office north the of The is bedroom.
+2 south is The the office of garden.
+3 What garden of is south the?	office	2
+1 of hallway The the is south office.
+2 The is garden the office north of.
+3 the north is of office What?	hallway	1
+1 The kitchen is the south hallway of.
+2 north is bathroom of hallway the The.
+3 south the hallway What is of?	kitchen	1
+1 of The the kitchen is south hallway.
+2 garden The north of the is hallway.
+3 south What hallway is of the?	garden	2
+1 west the hallway is bathroom of The.
+2 of the hallway is kitchen The west.
+3 of hallway west the What is?	kitchen	2
+1 of east hallway The the is garden.
+2 is east the of The bathroom garden.
+3 garden of the east What is?	hallway	1
+1 bedroom is hallway The the of east.
+2 of garden the west is The bedroom.
+3 the west What bedroom is of?	garden	2
+1 bathroom of office The north is the.
+2 of office The kitchen the south is.
+3 south the What office of is?	bathroom	1
+1 south The bedroom the is of kitchen.
+2 is The north of hallway bedroom the.
+3 the What south is bedroom of?	kitchen	1
+1 kitchen is The of west the bedroom.
+2 office west the of The bedroom is.
+3 of kitchen the What west is?	bedroom	1
+1 south is garden the bedroom of The.
+2 bedroom of The kitchen south is the.
+3 the south What bedroom is of?	garden	1
+1 north The the of is hallway kitchen.
+2 bedroom The south is the kitchen of.
+3 What north kitchen the is of?	hallway	1
+1 the east office of is The bathroom.
+2 east kitchen the bathroom is of The.
+3 of What the east office is?	bathroom	1
+1 of is garden the The office west.
+2 east The bathroom is of garden the.
+3 What the is of garden west?	office	1
+1 garden the bathroom north The is of.
+2 bathroom The the kitchen is south of.
+3 north of garden the is What?	bathroom	1
+1 The of bathroom is bedroom the west.
+2 hallway the bedroom of The west is.
+3 east the is of bathroom What?	bedroom	1
+1 is hallway the of east The kitchen.
+2 is the of kitchen The west bathroom.
+3 kitchen is west What the of?	bathroom	2
+1 garden The the of east is office.
+2 garden east the of bathroom The is.
+3 the west What is office of?	garden	1
+1 the north is The bathroom of kitchen.
+2 south The is the garden bathroom of.
+3 is north of the kitchen What?	bathroom	1
+1 the is of kitchen hallway The south.
+2 The the hallway north of office is.
+3 of is north hallway the What?	kitchen	1
+1 north The kitchen the of bathroom is.
+2 The of is north kitchen the hallway.
+3 the is south of What kitchen?	hallway	2
+1 bathroom is the bedroom west of The.
+2 The east hallway is of the bedroom.
+3 the What bedroom of east is?	hallway	2
+1 of The is south kitchen garden the.
+2 the is of hallway north garden The.
+3 What north the garden is of?	hallway	2
+1 The the of north office is bathroom.
+2 is of south the bathroom The bedroom.
+3 north What is the of bathroom?	office	1
+1 of The bathroom is south garden the.
+2 The the garden is of kitchen south.
+3 of the What garden north is?	kitchen	2
+1 of kitchen is The the west hallway.
+2 hallway is the The of garden east.
+3 the of What is west hallway?	kitchen	1
+1 west of bathroom office The is the.
+2 of is The the west hallway office.
+3 the of office east What is?	bathroom	1
+1 hallway The bedroom of the south is.
+2 north garden the of The hallway is.
+3 north is What the of hallway?	garden	2
+1 bathroom is office of The the west.
+2 the of The east bathroom kitchen is.
+3 What the is bathroom of east?	kitchen	2
+1 is office north of the hallway The.
+2 south hallway is kitchen The the of.
+3 of south is the hallway What?	kitchen	2
+1 of The west the is office hallway.
+2 is the hallway The west kitchen of.
+3 office west the is of What?	hallway	1
+1 office of south the bedroom The is.
+2 The the north is garden of office.
+3 What of the office north is?	bedroom	1
+1 of is west kitchen hallway the The.
+2 the The east of garden is hallway.
+3 is the kitchen What west of?	hallway	1
+1 is west bathroom of bedroom the The.
+2 The east office is the of bathroom.
+3 What the is of bathroom west?	office	2
+1 is south of kitchen bedroom The the.
+2 of garden is north the bedroom The.
+3 of bedroom south What is the?	garden	2
+1 west is kitchen of The bedroom the.
+2 kitchen The is west the of bathroom.
+3 is What of bathroom the east?	kitchen	2
+1 bathroom The south of is office the.
+2 north is of the garden The bathroom.
+3 of What bathroom is south the?	office	1
+1 west hallway The of kitchen the is.
+2 west The bedroom of the is kitchen.
+3 What east is of bedroom the?	kitchen	2
+1 of east The the office bedroom is.
+2 east The is office of hallway the.
+3 of west is the What hallway?	office	2
+1 east The of the bathroom bedroom is.
+2 office of the west bedroom The is.
+3 of office east What is the?	bedroom	2
+1 south bedroom The of is the hallway.
+2 The the bathroom bedroom is south of.
+3 of the What south is bedroom?	bathroom	2
+1 is north bedroom the The of garden.
+2 kitchen the north is bedroom of The.
+3 the What of south garden is?	bedroom	1
+1 of the is hallway The office north.
+2 of the is south The hallway kitchen.
+3 is north the What office of?	hallway	1
+1 garden kitchen of east the is The.
+2 is west the of office kitchen The.
+3 the office What of is west?	kitchen	2
+1 of east The garden is the hallway.
+2 The kitchen of west the is garden.
+3 What east the garden of is?	hallway	1
+1 south is garden of the office The.
+2 office bedroom The is the north of.
+3 office of north the is What?	garden	1
+1 The is the of garden north bathroom.
+2 north The the kitchen of is garden.
+3 What south garden is of the?	kitchen	2
+1 is of the The south office bedroom.
+2 the office garden is north of The.
+3 of the north is What office?	garden	2
+1 hallway The is the bathroom of south.
+2 bedroom The is south of bathroom the.
+3 What bedroom the of is south?	bathroom	2
+1 of The bathroom the east hallway is.
+2 kitchen The the east is hallway of.
+3 is What the east hallway of?	bathroom	1
+1 is west garden of The the kitchen.
+2 of east the The kitchen is bedroom.
+3 of garden west is What the?	kitchen	1
+1 bedroom is south The hallway of the.
+2 the south of is office The hallway.
+3 the is What hallway north of?	office	2
+1 of bedroom the north The is garden.
+2 hallway the The garden north is of.
+3 north garden What the of is?	hallway	2
+1 of kitchen north The is hallway the.
+2 the kitchen is The office south of.
+3 kitchen of What the is south?	office	2
+1 east The garden is bathroom the of.
+2 west garden of is The the kitchen.
+3 is What the west of garden?	bathroom	1
+1 bathroom The kitchen west the of is.
+2 west The is the of kitchen hallway.
+3 of east What kitchen is the?	bathroom	1
+1 is bathroom of the The kitchen south.
+2 the is kitchen north garden The of.
+3 What kitchen the of is south?	garden	2
+1 The bathroom of south hallway the is.
+2 of north hallway The bedroom is the.
+3 What is north of the bathroom?	hallway	1
+1 bedroom of south bathroom The is the.
+2 bedroom of garden north the is The.
+3 of What the south is bathroom?	bedroom	1
+1 bathroom of the north hallway The is.
+2 The is bathroom of bedroom south the.
+3 is the north bedroom What of?	bathroom	2
+1 south garden kitchen The the of is.
+2 is The of the bathroom garden south.
+3 is north What garden the of?	kitchen	1
+1 of garden is The the office south.
+2 The is the bathroom office of south.
+3 of is garden north the What?	office	1
+1 the of garden The south is bathroom.
+2 The the of north is garden office.
+3 is garden of What the south?	bathroom	1
+1 of garden The west is the bathroom.
+2 is of the bathroom The bedroom east.
+3 bedroom is of What the west?	bathroom	2
+1 the kitchen is The of hallway west.
+2 of west the The is hallway bedroom.
+3 west is of kitchen the What?	hallway	1
+1 the The is garden of west bedroom.
+2 hallway west is The bedroom of the.
+3 garden of is What east the?	bedroom	1
+1 the south is The office bedroom of.
+2 of The south office kitchen the is.
+3 What is kitchen of the north?	office	2
+1 hallway The the bathroom is of north.
+2 the hallway of north is kitchen The.
+3 north of What is hallway the?	kitchen	2
+1 of bedroom the kitchen is The north.
+2 of The garden is the south kitchen.
+3 kitchen the of north is What?	garden	2
+1 south The is bedroom the of kitchen.
+2 hallway north is the The bedroom of.
+3 the of What is bedroom south?	kitchen	1
+1 the kitchen is bedroom of west The.
+2 west The the garden is of bedroom.
+3 is garden What the of east?	bedroom	2
+1 of is The hallway office north the.
+2 is south hallway the garden of The.
+3 of What hallway south is the?	garden	2
+1 the is The hallway bathroom of west.
+2 east The the kitchen is bathroom of.
+3 the west of What bathroom is?	kitchen	2
+1 kitchen The garden of is east the.
+2 west the The is kitchen of office.
+3 the kitchen east is of What?	office	2
+1 of bathroom The garden east the is.
+2 of The office is east bathroom the.
+3 What of is the east garden?	bathroom	1
+1 The bathroom is of garden south the.
+2 the garden north is bedroom The of.
+3 north is What garden of the?	bathroom	1
+1 south office is The garden the of.
+2 the office of north bedroom is The.
+3 of is north the garden What?	office	1
+1 The of south garden the is hallway.
+2 is The of the bedroom north hallway.
+3 What is hallway north the of?	bedroom	2
+1 of the south bathroom bedroom The is.
+2 is kitchen south the bathroom The of.
+3 What north kitchen of the is?	bathroom	2
+1 the is hallway The of bathroom north.
+2 of is The the hallway office south.
+3 north the What hallway is of?	office	2
+1 bedroom south office the of The is.
+2 the of is garden The north office.
+3 office What of is the north?	bedroom	1
+1 north the is The hallway of bathroom.
+2 The of bathroom the north is office.
+3 hallway south the What is of?	bathroom	1
+1 bedroom of The is west the garden.
+2 The east is of the bedroom bathroom.
+3 west of is bedroom the What?	bathroom	2
+1 of is the east The garden bathroom.
+2 bathroom bedroom of the is west The.
+3 east of the is bathroom What?	garden	1
+1 south The office garden of is the.
+2 is north hallway the office The of.
+3 What the north of is office?	garden	1
+1 The of is kitchen the hallway north.
+2 the kitchen of is office north The.
+3 of the office What north is?	kitchen	2
+1 the west The of hallway is garden.
+2 east is of the office hallway The.
+3 What the east is of hallway?	office	2
+1 the garden of east is hallway The.
+2 The of is west the office hallway.
+3 office is of the east What?	hallway	2
+1 The west is the kitchen garden of.
+2 garden The of is east hallway the.
+3 of east garden What is the?	kitchen	1
+1 is bathroom south the of garden The.
+2 The garden north the office is of.
+3 of garden is north What the?	office	2
+1 the is The office east bedroom of.
+2 west is The bedroom the kitchen of.
+3 is of bedroom west the What?	office	1
+1 is the kitchen of north The garden.
+2 The is kitchen bedroom the of north.
+3 kitchen north What is the of?	garden	1
+1 west bedroom the garden of The is.
+2 kitchen The garden the of east is.
+3 is What of garden east the?	bedroom	1
+1 The of is the east kitchen office.
+2 the of is west office The garden.
+3 the east is of What office?	kitchen	1
+1 the kitchen of is east The office.
+2 kitchen is The of the west garden.
+3 east the is kitchen of What?	garden	2
+1 the north hallway of The bathroom is.
+2 of the The garden south is hallway.
+3 What is the south of hallway?	bathroom	1
+1 the north is bedroom of The garden.
+2 kitchen is garden north The the of.
+3 What bedroom the south of is?	garden	1
+1 of The bathroom is garden the west.
+2 is west The of garden hallway the.
+3 of the garden What is west?	bathroom	1
+1 The kitchen the office east of is.
+2 The is west of the kitchen bedroom.
+3 east What the is office of?	kitchen	1
+1 The of the office garden is north.
+2 of The is garden south the bedroom.
+3 south garden What of the is?	office	1
+1 hallway of office east is the The.
+2 the bedroom is hallway of The west.
+3 west hallway of What is the?	office	1
+1 east The is bathroom the garden of.
+2 bathroom The of is the bedroom west.
+3 east is of What the garden?	bathroom	1
+1 garden of The hallway is the west.
+2 the hallway is of bathroom west The.
+3 hallway is of What east the?	garden	1
+1 west the of kitchen is garden The.
+2 The of kitchen office is the east.
+3 What the kitchen is east of?	garden	1
+1 of is The north hallway the office.
+2 The north kitchen is the of hallway.
+3 hallway is of north the What?	kitchen	2
+1 is hallway the west of The bathroom.
+2 west hallway is the kitchen of The.
+3 the west What hallway is of?	kitchen	2
+1 is bathroom The garden of north the.
+2 is The bedroom south bathroom of the.
+3 of bedroom is the What south?	bathroom	2
+1 bedroom north is kitchen The the of.
+2 bathroom The is kitchen north of the.
+3 south of the kitchen What is?	bedroom	1
+1 the bathroom of west is bedroom The.
+2 bathroom is garden the west of The.
+3 the of west bedroom What is?	bathroom	1
+1 The hallway west the is of garden.
+2 is west the hallway of The office.
+3 hallway west is of What the?	office	2
+1 west is The hallway bathroom of the.
+2 kitchen hallway east is of the The.
+3 east of the What hallway is?	kitchen	2
+1 of the office is hallway south The.
+2 garden The the office north is of.
+3 is north What of the office?	garden	2
+1 bedroom the is garden north The of.
+2 garden of hallway the north The is.
+3 north is the of What garden?	bedroom	1
+1 is of bathroom The north bedroom the.
+2 bedroom south the The kitchen is of.
+3 bedroom of the south is What?	bathroom	1
+1 north bathroom is The hallway of the.
+2 the of office hallway north The is.
+3 office the What of north is?	hallway	2
+1 is hallway bathroom The the south of.
+2 of bathroom the bedroom is north The.
+3 What is south of bathroom the?	hallway	1
+1 The of bedroom is east kitchen the.
+2 east of is The bedroom office the.
+3 the west of is bedroom What?	office	2
+1 of garden north the kitchen is The.
+2 the garden south The is hallway of.
+3 garden the is south What of?	kitchen	1
+1 hallway east the is of The garden.
+2 of is west garden the office The.
+3 is What garden west of the?	hallway	1
+1 the office bedroom west of is The.
+2 west The of the office is hallway.
+3 What is of west the hallway?	office	2
+1 the east office hallway of is The.
+2 the The of east bedroom is office.
+3 office What the is of west?	hallway	1
+1 hallway bedroom The is of west the.
+2 bedroom kitchen the is The west of.
+3 east hallway is the What of?	bedroom	1
+1 hallway The kitchen south of the is.
+2 The hallway of north is the bedroom.
+3 the of is south What hallway?	bedroom	2
+1 of is bedroom west The hallway the.
+2 of is garden west the The hallway.
+3 of is the garden east What?	hallway	2
+1 bedroom the The of is south hallway.
+2 is The south the hallway of bathroom.
+3 hallway What north the is of?	bedroom	1
+1 The is the of bedroom east hallway.
+2 west is kitchen the of The bedroom.
+3 is of the bedroom What east?	hallway	1
+1 west The of hallway bathroom is the.
+2 of The west the hallway is garden.
+3 is the of bathroom west What?	hallway	1
+1 south is of bedroom The garden the.
+2 kitchen is garden of The north the.
+3 garden What is of the north?	kitchen	2
+1 The is of the bedroom east garden.
+2 the bedroom of west kitchen The is.
+3 bedroom the is of What west?	kitchen	2
+1 is south of The hallway bedroom the.
+2 north the bedroom is The kitchen of.
+3 of bedroom the What north is?	kitchen	2
+1 hallway The garden of the west is.
+2 The of the kitchen is garden east.
+3 is What of kitchen the west?	garden	2

@@ -1,0 +1,3000 @@
+1 longer the Mary bedroom is in no.
+2 Daniel moved the to hallway.
+3 bedroom in the Mary  Is?	no	1
+4 to the moved bedroom Sandra.
+5 the in is bathroom Sandra.
+6  the Daniel Is in bathroom?	no	2
+7 Daniel is the not hallway in.
+8 is office the Daniel in.
+9  in Is the office Sandra?	no	5
+10 went bedroom the Sandra to.
+11 to went the kitchen John.
+12 Is office Sandra in  the?	no	10
+13 the in bedroom Sandra not is.
+14 in longer no the is bathroom Mary.
+15 the Is  in Sandra bedroom?	no	13
+1 kitchen John to the travelled.
+2 is hallway Mary the in.
+3 Is  in hallway John the?	no	1
+4 the to went back Mary office.
+5 no is longer garden in Daniel the.
+6 in  garden Daniel Is the?	no	5
+7 the travelled Daniel hallway to.
+8 the Mary is in kitchen.
+9  Daniel in the hallway Is?	yes	7
+10 journeyed the Daniel bedroom to.
+11 is bedroom the not in Sandra.
+12 Is Daniel in bedroom  the?	yes	10
+13 to John bedroom the journeyed.
+14 is the in Sandra garden.
+15 garden Sandra in Is  the?	yes	14
+1 the to travelled Sandra kitchen.
+2 went John the to hallway.
+3  the in Is bathroom John?	no	2
+4 in John the bedroom is.
+5 the in is garden not Mary.
+6 Is in the John bedroom ?	yes	4
+7 to back the Sandra hallway went.
+8 to bathroom travelled John the.
+9 in  John the kitchen Is?	no	8
+10 moved garden John to the.
+11 Sandra kitchen back the went to.
+12 the hallway  John in Is?	no	10
+13 Daniel office journeyed to the.
+14 to the Daniel garden moved.
+15  Is kitchen in Sandra the?	yes	11
+1 not is Sandra the office in.
+2 in is hallway Mary the.
+3 in office  Is Sandra the?	no	1
+4 to the went bathroom Sandra.
+5 the went to back John kitchen.
+6 in the  bathroom Sandra Is?	yes	4
+7 John journeyed to garden the.
+8 the not in Daniel bedroom is.
+9 the  Mary in Is office?	no	2
+10 office not is the Daniel in.
+11 in no is the longer Daniel bathroom.
+12 bathroom Daniel Is in  the?	no	11
+13 Sandra is in the not bathroom.
+14 office in Mary is the.
+15 the  Is bathroom Daniel in?	no	11
+1 the Mary in hallway is.
+2 the John is bathroom in.
+3 in  garden Is John the?	no	2
+4 kitchen Mary the went to.
+5 in the John garden is.
+6 Is in the  Mary bathroom?	no	4
+7 the travelled Mary hallway to.
+8 journeyed John bathroom to the.
+9 in the John  Is bathroom?	yes	8
+10 the bathroom Daniel to moved.
+11 hallway longer no is Mary in the.
+12 the  bedroom Is in Daniel?	no	10
+13 in Mary is hallway the.
+14 garden the is John in.
+15  Is Mary the in hallway?	yes	13
+1 Mary in the is no longer kitchen.
+2 to moved kitchen the John.
+3 Mary in kitchen Is the ?	no	1
+4 to kitchen the travelled Daniel.
+5 went office the Mary to.
+6 the in Daniel Is kitchen ?	yes	4
+7 the John to bedroom travelled.
+8 is longer Mary no in office the.
+9 Is  in the Daniel hallway?	no	4
+10 no Mary garden is in the longer.
+11 the moved to garden Mary.
+12 the Mary garden in Is ?	yes	11
+13 bedroom John in no is the longer.
+14 office moved to the Daniel.
+15 Is  office the in Daniel?	yes	14
+1 the Sandra garden travelled to.
+2 Sandra garden no longer is the in.
+3 the in Is  garden Sandra?	no	2
+4 Sandra the in is garden.
+5 to the hallway journeyed Sandra.
+6 in the Is Sandra hallway ?	yes	5
+7 in is longer the garden no John.
+8 to garden the journeyed John.
+9 in  hallway the John Is?	no	8
+10 kitchen the John in is.
+11 in the not kitchen is John.
+12 kitchen the Is John in ?	no	11
+13 the journeyed to kitchen John.
+14 longer is no Mary hallway the in.
+15 the John Is in kitchen ?	yes	13
+1 in bedroom is Daniel the.
+2 in Sandra is hallway not the.
+3 the hallway in  Is Sandra?	no	2
+4 hallway moved Daniel to the.
+5 Mary bedroom the to went.
+6 the Mary hallway in  Is?	no	5
+7 garden went Sandra the to.
+8 kitchen the to travelled Daniel.
+9 Is the kitchen Mary in ?	no	5
+10 not is in Daniel the kitchen.
+11 bedroom to Daniel back went the.
+12 Is Mary kitchen in the ?	no	5
+13 the is John office in.
+14 to journeyed hallway Sandra the.
+15 Is bathroom the John in ?	no	13
+1 to Mary kitchen travelled the.
+2 went garden Mary back the to.
+3 office in  Is Mary the?	no	2
+4 bedroom no in longer the Sandra is.
+5 the kitchen to went Daniel.
+6 the Daniel kitchen  Is in?	yes	5
+7 is not Sandra in office the.
+8 bathroom Daniel went to the.
+9 Is Mary garden in  the?	yes	2
+10 office to journeyed the Sandra.
+11 went John to hallway the.
+12 the  Daniel in Is bathroom?	yes	8
+13 the to Sandra hallway journeyed.
+14 John bedroom journeyed the to.
+15 in John  bedroom Is the?	yes	14
+1 the kitchen to John went.
+2 Sandra to bedroom back the went.
+3 the Is kitchen in  John?	yes	1
+4 moved garden the Daniel to.
+5 journeyed kitchen the Sandra to.
+6 kitchen the  Sandra Is in?	yes	5
+7 the in no kitchen is Sandra longer.
+8 bathroom the is in Daniel.
+9 office the in  Daniel Is?	no	8
+10 travelled Daniel to the kitchen.
+11 in Sandra is bathroom not the.
+12  the Is Daniel garden in?	no	10
+13 Daniel the bathroom to moved.
+14 the to hallway travelled Sandra.
+15 Is in the bathroom  Sandra?	no	14
+1 to John the moved kitchen.
+2 kitchen longer no is in John the.
+3 John  Is the kitchen in?	no	2
+4 to office Mary journeyed the.
+5 in hallway the is not Sandra.
+6 hallway in  Sandra the Is?	no	5
+7 Daniel travelled to the hallway.
+8 garden moved Mary to the.
+9 garden  in Mary the Is?	yes	8
+10 office the John in is not.
+11 bedroom Sandra to the travelled.
+12 Is in  the hallway Daniel?	yes	7
+13 is bedroom in John no longer the.
+14 in is Mary the office.
+15 the Is  bedroom Sandra in?	yes	11
+1 the not hallway is in John.
+2 the is bathroom John in.
+3 the in Is John  bathroom?	yes	2
+4 the in is office John.
+5 Mary office the to travelled.
+6 office John in Is  the?	yes	4
+7 bathroom is the Daniel in.
+8 the bedroom went Daniel to.
+9 Daniel  hallway in the Is?	no	8
+10 Sandra is garden the in.
+11 the to journeyed office Sandra.
+12 the Is Sandra  in office?	yes	11
+13 no is the Sandra office longer in.
+14 to garden went Mary the.
+15 in the office Sandra Is ?	no	13
+1 the to hallway Sandra went.
+2 Daniel in is kitchen the.
+3 Is hallway the in Sandra ?	yes	1
+4 to John journeyed bathroom the.
+5 John kitchen to the moved.
+6  Is the in Sandra hallway?	yes	1
+7 to the went Daniel garden.
+8 Daniel hallway to the went.
+9 Is Daniel the hallway in ?	yes	8
+10 bedroom in the is Mary.
+11 kitchen journeyed the to Sandra.
+12 Is the garden  in Sandra?	no	11
+13 garden is in John the.
+14 the Daniel in longer hallway is no.
+15 in Is hallway  the Daniel?	no	14
+1 is the in Daniel bedroom.
+2 Daniel hallway the moved to.
+3 the Daniel hallway Is in ?	yes	2
+4 the bedroom to Daniel back went.
+5 John travelled the to bedroom.
+6 the Daniel bedroom in  Is?	yes	4
+7 the hallway to John went.
+8 is the bathroom Daniel in.
+9 Daniel Is bathroom in  the?	yes	8
+10 to back Sandra office went the.
+11 garden the journeyed Daniel to.
+12  the Sandra Is in kitchen?	no	10
+13 Mary the to moved bedroom.
+14 travelled Mary garden to the.
+15 Sandra Is the  in office?	yes	10
+1 the moved Sandra to office.
+2 is John the bathroom not in.
+3 in the Sandra Is office ?	yes	1
+4 bathroom Sandra the to moved.
+5 Mary bedroom went to back the.
+6 in John the bathroom Is ?	no	2
+7 garden the to Sandra travelled.
+8 to the office Sandra went.
+9 Is in office  the Sandra?	yes	8
+10 in Sandra kitchen is the.
+11 bathroom the Sandra to went.
+12 the  Is Sandra garden in?	no	11
+13 in not Daniel is kitchen the.
+14 in bedroom is the not Mary.
+15 Is Mary the  in bedroom?	no	14
+1 garden went back to the Daniel.
+2 to the went kitchen back Daniel.
+3 the kitchen Daniel in  Is?	yes	2
+4 office Mary the went back to.
+5 Sandra no is bathroom in the longer.
+6 bathroom Sandra Is  the in?	no	5
+7 Mary is in the hallway.
+8 kitchen moved John to the.
+9 bathroom Sandra in  the Is?	no	5
+10 in is the Mary kitchen.
+11 is the John in office.
+12 Is the bathroom in  Sandra?	no	5
+13 in is kitchen Sandra the.
+14 hallway John back went the to.
+15 kitchen Mary the  in Is?	yes	10
+1 the in Mary is bathroom.
+2 to journeyed Sandra the hallway.
+3 Is  the in kitchen Mary?	no	1
+4 journeyed to the office John.
+5 is in Mary kitchen the.
+6 bathroom in  Mary the Is?	no	5
+7 the John longer no in office is.
+8 Daniel bedroom the is in.
+9  office in the Is John?	no	7
+10 bedroom the to Sandra journeyed.
+11 the travelled garden Daniel to.
+12  Is in the garden Mary?	no	5
+13 office Sandra in is the.
+14 moved kitchen the to Daniel.
+15 Is garden the in  Sandra?	no	13
+1 to hallway journeyed the Sandra.
+2 John the no is bedroom in longer.
+3 in  bedroom Is John the?	no	2
+4 the went to bedroom Mary.
+5 is John in longer bathroom the no.
+6 John Is bathroom the  in?	no	5
+7 Sandra the in bedroom is.
+8 the journeyed to Daniel bathroom.
+9 Mary in garden the Is ?	no	4
+10 to Mary journeyed kitchen the.
+11 the to bedroom John travelled.
+12  Sandra the bedroom in Is?	yes	7
+13 to the office went John back.
+14 is Daniel in not the bathroom.
+15 in Daniel  Is bathroom the?	no	14
+1 the Sandra to travelled garden.
+2 to journeyed kitchen the John.
+3 Is in  John bedroom the?	no	2
+4 the Sandra to bathroom journeyed.
+5 John the office travelled to.
+6 office the Is John  in?	yes	5
+7 John hallway to the moved.
+8 is John office in the.
+9 John office in the Is ?	yes	8
+10 hallway the moved Mary to.
+11 the to went Mary bedroom.
+12 Is the  Mary bedroom in?	yes	11
+13 bathroom Daniel is the in.
+14 hallway the Daniel travelled to.
+15 office the  in Mary Is?	no	11
+1 Mary is office the in.
+2 the office to journeyed John.
+3 Is in John the  office?	yes	2
+4 is the longer no office in John.
+5 the to garden back went Sandra.
+6 Is in Mary  the hallway?	no	1
+7 is the Mary in kitchen.
+8 office in is Sandra the.
+9 office the John in  Is?	no	4
+10 to journeyed bathroom Mary the.
+11 office the Daniel went to.
+12 Is in office the  Sandra?	yes	8
+13 travelled the bedroom John to.
+14 in John is not bedroom the.
+15  Is Daniel office in the?	yes	11
+1 back bedroom to went Mary the.
+2 to travelled the garden Sandra.
+3 Is Sandra garden  in the?	yes	2
+4 in not hallway the John is.
+5 Daniel is longer bedroom no in the.
+6 in Sandra Is garden the ?	yes	2
+7 the kitchen to journeyed Sandra.
+8 moved to the John office.
+9 the in  Sandra kitchen Is?	yes	7
+10 went the bedroom back John to.
+11 back the to kitchen went John.
+12  in Is the Sandra bedroom?	no	7
+13 the to Mary office journeyed.
+14 kitchen is the longer in no Sandra.
+15 John the  Is hallway in?	no	11
+1 the moved to Mary bathroom.
+2 moved Mary to the kitchen.
+3 in Is  the office Mary?	no	2
+4 John journeyed the to hallway.
+5 to went Mary the bathroom back.
+6 Is bathroom Mary  the in?	yes	5
+7 office the in is Daniel.
+8 in is the garden Mary.
+9 Is garden  the Mary in?	yes	8
+10 John the kitchen went back to.
+11 the is not in Sandra hallway.
+12 Is bedroom the John  in?	no	10
+13 Mary bedroom journeyed the to.
+14 to Sandra travelled bathroom the.
+15 kitchen in Mary  Is the?	no	13
+1 Mary kitchen the moved to.
+2 is bathroom not the John in.
+3 the Is  bathroom in John?	no	2
+4 not bathroom in Sandra the is.
+5 Sandra bathroom the is in.
+6 Is the bathroom in  Sandra?	yes	5
+7 travelled the bathroom John to.
+8 journeyed hallway John the to.
+9 the hallway Is John  in?	yes	8
+10 in Sandra bathroom the not is.
+11 bathroom the is Mary in.
+12 in the Is  bathroom Sandra?	no	10
+13 hallway not the is John in.
+14 bathroom not is in the Daniel.
+15 Is the John hallway in ?	no	13
+1 is Mary in no longer the kitchen.
+2 is Mary garden not the in.
+3 the  Is garden in Mary?	no	2
+4 Daniel the office in is.
+5 John is bedroom the not in.
+6  the bedroom in John Is?	no	5
+7 Sandra the to kitchen moved.
+8 no in bedroom longer the is Mary.
+9  Is Mary bedroom in the?	no	8
+10 Sandra journeyed to the hallway.
+11 Daniel the back went bathroom to.
+12 the Mary  in bedroom Is?	no	8
+13 bedroom the Daniel to went back.
+14 the garden John is in.
+15 John in kitchen the  Is?	no	14
+1 in is the garden John.
+2 kitchen in Mary the is.
+3 John garden Is the  in?	yes	1
+4 is Daniel no bedroom the in longer.
+5 the John is in office.
+6 in Is office  John the?	yes	5
+7 the hallway in Sandra is.
+8 no in John is longer office the.
+9 John Is in  office the?	no	8
+10 is the John longer garden no in.
+11 to went the Sandra kitchen.
+12 Is  in bathroom the Sandra?	no	11
+13 moved the bathroom to Mary.
+14 the is Sandra in hallway.
+15  the garden in John Is?	no	10
+1 bathroom moved to John the.
+2 kitchen moved to Mary the.
+3 the  bathroom in Mary Is?	no	2
+4 not kitchen the in is Mary.
+5 journeyed to Mary the hallway.
+6 in Mary  Is the hallway?	yes	5
+7 is Daniel bedroom the not in.
+8 kitchen Mary to the travelled.
+9 Is in hallway  Mary the?	no	8
+10 office to the journeyed Sandra.
+11 the back to went kitchen Daniel.
+12 in the  hallway Is Mary?	no	8
+13 the went Mary to bedroom.
+14 travelled garden the to Daniel.
+15 Sandra in Is office  the?	yes	10
+1 to the John hallway went.
+2 kitchen to went the Sandra.
+3 in Sandra Is kitchen  the?	yes	2
+4 kitchen the went to Mary.
+5 journeyed to Mary the bedroom.
+6 in Is bedroom John  the?	no	1
+7 to travelled garden the John.
+8 in garden is Daniel the.
+9 bedroom  in Is the John?	no	7
+10 travelled Sandra bathroom to the.
+11 garden John is not the in.
+12 Mary in kitchen  Is the?	no	5
+13 hallway John is in the.
+14 the Daniel hallway in is.
+15 Is in the Daniel bathroom ?	no	14
+1 in Mary the no is bedroom longer.
+2 Sandra travelled hallway to the.
+3 Mary the Is in bedroom ?	no	1
+4 went to the Mary kitchen.
+5 Mary to office the journeyed.
+6  office in Mary the Is?	yes	5
+7 travelled John to bedroom the.
+8 in the office Sandra is.
+9 the  Is office Sandra in?	yes	8
+10 the bathroom moved Mary to.
+11 John the bedroom not is in.
+12  the Is in kitchen Mary?	no	10
+13 moved garden Sandra the to.
+14 the is kitchen in Mary.
+15 bedroom Mary Is the in ?	no	14
+1 to bedroom travelled Mary the.
+2 in Mary is garden the.
+3 the in  Mary hallway Is?	no	2
+4 John is the bathroom in.
+5 the in Daniel is bedroom.
+6 the bedroom  Is in Mary?	no	2
+7 moved Mary to the bathroom.
+8 the to Mary hallway moved.
+9 bathroom John Is  the in?	yes	4
+10 bedroom is in the Sandra.
+11 Daniel is the in hallway.
+12 in Is Mary hallway  the?	yes	8
+13 is the John in bedroom.
+14 the not is in Mary hallway.
+15 Is  the hallway in Mary?	no	14
+1 Mary garden the moved to.
+2 John not the kitchen is in.
+3  kitchen the John in Is?	no	2
+4 Sandra to went the bedroom.
+5 kitchen went the to John.
+6  Is the in John office?	no	5
+7 John back to the went bedroom.
+8 to Mary the went back bedroom.
+9 the  in Is John hallway?	no	7
+10 the office John in is.
+11 the went garden to Sandra.
+12 Is John office the in ?	yes	10
+13 Mary the is bathroom in.
+14 bathroom Daniel the moved to.
+15 Daniel  Is hallway in the?	no	14
+1 garden is in Daniel the not.
+2 in the hallway Sandra is.
+3 the Is Daniel  garden in?	no	1
+4 Sandra in hallway no is the longer.
+5 is Mary bedroom the in.
+6 Is  in the hallway Sandra?	no	4
+7 to the Mary office went.
+8 John longer office is in the no.
+9 Sandra Is hallway the in ?	no	4
+10 kitchen the to John journeyed.
+11 Daniel journeyed the office to.
+12  in Is the bedroom Daniel?	no	11
+13 the Daniel journeyed to kitchen.
+14 Sandra is not bedroom the in.
+15 Is in John  bedroom the?	no	10
+1 to Mary the bedroom journeyed.
+2 Mary the to hallway moved.
+3 in Is  bathroom Mary the?	no	2
+4 bathroom is in the John.
+5 Sandra went office the to.
+6 Is in bedroom  the John?	no	4
+7 the in John is hallway.
+8 John the to bathroom went back.
+9 in the bedroom Is John ?	no	8
+10 bedroom went the back to Daniel.
+11 Daniel kitchen to journeyed the.
+12 the in bathroom Is John ?	yes	8
+13 the bathroom is Sandra in.
+14 Mary in the garden is.
+15 the garden Is  Mary in?	yes	14
+1 bathroom in is the John.
+2 to the bedroom journeyed Mary.
+3 Mary the  bedroom in Is?	yes	2
+4 not Daniel is office in the.
+5 not is in bathroom John the.
+6 Daniel  the Is in office?	no	4
+7 to the office Daniel journeyed.
+8 the in bedroom longer is no Mary.
+9 the bedroom Is  Mary in?	no	8
+10 to the went office back Mary.
+11 the in not John kitchen is.
+12 the kitchen Is in John ?	no	11
+13 the Mary bedroom went to.
+14 office in is Daniel no the longer.
+15 Is office  Daniel the in?	no	14
+1 journeyed the bathroom Sandra to.
+2 is Sandra in the not bathroom.
+3 in Sandra bathroom Is the ?	no	2
+4 to Sandra bathroom back the went.
+5 John garden is the in.
+6 the Is  in Sandra bathroom?	yes	4
+7 in is kitchen no Daniel longer the.
+8 the kitchen to Daniel went.
+9 John Is  the in office?	no	5
+10 moved garden the to Sandra.
+11 the garden in Sandra is not.
+12 Is Daniel kitchen the  in?	yes	8
+13 is hallway the in Mary.
+14 in Daniel not kitchen is the.
+15 hallway the  in Mary Is?	yes	13
+1 the is hallway in Daniel.
+2 travelled bathroom the to Mary.
+3 in hallway  the Is Daniel?	yes	1
+4 the John is in no longer office.
+5 is Sandra the bathroom in.
+6 in Is office the John ?	no	4
+7 office to Mary the travelled.
+8 the not in is bathroom Sandra.
+9 Mary  office in the Is?	yes	7
+10 bathroom to moved Sandra the.
+11 the in not Daniel hallway is.
+12 kitchen in the Sandra  Is?	no	10
+13 the bathroom to Mary moved.
+14 longer the Mary is bathroom in no.
+15 hallway Is Daniel  in the?	no	11
+1 the John went to bedroom.
+2 back the Sandra to went hallway.
+3 Sandra hallway  Is the in?	yes	2
+4 the Sandra in bathroom is.
+5 journeyed Mary kitchen the to.
+6  Is the office John in?	no	1
+7 garden journeyed John to the.
+8 kitchen is the in not Mary.
+9 kitchen Sandra the Is in ?	no	4
+10 kitchen in is the John.
+11 Sandra hallway the to moved.
+12 the Sandra hallway in  Is?	yes	11
+13 the bedroom John to moved.
+14 the Mary office to moved.
+15 hallway Is  in the Sandra?	yes	11
+1 the back office Daniel to went.
+2 is Mary the garden in.
+3  Daniel kitchen the in Is?	no	1
+4 longer in Sandra bathroom is no the.
+5 the John to moved hallway.
+6  in the Daniel Is office?	yes	1
+7 the Daniel in office not is.
+8 bathroom went John to the.
+9 Daniel Is office in the ?	no	7
+10 is in bathroom the John not.
+11 John garden travelled to the.
+12 John Is  the garden in?	yes	11
+13 the Sandra kitchen to travelled.
+14 to back Daniel went bathroom the.
+15 the  in Is John garden?	yes	11
+1 the office is in Daniel.
+2 Sandra the office to went.
+3 in the Is  Sandra kitchen?	no	2
+4 John hallway moved to the.
+5 back office the to Mary went.
+6 Is the Mary in bedroom ?	no	5
+7 John to the kitchen travelled.
+8 the to Mary travelled garden.
+9 Is in the  kitchen John?	yes	7
+10 longer is office no the in Sandra.
+11 not Sandra is in the garden.
+12 Sandra the Is garden in ?	no	11
+13 bathroom journeyed the to John.
+14 Mary the in is hallway.
+15 Is  hallway the Mary in?	yes	14
+1 Mary longer no hallway in the is.
+2 garden to went John back the.
+3 the Is  kitchen in John?	no	2
+4 bathroom the to John journeyed.
+5 Daniel is the no hallway longer in.
+6 bedroom  Is John the in?	no	4
+7 longer kitchen in no Daniel is the.
+8 bathroom the Sandra in is.
+9  kitchen in Daniel Is the?	no	7
+10 bathroom the is in not Sandra.
+11 is garden the Mary in.
+12 Mary  office in the Is?	no	11
+13 bedroom in the John is.
+14 the in is John garden.
+15 the Sandra Is  bathroom in?	no	10
+1 the is Mary in bathroom.
+2 hallway the travelled to Daniel.
+3 Is Mary  the office in?	no	1
+4 the garden longer in no is John.
+5 the office Mary moved to.
+6  in office Mary the Is?	yes	5
+7 John is in the bedroom not.
+8 back the went Daniel to kitchen.
+9 Is  the office Mary in?	yes	5
+10 Daniel the kitchen is longer no in.
+11 kitchen in Sandra is the.
+12 the  in Is bedroom John?	no	7
+13 is in office the Mary not.
+14 in hallway Sandra the is.
+15 the Is  kitchen Daniel in?	no	10
+1 the Sandra to went bedroom back.
+2 the in hallway Sandra is.
+3 Is hallway the in Sandra ?	yes	2
+4 office Sandra the in is.
+5 in John is hallway not the.
+6 office the in  Sandra Is?	yes	4
+7 garden the to Sandra moved.
+8 the kitchen Sandra in is.
+9 in bedroom Sandra the  Is?	no	8
+10 the hallway John moved to.
+11 Mary the travelled office to.
+12 Is in  hallway the John?	yes	10
+13 Sandra to garden moved the.
+14 in the Mary garden is.
+15 in Is  garden Mary the?	yes	14
+1 in garden is the not Mary.
+2 in is hallway the Sandra.
+3 in the  garden Is Mary?	no	1
+4 not bathroom the in Daniel is.
+5 the Mary travelled hallway to.
+6 hallway in Is the  Sandra?	yes	2
+7 no hallway longer the Sandra is in.
+8 the Daniel in is hallway.
+9  Daniel in Is the kitchen?	no	8
+10 to back bedroom the John went.
+11 Mary the went garden to.
+12 Is the garden  in Mary?	yes	11
+13 Sandra the to travelled kitchen.
+14 Daniel the is in garden.
+15 Is Sandra  in bedroom the?	no	13
+1 went Mary the hallway to back.
+2 bathroom in is the Sandra.
+3 Sandra bathroom the  in Is?	yes	2
+4 John the moved to kitchen.
+5 back went to hallway the Daniel.
+6  the in Is Sandra hallway?	no	2
+7 kitchen to Mary the moved.
+8 to bathroom John the went.
+9  bedroom Mary in the Is?	no	7
+10 Daniel is office in the.
+11 bedroom is in the Daniel.
+12 John in the  Is hallway?	no	8
+13 office Mary went to back the.
+14 the is garden in Mary.
+15 the garden Daniel  in Is?	no	11
+1 Daniel the in hallway is.
+2 bedroom the John journeyed to.
+3 Daniel garden in  the Is?	no	1
+4 is in Daniel the kitchen.
+5 the John moved bathroom to.
+6 the in Daniel  office Is?	no	4
+7 bathroom is the Mary in not.
+8 in bedroom is longer the no Mary.
+9 the Daniel Is kitchen  in?	yes	4
+10 back went to bathroom the Mary.
+11 is in the Daniel garden.
+12 Is John the bathroom  in?	yes	5
+13 Mary is kitchen in the.
+14 bathroom Sandra is not the in.
+15 Mary in the  garden Is?	no	13
+1 to moved bathroom Mary the.
+2 hallway Sandra the went back to.
+3 Sandra Is in  the kitchen?	no	2
+4 in no the hallway longer Sandra is.
+5 the is in bedroom Mary.
+6 hallway in  the Is Sandra?	no	4
+7 John the in bedroom is.
+8 garden moved to the Mary.
+9  the John bathroom in Is?	no	7
+10 in John bedroom no is the longer.
+11 is John not garden the in.
+12  in John garden the Is?	no	11
+13 the in is Daniel not garden.
+14 in John is the office.
+15 the in hallway John Is ?	no	14
+1 the moved Mary bedroom to.
+2 in the garden is John.
+3 Mary Is hallway the  in?	no	1
+4 is office the Daniel in.
+5 to bedroom the John travelled.
+6 garden Mary Is  in the?	no	1
+7 the garden Daniel in is.
+8 bedroom Mary in longer no the is.
+9 in Is bedroom John  the?	yes	5
+10 to office went Daniel the.
+11 no bedroom in John the longer is.
+12 the in  Is bedroom Daniel?	no	10
+13 is longer the John in kitchen no.
+14 no is in the longer John office.
+15  John office Is the in?	no	14
+1 garden the travelled Mary to.
+2 bedroom Mary to the moved.
+3 bedroom Is  in Mary the?	yes	2
+4 in Daniel the is kitchen.
+5 to back Sandra the went bedroom.
+6 Mary Is office in the ?	no	2
+7 is the bathroom Sandra in.
+8 hallway is John in the.
+9 the bathroom Sandra Is in ?	yes	7
+10 to the John kitchen moved.
+11 in kitchen the is no Daniel longer.
+12 Is bathroom the Sandra  in?	yes	7
+13 to Mary the hallway journeyed.
+14 kitchen is no in longer the John.
+15 kitchen John the Is in ?	no	14
+1 the Mary in garden longer no is.
+2 garden is in Mary the.
+3 in the Is garden  Mary?	yes	2
+4 the garden journeyed John to.
+5 Sandra back the bedroom to went.
+6 office Is  the Mary in?	no	2
+7 Sandra office is the in.
+8 longer the garden in John no is.
+9 Is office in Sandra  the?	yes	7
+10 to the journeyed John office.
+11 moved Mary the bedroom to.
+12 John in Is  office the?	yes	10
+13 bathroom Daniel the is in.
+14 kitchen the in is Mary.
+15 Is bathroom in the Daniel ?	yes	13
+1 kitchen Sandra to the moved.
+2 the is in Daniel bedroom.
+3  Sandra Is in kitchen the?	yes	1
+4 the in bathroom is Sandra.
+5 the Mary in is garden.
+6 in  kitchen the Is Mary?	no	5
+7 bedroom journeyed Sandra to the.
+8 Sandra the to journeyed garden.
+9 in hallway the Sandra  Is?	no	8
+10 the hallway is in Mary.
+11 the kitchen to John journeyed.
+12 the kitchen Is John in ?	yes	11
+13 John to the went bedroom.
+14 longer no in Daniel bedroom the is.
+15  Is the Sandra in garden?	yes	8
+1 the bedroom travelled to Sandra.
+2 the bathroom is in Mary.
+3 the Is Sandra bathroom in ?	no	1
+4 kitchen Sandra the travelled to.
+5 the hallway Sandra in is.
+6 the hallway Is  Sandra in?	yes	5
+7 in longer the no is office John.
+8 the no in longer Sandra is hallway.
+9  the John office Is in?	no	7
+10 in is hallway not the John.
+11 Daniel longer no the in is bathroom.
+12 Sandra the Is in hallway ?	no	8
+13 no longer Mary bathroom is the in.
+14 bedroom to Daniel travelled the.
+15 Sandra in hallway the  Is?	no	8
+1 bedroom is the in Mary.
+2 kitchen Daniel in the is.
+3 in Is hallway Mary  the?	no	1
+4 garden went the John to.
+5 to travelled John bedroom the.
+6 John in garden Is the ?	no	5
+7 office the went to Sandra.
+8 moved John the hallway to.
+9  the hallway Is in John?	yes	8
+10 Daniel the longer kitchen no in is.
+11 Daniel not the is bedroom in.
+12 the  Is bedroom in Daniel?	no	11
+13 hallway in John the is not.
+14 bedroom the in Mary not is.
+15 Daniel Is the in  bedroom?	no	11
+1 the in kitchen is Daniel.
+2 moved bedroom to the Mary.
+3 the Is kitchen  Daniel in?	yes	1
+4 to back went the Sandra bathroom.
+5 went to office the John.
+6  hallway John in the Is?	no	5
+7 Daniel the kitchen is in not.
+8 the hallway is Mary in.
+9 John office  Is the in?	yes	5
+10 Sandra no the longer is bathroom in.
+11 Sandra the hallway in is.
+12 Is in  Sandra kitchen the?	no	11
+13 Mary longer hallway in the is no.
+14 the is not in Daniel bedroom.
+15  Daniel bedroom the Is in?	no	14
+1 went Mary to hallway back the.
+2 is Sandra in bedroom the.
+3 Is in hallway  the Mary?	yes	1
+4 Sandra no the is longer in bedroom.
+5 garden the journeyed Mary to.
+6 the  Is bedroom in Sandra?	no	4
+7 to went kitchen John the.
+8 is kitchen in John not the.
+9 John  Is in the kitchen?	no	8
+10 longer bathroom the Daniel in no is.
+11 hallway Daniel to the went.
+12  the hallway in Daniel Is?	yes	11
+13 John no is the longer in garden.
+14 to the Daniel journeyed office.
+15  Is the in bathroom Daniel?	no	14
+1 hallway to the Sandra travelled.
+2 bathroom to Daniel travelled the.
+3  in hallway Is the Sandra?	yes	1
+4 office to John the journeyed.
+5 went Mary office to the.
+6 the  office John in Is?	yes	4
+7 bedroom Mary travelled to the.
+8 to Mary hallway moved the.
+9 in hallway Is  Mary the?	yes	8
+10 Sandra to travelled bedroom the.
+11 is kitchen the in Daniel.
+12 the  in Is Mary bathroom?	no	8
+13 journeyed Sandra to the garden.
+14 is in longer the no kitchen Daniel.
+15 in garden Sandra  the Is?	yes	13
+1 hallway to moved the John.
+2 Sandra in the bathroom is.
+3 the  Is in hallway John?	yes	1
+4 hallway longer Daniel in no the is.
+5 office travelled the to Sandra.
+6 bedroom  Is John in the?	no	1
+7 back bedroom to went the Daniel.
+8 is John no hallway in longer the.
+9 hallway John Is the  in?	no	8
+10 Daniel the in kitchen is.
+11 is Mary bathroom in the.
+12 in Is  bathroom the Mary?	yes	11
+13 the Mary hallway journeyed to.
+14 Mary hallway not the in is.
+15 the hallway Is Mary in ?	no	14
+1 not is in the garden John.
+2 Mary travelled office to the.
+3 Mary Is office  the in?	yes	2
+4 Daniel bedroom to the moved.
+5 went hallway to the John.
+6 hallway the  John Is in?	yes	5
+7 the in office not Mary is.
+8 not the is in Sandra hallway.
+9 the Is  in hallway Sandra?	no	8
+10 Mary to garden the moved.
+11 moved bedroom to John the.
+12 the in office Is  Mary?	no	10
+13 bedroom longer in the is no Sandra.
+14 Sandra in the not is bathroom.
+15 Is in  the Mary garden?	yes	10
+1 to John went bathroom the.
+2 back Daniel went to the kitchen.
+3  John bathroom in the Is?	yes	1
+4 the moved bedroom to Daniel.
+5 to the Mary moved hallway.
+6 Mary the in  Is hallway?	yes	5
+7 to went the garden John.
+8 in longer the no is bedroom Daniel.
+9 bathroom the Is  in John?	no	7
+10 moved Sandra the to garden.
+11 in is bathroom Sandra the.
+12 Is in Daniel  the bedroom?	no	8
+13 no hallway is the longer in Mary.
+14 hallway the to went Mary back.
+15 the  kitchen Sandra Is in?	no	11
+1 no is bathroom longer Daniel in the.
+2 Sandra the office travelled to.
+3 in Is Sandra  the garden?	no	2
+4 kitchen went back the to Mary.
+5 the to Sandra bedroom journeyed.
+6 the Is in  Mary kitchen?	yes	4
+7 is in not the bedroom Daniel.
+8 office the no in John longer is.
+9  the Is Sandra in bedroom?	yes	5
+10 journeyed John to garden the.
+11 Mary back hallway the to went.
+12  office the in John Is?	no	10
+13 the is Mary in kitchen.
+14 the not in garden John is.
+15 Mary in Is kitchen  the?	yes	13
+1 went to Mary the bedroom.
+2 Mary to went back office the.
+3 Mary in Is  office the?	yes	2
+4 the garden John is in.
+5 went the to Sandra garden.
+6 Is hallway Sandra in  the?	no	5
+7 garden in John not the is.
+8 Sandra in office the is.
+9 Mary in Is the  office?	yes	2
+10 the to journeyed John office.
+11 is kitchen the Sandra in.
+12 in the John  office Is?	yes	10
+13 back to garden the Daniel went.
+14 to bathroom John travelled the.
+15 Is kitchen the Daniel in ?	no	13
+1 in is Mary office the.
+2 in garden the John is.
+3 the  Is in John bedroom?	no	2
+4 to Mary the kitchen went.
+5 no Sandra is kitchen the longer in.
+6  the kitchen Is in Mary?	yes	4
+7 the hallway travelled to Sandra.
+8 Daniel to the went hallway.
+9 the  in Sandra bathroom Is?	no	7
+10 no is longer John in garden the.
+11 the Mary bathroom moved to.
+12 Daniel in the  Is hallway?	yes	8
+13 bathroom John in the is.
+14 the bathroom not in Mary is.
+15 in hallway  the Is Daniel?	yes	8
+1 in not Daniel hallway is the.
+2 Sandra the to journeyed office.
+3 Sandra in the  office Is?	yes	2
+4 is hallway in Mary the.
+5 kitchen Mary journeyed to the.
+6 in Is bathroom the Mary ?	no	5
+7 in hallway the is Mary.
+8 travelled to the office Daniel.
+9 office Is Mary the in ?	no	7
+10 John hallway the back to went.
+11 not is Mary the hallway in.
+12 the Daniel in office  Is?	yes	8
+13 to office travelled the John.
+14 Daniel garden is the in.
+15 hallway Mary Is in  the?	no	11
+1 Sandra office is the in not.
+2 the in hallway not is Mary.
+3 in the  Is office Sandra?	no	1
+4 back Sandra bedroom to the went.
+5 went to hallway Daniel the.
+6 in the  Sandra Is hallway?	no	4
+7 is the Mary in garden.
+8 in John the bedroom is.
+9  bedroom Is in the Mary?	no	7
+10 John the to bathroom travelled.
+11 bedroom travelled the to John.
+12 hallway  Is Daniel in the?	yes	5
+13 garden the in longer Mary no is.
+14 garden the Mary is in.
+15 John bedroom in  the Is?	yes	11
+1 Daniel went the kitchen to back.
+2 the to back went kitchen John.
+3 John  in the Is office?	no	2
+4 the Daniel bathroom to moved.
+5 to office Daniel the travelled.
+6 Is the Daniel bathroom  in?	no	5
+7 John is the in longer kitchen no.
+8 is the office Mary in not.
+9 John Is  the in kitchen?	no	7
+10 in the is bathroom not John.
+11 the is Sandra in office.
+12 the Sandra in  Is garden?	no	11
+13 bathroom the to went back John.
+14 to bathroom Daniel back the went.
+15 John hallway in  Is the?	no	13
+1 in is Daniel the bathroom.
+2 the in kitchen Daniel is.
+3 in Daniel bathroom Is the ?	no	2
+4 office the back to went Mary.
+5 in kitchen the is Daniel not.
+6  Daniel kitchen in Is the?	no	5
+7 Daniel the bedroom to moved.
+8 office John to journeyed the.
+9 Is garden Daniel in  the?	no	7
+10 the longer office is in no John.
+11 Mary garden travelled the to.
+12 Is bedroom in  the Daniel?	yes	7
+13 the bathroom Sandra travelled to.
+14 in Sandra is the office.
+15 Mary in garden Is  the?	yes	11
+1 the Daniel kitchen moved to.
+2 the in hallway is Sandra.
+3 bedroom the Is  in Sandra?	no	2
+4 the garden not is in John.
+5 the is Mary kitchen in.
+6 the  Is in John garden?	no	4
+7 to the went Daniel back garden.
+8 kitchen is no Mary the in longer.
+9 in Is the  bedroom Daniel?	no	7
+10 the Sandra office to went.
+11 bedroom is the in John not.
+12  Is Mary the kitchen in?	no	8
+13 back kitchen Daniel went the to.
+14 John bedroom is in the.
+15 in Mary kitchen the  Is?	no	8
+1 to the moved garden Daniel.
+2 in kitchen John not is the.
+3 John in kitchen Is  the?	no	2
+4 in no John the garden longer is.
+5 the Sandra in is hallway.
+6 Is John garden  the in?	no	4
+7 went Sandra to bathroom the.
+8 longer John in the bedroom is no.
+9 bathroom Sandra  in Is the?	yes	7
+10 to went the Daniel hallway.
+11 John the to moved kitchen.
+12 John in Is  the kitchen?	yes	11
+13 bathroom to John journeyed the.
+14 bedroom John in the is.
+15 in John kitchen Is the ?	no	14
+1 Mary the not is in bathroom.
+2 Mary to journeyed the hallway.
+3 the  garden Is in Mary?	no	2
+4 bedroom to the travelled John.
+5 hallway is no Mary in longer the.
+6 hallway John in  Is the?	no	4
+7 is the in bedroom Mary.
+8 not in is bedroom John the.
+9  office Is Mary in the?	no	7
+10 the is bedroom in Daniel.
+11 went to office the Daniel.
+12 Is hallway  the in Daniel?	no	11
+13 hallway Mary to the moved.
+14 to went the bedroom Mary.
+15  hallway the in Mary Is?	no	14
+1 the to Sandra hallway back went.
+2 not the hallway in is Mary.
+3 Sandra the Is garden  in?	no	1
+4 kitchen is in not Mary the.
+5 is in longer the Sandra no hallway.
+6 the  Sandra in hallway Is?	no	5
+7 John office is not in the.
+8 to the Daniel journeyed garden.
+9  garden the in Is Daniel?	yes	8
+10 journeyed the office to Daniel.
+11 in Sandra the bathroom is.
+12  office Is the Daniel in?	yes	10
+13 the Daniel is garden in.
+14 longer the in bedroom is no Mary.
+15 the Daniel bedroom Is  in?	no	13
+1 the kitchen to John travelled.
+2 is John hallway in the.
+3  Is hallway in the John?	yes	2
+4 John the garden to moved.
+5 back the to went John hallway.
+6 in Is hallway John  the?	yes	5
+7 is the John garden in.
+8 John is in garden longer no the.
+9 in John Is garden the ?	no	8
+10 John kitchen to moved the.
+11 the to Mary bathroom went.
+12 John the  in kitchen Is?	yes	10
+13 is garden in the Daniel.
+14 went the Mary office to.
+15  Mary in Is the kitchen?	no	14
+1 to the went bathroom Daniel.
+2 the in not Mary hallway is.
+3 in hallway the  Mary Is?	no	2
+4 kitchen to Daniel went the.
+5 office the in Daniel is.
+6  Is kitchen Daniel the in?	no	5
+7 in garden the John is.
+8 went Sandra the to back office.
+9 bathroom in  Daniel the Is?	no	5
+10 the kitchen Mary moved to.
+11 to went the hallway Daniel.
+12 in the  Mary Is hallway?	no	10
+13 back to went kitchen the Sandra.
+14 in hallway longer no is Daniel the.
+15 Sandra Is the  in garden?	no	13
+1 kitchen the in John is.
+2 to the hallway Sandra went.
+3 the in Is John office ?	no	1
+4 Sandra went bedroom the to.
+5 the in no kitchen longer Mary is.
+6 the Sandra bedroom in  Is?	yes	4
+7 is in kitchen the Mary.
+8 the in bathroom is Mary.
+9 bathroom Mary the Is  in?	yes	8
+10 garden Daniel is in not the.
+11 kitchen the Mary is in.
+12  Mary the in kitchen Is?	yes	11
+13 bathroom to back Daniel went the.
+14 is Sandra hallway the in.
+15 office in Mary the  Is?	no	11
+1 to Sandra the went kitchen.
+2 no longer garden in is John the.
+3 bedroom in Is  the Sandra?	no	1
+4 the to moved kitchen John.
+5 John went to the bathroom.
+6 Is in kitchen John  the?	no	5
+7 Daniel kitchen the is in.
+8 the bedroom in is Daniel.
+9 the Daniel  Is in bedroom?	yes	8
+10 Daniel the no in is bedroom longer.
+11 John the in is garden.
+12 in the John bedroom Is ?	no	11
+13 to the journeyed John kitchen.
+14 no Sandra is kitchen in longer the.
+15 bedroom Is  in the John?	no	13
+1 back John bedroom the to went.
+2 in garden the is John.
+3  garden John the Is in?	yes	2
+4 John went to hallway the back.
+5 went bathroom to the Sandra.
+6  the hallway in Is John?	yes	4
+7 in not is Mary the bathroom.
+8 the to John journeyed bedroom.
+9 John  in the bedroom Is?	yes	8
+10 the in Mary office is.
+11 Sandra to the went back hallway.
+12 Mary  Is the in bedroom?	no	10
+13 to the moved Sandra bedroom.
+14 the went Sandra bathroom to.
+15 bathroom Sandra  Is in the?	yes	14
+1 Sandra bathroom in is the.
+2 no the hallway in Daniel is longer.
+3 Sandra kitchen Is in the ?	no	1
+4 the in is hallway Mary.
+5 the in kitchen is Daniel.
+6 in Is the  kitchen Daniel?	yes	5
+7 hallway in Sandra the is.
+8 the is kitchen not Daniel in.
+9 Daniel Is in  the kitchen?	no	8
+10 the to moved kitchen Daniel.
+11 in is John not the office.
+12 Is in Daniel  bathroom the?	no	10
+13 went the bedroom Sandra back to.
+14 not in is the garden John.
+15 garden  the Is John in?	no	14
+1 bathroom Daniel in the is.
+2 to the back Daniel hallway went.
+3  the in Daniel office Is?	no	2
+4 travelled bathroom the to Mary.
+5 the to kitchen John went.
+6 kitchen Daniel  in the Is?	no	2
+7 is kitchen Mary in the.
+8 John the to hallway travelled.
+9 the Is John hallway  in?	yes	8
+10 hallway in no John the is longer.
+11 Sandra bedroom in the is.
+12 in  the Mary Is office?	no	7
+13 the went to bathroom Mary.
+14 John is garden the longer in no.
+15 Mary the Is  hallway in?	no	13
+1 is in Daniel the office.
+2 the Mary is bedroom in.
+3 in Is bathroom Daniel the ?	no	1
+4 longer Sandra bathroom no in is the.
+5 the to hallway Sandra travelled.
+6 the  Daniel Is in kitchen?	no	1
+7 Sandra to travelled bathroom the.
+8 back to went Sandra the hallway.
+9  the Sandra kitchen in Is?	no	8
+10 is in bedroom Mary longer no the.
+11 in garden the is John.
+12 in the hallway  Is Sandra?	yes	8
+13 bedroom the to journeyed Mary.
+14 to hallway John the moved.
+15 in the Is  office John?	no	14
+1 bedroom Daniel the not is in.
+2 the to went hallway Sandra.
+3 bathroom the  in Sandra Is?	no	2
+4 travelled the bedroom Sandra to.
+5 Mary in is the bathroom.
+6 bedroom in  Sandra the Is?	yes	4
+7 in is the not Sandra bedroom.
+8 kitchen the in is Sandra.
+9 bathroom  in the Mary Is?	yes	5
+10 garden moved John the to.
+11 John the is not garden in.
+12 garden Sandra Is the  in?	no	8
+13 office the in Daniel is.
+14 is in bathroom Mary not the.
+15 in Is  garden Sandra the?	no	8
+1 went Daniel to hallway back the.
+2 to travelled the Daniel garden.
+3  Is Daniel the garden in?	yes	2
+4 the office is Sandra in.
+5 in bathroom longer John the is no.
+6 Sandra the  in Is hallway?	no	4
+7 the travelled Mary to kitchen.
+8 bedroom the travelled Daniel to.
+9 in hallway the Daniel Is ?	no	8
+10 to the Daniel office moved.
+11 in the longer John garden is no.
+12 Is Mary in the  kitchen?	yes	7
+13 is the in John kitchen.
+14 to John hallway moved the.
+15  John bathroom Is the in?	no	14
+1 is Sandra the in not garden.
+2 back the kitchen Daniel to went.
+3  Is the in garden Sandra?	no	1
+4 kitchen not in the is Daniel.
+5 to bedroom the travelled John.
+6 in  Is John hallway the?	no	5
+7 the bedroom went to Mary.
+8 Sandra in the garden is.
+9 Is kitchen Daniel  the in?	no	4
+10 Mary the no longer in is bedroom.
+11 hallway Daniel the moved to.
+12  bedroom the in Is Mary?	no	10
+13 office is the in Mary.
+14 kitchen is in the Sandra.
+15 kitchen Is  in Sandra the?	yes	14
+1 bedroom John travelled to the.
+2 the Sandra is in garden.
+3  John the Is in bedroom?	yes	1
+4 bedroom the to Sandra moved.
+5 in kitchen Sandra is the.
+6 the Sandra kitchen  Is in?	yes	5
+7 kitchen in longer Daniel no the is.
+8 to office back went the Mary.
+9  in Sandra the hallway Is?	no	5
+10 to Mary the kitchen went.
+11 to the journeyed bedroom Sandra.
+12 the in  hallway Is Sandra?	no	11
+13 is bedroom the in Sandra no longer.
+14 the office went to Sandra.
+15 Is Sandra in kitchen the ?	no	14
+1 is longer John no in office the.
+2 kitchen the in is Sandra.
+3 office John the Is in ?	no	1
+4 the to Sandra back went bathroom.
+5 Mary garden moved to the.
+6 Is bathroom in Sandra the ?	yes	4
+7 the Mary longer in is no garden.
+8 kitchen to back Daniel the went.
+9 Sandra  in the bathroom Is?	yes	4
+10 the went Mary garden back to.
+11 Sandra to back the garden went.
+12 Is the in  garden Mary?	yes	10
+13 is the in kitchen John.
+14 bathroom in is Sandra the.
+15 in  Is Sandra hallway the?	no	14
+1 the journeyed bathroom Sandra to.
+2 to Mary the garden travelled.
+3  the Is in bathroom Sandra?	yes	1
+4 the hallway went Daniel to.
+5 is John the office in.
+6 Is  Sandra the bathroom in?	yes	1
+7 journeyed bedroom to Sandra the.
+8 Daniel not in the is hallway.
+9  the Mary in Is garden?	yes	2
+10 moved Mary to the bedroom.
+11 is in Sandra office the.
+12  Daniel hallway Is in the?	no	8
+13 not the in John is office.
+14 went to the office back John.
+15  Is John the in bedroom?	no	14
+1 Daniel longer no bathroom the is in.
+2 went Mary back office the to.
+3 in bathroom Is the  Daniel?	no	1
+4 Mary no in is office the longer.
+5 Mary hallway to the journeyed.
+6 Mary in  the Is hallway?	yes	5
+7 no longer the Mary in is hallway.
+8 the hallway travelled to Sandra.
+9 in Mary Is hallway the ?	no	7
+10 went bathroom the Daniel to.
+11 garden went to Daniel the.
+12 Daniel Is garden the  in?	yes	11
+13 is bedroom in the Mary.
+14 Sandra in is the garden.
+15 Is in office the  Daniel?	no	11
+1 to the John bathroom went.
+2 Daniel the no longer is in kitchen.
+3 in John bathroom the Is ?	yes	1
+4 the no John bathroom in is longer.
+5 the in is Sandra bedroom no longer.
+6 Is bedroom the  Sandra in?	no	5
+7 back to the Sandra bedroom went.
+8 the John to moved hallway.
+9  kitchen in the Is Daniel?	no	2
+10 to Sandra bathroom the went.
+11 the Daniel to went garden.
+12 Is the  bathroom in Sandra?	yes	10
+13 the not office in Mary is.
+14 went to back Mary bathroom the.
+15 Is in bedroom  the John?	no	8
+1 journeyed to the office Sandra.
+2 is Sandra in no the longer office.
+3 in Is  office the Sandra?	no	2
+4 moved Sandra to the garden.
+5 garden not Sandra in the is.
+6 Sandra  garden Is the in?	no	5
+7 in the is office Mary.
+8 the hallway to travelled Mary.
+9 the Is garden  in Sandra?	no	5
+10 the went garden Mary to.
+11 office in the is Mary.
+12 the garden in Mary Is ?	no	11
+13 Daniel is in hallway not the.
+14 in is the Mary no office longer.
+15 Is in hallway  the Daniel?	no	13
+1 the Daniel went to office.
+2 went to garden the Daniel back.
+3 Daniel  the Is in bedroom?	no	2
+4 Daniel is the in bedroom.
+5 went to Sandra the bathroom back.
+6 hallway  in Sandra Is the?	no	5
+7 in is not bathroom the Sandra.
+8 the bathroom John is in.
+9 in Sandra  the bathroom Is?	no	7
+10 Sandra the garden to went.
+11 longer garden in the Sandra is no.
+12 garden  in Is Sandra the?	no	11
+13 is bathroom in Sandra the.
+14 Daniel the to journeyed bathroom.
+15 Sandra in garden  Is the?	no	13
+1 hallway Mary back to went the.
+2 John the travelled to hallway.
+3 John in hallway the Is ?	yes	2
+4 bathroom John in is the.
+5 the bedroom to moved Sandra.
+6 John Is bedroom in  the?	no	4
+7 the garden John moved to.
+8 bedroom is the John in.
+9 John Is  garden the in?	no	8
+10 travelled bathroom the Mary to.
+11 Mary went the garden to.
+12 Is Mary in garden the ?	yes	11
+13 Sandra in is not bedroom the.
+14 no garden Mary the in is longer.
+15 Is  Mary in the garden?	no	14
+1 in bedroom the is John.
+2 to Mary the garden journeyed.
+3 the  garden Mary Is in?	yes	2
+4 back Sandra office the went to.
+5 the bathroom to Mary travelled.
+6  Sandra the in Is office?	yes	4
+7 bedroom the is in no longer John.
+8 to Sandra garden the journeyed.
+9 Mary the bedroom Is  in?	no	5
+10 bathroom is in John the.
+11 the hallway to journeyed Sandra.
+12  Is kitchen Sandra in the?	no	11
+13 hallway to the travelled Mary.
+14 longer is hallway Sandra no the in.
+15  in Is hallway the Sandra?	no	14
+1 is garden in Mary the.
+2 the bathroom in is Mary.
+3 Is Mary the bathroom in ?	yes	2
+4 to the travelled hallway John.
+5 the office in no Sandra longer is.
+6 the  Is in Mary bedroom?	no	2
+7 moved Mary the to kitchen.
+8 to journeyed the Mary hallway.
+9 John Is  the in hallway?	yes	4
+10 to John went bathroom back the.
+11 Mary in hallway longer the is no.
+12 Is hallway the  in Mary?	no	11
+13 to John travelled bedroom the.
+14 bathroom longer no is Mary in the.
+15 Is bathroom the  John in?	no	13
+1 in kitchen Sandra is the.
+2 not garden the Daniel in is.
+3 in the  bathroom Sandra Is?	no	1
+4 back hallway went the to John.
+5 in is bedroom the Daniel not.
+6 Is garden in  the John?	no	4
+7 Sandra bedroom journeyed to the.
+8 bedroom the Sandra no in longer is.
+9  in bedroom Is Sandra the?	no	8
+10 the is in office John.
+11 the John to went garden.
+12 in Is Sandra the  bedroom?	no	8
+13 Daniel the kitchen to journeyed.
+14 is garden John the in not.
+15 in  John the garden Is?	no	14
+1 is office the Daniel in.
+2 to the Daniel garden journeyed.
+3 the Daniel garden in Is ?	yes	2
+4 the office is John in.
+5 back to went Daniel the bedroom.
+6 bedroom  in Is the Daniel?	yes	5
+7 no Mary the is bathroom in longer.
+8 Mary garden the no longer is in.
+9 Mary  garden in the Is?	no	8
+10 hallway longer Mary is the in no.
+11 the to bathroom went Sandra.
+12 Is in  Mary the hallway?	no	10
+13 bedroom is no Daniel longer in the.
+14 journeyed Daniel to the office.
+15 Sandra the  bathroom in Is?	yes	11
+1 to the Daniel moved bathroom.
+2 in Mary is the bathroom.
+3 Daniel Is the in  garden?	no	1
+4 hallway is Sandra no in longer the.
+5 journeyed the Sandra to bathroom.
+6 the Is  in kitchen Sandra?	no	5
+7 moved to bedroom Daniel the.
+8 the is in kitchen Daniel.
+9 Is  in kitchen the Sandra?	no	5
+10 Mary is the garden in.
+11 the went bedroom Mary to.
+12 in office the Is Daniel ?	no	8
+13 the office in Mary is.
+14 moved Sandra the kitchen to.
+15 Sandra  Is in the kitchen?	yes	14
+1 the Mary to went hallway back.
+2 in kitchen no the is longer Daniel.
+3 hallway in Mary the Is ?	yes	1
+4 no longer John is in garden the.
+5 to Daniel journeyed office the.
+6 the John  garden in Is?	no	4
+7 to John the moved hallway.
+8 kitchen the moved to Sandra.
+9 Is bathroom the in John ?	no	7
+10 the to John went kitchen.
+11 the bathroom Sandra is in.
+12 in Is the bedroom John ?	no	10
+13 office no is longer in Daniel the.
+14 bathroom John to the travelled.
+15 in Sandra the bathroom  Is?	yes	11
+1 the went bedroom Sandra to.
+2 to went Sandra the kitchen.
+3  Sandra Is in the kitchen?	yes	2
+4 the bathroom John is longer no in.
+5 bedroom the is in John.
+6 Sandra the garden  in Is?	no	2
+7 travelled Daniel the garden to.
+8 John to the travelled hallway.
+9 Is Daniel in  office the?	no	7
+10 garden in the is Mary.
+11 Daniel is in longer no the garden.
+12  Is garden Daniel the in?	no	11
+13 is in not Mary the garden.
+14 Daniel travelled to hallway the.
+15  in Mary Is garden the?	no	13
+1 is Sandra in not bedroom the.
+2 Sandra in is not bathroom the.
+3 bathroom Sandra Is the  in?	no	2
+4 Mary the longer no in bedroom is.
+5 Sandra the moved bathroom to.
+6 Sandra in the  Is office?	no	5
+7 in is the garden Mary.
+8 in John kitchen the not is.
+9  kitchen Sandra Is the in?	no	5
+10 in the Daniel bedroom is.
+11 in is Sandra not the bathroom.
+12 Mary in garden the  Is?	yes	7
+13 to travelled John bedroom the.
+14 Mary is the in kitchen.
+15 bathroom Is the  Mary in?	no	14
+1 Daniel kitchen the in is.
+2 the bedroom not is in Sandra.
+3 Is Sandra in bedroom  the?	no	2
+4 kitchen not is in Daniel the.
+5 Mary the moved to kitchen.
+6 Is  kitchen the in Daniel?	no	4
+7 Daniel is the garden in.
+8 hallway the went to John.
+9 in bedroom Is the  Sandra?	no	2
+10 the office travelled to John.
+11 travelled to hallway the Sandra.
+12 hallway Is the  John in?	no	10
+13 kitchen not Mary the is in.
+14 bathroom the Mary went to.
+15  Sandra in hallway Is the?	yes	11
+1 bedroom in John is not the.
+2 bedroom Sandra is the in.
+3 in the John Is bedroom ?	no	1
+4 bedroom the to Mary travelled.
+5 office Sandra in is the.
+6 John the in  Is bedroom?	no	1
+7 Sandra the went to hallway.
+8 bedroom Sandra to went the.
+9  bedroom in Is Mary the?	yes	4
+10 office to the moved John.
+11 is office not the in John.
+12 Is  Sandra in kitchen the?	no	8
+13 John is in the bathroom.
+14 Daniel the is in bathroom.
+15 in the  Is office Sandra?	no	8
+1 the Mary went hallway back to.
+2 the in is bedroom Daniel.
+3 the Is in  bedroom Daniel?	yes	2
+4 the bedroom is Daniel in not.
+5 is in John the bedroom.
+6  the Is garden Mary in?	no	1
+7 the is in bathroom John.
+8 bathroom the to Mary went.
+9  Is in the John bathroom?	yes	7
+10 in garden Mary is the.
+11 to hallway the journeyed John.
+12 hallway  John in the Is?	yes	11
+13 Sandra journeyed the garden to.
+14 John garden to went the back.
+15 hallway Is  the in Mary?	no	10
+1 Sandra in the garden is.
+2 kitchen Sandra to the went back.
+3 Is Sandra in  kitchen the?	yes	2
+4 moved the to kitchen Mary.
+5 Sandra bathroom the in is.
+6  bathroom in the Sandra Is?	yes	5
+7 bathroom is Mary in the.
+8 garden to the moved Mary.
+9 Is Sandra  the in garden?	no	5
+10 bathroom in the is not Daniel.
+11 back to office went Mary the.
+12 the  Is in kitchen Mary?	no	11
+13 in Mary office longer no is the.
+14 longer in the is office John no.
+15 in the Mary  Is office?	no	13
+1 went the to Daniel garden.
+2 bedroom the moved to Mary.
+3 the bedroom in  Daniel Is?	no	1
+4 the is garden Mary in.
+5 the Daniel to moved bathroom.
+6 the Is Mary in  garden?	yes	4
+7 moved the to bathroom Sandra.
+8 Sandra travelled to the bedroom.
+9  in Mary Is the garden?	yes	4
+10 John to bathroom back the went.
+11 Mary garden not is in the.
+12 the Is  in Daniel bedroom?	no	5
+13 the Sandra in is garden.
+14 in is Mary the hallway.
+15 Sandra in the Is bathroom ?	no	13
+1 the bathroom Daniel to moved.
+2 moved the Mary to bathroom.
+3 in bathroom Is the Mary ?	yes	2
+4 the longer bathroom in no Mary is.
+5 went kitchen the to Sandra.
+6 Mary the  Is bathroom in?	no	4
+7 Mary kitchen to went back the.
+8 Mary not kitchen the is in.
+9 Is kitchen  the in Mary?	no	8
+10 to journeyed Sandra bedroom the.
+11 kitchen John in the is no longer.
+12 the John kitchen  Is in?	no	11
+13 the to back Sandra went office.
+14 longer no in John is hallway the.
+15 kitchen Mary in Is the ?	no	8
+1 is the not in Daniel garden.
+2 the to went John bathroom.
+3 in bathroom Is John  the?	yes	2
+4 the Mary bedroom to travelled.
+5 not Sandra kitchen is the in.
+6 the garden Daniel  in Is?	no	1
+7 the is no Sandra garden longer in.
+8 to the Mary back went hallway.
+9 bathroom Is  John in the?	yes	2
+10 is bathroom in Sandra not the.
+11 in is office Sandra the.
+12 in the Is Sandra office ?	yes	11
+13 to hallway Daniel went the.
+14 to bathroom went the Mary.
+15 Is  in the hallway Mary?	no	14
+1 the Daniel back bedroom to went.
+2 in the is office Sandra.
+3 office Sandra Is the  in?	yes	2
+4 in bedroom the is Sandra.
+5 the in Sandra kitchen is.
+6 in the garden  Sandra Is?	no	5
+7 to John kitchen travelled the.
+8 Daniel went to the kitchen.
+9 in Is kitchen  the Daniel?	yes	8
+10 Daniel bedroom travelled to the.
+11 is in Sandra hallway the.
+12 in Is the Daniel  bedroom?	yes	10
+13 is John the office in.
+14 longer in no Daniel the is bedroom.
+15 Daniel Is in the  bedroom?	no	14
+1 the Daniel is in bathroom.
+2 in the is Daniel garden.
+3 in the Is  garden Daniel?	yes	2
+4 moved John office to the.
+5 to travelled the Mary kitchen.
+6 John  the bathroom Is in?	no	4
+7 the to back kitchen went Daniel.
+8 to the Sandra journeyed hallway.
+9  the kitchen in Daniel Is?	yes	7
+10 Sandra the hallway in is longer no.
+11 in is not the office John.
+12 the Is in hallway  Sandra?	no	10
+13 Sandra to the kitchen travelled.
+14 Sandra to back went the bathroom.
+15 in  bathroom Sandra the Is?	yes	14
+1 went to the back Sandra bathroom.
+2 the Mary journeyed garden to.
+3  in Is Sandra the garden?	no	1
+4 travelled Daniel the to hallway.
+5 is in Mary office the.
+6 the in bathroom Is Sandra ?	yes	1
+7 Daniel the garden is in.
+8 office John to went the.
+9  in Daniel Is the garden?	yes	7
+10 office the moved Daniel to.
+11 the journeyed to bathroom John.
+12  Daniel Is in the office?	yes	10
+13 the to journeyed Daniel bedroom.
+14 Mary to hallway moved the.
+15 bedroom Is the  in Daniel?	yes	13
+1 is Daniel hallway in the.
+2 no longer is bedroom in the Sandra.
+3 the in hallway Is  Daniel?	yes	1
+4 to office Sandra journeyed the.
+5 in the hallway is Sandra.
+6 Is  the Sandra hallway in?	yes	5
+7 journeyed bathroom to Sandra the.
+8 Daniel the in hallway is no longer.
+9 Is in the bathroom  Sandra?	yes	7
+10 journeyed the to kitchen John.
+11 office back Sandra went to the.
+12 the Sandra garden Is  in?	no	11
+13 hallway the to Sandra travelled.
+14 went bathroom to the back John.
+15 the  Is kitchen in Sandra?	no	13
+1 is bedroom in the John.
+2 to travelled the Mary office.
+3 hallway Is  John in the?	no	1
+4 the travelled office John to.
+5 travelled to kitchen Daniel the.
+6 in Is Mary office the ?	yes	2
+7 went the kitchen John to.
+8 no John longer is the in kitchen.
+9 kitchen John the Is  in?	no	8
+10 Sandra travelled to the kitchen.
+11 to went kitchen John the.
+12 in Is garden Sandra the ?	no	10
+13 the hallway Daniel moved to.
+14 moved the kitchen Daniel to.
+15 the Is kitchen Sandra  in?	yes	10
+1 Daniel hallway in the is.
+2 back Daniel to the went bathroom.
+3 in office Is the Daniel ?	no	2
+4 hallway Daniel the to went.
+5 the Daniel in hallway is not.
+6 the hallway  Is Daniel in?	no	5
+7 the Daniel to garden went.
+8 kitchen the journeyed to Mary.
+9  garden the Is in Daniel?	yes	7
+10 the journeyed to garden Sandra.
+11 bedroom in Daniel is the.
+12  bedroom Is Daniel in the?	yes	11
+13 to hallway the moved Sandra.
+14 to bedroom Sandra the moved.
+15 in Daniel Is bathroom the ?	no	11
+1 back went to bedroom the Sandra.
+2 in the Sandra bedroom is not.
+3 Sandra  the Is in bedroom?	no	2
+4 Sandra office travelled the to.
+5 to Sandra bathroom went the.
+6 bathroom in Sandra Is the ?	yes	5
+7 kitchen the John is not in.
+8 office the travelled to Sandra.
+9  Is in hallway Sandra the?	no	8
+10 John back went to office the.
+11 to the hallway went John.
+12 garden Is Sandra  the in?	no	8
+13 is in the Daniel office.
+14 is in the longer no office Daniel.
+15  in Daniel Is office the?	no	14
+1 the to travelled John kitchen.
+2 kitchen John in is not the.
+3 in kitchen John  the Is?	no	2
+4 not is office John the in.
+5 the John in hallway is.
+6  John in kitchen Is the?	no	5
+7 travelled garden the to John.
+8 Mary in bedroom is the.
+9 Mary hallway the  in Is?	no	8
+10 office Mary the journeyed to.
+11 the in Daniel garden is.
+12 in hallway the Is  John?	no	7
+13 journeyed Sandra bathroom the to.
+14 is the not in Daniel garden.
+15 Is Daniel  garden the in?	no	14
+1 the in is hallway Daniel not.
+2 to Daniel hallway travelled the.
+3  the hallway in Daniel Is?	yes	2
+4 bathroom not the in is Mary.
+5 is Daniel in the office.
+6 Is garden the in Daniel ?	no	5
+7 hallway the to back went Sandra.
+8 office Mary is in no the longer.
+9 Sandra the Is in  hallway?	yes	7
+10 the John went to bedroom.
+11 the is garden in Daniel.
+12 Daniel garden Is in the ?	yes	11
+13 office Daniel moved the to.
+14 journeyed John the bathroom to.
+15 hallway John the  Is in?	no	14
+1 journeyed Mary office to the.
+2 back bathroom Mary to went the.
+3  hallway the in Is Mary?	no	2
+4 is in Daniel the garden.
+5 travelled bathroom John the to.
+6 the Is Mary  garden in?	no	2
+7 Mary the in garden is.
+8 bedroom to moved Daniel the.
+9 Is in hallway  the Mary?	no	7
+10 in longer bedroom is the Daniel no.
+11 the Mary to travelled office.
+12 in bedroom the Is Daniel ?	no	10
+13 Sandra moved to the garden.
+14 the is in office Mary not.
+15 office Is Mary the in ?	no	14
+1 went John bedroom to the back.
+2 went Mary to bedroom the.
+3 the Is bedroom  Mary in?	yes	2
+4 is the bathroom in not Sandra.
+5 to the moved Daniel bathroom.
+6 in bathroom  Sandra Is the?	no	4
+7 to hallway the Sandra journeyed.
+8 the Sandra in no is longer hallway.
+9 hallway in  Is the Sandra?	no	8
+10 went to John hallway back the.
+11 the in is Daniel hallway.
+12 Daniel the office Is in ?	no	11
+13 to Sandra journeyed bathroom the.
+14 John moved the bathroom to.
+15 hallway in Is Daniel the ?	yes	11
+1 Mary not in the is bedroom.
+2 Daniel the is not kitchen in.
+3 Mary bedroom the  Is in?	no	1
+4 to travelled Sandra the office.
+5 bedroom in Daniel the not is.
+6 Is the Mary in  bedroom?	no	1
+7 garden the moved Sandra to.
+8 Daniel in garden the not is.
+9 the in Daniel Is garden ?	no	8
+10 went to hallway Daniel the.
+11 not Mary garden in is the.
+12 Is Daniel in bathroom the ?	no	10
+13 in Daniel hallway longer no the is.
+14 to Sandra bedroom went the.
+15 the kitchen  Is Sandra in?	no	14
+1 bathroom the Mary went to.
+2 the went Sandra back office to.
+3 bathroom in Is Mary the ?	yes	1
+4 not Mary is in bathroom the.
+5 went Daniel bathroom the to.
+6 the Mary Is  in bathroom?	no	4
+7 the in not is hallway Mary.
+8 Sandra the office in is not.
+9  hallway the in Mary Is?	no	7
+10 in Daniel is longer the bathroom no.
+11 Mary is in garden the.
+12 in the  Is bathroom Daniel?	no	10
+13 the John kitchen in is.
+14 hallway travelled Daniel the to.
+15  hallway Is the Daniel in?	yes	14
+1 the in is garden Sandra.
+2 not Daniel is garden the in.
+3  garden Daniel in Is the?	no	2
+4 Daniel longer the no bathroom in is.
+5 the Daniel in hallway is.
+6 Is  Daniel hallway in the?	yes	5
+7 office in John the is.
+8 John in office is the not.
+9  Is John office the in?	no	8
+10 to journeyed the bedroom Sandra.
+11 is in bedroom Mary the.
+12 Is Daniel hallway  in the?	yes	5
+13 Mary the in is garden.
+14 to hallway Sandra back the went.
+15 garden Is the in  Sandra?	no	14
+1 is the Daniel kitchen in.
+2 the is in Mary office.
+3 Is  the Mary office in?	yes	2
+4 longer in the John is no garden.
+5 travelled the to Daniel garden.
+6 office in Is the  Mary?	yes	2
+7 travelled the John bathroom to.
+8 the bathroom in Mary is.
+9 Is the  in kitchen Mary?	no	8
+10 the John bedroom in is.
+11 Sandra went to the back garden.
+12 John bedroom the Is in ?	yes	10
+13 John is in the no longer bedroom.
+14 longer the kitchen John in no is.
+15 kitchen John the Is  in?	no	14
+1 the journeyed bathroom to Sandra.
+2 Sandra the travelled to garden.
+3 Is the  Sandra in garden?	yes	2
+4 back hallway to went Mary the.
+5 to office the back Mary went.
+6 the garden  in Sandra Is?	yes	2
+7 went Mary to back garden the.
+8 garden to the John travelled.
+9 in Mary Is garden the ?	yes	7
+10 the is Mary bedroom in.
+11 to Sandra the moved office.
+12 Is in Sandra the bathroom ?	no	11
+13 is in the Sandra hallway.
+14 longer in no garden is the John.
+15  the Is in garden John?	no	14
+1 John hallway in the is.
+2 to John kitchen went the.
+3 the in John  Is kitchen?	yes	2
+4 Daniel is in the kitchen.
+5 the John hallway is in.
+6 Is  the garden Daniel in?	no	4
+7 bathroom to travelled John the.
+8 went the bedroom Daniel back to.
+9 in bedroom Is John  the?	no	7
+10 to the bathroom journeyed Mary.
+11 Daniel the in is not bedroom.
+12 Is in hallway John  the?	no	7
+13 the to Mary went bedroom.
+14 longer Daniel the in hallway is no.
+15 Daniel in the hallway  Is?	no	14
+1 in the is office Sandra.
+2 Sandra to hallway journeyed the.
+3 bathroom in  Sandra the Is?	no	2
+4 went to back Mary the bedroom.
+5 in the bedroom is John not.
+6 Is  hallway Sandra the in?	yes	2
+7 in bedroom the no is longer Daniel.
+8 bathroom no in the is longer Daniel.
+9 John in bedroom the Is ?	no	5
+10 the in bedroom is John.
+11 in is Mary bedroom the not.
+12  the John in bedroom Is?	yes	10
+13 bathroom to Daniel went the.
+14 travelled the bedroom to Sandra.
+15 John bedroom in Is the ?	yes	10
+1 the garden is Mary in.
+2 longer garden is in Mary the no.
+3 Mary the garden  in Is?	no	2
+4 went garden the Daniel to.
+5 travelled Daniel the to hallway.
+6 in the Mary garden  Is?	no	2
+7 to hallway travelled John the.
+8 Mary the is in garden.
+9 John  Is in bedroom the?	no	7
+10 went John to kitchen the.
+11 bathroom moved the Mary to.
+12 kitchen Mary the in  Is?	no	11
+13 John in is the bathroom.
+14 to office the Mary journeyed.
+15 Is the in Mary  office?	yes	14
+1 travelled to Daniel bedroom the.
+2 bathroom moved the John to.
+3 the  kitchen John in Is?	no	2
+4 Daniel is bedroom not in the.
+5 in kitchen the is John.
+6 Is the in John  garden?	no	5
+7 the bathroom John in is.
+8 the John in is bedroom.
+9 the in John bathroom  Is?	no	8
+10 no bedroom in is the John longer.
+11 office the to went Mary back.
+12 Is John the in  bedroom?	no	10
+13 travelled to the kitchen Mary.
+14 to the garden Sandra went.
+15 Mary Is the in  kitchen?	yes	13
+1 in office John the is.
+2 the not John is in office.
+3 office in the  John Is?	no	2
+4 the is bedroom Sandra in.
+5 Daniel the is bedroom in.
+6 in office the Is  John?	no	2
+7 moved to garden Mary the.
+8 the in Mary is garden not.
+9 Daniel kitchen  the Is in?	no	5
+10 in Daniel kitchen is the.
+11 in Daniel longer is no the kitchen.
+12  kitchen the Is Daniel in?	no	11
+13 in the no is longer Sandra bedroom.
+14 to the kitchen Daniel travelled.
+15 Mary  the Is garden in?	no	8
+1 the Sandra in is bathroom.
+2 bathroom is John in the not.
+3 Sandra Is the in hallway ?	no	1
+4 to went the kitchen back John.
+5 is the in garden John.
+6 in Is Sandra the  bathroom?	yes	1
+7 the Sandra to garden travelled.
+8 hallway the to moved John.
+9 John the Is in bathroom ?	no	8
+10 Sandra garden no is in the longer.
+11 not in Mary is the bedroom.
+12 in Is  the John hallway?	yes	8
+13 is hallway in not John the.
+14 moved to office John the.
+15 office the in  John Is?	yes	14
+1 in not is the office Mary.
+2 to Daniel the kitchen went.
+3 Mary in the  Is office?	no	1
+4 the to John travelled garden.
+5 office is the in Sandra.
+6 Is garden John the  in?	yes	4
+7 bedroom John is the in.
+8 is John no bedroom in the longer.
+9 John Is bedroom in  the?	no	8
+10 longer is no in the kitchen Mary.
+11 went the to Sandra hallway.
+12  in John Is the bedroom?	no	8
+13 to office John journeyed the.
+14 John the in kitchen is.
+15 Is  kitchen in the Mary?	no	10
+1 John the not is in kitchen.
+2 the John moved to office.
+3 office John  Is in the?	yes	2
+4 Mary bedroom the to moved.
+5 bathroom to Daniel the moved.
+6  the bathroom John in Is?	no	2
+7 in Daniel bedroom is the.
+8 Mary not bedroom in the is.
+9  bedroom Is Mary in the?	no	8
+10 is hallway the Daniel in.
+11 in is kitchen no the longer Sandra.
+12  bathroom Daniel Is in the?	no	10
+13 went hallway Sandra the to.
+14 Sandra to went back the office.
+15 garden in Is the  Daniel?	no	10
+1 the bedroom Sandra in is.
+2 to Mary went the kitchen.
+3 in bedroom Sandra  the Is?	yes	1
+4 back went to the Mary bedroom.
+5 in longer bedroom the Mary is no.
+6 Is bedroom in  the Mary?	no	5
+7 the Mary is in office not.
+8 bedroom to the moved Mary.
+9 Mary in the Is bathroom ?	no	8
+10 to Daniel bathroom moved the.
+11 kitchen in the is John.
+12 bathroom Mary in Is  the?	no	8
+13 is Daniel in the bedroom.
+14 the office went back to Sandra.
+15 the in Is  hallway Daniel?	no	13
+1 no hallway the longer is Mary in.
+2 in the bedroom Daniel is.
+3 Mary  Is hallway the in?	no	1
+4 to bedroom journeyed John the.
+5 hallway went to Mary the.
+6 the kitchen John Is  in?	no	4
+7 Daniel journeyed to the bathroom.
+8 not is Mary the in hallway.
+9 Is bathroom in  Daniel the?	yes	7
+10 is Daniel the in hallway.
+11 hallway is the Daniel in not.
+12  Daniel Is the in hallway?	no	11
+13 moved to the bathroom Mary.
+14 office to moved Sandra the.
+15 Is  in Daniel the hallway?	no	11
+1 is the Mary in hallway.
+2 in longer no Daniel the bedroom is.
+3 Daniel in bedroom  Is the?	no	2
+4 the Sandra hallway to journeyed.
+5 journeyed to Sandra bedroom the.
+6 in Is Daniel  bedroom the?	no	2
+7 went Daniel back the bedroom to.
+8 John to moved the office.
+9 in Sandra Is  bedroom the?	yes	5
+10 not in bedroom is the Sandra.
+11 hallway is the longer no in Mary.
+12 in the John office Is ?	yes	8
+13 garden the journeyed John to.
+14 in bedroom Daniel the is longer no.
+15 Mary the  hallway in Is?	no	11
+1 Mary to office went the.
+2 in garden Mary the is.
+3 in Mary garden the  Is?	yes	2
+4 to the Mary travelled hallway.
+5 in is the kitchen John.
+6 the Is in bathroom  John?	no	5
+7 in bedroom is the Mary.
+8 to travelled Sandra the garden.
+9 Mary the in Is bedroom ?	yes	7
+10 in the Sandra bedroom is.
+11 the John office is in.
+12 office  the in John Is?	yes	11
+13 to Mary the travelled office.
+14 Sandra garden the to travelled.
+15 in  bedroom Sandra Is the?	no	14
+1 travelled to the garden Mary.
+2 to the Daniel journeyed bedroom.
+3 Is the Mary  in kitchen?	no	1
+4 hallway not Sandra is in the.
+5 Mary is kitchen the in.
+6 Is hallway the Sandra in ?	no	4
+7 the to garden Mary went.
+8 Sandra is longer bedroom the in no.
+9 in Sandra bedroom Is  the?	no	8
+10 is in hallway Daniel the.
+11 hallway longer is Daniel the no in.
+12 hallway  Daniel in the Is?	no	11
+13 Sandra office the to travelled.
+14 Daniel is the no in longer garden.
+15 the Is  in Daniel garden?	no	14
+1 longer the Sandra is no bathroom in.
+2 bedroom in John the is.
+3 in the  Is bedroom John?	yes	2
+4 the bathroom moved to Mary.
+5 the is Mary in office.
+6  Mary office Is the in?	yes	5
+7 journeyed to bedroom the Sandra.
+8 moved to office John the.
+9 office Mary  in Is the?	yes	5
+10 is office the Sandra in.
+11 to went the bedroom back Sandra.
+12 Is Sandra in  the garden?	no	11
+13 the is in Daniel hallway.
+14 Mary to kitchen journeyed the.
+15 bedroom the Sandra Is in ?	yes	11
+1 Sandra is in the kitchen.
+2 travelled John the kitchen to.
+3 Is the kitchen in John ?	yes	2
+4 garden the moved to Sandra.
+5 back to bedroom went the Daniel.
+6 in Is the garden  Sandra?	yes	4
+7 back the to Mary went hallway.
+8 the Daniel hallway went to.
+9 the Is garden  Daniel in?	no	8
+10 in is Mary office the.
+11 Daniel the garden is in.
+12  office Mary the in Is?	yes	10
+13 Mary bedroom to moved the.
+14 in is Mary not the bedroom.
+15 Mary in the Is bedroom ?	no	14
+1 Daniel travelled the to bedroom.
+2 Daniel office is the in.
+3 in Is the Daniel hallway ?	no	2
+4 in the is Daniel hallway.
+5 hallway moved to Mary the.
+6 Is Mary the in office ?	no	5
+7 in hallway is the not Mary.
+8 Sandra garden the in is.
+9  Daniel hallway Is in the?	yes	4
+10 went the to bedroom Daniel back.
+11 the John is bedroom in.
+12 garden  Sandra in the Is?	yes	8
+13 in is kitchen the Mary.
+14 to went the Mary bathroom.
+15 in bedroom Daniel the Is ?	yes	10
+1 to bedroom journeyed Mary the.
+2 Mary the travelled to bathroom.
+3 bathroom  in the Is Mary?	yes	2
+4 is in the Mary bedroom.
+5 to went the Mary office back.
+6 the in Is Mary  office?	yes	5
+7 the office to Sandra went.
+8 travelled the to John bedroom.
+9 Is Mary in the  office?	yes	5
+10 the John bedroom is not in.
+11 kitchen John the is in.
+12 Is  office in John the?	no	11
+13 in Sandra the is kitchen.
+14 travelled Mary to bedroom the.
+15 Is in John hallway the ?	no	11
+1 in is bedroom John the.
+2 moved John office the to.
+3 John Is bedroom  in the?	no	2
+4 bathroom the Sandra to travelled.
+5 the John went hallway to.
+6 Is the in bathroom  Sandra?	yes	4
+7 the went to Sandra kitchen.
+8 the went to bedroom John.
+9 Is  the John in garden?	no	8
+10 to garden the went Mary.
+11 Sandra in office the is.
+12 Is bedroom  in the John?	yes	8
+13 to hallway John the moved.
+14 office not in the is Sandra.
+15 the in Is Sandra  office?	no	14
+1 is longer in Mary the no garden.
+2 garden the John in is.
+3 the in  garden Is John?	yes	2
+4 moved office to John the.
+5 kitchen no is the longer in Daniel.
+6 the kitchen Daniel  in Is?	no	5
+7 hallway Mary the in is.
+8 is longer bathroom the in Sandra no.
+9 in John  the Is kitchen?	no	4
+10 John not the in office is.
+11 in no is longer the garden John.
+12 the  in Mary Is garden?	no	7
+13 bathroom the Daniel travelled to.
+14 kitchen is the in Mary.
+15 the Is Mary bathroom in ?	no	14
+1 hallway longer Sandra the is in no.
+2 the Sandra back went to bedroom.
+3 Is  in bedroom the Sandra?	yes	2
+4 moved kitchen Sandra to the.
+5 the to John office travelled.
+6  Is the kitchen Sandra in?	yes	4
+7 garden to the journeyed Daniel.
+8 the to back Mary bedroom went.
+9 hallway  Sandra Is in the?	no	4
+10 bathroom Daniel the is in.
+11 garden Daniel to moved the.
+12  Is in bedroom Daniel the?	no	11
+13 kitchen Mary the went to.
+14 Sandra longer the is kitchen in no.
+15 the Is  kitchen Mary in?	yes	13
+1 back went the Sandra garden to.
+2 Mary the no in longer bedroom is.
+3 Sandra in the  bedroom Is?	no	1
+4 office the to Daniel moved.
+5 to kitchen the Sandra travelled.
+6 the hallway Sandra  Is in?	no	5
+7 the garden went to Sandra.
+8 the to journeyed hallway Daniel.
+9 in  the Is Daniel office?	no	8
+10 in is not Daniel the hallway.
+11 bathroom in the no longer Daniel is.
+12 Is bathroom the  in Daniel?	no	11
+13 kitchen Mary the went to back.
+14 in bedroom John the is.
+15 Is John the bedroom in ?	yes	14
+1 to bedroom the Daniel travelled.
+2 kitchen Daniel journeyed to the.
+3 the  in kitchen Daniel Is?	yes	2
+4 the went Daniel to office.
+5 to the journeyed garden Mary.
+6 the  bathroom Is Mary in?	no	5
+7 the longer in is Daniel office no.
+8 kitchen to Sandra went the.
+9 the office in Is  Daniel?	no	7
+10 Sandra hallway in the is.
+11 Mary to the hallway went.
+12 the office Is Mary  in?	no	11
+13 garden Sandra the to went.
+14 went Mary back the to bathroom.
+15 Sandra the garden  in Is?	yes	13
+1 went bedroom the back John to.
+2 the Daniel garden is in.
+3 John kitchen in the  Is?	no	1
+4 kitchen the John went to back.
+5 is not hallway Sandra in the.
+6 the Sandra Is hallway  in?	no	5
+7 John to travelled garden the.
+8 in John is the office.
+9 in the office John Is ?	yes	8
+10 travelled bathroom to the Sandra.
+11 kitchen journeyed Mary to the.
+12 hallway Is the Mary in ?	no	11
+13 longer in the garden is no Daniel.
+14 Sandra moved office to the.
+15 the  Is in garden Daniel?	no	13
+1 moved to the garden John.
+2 journeyed office the to Mary.
+3 John the in Is hallway ?	no	1
+4 is the in John not garden.
+5 travelled the Mary garden to.
+6 Mary in Is garden the ?	yes	5
+7 the in garden longer Sandra is no.
+8 in no hallway longer the is John.
+9 Sandra in garden Is the ?	no	7
+10 in Mary bedroom is the.
+11 in is bedroom the Daniel.
+12 Mary  in the bathroom Is?	no	10
+13 the no is Sandra office longer in.
+14 moved Mary the to kitchen.
+15 the  office Is Mary in?	no	14
+1 Mary travelled bedroom the to.
+2 Daniel is not the in office.
+3 the bedroom Is Mary  in?	yes	1
+4 no office in longer is the John.
+5 garden Sandra the back went to.
+6 Sandra bedroom Is the in ?	no	5
+7 garden John the went to.
+8 Sandra is the hallway in.
+9 Sandra the  Is in hallway?	yes	8
+10 is Mary kitchen the in.
+11 back the bathroom to Sandra went.
+12  in Is Sandra the bathroom?	yes	11
+13 the Mary travelled hallway to.
+14 Mary to went bathroom back the.
+15  Sandra Is the garden in?	no	11
+1 Daniel journeyed to office the.
+2 the hallway Mary is in.
+3 in bedroom the Daniel  Is?	no	1
+4 Mary office to the travelled.
+5 in bedroom is John the.
+6 Mary in the office  Is?	yes	4
+7 journeyed to the hallway Mary.
+8 in is John hallway the.
+9 Is Mary hallway in the ?	yes	7
+10 office John the to went.
+11 bedroom Mary went the to.
+12 John office in  Is the?	yes	10
+13 back the kitchen Mary to went.
+14 kitchen in the Mary not is.
+15 Mary  kitchen in the Is?	no	14
+1 Sandra the to went back bedroom.
+2 John the to back went bathroom.
+3 in John  Is the bedroom?	no	2
+4 kitchen in the Mary is.
+5 moved John kitchen to the.
+6  Is Sandra in the bedroom?	yes	1
+7 in kitchen the John is not.
+8 Mary back hallway went to the.
+9 Is  the in John kitchen?	no	7
+10 in is no longer Daniel the bathroom.
+11 John bathroom the not is in.
+12 the John  in bathroom Is?	no	11
+13 journeyed the Daniel hallway to.
+14 the no bedroom longer Sandra is in.
+15  Mary the in Is hallway?	yes	8
+1 in the office is John.
+2 back to John bedroom the went.
+3 the John office  in Is?	no	2
+4 back to the Daniel office went.
+5 is the Sandra in office.
+6 in Daniel Is  office the?	yes	4
+7 bathroom Mary in not is the.
+8 to the back went Sandra garden.
+9 the  in hallway Sandra Is?	no	8
+10 bathroom the Mary is in.
+11 bedroom in Daniel the is.
+12 the in Is office  Mary?	no	10
+13 the travelled Daniel to garden.
+14 went hallway the Sandra back to.
+15 Sandra Is  office the in?	no	14
+1 Mary moved the kitchen to.
+2 the Mary went to bathroom.
+3 the Is  in bathroom Mary?	yes	2
+4 in John bathroom the is.
+5 bathroom not is in the John.
+6  bathroom the in Is Mary?	yes	2
+7 journeyed Sandra the bathroom to.
+8 went kitchen Sandra to the back.
+9 the in Is  bathroom John?	no	5
+10 is Mary longer the in bathroom no.
+11 to the bedroom went Sandra.
+12 bathroom in Is  the John?	no	5
+13 the Daniel longer kitchen no in is.
+14 in the longer bedroom is no Sandra.
+15 the Daniel kitchen in Is ?	no	13
+1 back went kitchen the Mary to.
+2 in garden the not is Sandra.
+3 Mary in Is  the bathroom?	no	1
+4 went the to office back John.
+5 in is Sandra bedroom no longer the.
+6 Is the  bedroom in Sandra?	no	5
+7 back the to went garden Mary.
+8 the is not in garden Sandra.
+9  in Sandra the Is garden?	no	8
+10 not the Mary in garden is.
+11 travelled to hallway Mary the.
+12 garden Is Sandra  in the?	no	8
+13 Mary to bedroom back the went.
+14 went the Daniel bedroom to.
+15 the bedroom in Is Mary ?	yes	13
+1 the moved to kitchen Daniel.
+2 went the to Sandra kitchen.
+3 kitchen Sandra the Is  in?	yes	2
+4 travelled to office the Mary.
+5 bathroom to the moved Mary.
+6  in Mary the bathroom Is?	yes	5
+7 to bedroom Daniel journeyed the.
+8 to moved Sandra the bedroom.
+9 the office Mary Is in ?	no	5
+10 in not Sandra is bedroom the.
+11 Mary bathroom the is not in.
+12 Is  the Mary bathroom in?	no	11
+13 longer is office the in no Mary.
+14 kitchen Sandra no is in the longer.
+15 Mary Is in  the office?	no	13
+1 John the kitchen went to.
+2 the Sandra is bathroom in not.
+3 Is the  bedroom John in?	no	1
+4 is bedroom the Mary in.
+5 the Mary in is bedroom not.
+6 the Mary in Is bedroom ?	no	5
+7 Mary garden in no is the longer.
+8 hallway to the John went.
+9 the garden in Mary Is ?	no	7
+10 in Sandra bedroom the is.
+11 kitchen the is in Mary.
+12 the  bedroom Sandra in Is?	yes	10
+13 back Sandra went kitchen the to.
+14 the garden Daniel to travelled.
+15  Is the kitchen Sandra in?	yes	13
+1 Sandra garden to the moved.
+2 Sandra office the is in.
+3 Is  Sandra the in bathroom?	no	2
+4 Daniel back went hallway the to.
+5 in no is longer John bathroom the.
+6 the Sandra in Is kitchen ?	no	2
+7 to kitchen Daniel the moved.
+8 to Sandra bedroom back went the.
+9 Daniel in kitchen the  Is?	yes	7
+10 bathroom not the Mary is in.
+11 Sandra to the bathroom travelled.
+12 bathroom John the in Is ?	no	5
+13 moved kitchen to the Mary.
+14 the is hallway in John.
+15 Sandra Is  kitchen in the?	no	11
+1 office Sandra the to moved.
+2 is the Mary bathroom in.
+3 Is in Sandra the  bathroom?	no	1
+4 bathroom in is Sandra the.
+5 Mary in office the is.
+6 the office in Is Mary ?	yes	5
+7 is the Daniel in bathroom.
+8 the John in hallway is.
+9 bathroom  Sandra in Is the?	yes	4
+10 Daniel bathroom the not in is.
+11 in the bedroom is Sandra.
+12 Is  in John the hallway?	yes	8
+13 office in is no Mary longer the.
+14 to John went bedroom the.
+15 Is bedroom the John in ?	yes	14
+1 the kitchen Sandra to travelled.
+2 the is John in bedroom.
+3  the bathroom Is in John?	no	2
+4 in hallway the is Mary not.
+5 bathroom in Mary is the.
+6 garden  in Is the John?	no	2
+7 Mary the back bedroom to went.
+8 Mary the office in is.
+9 the in Is  Mary kitchen?	no	8
+10 no longer the office Mary in is.
+11 hallway to journeyed Sandra the.
+12 Mary office in the  Is?	no	10
+13 Daniel back bathroom went the to.
+14 kitchen the in is not Mary.
+15 Daniel bathroom Is in the ?	yes	13
+1 Sandra moved office the to.
+2 Sandra to the bathroom travelled.
+3 Is bathroom the Sandra in ?	yes	2
+4 not bedroom is John the in.
+5 the travelled Mary to garden.
+6 in Sandra the  Is bedroom?	no	2
+7 went bedroom the to Sandra.
+8 hallway Mary the to moved.
+9 in Sandra  the Is office?	no	7
+10 in not is the bedroom Sandra.
+11 no office in is the longer Daniel.
+12 hallway Mary  in the Is?	yes	8
+13 office the is Mary in.
+14 garden Mary the journeyed to.
+15 Sandra  in the Is bedroom?	no	10
+1 no is the in Mary longer bathroom.
+2 bedroom the is Daniel in.
+3 Is in  bedroom Daniel the?	yes	2
+4 to kitchen back Sandra went the.
+5 went to kitchen Daniel the.
+6 in Sandra kitchen Is  the?	yes	4
+7 no kitchen the is Mary in longer.
+8 Sandra the bedroom to moved.
+9 bedroom Is  Daniel the in?	no	5
+10 Sandra bathroom to the went back.
+11 the in garden Sandra is.
+12 the  kitchen Is in Mary?	no	7
+13 bedroom the is in Sandra.
+14 the is no in longer garden Mary.
+15 Is  in hallway Sandra the?	no	13
+1 travelled to the Mary bedroom.
+2 to hallway the Daniel travelled.
+3  Is Daniel bedroom in the?	no	2
+4 Daniel garden the travelled to.
+5 journeyed Daniel to the bedroom.
+6 Is the in bedroom  Daniel?	yes	5
+7 bathroom moved to Mary the.
+8 to the Mary moved garden.
+9 Is Daniel in the bedroom ?	yes	5
+10 is in the Sandra hallway.
+11 Daniel is the kitchen in.
+12 the Is hallway in  Mary?	no	8
+13 the John moved to bedroom.
+14 to hallway John journeyed the.
+15 the Is kitchen  John in?	no	14
+1 Sandra no is hallway longer the in.
+2 Mary the to travelled kitchen.
+3  Is hallway Sandra in the?	no	1
+4 went kitchen back the to John.
+5 bedroom travelled to Daniel the.
+6 the Sandra hallway in  Is?	no	1
+7 in is the bathroom Sandra.
+8 in garden Daniel the is.
+9  the in kitchen Is John?	yes	4
+10 to Mary travelled bedroom the.
+11 the in Daniel office is.
+12 in  Daniel Is office the?	yes	11
+13 to John went bedroom the back.
+14 went back to Mary bathroom the.
+15 Daniel the  Is in office?	yes	11
+1 John in garden the is.
+2 Sandra garden in is the.
+3 garden Is Sandra in the ?	yes	2
+4 Sandra in hallway is the.
+5 to John moved the bedroom.
+6  in the bathroom Sandra Is?	no	4
+7 Sandra in not hallway is the.
+8 the to went garden back Sandra.
+9 Is in office  the Sandra?	no	8
+10 travelled to Daniel the kitchen.
+11 is in John the bedroom not.
+12 bedroom the Sandra Is in ?	no	8
+13 Sandra the kitchen to journeyed.
+14 journeyed Sandra the bathroom to.
+15  Is bedroom the in John?	no	11
+1 the Sandra in garden not is.
+2 the to moved Mary bedroom.
+3 Is  Sandra in the garden?	no	1
+4 to moved bathroom Mary the.
+5 the in John office not is.
+6 the Sandra in  garden Is?	no	1
+7 the in is garden John.
+8 the John to kitchen journeyed.
+9 the  in bathroom Is Mary?	yes	4
+10 the back to Daniel hallway went.
+11 bathroom to journeyed Daniel the.
+12 Is John in  kitchen the?	yes	8
+13 the back kitchen to went Daniel.
+14 Mary bathroom the in longer is no.
+15 kitchen Is in  the Daniel?	yes	13
+1 the Sandra no longer in is office.
+2 hallway the in Sandra is.
+3 the in Is hallway  Sandra?	yes	2
+4 to the Sandra journeyed kitchen.
+5 is the not kitchen in Sandra.
+6  in kitchen Sandra Is the?	no	5
+7 the no in bedroom Sandra is longer.
+8 not the hallway is in Mary.
+9 Is in  the Sandra bedroom?	no	7
+10 in John the no is longer kitchen.
+11 moved to Daniel the bathroom.
+12 Sandra bedroom Is the in ?	no	7
+13 hallway Sandra in the is not.
+14 hallway back Daniel the to went.
+15 Is kitchen the John  in?	no	10
+1 the no in Sandra is office longer.
+2 hallway the longer no is Daniel in.
+3 Sandra office the  Is in?	no	1
+4 Daniel journeyed office to the.
+5 is kitchen the Mary in longer no.
+6 in  the Daniel office Is?	yes	4
+7 in is longer the Daniel no office.
+8 Daniel travelled to garden the.
+9 in garden Daniel Is the ?	yes	8
+10 Mary to went back kitchen the.
+11 went Sandra to the office back.
+12 Is Daniel  in bedroom the?	no	8
+13 Daniel garden is longer in the no.
+14 John is the kitchen in no longer.
+15 in  Sandra Is office the?	yes	11
+1 Daniel the is in bathroom.
+2 Sandra in garden the is.
+3 Sandra  Is in bathroom the?	no	2
+4 the bathroom is in John.
+5 kitchen the in is Sandra.
+6 Is bedroom the Sandra in ?	no	5
+7 the Mary to travelled office.
+8 Sandra garden the went to.
+9 John the in bathroom Is ?	yes	4
+10 the in is bedroom Daniel.
+11 Mary the is hallway in.
+12 the Is  in Daniel bedroom?	yes	10
+13 the Sandra not is in garden.
+14 journeyed John the office to.
+15  in the Mary hallway Is?	yes	11
+1 is the in Sandra office.
+2 Sandra garden to went the back.
+3 in  the Is Sandra garden?	yes	2
+4 in the hallway Mary is.
+5 to garden John the went.
+6 in Is bathroom the  Sandra?	no	2
+7 moved bathroom the to Sandra.
+8 in is John bathroom the.
+9 bathroom Sandra the in Is ?	yes	7
+10 garden journeyed to Daniel the.
+11 longer in Daniel no garden the is.
+12  the Sandra Is hallway in?	no	7
+13 to went Daniel the kitchen.
+14 to hallway the went John.
+15  the in kitchen Daniel Is?	yes	13
+1 is garden not in Sandra the.
+2 to Daniel kitchen travelled the.
+3 Is in the bedroom  Daniel?	no	2
+4 went to Daniel garden back the.
+5 Mary journeyed hallway to the.
+6 Is in the Mary bathroom ?	no	5
+7 garden to the went John.
+8 bedroom John to journeyed the.
+9 Daniel in Is the office ?	no	4
+10 bathroom the to Daniel moved.
+11 to back bedroom Daniel went the.
+12 in kitchen Is  Mary the?	no	5
+13 no in longer bedroom the Daniel is.
+14 hallway not is Mary in the.
+15 John  the Is garden in?	no	8
+1 the in office is Sandra.
+2 not is hallway in the Daniel.
+3  office Is in the Sandra?	yes	1
+4 to back the went Sandra garden.
+5 office Sandra moved the to.
+6 kitchen in Is the  Sandra?	no	5
+7 John bathroom the moved to.
+8 to Daniel went kitchen the.
+9  in the bathroom John Is?	yes	7
+10 Mary is in longer the kitchen no.
+11 no bathroom longer John in is the.
+12 office the in Is  Sandra?	yes	5
+13 to the travelled Mary kitchen.
+14 no hallway in the longer is John.
+15  the Mary bathroom Is in?	no	13
+1 Mary the office journeyed to.
+2 in not office is Mary the.
+3 Mary Is in  office the?	no	2
+4 is Sandra not kitchen the in.
+5 in Sandra the is not bathroom.
+6 Is  Mary in office the?	no	2
+7 the Sandra bedroom in is.
+8 in the is Daniel office.
+9 in the Sandra  Is bedroom?	yes	7
+10 in is John not office the.
+11 back the to kitchen went Mary.
+12  kitchen Is Mary in the?	yes	11
+13 went the kitchen John back to.
+14 John the journeyed to garden.
+15 the Is John bedroom in ?	no	14
+1 to Mary moved the kitchen.
+2 bathroom no in is the Sandra longer.
+3 the in  bathroom Sandra Is?	no	2
+4 is Mary no kitchen longer the in.
+5 bedroom to the Sandra travelled.
+6 Mary the  kitchen in Is?	no	4
+7 the travelled garden Sandra to.
+8 back went to the Daniel bedroom.
+9 in Is Mary  kitchen the?	no	4
+10 is Daniel bedroom the longer in no.
+11 the Daniel in bedroom is.
+12  Daniel in garden Is the?	no	11
+13 John no the longer is office in.
+14 is in the office Mary not.
+15 Is John  the office in?	no	13
+1 kitchen moved John the to.
+2 longer in the Mary no garden is.
+3 in hallway  the Is John?	no	1
+4 no longer kitchen John in is the.
+5 the in is Mary office not.
+6 kitchen John Is  in the?	no	4
+7 journeyed John kitchen to the.
+8 the bedroom in is John.
+9 bedroom in John  Is the?	yes	8
+10 the Sandra not is hallway in.
+11 hallway the to travelled John.
+12 the  in Is John hallway?	yes	11
+13 kitchen the in is John.
+14 office the is in Sandra not.
+15 office Is  in Sandra the?	no	14
+1 to John went bedroom the.
+2 longer is John bedroom in no the.
+3 John the in bedroom  Is?	no	2
+4 office to Daniel the went.
+5 to travelled garden Sandra the.
+6  Sandra Is bedroom the in?	no	5
+7 the to garden moved Mary.
+8 bathroom journeyed to the Daniel.
+9 Is bathroom  the in Daniel?	yes	8
+10 Sandra in hallway is the.
+11 John to the moved garden.
+12 in  garden Mary Is the?	yes	7
+13 to bedroom Mary moved the.
+14 garden the Mary went back to.
+15 the Is Sandra  hallway in?	yes	10
+1 Mary to hallway the moved.
+2 is Mary the no hallway longer in.
+3 in Mary  Is hallway the?	no	2
+4 garden travelled the to Daniel.
+5 Mary the is in hallway.
+6 Mary in Is hallway the ?	yes	5
+7 in longer Sandra no bedroom is the.
+8 the Mary in bedroom is.
+9 in Is bedroom the  Mary?	yes	8
+10 the John is in garden.
+11 journeyed Sandra kitchen the to.
+12 Is in garden the  Sandra?	no	11
+13 the Daniel no in garden longer is.
+14 in Daniel the garden is.
+15 garden Is John  the in?	yes	10
+1 the Daniel to moved hallway.
+2 the in Daniel is garden.
+3 the in Daniel Is garden ?	yes	2
+4 is no longer in Mary the garden.
+5 the moved to hallway Mary.
+6 garden Daniel in Is the ?	yes	2
+7 the bedroom moved John to.
+8 Sandra went to the kitchen.
+9 in Is Mary the hallway ?	yes	5
+10 Daniel the kitchen to moved.
+11 John back the kitchen went to.
+12 Is  garden the John in?	no	11
+13 Daniel is not the in kitchen.
+14 the garden is Mary in.
+15 the  in office Is Sandra?	no	8
+1 Daniel no office the in is longer.
+2 the garden travelled to John.
+3 John the in garden  Is?	yes	2
+4 is in kitchen Mary the.
+5 back Mary garden went the to.
+6 Is the  in Mary hallway?	no	5
+7 kitchen to travelled the Sandra.
+8 in the is hallway Mary.
+9 garden in Is  the John?	yes	2
+10 to the hallway John travelled.
+11 is hallway John the no longer in.
+12 in the John hallway  Is?	no	11
+13 the Daniel not bathroom is in.
+14 Daniel is in the kitchen.
+15 in  hallway Is the Daniel?	no	14
+1 garden in the Sandra is.
+2 kitchen Daniel back to went the.
+3 the in  bathroom Is Daniel?	no	2
+4 to journeyed bedroom the Daniel.
+5 journeyed to the office Daniel.
+6 in Sandra  the Is bathroom?	no	1
+7 to journeyed Daniel the hallway.
+8 longer Daniel in the hallway is no.
+9 hallway  Daniel in Is the?	no	8
+10 went hallway Daniel back to the.
+11 is hallway not in John the.
+12 Daniel  hallway the in Is?	yes	10
+13 journeyed office John the to.
+14 Mary went the bathroom to back.
+15 in bedroom the Is  John?	no	13
+1 Sandra the journeyed to bedroom.
+2 Daniel is the bathroom in.
+3 Daniel bedroom Is the  in?	no	2
+4 is in hallway John the.
+5 bathroom is in the John.
+6 in Is Sandra bedroom  the?	yes	1
+7 moved Mary hallway the to.
+8 went the garden back to Daniel.
+9 Daniel  garden the in Is?	yes	8
+10 Daniel is the in hallway.
+11 longer in Daniel is no hallway the.
+12  the in hallway Daniel Is?	no	11
+13 bedroom moved the to John.
+14 to John bathroom journeyed the.
+15 Is Daniel hallway  the in?	no	11
+1 to back the went John hallway.
+2 to office the John moved.
+3 in  John Is the office?	yes	2
+4 is bathroom in Mary the.
+5 is garden in Daniel the.
+6 in Is  the Daniel kitchen?	no	5
+7 is Daniel the garden in not.
+8 is the not Mary bathroom in.
+9 Is in  Daniel garden the?	no	7
+10 John is in the bathroom.
+11 Mary garden to the went.
+12 Daniel the  Is garden in?	no	7
+13 to office the moved Sandra.
+14 in Sandra garden the is.
+15 in  Is the garden Sandra?	yes	14
+1 the John bathroom to journeyed.
+2 is Sandra in bedroom the.
+3 Is Sandra in  the bedroom?	yes	2
+4 the Mary not hallway in is.
+5 in Daniel longer no is office the.
+6 the  Daniel Is office in?	no	5
+7 the is Daniel in hallway.
+8 Mary to the kitchen journeyed.
+9 Daniel garden Is in the ?	no	7
+10 the hallway to Sandra journeyed.
+11 longer Mary no the kitchen is in.
+12 the Is in Daniel bedroom ?	no	7
+13 to garden the journeyed Sandra.
+14 in Daniel the no longer is hallway.
+15 Daniel the in Is  hallway?	no	14
+1 Mary is bathroom not the in.
+2 not in garden is John the.
+3 the  Is garden in John?	no	2
+4 the is Sandra hallway longer no in.
+5 hallway the not in is Mary.
+6 Mary hallway  in Is the?	no	5
+7 the John to garden moved.
+8 in is the no garden longer Mary.
+9 Mary  garden the Is in?	no	8
+10 not in bedroom the Mary is.
+11 in the Mary is bedroom.
+12 garden the Mary  Is in?	no	11
+13 kitchen Daniel to the moved.
+14 the bathroom back went Daniel to.
+15 Is in  Mary the garden?	no	11
+1 John bathroom to moved the.
+2 in the bathroom is Mary.
+3 Is  the in John bathroom?	yes	1
+4 in is Daniel the hallway not.
+5 hallway to travelled John the.
+6 garden in Mary  the Is?	no	2
+7 is in Sandra longer no kitchen the.
+8 Sandra the to travelled bathroom.
+9 Mary in  hallway the Is?	no	2
+10 not in is kitchen Daniel the.
+11 the kitchen is in Daniel.
+12 the bedroom Is  Daniel in?	no	11
+13 office Mary the to went back.
+14 Daniel hallway to journeyed the.
+15 office  Is Daniel in the?	no	14
+1 not is in the Mary hallway.
+2 no garden the in Mary is longer.
+3 Mary in the  garden Is?	no	2
+4 John in is the hallway.
+5 Mary is the bedroom in.
+6 the  in bathroom Mary Is?	no	5
+7 Daniel bathroom in the is.
+8 is kitchen Sandra not in the.
+9 the  in hallway Is John?	yes	4
+10 in the is hallway Mary.
+11 the hallway went to back Daniel.
+12  Mary the in Is office?	no	10
+13 in the Mary is bedroom.
+14 Mary in bedroom the is not.
+15 in  Mary bedroom Is the?	no	14
+1 bedroom the is Mary not in.
+2 longer no hallway Mary the in is.
+3 the hallway Is  in Mary?	no	2
+4 to travelled Daniel kitchen the.
+5 the travelled garden to Daniel.
+6 kitchen Daniel in the  Is?	no	5
+7 bathroom is the Daniel in.
+8 moved the Sandra to kitchen.
+9 Daniel  the kitchen in Is?	no	7
+10 the garden John is in.
+11 the to went Mary garden.
+12 the in  Is Mary garden?	yes	11
+13 the to travelled garden Sandra.
+14 travelled kitchen to John the.
+15 the John  Is hallway in?	no	14
+1 is the Daniel bathroom in.
+2 is in longer Sandra garden the no.
+3 in Is garden the Sandra ?	no	2
+4 bedroom is John in the.
+5 John is the bedroom in not.
+6 garden the in Sandra  Is?	no	2
+7 Daniel bathroom no is longer in the.
+8 travelled to the Sandra kitchen.
+9 the John  Is bedroom in?	no	5
+10 garden the John in is.
+11 Sandra to the office went.
+12 in Is  bedroom Sandra the?	no	11
+13 in bedroom the is longer no Daniel.
+14 garden John in is no longer the.
+15 the in Sandra Is office ?	yes	11
+1 garden to John travelled the.
+2 travelled the to hallway Sandra.
+3 John the  garden Is in?	yes	1
+4 the John garden is not in.
+5 to bathroom the Daniel travelled.
+6 in Is John the  garden?	no	4
+7 in no longer hallway Sandra the is.
+8 Mary to back kitchen the went.
+9 Mary  the Is in garden?	no	8
+10 to Sandra the garden moved.
+11 the Daniel to moved hallway.
+12 Mary  the hallway Is in?	no	8
+13 hallway in longer the no is John.
+14 is not in Daniel the hallway.
+15  kitchen the Is in Sandra?	no	10
+1 garden the to John went.
+2 to went back Daniel the bathroom.
+3 bathroom in Daniel  the Is?	yes	2
+4 the not Mary office in is.
+5 hallway Sandra longer no is the in.
+6 in Is the  hallway Sandra?	no	5
+7 John is the hallway in.
+8 kitchen the to went Daniel.
+9 Is Daniel the in  hallway?	no	8
+10 the John not is in hallway.
+11 longer no is in bedroom the John.
+12 the Is  in John bedroom?	no	11
+13 kitchen John in is the.
+14 is the Mary garden in.
+15 in John the Is garden ?	no	13
+1 office to the Daniel travelled.
+2 bathroom the journeyed to Mary.
+3 the bathroom Mary  Is in?	yes	2
+4 to Sandra garden the moved.
+5 went the to garden Daniel.
+6 the in  Daniel bedroom Is?	no	5
+7 is no longer bathroom in Mary the.
+8 journeyed office Mary the to.
+9 office the Mary  Is in?	yes	8
+10 is the longer no garden in Daniel.
+11 to the went John bathroom.
+12 garden  Daniel the Is in?	no	10
+13 is longer the Sandra no in garden.
+14 the went to kitchen Sandra.
+15 the Is Daniel garden in ?	no	10
+1 in Daniel bedroom is the.
+2 Daniel the went to hallway.
+3 Daniel Is the garden in ?	no	2
+4 moved to Sandra bedroom the.
+5 the Mary is garden in.
+6 the in Is Mary  garden?	yes	5
+7 hallway John went the back to.
+8 in is Daniel the garden.
+9 John the Is bedroom  in?	no	7
+10 hallway is the John in not.
+11 Mary in is office the.
+12  Daniel hallway Is the in?	no	8
+13 bathroom the Mary to moved.
+14 the Mary bedroom travelled to.
+15 Is  the kitchen in Daniel?	no	8
+1 the longer no in is bathroom John.
+2 in office Daniel the is.
+3 Is the  in hallway Daniel?	no	2
+4 to garden John travelled the.
+5 the journeyed bedroom John to.
+6 bathroom in Is  the Daniel?	no	2
+7 is in the bedroom Mary.
+8 is in Sandra kitchen the.
+9 Is bedroom the Daniel  in?	no	2
+10 the went bathroom to Daniel.
+11 the to journeyed office Mary.
+12  kitchen the Daniel in Is?	no	10
+13 is in hallway the Mary.
+14 longer the no bedroom in John is.
+15 the Is Sandra  bathroom in?	no	8
+1 back to went hallway Daniel the.
+2 to the moved bedroom Sandra.
+3 the Is in  Daniel bathroom?	no	1
+4 bedroom longer in no the is Sandra.
+5 to Sandra the garden journeyed.
+6 Is the Sandra in hallway ?	no	5
+7 to the office Daniel went.
+8 back to hallway the went John.
+9  in Is the office Sandra?	no	5
+10 the is no longer in Sandra garden.
+11 in is Sandra garden the.
+12 Sandra garden  Is the in?	yes	11
+13 the in Mary is office.
+14 office in the is Daniel not.
+15 in Mary  the Is office?	yes	13
+1 longer the in is Sandra no bedroom.
+2 journeyed the bathroom to Daniel.
+3 Daniel the office in  Is?	no	2
+4 moved to hallway Sandra the.
+5 is the hallway Sandra not in.
+6 Is  the in Sandra hallway?	no	5
+7 no garden Sandra the is in longer.
+8 to Daniel hallway travelled the.
+9  garden Is in the Sandra?	no	7
+10 to went office Mary back the.
+11 Daniel to went the bedroom.
+12 the Is in  garden Daniel?	no	11
+13 the Sandra is in bathroom.
+14 Daniel to went the garden.
+15  the in hallway Is Daniel?	no	14
+1 in is the Daniel bathroom.
+2 longer no in is Daniel the bathroom.
+3 bathroom Is Daniel  the in?	no	2
+4 is not the hallway in Daniel.
+5 bathroom in the Daniel is.
+6 Is in  garden the Daniel?	no	5
+7 to moved the bedroom Mary.
+8 not the bathroom is Daniel in.
+9  Is office the in Mary?	no	7
+10 the garden to journeyed John.
+11 bedroom is the not in Mary.
+12 Is John  in the hallway?	no	10
+13 garden the Sandra to travelled.
+14 is bathroom in Sandra the.
+15 John bedroom Is  the in?	no	10
+1 went the kitchen to Sandra back.
+2 longer is in kitchen Sandra no the.
+3 kitchen  Is in the Sandra?	no	2
+4 kitchen Daniel in is the.
+5 the Mary to garden moved.
+6  Is in hallway Mary the?	no	5
+7 is office Sandra the in.
+8 hallway the John is in.
+9 Sandra the Is kitchen in ?	no	7
+10 in bathroom Mary is the.
+11 Mary bathroom in the is not.
+12 Is the bathroom Mary  in?	no	11
+13 bedroom the went to Mary.
+14 John the office in is.
+15 Mary the Is in kitchen ?	no	13
+1 Mary the is garden in.
+2 Daniel the office to travelled.
+3 the  Daniel in Is office?	yes	2
+4 is office Daniel not the in.
+5 the in longer no is hallway Sandra.
+6 Is office  the Daniel in?	no	4
+7 in Daniel office is the.
+8 longer the in is no garden John.
+9 Is Daniel the  office in?	yes	7
+10 is in hallway Daniel the.
+11 the Mary kitchen went to.
+12 Sandra Is  hallway the in?	no	5
+13 moved the bathroom to Sandra.
+14 the in office is Sandra.
+15 Is in  the Sandra kitchen?	no	14
+1 the bedroom is in Mary.
+2 the Daniel travelled to bathroom.
+3 bathroom  the in Daniel Is?	yes	2
+4 the office John to back went.
+5 is Daniel in the bedroom.
+6  office in the John Is?	yes	4
+7 bathroom journeyed to Mary the.
+8 back the garden went to Mary.
+9 office in the  Mary Is?	no	8
+10 the not Sandra is in bathroom.
+11 the Mary is garden no in longer.
+12 garden  in Mary the Is?	no	11
+13 longer garden in no Sandra the is.
+14 moved office the Daniel to.
+15 Daniel Is the in garden ?	no	14
+1 bedroom to the moved Sandra.
+2 in the office is Sandra.
+3 Sandra in office the Is ?	yes	2
+4 is in not garden the John.
+5 bathroom no is longer the in Daniel.
+6 office the  Sandra Is in?	yes	2
+7 the in John kitchen is.
+8 garden the to moved Sandra.
+9 in Is garden Sandra  the?	yes	8
+10 travelled to bathroom the Sandra.
+11 the travelled John hallway to.
+12 Is John  bedroom in the?	no	11
+13 Mary bathroom the not is in.
+14 the bathroom to John moved.
+15 Mary the in bathroom  Is?	no	13
+1 to Sandra bathroom the travelled.
+2 is in Daniel the hallway.
+3 the in  Is hallway Daniel?	yes	2
+4 travelled Sandra kitchen to the.
+5 in office is John the.
+6 the bedroom Sandra  in Is?	no	4
+7 Mary not in is office the.
+8 John went the to garden.
+9 the Is  kitchen in John?	no	8
+10 Mary to travelled the bathroom.
+11 to Daniel moved office the.
+12 in the Is  garden John?	yes	8
+13 went to back bathroom John the.
+14 the in is John hallway.
+15 hallway Is the in Daniel ?	no	11
+1 office Daniel longer in is the no.
+2 Daniel is the in kitchen.
+3 Daniel in  Is kitchen the?	yes	2
+4 to bathroom the back Mary went.
+5 longer the is no kitchen Daniel in.
+6 Is kitchen in Daniel the ?	no	5
+7 Daniel to hallway travelled the.
+8 the kitchen is in John.
+9 the Mary in Is bathroom ?	yes	4
+10 Mary in the bedroom is.
+11 in the bathroom Daniel is.
+12 bathroom  the Daniel Is in?	yes	11
+13 to office Sandra the travelled.
+14 in the not is bathroom Daniel.
+15 the John office  in Is?	no	8
+1 the in hallway Sandra is.
+2 is longer no in the bedroom Daniel.
+3 the in  Is Sandra kitchen?	no	1
+4 to bathroom journeyed Daniel the.
+5 the in John is hallway.
+6 Is garden Sandra  the in?	no	1
+7 bathroom in no longer Daniel is the.
+8 the back John garden went to.
+9 in Daniel  bathroom the Is?	no	7
+10 office longer is the no in Mary.
+11 the in bedroom John is.
+12 Is office Mary the in ?	no	10
+13 back bedroom the went to Sandra.
+14 to Daniel the kitchen journeyed.
+15  Daniel office the Is in?	no	14
+1 Sandra garden to went the.
+2 in the Mary hallway is.
+3 the Is hallway in Mary ?	yes	2
+4 Daniel garden in is the.
+5 in no longer the is Daniel garden.
+6 hallway in  Mary the Is?	yes	2
+7 journeyed bedroom the Mary to.
+8 in longer John is the no garden.
+9  garden Is the Daniel in?	no	5
+10 garden to Mary went back the.
+11 to hallway the John journeyed.
+12 in  Daniel Is the garden?	no	5
+13 journeyed the Sandra to bedroom.
+14 in hallway Mary the is.
+15 in John office the  Is?	no	11
+1 went to the office Sandra.
+2 office in is Sandra not the.
+3 Is Sandra in  office the?	no	2
+4 Daniel is longer no in bathroom the.
+5 is the bedroom not Sandra in.
+6 the  bathroom in Is Daniel?	no	4
+7 kitchen to Mary moved the.
+8 went to the hallway Mary.
+9 Is  Mary in the hallway?	yes	8
+10 is longer no in hallway Mary the.
+11 back Daniel went bathroom the to.
+12 the  in Is Mary hallway?	no	10
+13 back bedroom John to the went.
+14 bathroom to went the back John.
+15 in Is hallway Mary  the?	no	10
+1 John hallway to the travelled.
+2 is kitchen Sandra the in not.
+3 the office in John  Is?	no	1
+4 Daniel in the bedroom is.
+5 not in office is the Sandra.
+6 the  in bedroom Daniel Is?	yes	4
+7 is not John the in hallway.
+8 is the longer in bedroom no Sandra.
+9 Sandra Is in  the bedroom?	no	8
+10 is hallway not the Sandra in.
+11 to the office Sandra moved.
+12 Is in the  Sandra garden?	no	11
+13 bathroom John in is the.
+14 the to bathroom Daniel journeyed.
+15 Sandra Is in office the ?	yes	11
+1 Sandra in the no kitchen is longer.
+2 to the Mary office went.
+3 in the Mary Is office ?	yes	2
+4 is the garden Mary in.
+5 the garden to Daniel went.
+6 kitchen in  Sandra the Is?	no	1
+7 no garden is in the longer Mary.
+8 the hallway moved John to.
+9 garden the in Is Mary ?	no	7
+10 journeyed to kitchen Daniel the.
+11 moved to the Mary bedroom.
+12 the kitchen Is Daniel in ?	yes	10
+13 the in John office is.
+14 in Mary is the bathroom.
+15  Mary the in Is bathroom?	yes	14

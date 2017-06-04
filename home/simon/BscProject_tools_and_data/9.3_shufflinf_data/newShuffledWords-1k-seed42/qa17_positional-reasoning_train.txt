@@ -1,0 +1,1250 @@
+1 rectangle above is pink The triangle the.
+2 blue The to the square left triangle is the of.
+3 the Is right to blue the of rectangle the pink square?	yes	1 2
+4 Is square blue the below pink the rectangle?	no	2 1
+5 the rectangle blue pink to Is of the the square right?	no	2 1
+6 Is rectangle below the square pink blue the?	no	2 1
+7 the square the Is rectangle blue below pink?	no	2 1
+8 the left the pink rectangle the of to blue Is square?	no	1 2
+9 rectangle to of the Is left the blue square pink the?	yes	2 1
+10 the right of to the the square rectangle blue Is pink?	yes	1 2
+1 of the left red the The is sphere yellow square to.
+2 below rectangle is the pink red The sphere.
+3 Is to square the yellow right the pink of the rectangle?	no	2 1
+4 pink the the right rectangle of to square the Is yellow?	yes	1 2
+5 square of the rectangle to the Is left the yellow pink?	yes	2 1
+6 square the pink the rectangle below Is yellow?	yes	1 2
+7 the pink above square rectangle yellow the Is?	no	1 2
+8 the yellow of Is square the to right the pink rectangle?	yes	1 2
+9 the Is the yellow rectangle square below pink?	yes	1 2
+10 the Is square rectangle yellow the pink below?	no	2 1
+1 red sphere The the rectangle above is pink.
+2 the of right square sphere to The red red the is.
+3 Is pink the above the red rectangle square?	yes	2 1
+4 the below rectangle Is the pink square red?	no	2 1
+5 square rectangle the pink red Is below the?	yes	1 2
+6 the the pink Is rectangle red above square?	no	1 2
+7 the the Is the pink red to rectangle of square left?	no	1 2
+8 red rectangle the pink of to right the square the Is?	yes	1 2
+9 red rectangle Is the the below square pink?	no	2 1
+10 below pink square rectangle the red Is the?	no	2 1
+1 the blue of triangle the to square is The right.
+2 is square square to The the of red left blue the.
+3 triangle above red square the Is the?	no	2 1
+4 square the the Is triangle above red?	no	2 1
+5 square the the red Is the of triangle right to?	no	1 2
+6 triangle square red above the the Is?	no	1 2
+7 of the triangle the Is red right square to the?	yes	2 1
+8 Is the triangle of left red the to the square?	yes	1 2
+9 the the right triangle of square the Is to red?	yes	2 1
+10 the square the Is right red the to triangle of?	yes	2 1
+1 The below is red sphere yellow the square.
+2 the The is above square blue sphere red.
+3 square below square yellow the the blue Is?	yes	2 1
+4 square Is square the the yellow above blue?	yes	1 2
+5 yellow blue square the above square Is the?	yes	1 2
+6 square blue the above Is yellow the square?	yes	1 2
+7 the yellow Is the square square blue below?	no	1 2
+8 right the yellow blue square of square to Is the the?	no	2 1
+9 left to the yellow of the square blue the Is square?	no	1 2
+10 blue square the yellow Is square the above?	yes	1 2
+1 the of square right to red is the The triangle.
+2 blue below square the square The is red.
+3 Is the the above triangle square blue?	yes	2 1
+4 the below the triangle Is blue square?	yes	1 2
+5 left Is the square triangle to blue of the the?	yes	1 2
+6 blue left triangle square the the of the Is to?	no	2 1
+7 the the above blue Is triangle square?	yes	2 1
+8 the the Is below blue triangle square?	yes	1 2
+9 the triangle of to Is the blue square the right?	no	1 2
+10 Is square the left to triangle of the the blue?	no	2 1
+1 is above the rectangle red The square pink.
+2 triangle square the The to right of red is the.
+3 rectangle the the triangle above Is pink?	no	1 2
+4 pink triangle the of right to Is rectangle the the?	yes	1 2
+5 pink above Is the rectangle triangle the?	no	1 2
+6 Is pink the triangle below rectangle the?	yes	1 2
+7 the below rectangle the pink triangle Is?	yes	1 2
+8 pink the the Is triangle left to the of rectangle?	yes	2 1
+9 triangle to the the left pink rectangle Is of the?	no	1 2
+10 right of triangle to Is rectangle pink the the the?	yes	1 2
+1 square to right of sphere The is red red the the.
+2 square the is red The square blue above.
+3 the of blue sphere Is left square the to red the?	no	1 2
+4 the Is blue square of left red sphere to the the?	no	1 2
+5 red blue the to sphere square the the of Is right?	no	2 1
+6 blue Is the the sphere of left the to square red?	yes	2 1
+7 square the blue sphere above the red Is?	no	2 1
+8 the the Is blue below square red sphere?	yes	2 1
+9 sphere the square the left red the of to Is blue?	no	1 2
+10 the the Is to red sphere of the blue right square?	no	2 1
+1 the The blue is triangle below square.
+2 The red is the right the triangle of to sphere.
+3 the blue above the sphere square Is red?	yes	1 2
+4 sphere square above the red the blue Is?	yes	1 2
+5 sphere the Is blue square red below the?	yes	2 1
+6 the Is the square below blue sphere red?	no	1 2
+7 the red square left Is sphere the blue the of to?	no	2 1
+8 to Is blue square of the the the right red sphere?	no	1 2
+9 Is the the square above sphere red blue?	no	2 1
+10 to square right Is red of the sphere blue the the?	no	1 2
+1 below triangle the The red sphere is.
+2 pink red of left rectangle to the the The is sphere.
+3 the rectangle right of the Is pink triangle to the?	no	1 2
+4 above Is rectangle triangle the the pink?	no	2 1
+5 triangle to Is pink rectangle of the left the the?	no	2 1
+6 the below pink Is rectangle the triangle?	yes	2 1
+7 Is pink rectangle the the triangle below?	yes	2 1
+8 pink the triangle Is rectangle below the?	no	1 2
+9 of Is the triangle pink the rectangle the to left?	no	2 1
+10 the of pink rectangle triangle the to Is the right?	no	1 2
+1 the to of square sphere is right the blue The red.
+2 triangle red The of the the to right sphere is.
+3 square triangle right to blue Is of the the the?	no	2 1
+4 the square Is blue below triangle the?	no	2 1
+5 above the square Is the triangle blue?	no	1 2
+6 Is left blue triangle the the of square the to?	yes	2 1
+7 the Is to right blue triangle of the square the?	yes	1 2
+8 blue below the square triangle Is the?	no	2 1
+9 to the the triangle the Is right square of blue?	yes	1 2
+10 Is left to square the triangle the the of blue?	no	1 2
+1 blue red The square below square is the.
+2 triangle The the above is blue square.
+3 red Is triangle above the square the?	no	2 1
+4 triangle the below Is square the red?	yes	2 1
+5 the the of the triangle Is red left to square?	no	2 1
+6 triangle red the below the square Is?	yes	2 1
+7 red square triangle the above Is the?	yes	1 2
+8 square above red the triangle the Is?	yes	1 2
+9 the below the Is square triangle red?	yes	2 1
+10 the square triangle red the below Is?	yes	2 1
+1 below blue The square the square red is.
+2 The blue below rectangle square the pink is.
+3 pink the the of rectangle square red the left to Is?	no	1 2
+4 rectangle red square to the Is the pink right the of?	no	2 1
+5 square red the below the rectangle pink Is?	yes	1 2
+6 below pink the red rectangle square Is the?	yes	1 2
+7 to the the of right Is square pink red the rectangle?	no	1 2
+8 red the to the pink rectangle of right square the Is?	no	1 2
+9 pink rectangle below red the square Is the?	no	2 1
+10 the red rectangle Is square pink the above?	no	1 2
+1 below The is square the blue pink rectangle.
+2 above square The red square is blue the.
+3 the rectangle square pink Is red below the?	yes	2 1
+4 Is above rectangle the pink red the square?	no	2 1
+5 red the square pink Is above rectangle the?	yes	1 2
+6 red rectangle the the below pink Is square?	yes	2 1
+7 red the pink Is above the square rectangle?	yes	1 2
+8 the rectangle square Is the red pink above?	no	2 1
+9 above red Is the square rectangle the pink?	no	2 1
+10 above Is pink the square the rectangle red?	yes	1 2
+1 to right is sphere red of the The triangle the.
+2 is to The yellow right of the sphere red the square.
+3 below Is triangle yellow the the square?	no	1 2
+4 below yellow square Is the triangle the?	no	2 1
+5 Is yellow triangle the square the the of left to?	yes	1 2
+6 the square left Is of triangle yellow to the the?	no	2 1
+7 to yellow Is square right the of the the triangle?	yes	2 1
+8 of Is right to the square yellow the the triangle?	yes	2 1
+9 to the triangle right of the yellow Is square the?	yes	2 1
+10 the yellow square triangle above Is the?	no	1 2
+1 the is triangle left pink rectangle of to The the.
+2 the blue is The square triangle below.
+3 the above pink blue the rectangle square Is?	yes	1 2
+4 square of the the to left blue Is pink rectangle the?	yes	2 1
+5 rectangle pink above blue the Is square the?	yes	1 2
+6 blue to left rectangle pink the the Is square of the?	yes	2 1
+7 the right rectangle pink the Is blue of the to square?	no	2 1
+8 blue of the Is left pink the rectangle square to the?	yes	2 1
+9 the square Is the above pink blue rectangle?	no	2 1
+10 blue the rectangle square Is the above pink?	no	2 1
+1 red below the square The is triangle.
+2 square blue the The to triangle of left the is.
+3 square right the the the of blue to red square Is?	no	1 2
+4 square the Is square below blue red the?	yes	2 1
+5 the Is below square red square the blue?	no	1 2
+6 Is above the square the square blue red?	no	2 1
+7 Is square right the the the of square to blue red?	no	1 2
+8 square right red the the Is of the to blue square?	no	1 2
+9 the red the left of Is blue square the square to?	yes	1 2
+10 Is red square blue the the below square?	no	1 2
+1 the right blue The of square square the is to yellow.
+2 is above the triangle blue square The.
+3 the triangle Is below the square yellow?	yes	1 2
+4 triangle yellow Is square below the the?	no	2 1
+5 square below yellow Is the triangle the?	no	2 1
+6 yellow the Is below the square triangle?	no	2 1
+7 yellow Is the below square the triangle?	yes	1 2
+8 square below triangle the the yellow Is?	yes	1 2
+9 yellow the triangle above square Is the?	yes	2 1
+10 to Is the the yellow the square right of triangle?	yes	1 2
+1 red The of square sphere is right the to blue the.
+2 The is square square below yellow blue the.
+3 yellow Is above red square the the sphere?	no	1 2
+4 Is above sphere the the square yellow red?	no	1 2
+5 sphere yellow square red Is the below the?	no	2 1
+6 to left sphere red square Is the the the of yellow?	yes	2 1
+7 sphere to red the the the of Is yellow right square?	yes	1 2
+8 below red the square yellow sphere the Is?	yes	1 2
+9 Is above sphere yellow the square the red?	no	1 2
+10 sphere square the the Is red yellow below?	yes	1 2
+1 The above the yellow rectangle square pink is.
+2 the The the rectangle pink is to red sphere left of.
+3 the the yellow red Is square below sphere?	no	2 1
+4 the right the the to sphere red yellow square of Is?	yes	2 1
+5 to the Is square the red the of sphere right yellow?	no	1 2
+6 square the Is the yellow red to sphere the right of?	yes	2 1
+7 the the yellow square right the to Is of red sphere?	no	1 2
+8 the red Is yellow the square sphere below?	yes	1 2
+9 the square yellow the sphere Is red above?	yes	2 1
+10 the Is sphere square above yellow red the?	no	1 2
+1 red sphere the The is above yellow square.
+2 the sphere The of red blue to is right the square.
+3 yellow the above square square Is the blue?	yes	1 2
+4 to the Is yellow blue the square the left square of?	no	1 2
+5 yellow the Is square below blue the square?	yes	2 1
+6 the blue of right the square Is square yellow to the?	yes	1 2
+7 Is square yellow the square the blue below?	yes	2 1
+8 left blue to square the the Is of the square yellow?	yes	2 1
+9 of square Is the yellow to right the the blue square?	no	2 1
+10 the below yellow square square Is the blue?	yes	2 1
+1 the yellow red is left the to square square The of.
+2 rectangle yellow The the square is above pink.
+3 to of the rectangle the red the left Is square pink?	no	1 2
+4 the red pink to rectangle Is of the the square right?	no	2 1
+5 rectangle square above the Is red the pink?	no	2 1
+6 of right square red the the Is to pink rectangle the?	no	2 1
+7 left red the of square the Is pink to the rectangle?	yes	2 1
+8 the the square left of pink to red rectangle the Is?	no	1 2
+9 below red square pink the the Is rectangle?	no	1 2
+10 the below red pink rectangle square Is the?	yes	2 1
+1 below pink rectangle The square the is blue.
+2 of the to right rectangle the triangle pink The is.
+3 Is square the triangle below the blue?	no	1 2
+4 the Is the below square blue triangle?	no	1 2
+5 Is the to triangle square blue the right the of?	no	1 2
+6 blue the above triangle square Is the?	no	2 1
+7 of square Is the blue to left triangle the the?	no	2 1
+8 square blue the the triangle below Is?	no	1 2
+9 Is the square triangle the blue below?	no	1 2
+10 right Is the blue to the of triangle the square?	yes	2 1
+1 triangle the to right of is square yellow the The.
+2 pink triangle above is The rectangle the.
+3 square the of the left Is pink to yellow rectangle the?	yes	1 2
+4 rectangle the square above yellow the pink Is?	yes	2 1
+5 square yellow the Is the the rectangle right of to pink?	yes	2 1
+6 the above the rectangle square pink Is yellow?	no	1 2
+7 Is square the pink rectangle below the yellow?	no	2 1
+8 square the left Is the of to yellow rectangle the pink?	no	2 1
+9 square pink yellow Is the below the rectangle?	yes	1 2
+10 above the the pink rectangle square Is yellow?	no	1 2
+1 blue square The the right square to is yellow of the.
+2 The is yellow left square of the the to rectangle pink.
+3 square right rectangle to of the the the Is pink blue?	yes	2 1
+4 Is the pink blue the square rectangle below?	no	2 1
+5 the pink rectangle the Is right of the blue to square?	yes	2 1
+6 below square Is blue pink the rectangle the?	no	1 2
+7 square Is the blue pink below the rectangle?	no	2 1
+8 the the above Is rectangle pink blue square?	no	1 2
+9 Is square the blue rectangle pink the the to right of?	yes	2 1
+10 rectangle blue the above square the Is pink?	no	1 2
+1 below The the square pink yellow rectangle is.
+2 the below square is yellow sphere The red.
+3 below the sphere the rectangle red pink Is?	yes	2 1
+4 the Is rectangle pink red below sphere the?	no	1 2
+5 the sphere Is red pink the above rectangle?	no	2 1
+6 red rectangle the pink the sphere below Is?	no	1 2
+7 pink red sphere the above rectangle Is the?	yes	1 2
+8 the pink Is rectangle red sphere the above?	yes	1 2
+9 pink red rectangle Is sphere the below the?	no	1 2
+10 above the the pink red Is sphere rectangle?	yes	1 2
+1 pink rectangle the The blue below square is.
+2 is The of the right triangle to the blue square.
+3 the the of the left rectangle to triangle pink Is?	yes	2 1
+4 triangle pink the the Is rectangle below?	no	2 1
+5 triangle the above pink the Is rectangle?	yes	2 1
+6 pink below triangle Is rectangle the the?	yes	1 2
+7 the triangle to left the rectangle the pink Is of?	no	1 2
+8 pink rectangle the triangle Is below the?	no	2 1
+9 Is to pink the the triangle of the left rectangle?	yes	2 1
+10 the triangle of right the to pink Is the rectangle?	yes	1 2
+1 The pink is blue the rectangle below square.
+2 The is the triangle rectangle pink above.
+3 triangle right of square Is blue to the the the?	no	1 2
+4 left the triangle Is to the square the of blue?	no	2 1
+5 square triangle blue Is the the below?	yes	2 1
+6 blue the square Is above the triangle?	no	2 1
+7 blue Is triangle the square above the?	no	2 1
+8 triangle blue the the Is square above?	no	2 1
+9 Is the blue of the triangle the square right to?	no	1 2
+10 square of the Is the blue triangle to the left?	no	2 1
+1 above the blue is The rectangle pink square.
+2 blue the The square of square yellow is the to left.
+3 right to rectangle the the Is square pink yellow of the?	no	1 2
+4 left the square of Is the rectangle to pink the yellow?	no	2 1
+5 square to yellow rectangle of the pink Is the the left?	yes	1 2
+6 square the Is yellow below the rectangle pink?	no	2 1
+7 square rectangle the pink yellow below Is the?	no	2 1
+8 the Is pink yellow square the below rectangle?	yes	1 2
+9 rectangle Is the yellow below the pink square?	no	2 1
+10 above the square Is yellow pink rectangle the?	no	1 2
+1 the to is of triangle pink The rectangle left the.
+2 yellow rectangle the is pink square of the The right to.
+3 left of to triangle the the Is the square yellow?	yes	2 1
+4 triangle the yellow Is the square above?	no	1 2
+5 triangle the of Is to square the left the yellow?	yes	2 1
+6 the the triangle the right to Is square of yellow?	yes	1 2
+7 triangle the yellow above the Is square?	no	2 1
+8 the Is yellow the triangle square above?	no	1 2
+9 the the Is triangle of square the yellow left to?	yes	2 1
+10 to the of right square Is the the triangle yellow?	yes	1 2
+1 blue the pink the left of rectangle The is square to.
+2 of is triangle The the the blue left to square.
+3 triangle to pink the the of the right rectangle Is?	no	1 2
+4 of triangle pink the right Is the to the rectangle?	yes	2 1
+5 to right the triangle of the Is pink the rectangle?	yes	2 1
+6 the the to Is pink right the triangle rectangle of?	yes	2 1
+7 the the to Is right of rectangle the pink triangle?	yes	2 1
+8 the the Is triangle below pink rectangle?	no	2 1
+9 Is pink rectangle triangle the the below?	no	2 1
+10 Is pink below rectangle triangle the the?	no	1 2
+1 red the is rectangle pink above sphere The.
+2 square rectangle pink red above the The is.
+3 sphere the below Is the red red square?	no	2 1
+4 sphere red Is the below the red square?	yes	1 2
+5 Is square the above red red the sphere?	no	1 2
+6 the red sphere red the square below Is?	yes	1 2
+7 square of to sphere the the left Is red the red?	no	2 1
+8 sphere Is the below red square the red?	yes	1 2
+9 the Is red red the the of sphere to square left?	no	1 2
+10 of the square the red the to left sphere red Is?	no	1 2
+1 red the to square the right is sphere yellow The of.
+2 triangle above sphere The is red the.
+3 Is left of to triangle yellow square the the the?	yes	1 2
+4 Is the yellow the of triangle left to square the?	yes	1 2
+5 above the the yellow triangle square Is?	no	1 2
+6 the square the triangle yellow to left Is the of?	yes	1 2
+7 triangle Is to of the square yellow the the left?	no	2 1
+8 square the the to of yellow Is left triangle the?	no	2 1
+9 yellow the triangle the above Is square?	no	1 2
+10 right the to square yellow the the triangle Is of?	yes	2 1
+1 is left the blue of The sphere square to the red.
+2 blue square the square yellow is below The.
+3 yellow square sphere Is red the the below?	no	1 2
+4 red below square the the Is yellow sphere?	yes	2 1
+5 to the of red sphere the Is the square right yellow?	no	1 2
+6 the square Is yellow above the sphere red?	yes	1 2
+7 to the square red of Is left the sphere the yellow?	no	2 1
+8 sphere the Is right the the of red square to yellow?	yes	2 1
+9 above sphere Is red the the yellow square?	yes	1 2
+10 the of Is to left the square the red sphere yellow?	yes	1 2
+1 to rectangle right square yellow pink the the of is The.
+2 The square the is below yellow triangle.
+3 the Is the triangle pink below rectangle?	yes	1 2
+4 the of right the rectangle to Is triangle pink the?	yes	2 1
+5 rectangle triangle the the pink Is above?	yes	2 1
+6 triangle the of pink Is rectangle the right the to?	yes	2 1
+7 rectangle Is the left the of the triangle pink to?	yes	1 2
+8 the the of to triangle the Is right pink rectangle?	yes	2 1
+9 the pink the rectangle to of the left Is triangle?	no	2 1
+10 pink the the rectangle triangle left of to Is the?	no	2 1
+1 triangle the of The right is to pink the rectangle.
+2 red above pink rectangle The sphere is the.
+3 the Is sphere the triangle red below?	yes	2 1
+4 red the sphere the triangle Is above?	no	2 1
+5 red the sphere triangle Is the above?	no	2 1
+6 above sphere Is red triangle the the?	yes	1 2
+7 left the sphere red the triangle Is the of to?	yes	2 1
+8 the to the sphere triangle of the Is right red?	no	2 1
+9 of the the to sphere red right triangle the Is?	no	2 1
+10 the red sphere above triangle the Is?	yes	1 2
+1 the right of to square red triangle is the The.
+2 square The below the red is yellow square.
+3 Is the of yellow the the square left to triangle?	no	2 1
+4 triangle the square the to the of Is yellow right?	yes	2 1
+5 the of square yellow right triangle the Is to the?	yes	2 1
+6 of triangle the to yellow square left Is the the?	no	2 1
+7 square triangle the of Is the to right yellow the?	no	1 2
+8 below triangle square yellow Is the the?	no	1 2
+9 of right triangle to the the yellow Is square the?	no	1 2
+10 above triangle Is yellow the square the?	no	2 1
+1 triangle is above The red sphere the.
+2 to The pink the red is of left the rectangle sphere.
+3 pink rectangle of the to Is the the triangle left?	no	1 2
+4 pink triangle below rectangle Is the the?	yes	2 1
+5 rectangle Is pink triangle the the above?	yes	1 2
+6 triangle the pink left Is of the the rectangle to?	yes	2 1
+7 rectangle above triangle the pink the Is?	no	2 1
+8 above rectangle the pink triangle Is the?	no	2 1
+9 the rectangle triangle Is above the pink?	yes	1 2
+10 pink Is the triangle the right rectangle the of to?	no	2 1
+1 above the is blue square The yellow square.
+2 blue square red above The the sphere is.
+3 red the yellow Is the sphere square above?	yes	1 2
+4 below red square Is yellow the sphere the?	yes	2 1
+5 below the square yellow the Is sphere red?	yes	2 1
+6 yellow square Is the above red the sphere?	yes	1 2
+7 yellow square sphere Is red the the above?	no	2 1
+8 red the the below Is yellow sphere square?	yes	2 1
+9 red of the sphere the yellow right Is to the square?	no	2 1
+10 square the Is red below yellow the sphere?	yes	2 1
+1 The the above red is square blue square.
+2 is of left pink red rectangle the square the to The.
+3 square Is blue the to the of pink rectangle the right?	no	2 1
+4 pink the rectangle blue Is the below square?	no	1 2
+5 rectangle the the the pink blue square of to Is left?	yes	2 1
+6 blue right the Is square pink to the of rectangle the?	yes	1 2
+7 the square to pink the rectangle left of Is the blue?	no	1 2
+8 to of rectangle left blue pink square the the the Is?	no	1 2
+9 pink the the blue below square rectangle Is?	no	1 2
+10 rectangle Is below blue the pink square the?	yes	2 1
+1 The sphere the pink below red rectangle is.
+2 The sphere red left red is to the of the square.
+3 left the rectangle square red Is the to pink the of?	no	2 1
+4 above the Is square red pink rectangle the?	yes	1 2
+5 left of pink the to the Is square rectangle the red?	yes	1 2
+6 rectangle square the below Is the pink red?	yes	2 1
+7 the pink the rectangle red the of square left Is to?	yes	1 2
+8 rectangle of right pink the the red square to the Is?	yes	2 1
+9 red pink the above rectangle Is the square?	yes	1 2
+10 the rectangle above square Is the pink red?	no	2 1
+1 blue is to rectangle the square The pink of the right.
+2 sphere the is red The pink rectangle below.
+3 the square the red blue Is sphere below?	yes	2 1
+4 right of to square sphere red the the Is blue the?	no	1 2
+5 the the sphere red square Is below blue?	no	1 2
+6 the Is the red square blue sphere above?	no	2 1
+7 square blue the red Is sphere below the?	no	1 2
+8 the sphere square the blue the red of Is to right?	no	1 2
+9 Is of the sphere the left red the blue to square?	no	2 1
+10 above sphere red blue square the Is the?	yes	1 2
+1 The the red is rectangle pink above sphere.
+2 to blue square the The sphere of red the right is.
+3 square the left blue the the pink to Is of rectangle?	no	1 2
+4 blue below square the the pink Is rectangle?	yes	1 2
+5 blue pink Is the rectangle the above square?	yes	2 1
+6 Is of rectangle the pink the to blue the square left?	yes	2 1
+7 the to pink Is the square blue right of the rectangle?	yes	1 2
+8 pink the square below blue Is rectangle the?	yes	1 2
+9 pink square Is the the above rectangle blue?	yes	2 1
+10 the blue the pink above Is rectangle square?	yes	2 1
+1 square the red above sphere is The red.
+2 to The of square the the red square left is yellow.
+3 the of red to the yellow sphere the Is square left?	yes	1 2
+4 yellow square sphere Is red below the the?	yes	1 2
+5 the red Is square yellow the sphere below?	yes	1 2
+6 the sphere the red above square yellow Is?	no	1 2
+7 sphere the red yellow square below Is the?	yes	1 2
+8 yellow square the sphere the red above Is?	yes	2 1
+9 Is square the above the red sphere yellow?	yes	2 1
+10 to red square the the of left Is yellow sphere the?	yes	1 2
+1 is blue square of sphere the right the red The to.
+2 The red yellow sphere of the square the right to is.
+3 Is left blue the square square yellow the to of the?	no	2 1
+4 the the of Is the yellow to square square blue left?	yes	1 2
+5 square Is to the square blue the yellow left of the?	yes	1 2
+6 Is yellow square blue below the square the?	no	2 1
+7 square the left yellow square the to blue of Is the?	yes	1 2
+8 above the yellow square Is the square blue?	no	1 2
+9 yellow the right the square blue the square Is to of?	yes	2 1
+10 left the yellow of the blue Is square the square to?	yes	1 2
+1 is blue square to the of square the left The yellow.
+2 is the below yellow red The square sphere.
+3 Is the left the sphere red to blue the of square?	yes	2 1
+4 Is right of red the to square sphere the blue the?	no	2 1
+5 to the red blue right square Is of the sphere the?	no	2 1
+6 sphere the blue red the below Is square?	yes	1 2
+7 red square above sphere the Is blue the?	yes	2 1
+8 the the sphere right blue red square of the Is to?	yes	1 2
+9 square the blue red sphere above Is the?	no	1 2
+10 the sphere square the the Is to blue red right of?	yes	1 2
+1 the pink square The right the yellow rectangle is of to.
+2 square square is above yellow The blue the.
+3 to the of blue square pink the Is left rectangle the?	yes	2 1
+4 pink rectangle square above blue Is the the?	yes	1 2
+5 the below Is blue pink rectangle the square?	yes	2 1
+6 square rectangle Is the the blue above pink?	yes	1 2
+7 square the Is below blue the pink rectangle?	yes	2 1
+8 rectangle blue the the Is of the square left pink to?	no	1 2
+9 below rectangle blue square the the pink Is?	yes	2 1
+10 rectangle the pink square below blue Is the?	yes	2 1
+1 the to rectangle the triangle left is of The pink.
+2 the The of square blue left to triangle the is.
+3 the to rectangle the square Is pink of right the blue?	yes	1 2
+4 the to pink the the of square blue Is right rectangle?	yes	1 2
+5 blue pink right to of rectangle Is the the the square?	yes	1 2
+6 the of the to rectangle the pink Is left square blue?	yes	2 1
+7 left blue the to the Is the of square pink rectangle?	no	1 2
+8 to the blue Is left the the rectangle of square pink?	yes	2 1
+9 square pink the blue below rectangle Is the?	no	2 1
+10 pink the the blue right Is of the to rectangle square?	yes	1 2
+1 is rectangle to of the The pink red right the square.
+2 The rectangle pink is triangle above the.
+3 the red triangle the above square Is?	yes	2 1
+4 the red Is square triangle the below?	no	2 1
+5 red the the to triangle right of the Is square?	no	2 1
+6 red square above the Is the triangle?	no	1 2
+7 the Is above square red triangle the?	yes	2 1
+8 triangle Is the red square the above?	yes	2 1
+9 triangle the the square Is above red?	yes	2 1
+10 the above red the triangle square Is?	no	1 2
+1 of The the blue the is right square to sphere red.
+2 sphere above The is red the triangle.
+3 the above Is the square triangle blue?	no	1 2
+4 square blue the triangle left the to the of Is?	yes	1 2
+5 the to of Is blue triangle left the square the?	no	2 1
+6 square Is blue the triangle below the?	yes	1 2
+7 blue square the the Is above triangle?	no	1 2
+8 the the square triangle of to Is the blue right?	no	1 2
+9 above blue triangle Is the the square?	yes	2 1
+10 the blue Is square the triangle above?	yes	2 1
+1 The the rectangle square pink is above red.
+2 The the to square is right the of rectangle pink yellow.
+3 yellow the of square Is to the left red the square?	yes	2 1
+4 the square yellow red Is square the below?	no	1 2
+5 Is square yellow right the the the of red square to?	yes	1 2
+6 the square yellow of the to Is square red the left?	yes	2 1
+7 Is the the of yellow square square red left the to?	yes	2 1
+8 the yellow the square red Is below square?	yes	2 1
+9 yellow Is to the square the right of red square the?	yes	1 2
+10 Is below red the square square the yellow?	yes	2 1
+1 is below red The sphere red square the.
+2 the red blue of to square left The the square is.
+3 of the the blue red right Is to the sphere square?	no	1 2
+4 left Is red the the of sphere the blue to square?	yes	1 2
+5 red below the square blue Is the sphere?	no	1 2
+6 sphere blue to the square the left Is red the of?	no	2 1
+7 sphere of Is the blue left square to the red the?	no	2 1
+8 blue sphere below the red square the Is?	yes	2 1
+9 the the Is below blue sphere red square?	yes	2 1
+10 red left the square the to Is blue the sphere of?	yes	1 2
+1 The is to blue of pink the the rectangle square left.
+2 the square to the red right blue square is The of.
+3 of to pink rectangle left the the the Is square red?	yes	2 1
+4 rectangle below the square Is red the pink?	no	2 1
+5 square below the Is the rectangle pink red?	no	2 1
+6 red below pink square the the Is rectangle?	no	2 1
+7 rectangle left of square pink to the the the Is red?	yes	2 1
+8 the the the pink rectangle square red right Is to of?	yes	1 2
+9 Is the red the pink square below rectangle?	no	1 2
+10 the pink left the the rectangle to of Is square red?	no	1 2
+1 the is red below sphere triangle The.
+2 is red blue above square the The sphere.
+3 blue triangle the Is square the below?	yes	2 1
+4 square below the triangle the blue Is?	yes	2 1
+5 above the square triangle Is blue the?	yes	1 2
+6 Is blue triangle the the to square of right the?	no	2 1
+7 to triangle right the Is of the blue square the?	no	2 1
+8 square Is the below blue triangle the?	yes	2 1
+9 left square the the to Is of blue the triangle?	no	2 1
+10 below Is the triangle blue the square?	yes	2 1
+1 square The is the yellow above red square.
+2 below blue The the square red is square.
+3 blue square the the square Is below yellow?	yes	1 2
+4 square the square the Is above yellow blue?	yes	2 1
+5 above yellow the square Is square the blue?	yes	2 1
+6 to blue the right square square yellow of the the Is?	no	1 2
+7 yellow the Is square the blue square above?	yes	2 1
+8 blue yellow square the Is above square the?	yes	2 1
+9 the the square square of to Is yellow blue the right?	no	2 1
+10 the blue square square below Is yellow the?	yes	1 2
+1 is The square yellow triangle the above.
+2 of to yellow The the left square pink rectangle is the.
+3 rectangle above the the triangle pink Is?	no	1 2
+4 the Is pink below rectangle the triangle?	yes	1 2
+5 to pink the the rectangle right Is triangle of the?	yes	2 1
+6 pink the Is above rectangle the triangle?	no	1 2
+7 of to rectangle left the Is the triangle the pink?	no	2 1
+8 of the the to pink rectangle triangle right Is the?	no	1 2
+9 Is rectangle to the the left of triangle pink the?	yes	1 2
+10 the of rectangle pink Is the triangle left to the?	yes	1 2
+1 is yellow The square the rectangle below pink.
+2 The square to the yellow of the triangle right is.
+3 triangle below rectangle the Is pink the?	yes	1 2
+4 above the Is pink triangle the rectangle?	yes	2 1
+5 right triangle the Is to pink of the rectangle the?	yes	2 1
+6 rectangle Is the triangle the pink above?	no	1 2
+7 the of to triangle left rectangle the Is pink the?	no	2 1
+8 triangle pink the rectangle above the Is?	no	1 2
+9 Is below rectangle the the pink triangle?	yes	1 2
+10 the pink Is above the triangle rectangle?	yes	2 1
+1 The red the triangle sphere left to the of is.
+2 of The triangle the the to yellow is square left.
+3 red square Is the sphere yellow the to of right the?	yes	1 2
+4 square the yellow sphere the Is red above?	no	2 1
+5 yellow the below square sphere the Is red?	no	2 1
+6 Is the the square the left red yellow to sphere of?	yes	2 1
+7 to sphere of the red yellow left the square Is the?	yes	2 1
+8 Is red yellow right the square the to of sphere the?	yes	1 2
+9 of Is the sphere square left the yellow to the red?	yes	2 1
+10 the yellow sphere red above Is square the?	no	1 2
+1 below the The is square red blue square.
+2 of to right sphere The red the the blue is square.
+3 sphere above red square Is the the red?	yes	2 1
+4 Is the above sphere red the square red?	no	1 2
+5 square the sphere red red above the Is?	yes	2 1
+6 to of the the right sphere square red the Is red?	no	2 1
+7 the sphere the square red above red Is?	no	1 2
+8 sphere square Is red above the the red?	no	1 2
+9 of square red right to the sphere red the Is the?	yes	1 2
+10 the sphere the below square Is red red?	no	2 1
+1 to blue is of triangle The the the right square.
+2 The is red the blue square above sphere.
+3 red sphere Is the the triangle below?	yes	2 1
+4 sphere of the triangle right the the to red Is?	no	1 2
+5 of Is sphere right red the the the to triangle?	no	1 2
+6 triangle the to red Is sphere the right of the?	yes	2 1
+7 sphere triangle Is of the to the the red left?	yes	1 2
+8 sphere below triangle the the Is red?	no	1 2
+9 Is red the sphere the below triangle?	yes	2 1
+10 Is the sphere the the of triangle red to right?	yes	2 1
+1 above pink rectangle The square the is yellow.
+2 red the of to yellow is square square right the The.
+3 the above Is red rectangle square the pink?	yes	2 1
+4 red above rectangle square the pink the Is?	yes	2 1
+5 the pink square the the Is to of red rectangle right?	no	1 2
+6 square rectangle red below pink Is the the?	no	2 1
+7 the rectangle the above pink Is square red?	no	1 2
+8 square to left of the red the the rectangle Is pink?	yes	1 2
+9 the above the rectangle Is red square pink?	no	1 2
+10 red pink the Is square below rectangle the?	yes	1 2
+1 square is The triangle above red the.
+2 above The the is pink rectangle triangle.
+3 square Is the the rectangle red pink above?	no	1 2
+4 red rectangle the Is pink square the above?	no	1 2
+5 pink Is the red rectangle the square above?	yes	2 1
+6 above rectangle the the red square Is pink?	yes	2 1
+7 Is rectangle pink square the the below red?	yes	1 2
+8 above red rectangle square the Is pink the?	yes	2 1
+9 the red the square rectangle above Is pink?	yes	2 1
+10 pink red the Is square the above rectangle?	no	1 2
+1 square the yellow above The triangle is.
+2 triangle the square is the of left to The blue.
+3 below yellow Is the blue square square the?	no	2 1
+4 square the blue Is below square the yellow?	no	2 1
+5 above square Is the the blue yellow square?	no	1 2
+6 square of the left blue square the the Is yellow to?	yes	2 1
+7 the Is the left blue square to of yellow square the?	yes	2 1
+8 left square the of square blue Is yellow to the the?	yes	2 1
+9 yellow square of the Is blue left the square to the?	yes	2 1
+10 above square Is blue yellow square the the?	yes	2 1
+1 yellow square the below square is The red.
+2 is the right the blue square of to The red square.
+3 square the blue Is yellow square below the?	no	1 2
+4 square Is the the yellow blue square above?	no	2 1
+5 the Is square of square the the yellow to blue right?	yes	2 1
+6 Is the yellow the above blue square square?	yes	1 2
+7 square the the right to blue yellow square of the Is?	yes	2 1
+8 square above the Is square yellow blue the?	no	2 1
+9 of square Is to the left the blue the yellow square?	yes	1 2
+10 above the square Is yellow the blue square?	yes	1 2
+1 the above square square The yellow blue is.
+2 above The red square square the is blue.
+3 red right to the square yellow the of Is square the?	no	2 1
+4 left the square Is square the red yellow of the to?	no	2 1
+5 yellow square Is the the below square red?	no	1 2
+6 square left square the the Is red yellow of the to?	no	1 2
+7 the yellow square the Is above red square?	yes	1 2
+8 yellow the square below red the Is square?	yes	2 1
+9 above square the red the square Is yellow?	yes	1 2
+10 square red the the square right yellow the to of Is?	no	1 2
+1 the is of The sphere right the square red red to.
+2 is square rectangle the red below The pink.
+3 sphere the red Is below pink the rectangle?	yes	2 1
+4 pink the rectangle red to of right sphere Is the the?	no	2 1
+5 the of sphere to the left pink the rectangle red Is?	yes	2 1
+6 left rectangle Is the to the sphere red the of pink?	no	1 2
+7 Is sphere the the pink left the of red rectangle to?	yes	2 1
+8 the above the rectangle Is sphere pink red?	yes	1 2
+9 to red sphere the pink of left the rectangle Is the?	no	1 2
+10 rectangle Is the pink above red sphere the?	yes	1 2
+1 The above square the yellow red is sphere.
+2 to of pink The the right square rectangle is the yellow.
+3 right to red the the rectangle of Is sphere the pink?	yes	1 2
+4 to the the Is of right the red rectangle pink sphere?	no	2 1
+5 left the the sphere pink Is the rectangle of red to?	yes	2 1
+6 Is the the left pink of red sphere the rectangle to?	no	1 2
+7 sphere the right the the red of rectangle to pink Is?	no	2 1
+8 rectangle sphere pink the to Is the red of right the?	no	2 1
+9 the Is rectangle the red sphere pink below?	no	2 1
+10 the the the rectangle red of to Is pink sphere right?	no	2 1
+1 red the the square red to of The sphere is left.
+2 pink above square The the rectangle red is.
+3 right rectangle the the to the sphere pink Is red of?	yes	1 2
+4 the sphere the red below Is rectangle pink?	no	1 2
+5 Is the red of right pink sphere to the the rectangle?	yes	1 2
+6 red the the left to pink of the sphere Is rectangle?	yes	2 1
+7 red the pink the below sphere Is rectangle?	no	1 2
+8 to the red sphere left of the Is the rectangle pink?	yes	2 1
+9 the the pink to Is of rectangle the sphere red left?	yes	2 1
+10 sphere Is pink the rectangle red the above?	yes	1 2
+1 the yellow is triangle The above square.
+2 is triangle red above The sphere the.
+3 below sphere the yellow red Is square the?	yes	1 2
+4 yellow the sphere Is to right of square the red the?	no	1 2
+5 red Is the below sphere the yellow square?	yes	1 2
+6 square the right the sphere Is yellow of to the red?	no	1 2
+7 the red sphere below yellow the square Is?	yes	1 2
+8 square sphere the Is below red the yellow?	yes	1 2
+9 square yellow the Is sphere the red below?	no	2 1
+10 of square the yellow red Is right the the sphere to?	no	1 2
+1 is rectangle The square of left the yellow pink the to.
+2 red square yellow The is below the square.
+3 square red right of rectangle pink the the Is to the?	no	2 1
+4 the square the Is rectangle red below pink?	yes	2 1
+5 the square Is rectangle below the red pink?	yes	2 1
+6 of the Is right the rectangle square the pink to red?	no	2 1
+7 the left the red rectangle square of Is the to pink?	yes	2 1
+8 below the pink rectangle square the red Is?	yes	2 1
+9 rectangle pink red Is below the square the?	yes	2 1
+10 Is the below red the rectangle square pink?	no	1 2
+1 below The square is yellow triangle the.
+2 the above square square yellow The blue is.
+3 the Is the below triangle square blue?	yes	2 1
+4 square the the Is above triangle blue?	no	2 1
+5 the the below triangle Is square blue?	no	1 2
+6 square triangle blue the Is the above?	yes	1 2
+7 triangle the the above Is square blue?	yes	1 2
+8 the to of triangle right square the blue the Is?	no	1 2
+9 Is square the below the triangle blue?	yes	2 1
+10 blue the triangle square Is above the?	yes	1 2
+1 below the square red yellow is square The.
+2 red is the The above square triangle.
+3 of the triangle right Is the square yellow the to?	no	2 1
+4 square Is the below the triangle yellow?	yes	1 2
+5 yellow triangle Is the square above the?	yes	2 1
+6 above yellow Is triangle the square the?	yes	2 1
+7 triangle square above Is the yellow the?	yes	2 1
+8 of triangle square Is the the to the left yellow?	no	2 1
+9 square Is the the triangle the yellow to of left?	no	2 1
+10 yellow square triangle the the below Is?	yes	1 2
+1 the below pink square is rectangle yellow The.
+2 blue The is square yellow square the above.
+3 pink rectangle square blue Is the the below?	no	1 2
+4 blue the Is square pink rectangle the below?	no	1 2
+5 the rectangle Is above pink square the blue?	yes	1 2
+6 pink blue rectangle Is the square above the?	no	2 1
+7 rectangle Is the blue below the square pink?	yes	2 1
+8 rectangle pink blue Is square the the below?	yes	2 1
+9 pink the blue rectangle square Is the below?	no	1 2
+10 left square the the pink to blue Is of rectangle the?	no	1 2
+1 square The the triangle yellow is above.
+2 rectangle The triangle the pink is to of the right.
+3 square rectangle Is pink the below the yellow?	yes	1 2
+4 yellow pink rectangle the above square the Is?	yes	2 1
+5 square Is pink the left to yellow of the the rectangle?	yes	1 2
+6 pink yellow the rectangle the below Is square?	yes	1 2
+7 pink square the the Is rectangle yellow above?	no	1 2
+8 Is square the rectangle below pink the yellow?	no	2 1
+9 square pink Is rectangle yellow the the above?	no	1 2
+10 yellow rectangle above the the Is square pink?	yes	2 1
+1 red the red is square sphere below The.
+2 is to the pink rectangle of red the The sphere right.
+3 pink above Is square the red the rectangle?	yes	1 2
+4 the the pink of rectangle red square to the Is right?	no	1 2
+5 the the rectangle Is square left the to red pink of?	yes	1 2
+6 above square the Is pink the red rectangle?	yes	1 2
+7 to Is pink square right rectangle of red the the the?	no	1 2
+8 the to rectangle pink left of the Is the square red?	no	2 1
+9 the Is red square below rectangle pink the?	no	1 2
+10 rectangle above the red square pink Is the?	no	2 1
+1 below The is square the red red sphere.
+2 square to pink left the red The the is of rectangle.
+3 pink right the to red of the sphere Is rectangle the?	no	1 2
+4 rectangle the red sphere Is pink above the?	no	2 1
+5 the rectangle sphere below Is the pink red?	no	1 2
+6 the sphere pink red Is the above rectangle?	yes	1 2
+7 sphere rectangle the Is pink the above red?	no	2 1
+8 of the left rectangle Is the to sphere the red pink?	no	2 1
+9 below red sphere the pink Is rectangle the?	yes	2 1
+10 the rectangle the below red sphere pink Is?	yes	2 1
+1 red blue square the is the square right of to The.
+2 the square of is red square The to the yellow right.
+3 to yellow square the square Is the left blue the of?	yes	1 2
+4 square yellow of the square to right the blue the Is?	yes	2 1
+5 square the blue square Is the below yellow?	no	1 2
+6 yellow square the right the blue to Is of the square?	yes	2 1
+7 square left the Is yellow the to square of blue the?	yes	1 2
+8 yellow the Is the square above square blue?	no	2 1
+9 the square above Is the blue square yellow?	no	1 2
+10 left yellow the the the blue square to of square Is?	yes	1 2
+1 the rectangle square the is right to The of pink yellow.
+2 the sphere yellow The red square is below.
+3 red pink the sphere rectangle the Is above?	no	1 2
+4 to the the the rectangle red pink Is sphere left of?	no	1 2
+5 pink of the left to sphere red the the rectangle Is?	yes	2 1
+6 of right the to the rectangle red the Is sphere pink?	yes	1 2
+7 the to rectangle pink of red Is right the sphere the?	yes	1 2
+8 red sphere left the Is rectangle of the pink the to?	no	1 2
+9 rectangle the red to the right Is the of sphere pink?	no	2 1
+10 the of the red pink left the rectangle sphere Is to?	yes	2 1
+1 the is The red square above square blue.
+2 square rectangle pink blue is the The below.
+3 above Is square red the rectangle pink the?	yes	2 1
+4 the pink square rectangle red below the Is?	yes	1 2
+5 red rectangle square the above Is pink the?	no	1 2
+6 to red the rectangle the Is square of left pink the?	no	1 2
+7 red Is pink rectangle the square above the?	yes	2 1
+8 red the below pink square rectangle Is the?	yes	1 2
+9 Is above red rectangle square the pink the?	yes	2 1
+10 the of rectangle the right the Is square pink to red?	no	1 2
+1 sphere below the is red red square The.
+2 the to The sphere triangle red right of the is.
+3 of red Is the right to square the the triangle?	no	2 1
+4 the Is to the red of left triangle square the?	yes	2 1
+5 square of triangle the Is the left red the to?	yes	2 1
+6 the above Is triangle red square the?	yes	1 2
+7 the to square red right Is the the triangle of?	no	2 1
+8 triangle red square to of the the left the Is?	yes	2 1
+9 Is right of red triangle the the to the square?	yes	1 2
+10 Is square triangle red the below the?	no	1 2
+1 the is of the square sphere The to red left red.
+2 square The red square below the is blue.
+3 blue to the red the Is of sphere square left the?	yes	1 2
+4 square blue of to Is the the the red sphere left?	yes	1 2
+5 square blue red the Is sphere the above?	yes	2 1
+6 the to Is square red of right blue the the sphere?	no	1 2
+7 blue square the right to sphere the red the of Is?	yes	2 1
+8 the Is the sphere red of the to square blue left?	no	2 1
+9 sphere red to square blue the the left of Is the?	yes	1 2
+10 Is sphere blue the to the red the square left of?	no	2 1
+1 yellow to is square square the right The blue of the.
+2 red of left blue square square the The the to is.
+3 red yellow the to the the of square square Is left?	yes	1 2
+4 Is above the red yellow the square square?	no	2 1
+5 the the Is square above square yellow red?	no	1 2
+6 square left Is red the yellow square the to of the?	yes	1 2
+7 red square to square the the yellow Is of the right?	yes	2 1
+8 red square Is the the right of square yellow to the?	yes	2 1
+9 red square the the of yellow to Is left the square?	yes	1 2
+10 square square the red Is below yellow the?	no	1 2
+1 is above square the rectangle The blue pink.
+2 is the yellow The square rectangle above pink.
+3 left Is the of square yellow blue the to square the?	no	2 1
+4 blue the square the below yellow Is square?	yes	1 2
+5 of the yellow right blue the square Is the square to?	no	1 2
+6 of blue square yellow Is to the square the the right?	no	2 1
+7 Is yellow the the square above blue square?	no	1 2
+8 left square Is yellow of the the blue the to square?	no	1 2
+9 below Is the the square blue yellow square?	no	2 1
+10 the square yellow above square blue Is the?	no	1 2
+1 square is yellow pink the The rectangle below.
+2 sphere pink the is red the left of The rectangle to.
+3 of the yellow right square red to sphere the the Is?	yes	2 1
+4 sphere red the above square Is the yellow?	yes	1 2
+5 the red yellow the sphere Is below square?	no	1 2
+6 the yellow the right Is square sphere to red of the?	yes	2 1
+7 sphere the above Is square the red yellow?	yes	1 2
+8 sphere below yellow red Is the the square?	no	1 2
+9 square the red yellow above the Is sphere?	no	2 1
+10 Is square red sphere the yellow the above?	no	2 1
+1 red triangle the is above sphere The.
+2 yellow is triangle to the of The square the left.
+3 of right Is sphere red the the to yellow the square?	yes	2 1
+4 sphere below Is yellow the red square the?	yes	1 2
+5 below the square the red sphere Is yellow?	no	2 1
+6 red the Is yellow below sphere square the?	yes	1 2
+7 sphere above yellow Is the the square red?	yes	2 1
+8 the Is the sphere below yellow red square?	yes	1 2
+9 Is sphere of left square to red the the the yellow?	yes	1 2
+10 the yellow square the sphere Is below red?	no	2 1
+1 the rectangle the is right triangle pink The to of.
+2 above the is The triangle square blue.
+3 to right pink the blue rectangle Is of the square the?	no	2 1
+4 square the pink the blue Is rectangle above?	no	2 1
+5 pink the blue square to of rectangle the Is right the?	no	2 1
+6 to the pink Is right the square the rectangle of blue?	no	2 1
+7 the rectangle the above square pink Is blue?	yes	1 2
+8 to square the the the pink of blue rectangle right Is?	yes	1 2
+9 rectangle pink the the blue Is above square?	no	2 1
+10 the pink above square blue rectangle Is the?	yes	1 2
+1 is the above blue sphere The red square.
+2 is to the red red The the of sphere right square.
+3 below the Is red square blue the square?	yes	2 1
+4 red below Is square the blue square the?	yes	2 1
+5 Is the the the red square to square right blue of?	no	2 1
+6 Is the blue the square square above red?	no	2 1
+7 the square the blue square below Is red?	no	1 2
+8 the the square square of left blue red Is the to?	no	1 2
+9 square below the the red square Is blue?	yes	2 1
+10 the Is to blue the square left red the of square?	no	1 2
+1 is left red triangle of square the the The to.
+2 sphere is triangle below red the The.
+3 the below square sphere Is red red the?	yes	2 1
+4 sphere red Is the below square red the?	yes	2 1
+5 red Is of red the right square to sphere the the?	no	2 1
+6 the red the left sphere red to Is of square the?	no	1 2
+7 Is sphere right red to of the red the the square?	yes	1 2
+8 the sphere square below the red Is red?	yes	2 1
+9 red the Is sphere of the left square red the to?	no	1 2
+10 the the sphere above red Is red square?	no	2 1
+1 The red is square below rectangle pink the.
+2 red is below sphere rectangle the pink The.
+3 Is red square the above the red sphere?	yes	1 2
+4 the the Is square red below red sphere?	yes	2 1
+5 Is the red sphere red above the square?	yes	1 2
+6 square red the red sphere Is the below?	no	1 2
+7 above red sphere red square Is the the?	yes	1 2
+8 the red below square Is sphere red the?	no	1 2
+9 Is sphere the left to the square the red red of?	no	1 2
+10 square red the the above red Is sphere?	yes	1 2
+1 pink to rectangle the of right is The the triangle.
+2 rectangle square the above red The is pink.
+3 Is above square triangle red the the?	no	2 1
+4 Is the above square red the triangle?	no	2 1
+5 left the Is to of the square triangle red the?	yes	2 1
+6 below Is square the red the triangle?	no	1 2
+7 square Is of right to the triangle red the the?	no	2 1
+8 red above triangle square the the Is?	yes	1 2
+9 to red the triangle left of Is the the square?	yes	2 1
+10 red the of Is the left to triangle square the?	yes	2 1
+1 the the left blue is of to square pink The rectangle.
+2 rectangle square to the is yellow the The right of pink.
+3 the square Is the square below blue yellow?	no	2 1
+4 the of to the yellow Is square left the blue square?	no	1 2
+5 the yellow square square the Is right blue to the of?	yes	1 2
+6 the blue square to Is of left the the yellow square?	yes	2 1
+7 left blue the yellow square Is of square to the the?	yes	2 1
+8 yellow Is square the blue square right to the of the?	no	2 1
+9 blue the yellow the to the Is square left square of?	yes	2 1
+10 the yellow blue of the square to Is square left the?	yes	2 1
+1 to is blue yellow the of right square square The the.
+2 above rectangle blue is pink square The the.
+3 Is above rectangle the pink the square yellow?	yes	2 1
+4 the pink the yellow square above Is rectangle?	no	1 2
+5 the yellow to Is rectangle square left pink the of the?	no	2 1
+6 of to rectangle square the yellow left pink the the Is?	yes	1 2
+7 the square pink below the yellow Is rectangle?	no	2 1
+8 the yellow the of to the right rectangle Is square pink?	no	1 2
+9 Is pink rectangle the the square below yellow?	no	2 1
+10 the pink square left the to the Is of yellow rectangle?	no	2 1
+1 triangle red is to right of the the The sphere.
+2 of is sphere to rectangle The pink the the right red.
+3 the triangle rectangle Is left to the of pink the?	yes	1 2
+4 pink the right Is triangle of the to rectangle the?	yes	2 1
+5 rectangle triangle below the the pink Is?	no	1 2
+6 the pink Is left the triangle the to of rectangle?	no	2 1
+7 to right triangle of the rectangle Is pink the the?	yes	2 1
+8 rectangle the the above pink Is triangle?	no	2 1
+9 triangle the to of the Is left rectangle pink the?	no	2 1
+10 the pink rectangle triangle the to right Is the of?	no	1 2
+1 red above triangle the is sphere The.
+2 the square triangle red left the is The of to.
+3 to right of Is sphere square the the red red the?	yes	2 1
+4 above red the Is red the square sphere?	yes	2 1
+5 sphere the red the red Is above square?	yes	2 1
+6 sphere to square red the the the Is right red of?	yes	2 1
+7 above red sphere the red the square Is?	yes	2 1
+8 red red the sphere the the to of left Is square?	no	2 1
+9 the left red the sphere of the square to Is red?	no	2 1
+10 the right red sphere square of to Is the red the?	no	1 2
+1 The square the below yellow is triangle.
+2 is yellow square pink The below rectangle the.
+3 below Is triangle rectangle the pink the?	yes	1 2
+4 triangle the rectangle above pink Is the?	yes	2 1
+5 the rectangle Is triangle pink above the?	yes	2 1
+6 pink the rectangle above Is the triangle?	no	1 2
+7 the pink triangle Is the of rectangle to the left?	no	2 1
+8 rectangle Is pink the triangle above the?	no	1 2
+9 left to rectangle Is the pink the of triangle the?	no	1 2
+10 the triangle the the of right to pink Is rectangle?	no	2 1
+1 yellow of is the left square square to the red The.
+2 to the blue the is yellow of left The square square.
+3 below the red square the square Is blue?	no	1 2
+4 the square the the red Is of to blue left square?	yes	1 2
+5 square Is the red square blue of the the to right?	yes	2 1
+6 Is square the blue the red of right to square the?	yes	2 1
+7 square below Is red blue square the the?	no	1 2
+8 square to blue the of the left red Is square the?	no	2 1
+9 the the square to square of the Is left red blue?	yes	1 2
+10 the square blue Is red the left of to square the?	no	2 1
+1 The the triangle to red is square of right the.
+2 square The the blue triangle above is.
+3 above the the blue square red Is square?	no	1 2
+4 Is blue the to right square of the red square the?	no	2 1
+5 blue red the the above square square Is?	no	1 2
+6 below blue square square the red the Is?	yes	1 2
+7 square blue below square Is the the red?	yes	1 2
+8 blue to red the the Is square of square right the?	no	2 1
+9 blue below the red square Is square the?	yes	1 2
+10 Is above blue the square red square the?	no	1 2
+1 above The square yellow is triangle the.
+2 The the is below triangle red sphere.
+3 the the square Is sphere yellow to of red right the?	no	1 2
+4 right the to red square sphere of Is the the yellow?	no	2 1
+5 sphere the above square red Is the yellow?	no	1 2
+6 of yellow sphere left the red the square the Is to?	no	2 1
+7 Is red yellow the square above sphere the?	yes	2 1
+8 yellow the red to left square sphere the Is of the?	no	1 2
+9 the below yellow sphere square red Is the?	yes	1 2
+10 red square the Is yellow sphere above the?	yes	2 1
+1 the The triangle yellow to square of the right is.
+2 square The above square red yellow the is.
+3 of to the triangle red left the the square Is?	yes	2 1
+4 square triangle the the Is below red?	no	1 2
+5 triangle the of Is the square the left red to?	yes	2 1
+6 to the red square right triangle the Is the of?	no	2 1
+7 the Is triangle above red square the?	no	2 1
+8 right the the triangle red square the Is to of?	yes	1 2
+9 Is the the left triangle square the to red of?	no	1 2
+10 the Is of the the red to square triangle right?	no	2 1
+1 pink yellow above is The square rectangle the.
+2 square The below square is yellow the red.
+3 Is red the pink square the rectangle above?	yes	2 1
+4 rectangle pink the square Is above the red?	no	1 2
+5 above Is square the pink rectangle the red?	no	1 2
+6 above the square rectangle pink Is the red?	yes	2 1
+7 square left the pink red the Is to the rectangle of?	no	1 2
+8 Is pink square the below the red rectangle?	no	2 1
+9 to Is red square the the of right the rectangle pink?	no	2 1
+10 red Is rectangle the the above square pink?	no	1 2
+1 rectangle sphere pink is below the The red.
+2 yellow is rectangle of The to pink the square left the.
+3 the sphere to yellow of the Is red right square the?	no	1 2
+4 red to the right sphere Is the square yellow of the?	yes	2 1
+5 the sphere square red above yellow the Is?	no	2 1
+6 red yellow Is square the above sphere the?	no	2 1
+7 above square sphere red the the yellow Is?	no	2 1
+8 red yellow the square sphere below the Is?	yes	2 1
+9 the red square above yellow Is the sphere?	yes	1 2
+10 square red the the above yellow sphere Is?	no	2 1
+1 the square is of left The to pink the red rectangle.
+2 the red is The square above sphere red.
+3 red of to rectangle the left Is pink sphere the the?	yes	1 2
+4 the pink to of rectangle red Is the sphere the left?	yes	1 2
+5 the left pink to the of sphere rectangle red the Is?	no	2 1
+6 red the the rectangle sphere Is the pink of left to?	yes	1 2
+7 the to rectangle the of pink right the sphere Is red?	no	1 2
+8 the above sphere pink Is rectangle red the?	no	1 2
+9 pink rectangle to of right the red the Is the sphere?	no	1 2
+10 the Is pink red sphere rectangle the above?	yes	2 1
+1 to rectangle of pink The left the is sphere red the.
+2 sphere is the The square red red below.
+3 square rectangle above red the Is the pink?	yes	2 1
+4 below pink square the the Is red rectangle?	yes	1 2
+5 pink square rectangle Is the above the red?	yes	2 1
+6 left of rectangle the square the pink red to Is the?	no	1 2
+7 Is pink rectangle square the red the above?	yes	2 1
+8 square Is above rectangle red the pink the?	yes	2 1
+9 the Is right square the rectangle red the to pink of?	yes	1 2
+10 rectangle the red the the of square Is left to pink?	no	1 2
+1 below The blue is square red the sphere.
+2 left to the the pink rectangle square blue The is of.
+3 the rectangle to right of pink the the red Is sphere?	no	1 2
+4 above rectangle Is the red the sphere pink?	yes	1 2
+5 pink of the to the red Is rectangle left sphere the?	no	2 1
+6 the the pink of the right red sphere Is rectangle to?	yes	2 1
+7 to Is left of sphere the the the pink rectangle red?	yes	1 2
+8 pink above sphere the Is rectangle the red?	no	2 1
+9 the pink red rectangle sphere to of the right Is the?	no	1 2
+10 left sphere the rectangle pink of Is the red the to?	yes	1 2
+1 is of left yellow square the the The square to red.
+2 to red of The the sphere the yellow is square left.
+3 above sphere Is the red the square red?	no	2 1
+4 above the Is sphere square red red the?	no	2 1
+5 the the right red square the sphere of red Is to?	yes	2 1
+6 to the the of Is sphere square left red the red?	yes	1 2
+7 the sphere right Is red square of the the to red?	yes	2 1
+8 red square sphere the red the below Is?	no	2 1
+9 the Is the square to left of the sphere red red?	yes	1 2
+10 sphere square red the Is red below the?	no	1 2
+1 square red the The blue to is sphere of the left.
+2 the The square sphere is above red red.
+3 the blue square the the square to Is red left of?	yes	1 2
+4 blue red to right square of square the the Is the?	no	1 2
+5 of to right Is blue the the square the red square?	no	1 2
+6 of left the the to the square Is blue red square?	no	2 1
+7 to blue the the left of red the square Is square?	yes	1 2
+8 red Is the square of square to left blue the the?	no	2 1
+9 square below Is blue the square the red?	yes	2 1
+10 below blue the square square red the Is?	no	1 2
+1 The red is the red square sphere above.
+2 the yellow The red is below sphere square.
+3 square Is of the right red to the square the yellow?	no	1 2
+4 square square below the red Is yellow the?	yes	1 2
+5 square below Is square red the the yellow?	no	2 1
+6 square to square of Is the the yellow the left red?	no	2 1
+7 the above square yellow square the red Is?	no	1 2
+8 yellow of the the square square Is the red left to?	no	1 2
+9 above Is square red yellow square the the?	yes	2 1
+10 red square below Is square the yellow the?	yes	1 2
+1 square of The right blue is to the the triangle.
+2 the The red to the of right square square blue is.
+3 triangle the square red below Is the?	no	2 1
+4 the left red Is the of the square to triangle?	yes	2 1
+5 the the Is red to of left the triangle square?	no	1 2
+6 to triangle the Is square left of the red the?	yes	2 1
+7 triangle right the the square to the of Is red?	yes	1 2
+8 of the red the the square triangle left Is to?	no	1 2
+9 the triangle red square of to the Is right the?	yes	1 2
+10 the triangle the red Is square above?	no	1 2
+1 triangle the below is square yellow The.
+2 red The yellow square the above square is.
+3 red Is square the above the triangle?	no	2 1
+4 triangle the red the Is square above?	yes	1 2
+5 square the below triangle Is red the?	yes	2 1
+6 right red square triangle the the the of Is to?	no	2 1
+7 below square the red the Is triangle?	no	1 2
+8 Is the red to triangle the of the square right?	no	1 2
+9 square below the Is red triangle the?	yes	2 1
+10 triangle the square the right Is the to red of?	no	1 2
+1 triangle sphere red the above is The.
+2 triangle square below The is red the.
+3 red red square sphere the Is to of right the the?	no	2 1
+4 red the the Is to sphere right square the red of?	no	2 1
+5 red Is the the square of the sphere to left red?	no	2 1
+6 square Is red red of the the sphere left to the?	no	2 1
+7 sphere above the the red square red Is?	yes	2 1
+8 red square of sphere the red Is the left the to?	no	1 2
+9 the red below square the Is red sphere?	yes	1 2
+10 the the red Is red sphere above square?	yes	2 1
+1 left the to of square yellow the red is square The.
+2 triangle The red square the is above.
+3 the Is yellow square left the of to triangle the?	yes	2 1
+4 Is triangle the below yellow the square?	no	2 1
+5 the Is triangle of square the right the yellow to?	no	2 1
+6 to yellow Is the of the left square triangle the?	no	1 2
+7 triangle square below Is the the yellow?	yes	1 2
+8 to of the square yellow Is the left triangle the?	no	1 2
+9 triangle the below the square Is yellow?	yes	1 2
+10 the yellow the square below triangle Is?	no	2 1
+1 The square is sphere the yellow red above.
+2 blue The below the square yellow square is.
+3 above blue the red the square sphere Is?	no	2 1
+4 sphere Is blue the the square red below?	no	1 2
+5 Is sphere the above square the red blue?	no	2 1
+6 above the square red the blue sphere Is?	yes	1 2
+7 square below blue Is the sphere red the?	yes	2 1
+8 blue above square Is the the red sphere?	yes	1 2
+9 Is the below the square red sphere blue?	no	1 2
+10 the square Is the red blue above sphere?	yes	1 2
+1 The is red of square left the square to the yellow.
+2 to square sphere is red the The the red of right.
+3 square the sphere the Is yellow left of red the to?	yes	2 1
+4 right red to the the square yellow of the sphere Is?	no	2 1
+5 sphere yellow to left of Is red the the square the?	yes	2 1
+6 the Is the right yellow of the to sphere red square?	yes	1 2
+7 red yellow the the Is square sphere below?	no	2 1
+8 the Is red above sphere the square yellow?	no	2 1
+9 the sphere red above Is the square yellow?	no	2 1
+10 the the of red to Is left yellow square sphere the?	yes	2 1
+1 the yellow left red square of The to is the square.
+2 is the square The above triangle red.
+3 yellow Is square the above triangle the?	yes	1 2
+4 the triangle the right yellow Is of to square the?	no	2 1
+5 yellow the right triangle square the the Is of to?	yes	1 2
+6 Is square the below the yellow triangle?	yes	2 1
+7 square the Is triangle above yellow the?	yes	1 2
+8 square of triangle the yellow the Is the left to?	yes	2 1
+9 to square the yellow triangle Is the of right the?	no	2 1
+10 Is the right yellow the square to of the triangle?	no	2 1
+1 square pink The rectangle right red of the is the to.
+2 is The red above the triangle square.
+3 pink triangle the rectangle the above Is?	no	1 2
+4 the triangle the below pink Is rectangle?	yes	1 2
+5 of to triangle Is the pink the the right rectangle?	yes	1 2
+6 pink rectangle the above triangle the Is?	no	1 2
+7 rectangle the Is the of pink the to right triangle?	no	2 1
+8 rectangle triangle the of to left the pink the Is?	no	1 2
+9 the to the Is of right triangle pink the rectangle?	no	2 1
+10 pink the rectangle the the Is triangle of right to?	yes	1 2
+1 sphere left of the red is to the square red The.
+2 is the triangle below square The red.
+3 triangle the red right Is sphere the to the of?	no	2 1
+4 red of the to right triangle Is the the sphere?	no	2 1
+5 Is above triangle the the sphere red?	no	2 1
+6 to triangle red the the of the right Is sphere?	yes	1 2
+7 red the the the left to triangle sphere Is of?	no	1 2
+8 to red triangle the sphere of the the Is right?	yes	1 2
+9 Is the of the sphere to red the triangle right?	no	2 1
+10 red triangle the Is below sphere the?	no	1 2
+1 square The to red square the yellow the right is of.
+2 The to square the left is yellow of the triangle.
+3 Is triangle below the square red the?	no	2 1
+4 the square of triangle to the right Is red the?	yes	1 2
+5 red Is the triangle to right the the of square?	yes	1 2
+6 of triangle red Is the left square the the to?	yes	2 1
+7 square the triangle to right the of the Is red?	no	2 1
+8 Is right the the of square to red the triangle?	yes	1 2
+9 Is red square the to the the of right triangle?	yes	1 2
+10 red Is the square below the triangle?	no	2 1
+1 The above triangle the is square yellow.
+2 the left sphere red is The of triangle the to.
+3 sphere Is the below square red the yellow?	yes	2 1
+4 right square sphere the to the yellow red the Is of?	yes	2 1
+5 the sphere the yellow of right the Is to square red?	yes	2 1
+6 square Is the red sphere below the yellow?	yes	2 1
+7 the the to sphere left red square yellow of the Is?	yes	1 2
+8 yellow square below the red the Is sphere?	yes	2 1
+9 yellow the the Is sphere red square above?	no	2 1
+10 below square sphere red yellow the Is the?	yes	2 1
+1 above blue rectangle square is pink The the.
+2 rectangle the yellow The is below square pink.
+3 blue Is square below yellow square the the?	yes	2 1
+4 of left Is blue yellow the the square to the square?	no	2 1
+5 square of to the the yellow the Is left blue square?	no	2 1
+6 the blue square square Is left the the of to yellow?	no	1 2
+7 above yellow the square blue the square Is?	no	2 1
+8 the Is square yellow blue the square below?	yes	2 1
+9 square yellow to the blue right of the Is square the?	no	1 2
+10 the to square the yellow Is blue the of square right?	no	1 2
+1 right square to of is square yellow blue the The the.
+2 the square below yellow is sphere The red.
+3 Is red square below the the sphere blue?	no	2 1
+4 blue sphere red the Is square the below?	no	2 1
+5 Is the square the the blue to red left of sphere?	no	2 1
+6 of Is the sphere to red right the the blue square?	yes	2 1
+7 square Is blue red sphere above the the?	yes	2 1
+8 Is blue sphere the the above square red?	yes	2 1
+9 red the below sphere the Is blue square?	no	2 1
+10 the square above the red Is sphere blue?	no	1 2
+1 of The the red the to is pink rectangle sphere right.
+2 the red pink is right rectangle The the square of to.
+3 the below red square sphere Is the red?	no	1 2
+4 red square the red right to the Is the of sphere?	no	1 2
+5 the square to red the left the red of Is sphere?	yes	1 2
+6 red the the the Is of sphere right to square red?	yes	2 1
+7 Is red left the red to sphere the square of the?	yes	1 2
+8 square red the Is red the of sphere to left the?	yes	1 2
+9 right sphere the red the to red square Is the of?	no	1 2
+10 square red above red the sphere Is the?	no	2 1
+1 to is triangle yellow of square the left The the.
+2 of right is the to the pink The rectangle triangle.
+3 Is square pink above the yellow the rectangle?	no	1 2
+4 Is left yellow of square the pink the rectangle the to?	yes	2 1
+5 the Is yellow square pink above the rectangle?	no	1 2
+6 to the rectangle the square yellow right the of Is pink?	yes	1 2
+7 rectangle the of to yellow left the the square Is pink?	yes	2 1
+8 to yellow right the the pink the of square rectangle Is?	yes	1 2
+9 square yellow right rectangle to the the the pink Is of?	no	2 1
+10 square the left pink of rectangle to Is the yellow the?	no	1 2
+1 The the is below sphere red pink rectangle.
+2 rectangle The the is of left pink blue to square the.
+3 the square red blue the Is sphere below?	yes	2 1
+4 left sphere the to of blue Is square the the red?	no	2 1
+5 above the red square Is the sphere blue?	yes	1 2
+6 red Is left to the of the sphere blue the square?	yes	1 2
+7 Is the right the red of the to blue square sphere?	no	1 2
+8 left to of the square Is the blue sphere red the?	no	2 1
+9 the blue below Is sphere red square the?	no	1 2
+10 red square the sphere the of to Is blue left the?	yes	1 2
+1 is yellow square to left blue The the the of square.
+2 The above triangle is square the yellow.
+3 the to right the the of triangle blue Is square?	no	1 2
+4 the square triangle the the blue to of Is right?	no	1 2
+5 blue above square triangle the Is the?	no	2 1
+6 triangle Is the the below square blue?	no	1 2
+7 left square to the blue triangle the of the Is?	yes	1 2
+8 the of square to triangle blue left the the Is?	yes	1 2
+9 blue above triangle the the Is square?	no	2 1
+10 square the Is the blue the to triangle of right?	yes	2 1
+1 the of yellow The pink to the square left rectangle is.
+2 above yellow The square blue square the is.
+3 pink the to the right Is of rectangle the square blue?	no	1 2
+4 rectangle square to Is of the pink the left blue the?	no	2 1
+5 the above square blue pink rectangle the Is?	yes	1 2
+6 Is the of the to the square rectangle blue left pink?	yes	1 2
+7 the square Is rectangle pink below the blue?	yes	2 1
+8 left Is blue square the to rectangle of pink the the?	yes	1 2
+9 Is right the the to square the rectangle of pink blue?	no	1 2
+10 the the rectangle to left the of pink square Is blue?	no	2 1
